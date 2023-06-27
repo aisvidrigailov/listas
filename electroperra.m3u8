@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
+#XTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
 #EXTINF:-1 group-title="4K" tvg-logo="https://i.postimg.cc/MG3Vc2xT/elevensports14k.png" ,Eleven Sports 1 (Polonia)
 http://192.168.66.2:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
