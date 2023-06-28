@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Add new site</title>
+</head>
+<body>
+
+<style>
+.content { line-height: 24px; font-family: monospace; font-size: 14px; color: #636363; text-transform: uppercase; top: 38%; position: relative; text-align: center; }
+.content h1, .content h2 { font-weight: normal; letter-spacing: 1px; }
+.content h2 { font-size: 15px; margin-bottom: 50px }
+.content #details {
+    text-align: left; display: inline-block; width: 350px; background-color: white; padding: 17px 27px; border-radius: 0px;
+    box-shadow: 0px 2px 7px -1px #d8d8d8; text-transform: none; margin: 15px; transform: scale(0) rotateX(90deg); transition: all 0.6s cubic-bezier(0.785, 0.135, 0.15, 0.86);
+}
+.content #details #added { font-size: 12px; text-align: right; color: #a9a9a9; }
+
+.button {
+    padding: 8px 20px; background-color: #FFF85F; border-bottom: 2px solid #CDBD1E; border-radius: 2px;
+    text-decoration: none; transition: all 0.5s; background-position: left center; color: black;
+    border-left: 0px; border-top: 0px; border-right: 0px; font-family: monospace; font-size: 14px;
+}
+.button:hover { background-color: #FFF400; border-bottom: 2px solid #4D4D4C; transition: none; }
+.button:active { position: relative; top: 1px; }
+.button:focus { outline: none; }
+
+</style>
+
+<div class="content">
+ <h1>Add new site</h1>
+ <h2>Please confirm before adding a new site to the client</h2>
+ <form action="/add/" method="POST">
+  <input type="hidden" name="add_nonce" value="bc86d364d81c7a450ee84c5238c8bb0c9425e07c00f32944dd40986115bde17c">
+  <input type="hidden" name="address" value="1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx">
+  <input type="hidden" name="url" value="/1DfXfvZdWCkNKYmQkD6ezBL2Q9V32vZnhx/lista2.m3u">
+  <input type="submit" class="button button-submit" id="button" value="Load site"/>
+ </form>
+</div>
+
+</body>
+</html>
+#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
+http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
+#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 2 1080
+http://192.168.66.2:6878/ace/getstream?id=f1c84ec8ea0c0bfff8a24272b66c64354a522110
+#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN USA 1080
+http://192.168.66.2:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN 2 USA 1080
+http://192.168.66.2:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-1-60.png" ,FOX SPORTS USA 1080
+http://192.168.66.2:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
+#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-2-61.png" ,FOX SPORTS 2 USA 1080
+http://192.168.66.2:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
