@@ -1,9 +1,887 @@
-302 Found
-The resource was found at https://dl.dropboxusercontent.com/s/4uy85n55s7w7uqh/JMOVISTAR.m3u;
-you should be redirected automatically.
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll2019.png" group-title="La Liga",  Movistar Liga - 1080 (Multiaudio)
+http://192.168.66.2:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll2019.png" group-title="La Liga",  Movistar Liga - 720 (Multiaudio)
+http://192.168.66.2:6878/ace/getstream?id=5c668adaf86ed6af2488e28d9f3a4e3b0e909664
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll2019.png" group-title="La Liga",  Movistar Liga - 1080 
+http://192.168.66.2:6878/ace/getstream?id=1e0214a06000e6f4847dd30cdc2fb839527be862
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll2019.png" group-title="La Liga",  Movistar Liga - 1080 (Multiaudio)
+http://192.168.66.2:6878/ace/getstream?id=d47addf5e467cbf102ba759600303c21efb1deeb
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Movistar" tvg-id="M+ #0 HD", [ ESP] #0
+http://192.168.66.2:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 1080 (Opcion 1)
+http://192.168.66.2:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 1080 (Opcion 2)
+http://192.168.66.2:6878/ace/getstream?id=f559b9fea692a86e1a1de41cd1aa667e3fa02775
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 720
+http://192.168.66.2:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones - 1080", [ ESP] Liga de Campeones - 1080
+http://192.168.66.2:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones - 720", [ ESP] Liga de campeones - 720
+http://192.168.66.2:6878/ace/getstream?id=444b51b2606cba9efb1b4ff56bf652cbc02a5f47
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 2 - 1080", [ ESP] Liga de Campeones 02 - 1080
+http://192.168.66.2:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 2 - 720", [ ESP] Liga de Campeones 02 - 720
+http://192.168.66.2:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 3 - 1080", [ ESP] Liga de Campeones 03 - 1080
+http://192.168.66.2:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 3 - 720", [ ESP] Liga de Campeones 03 - 720
+http://192.168.66.2:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 4 - 1080", [ ESP] Liga de Campeones 04 - 1080
+http://192.168.66.2:6878/ace/getstream?id=297fab10d7364ca1991fa43fcff469573688ce7a
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 4 - 720", [ ESP] Liga de Campeones 04 - 720
+http://192.168.66.2:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 5 - 720", [ ESP] Liga de Campeones 05 - 720
+http://192.168.66.2:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 6 - 720", [ ESP] Liga de Campeones 06 - 720
+http://192.168.66.2:6878/ace/getstream?id=e9950ec551124c490ecbc2526a83d2c5a4516293
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 7 - 720", [ ESP] Liga de Campeones 07 - 720
+http://192.168.66.2:6878/ace/getstream?id=8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 8 - 720", [ ESP] Liga de Campeones 08 - 720
+http://192.168.66.2:6878/ace/getstream?id=fdd9e3660059051660dbd7857443c2b807f258d0
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 9 - 720", [ ESP] Liga de Campeones 09 - 720
+http://192.168.66.2:6878/ace/getstream?id=69c95dc47b35dde559a6ef025c1b91c89646a17f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc10.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 10 - 720", [ ESP] Liga de Campeones 10 - 720
+http://192.168.66.2:6878/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e676
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc11.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 11 - 720", [ ESP] Liga de Campeones 11 - 720
+http://192.168.66.2:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="Liga de Campeones" tvg-id="Liga de Campeones 12 - 720", [ ESP] Liga de Campeones 12 - 720
+http://192.168.66.2:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080
+http://192.168.66.2:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 720
+http://192.168.66.2:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" group-title="Dazn" tvg-id="DAZN 2", [ ESP] DAZN 2 - 1080
+http://192.168.66.2:6878/ace/getstream?id=3f68c1aa02094e253fd8446c0c307089cecf2a1e
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn02.png" group-title="Dazn" tvg-id="DAZN 2", [ ESP] DAZN 2 - 720
+http://192.168.66.2:6878/ace/getstream?id=704c3c92aafbcf3234c88a4be5fd98fcbd238d85
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn03.png" group-title="Dazn" tvg-id="DAZN 3", [ ESP] DAZN 3 - 1080
+http://192.168.66.2:6878/ace/getstream?id=bbbbc306280b2161e6c3cfa83cc9aef18f046c4a
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="Dazn" tvg-id="DAZN 4", [ ESP] DAZN 4 - 1080
+http://192.168.66.2:6878/ace/getstream?id=149a38e333de920753f1388c43247283bdb05f5b
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 1)
+http://192.168.66.2:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 720 (Opcion 2)
+http://192.168.66.2:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 720
+http://192.168.66.2:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4hd.png"  group-title="Dazn Liga", Dazn Liga - 1080 (Multiaudio)
+http://192.168.66.2:6878/ace/getstream?id=7264961f63dc9dc6ef7acee7371f7a76b6a02061
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4hd.png"  group-title="Dazn Liga", Dazn Liga - 1080 (Multiaudio)
+http://192.168.66.2:6878/ace/getstream?id=0b01aa547ffe11ce2042bfe443abafb3ea17e5ff
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4hd.png"  group-title="Dazn Liga", Dazn Liga - 720 (Multiaudio)
+http://192.168.66.2:6878/ace/getstream?id=05b9cb49947d3b78bbc66671c6e16ba0ae3b60b6
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="M+ Deportes" tvg-id="M+DEPORTESHD", [ ESP] M+ Deportes - 1080 (Opcion 1)
+http://192.168.66.2:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="M+ Deportes" tvg-id="M+DEPORTESHD", [ ESP] M+ Deportes - 1080 (Opcion 2)
+http://192.168.66.2:6878/ace/getstream?id=08c830da1f7c5c8897d81dd4f80dbc9d0587a94c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mde.png" group-title="M+ Deportes" tvg-id="M+ Deportes - 720", [ ESP] M+ Deportes - 720
+http://192.168.66.2:6878/ace/getstream?id=e5fa927d9a017f4523fdb62774a0aec457985bfa
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="M+ Deportes" tvg-id="M+ Deportes 2 - 1080", [ ESP] M+ Deportes 2 - 1080 (opcion 1)
+http://192.168.66.2:6878/ace/getstream?id=c47f756750190e4b2a9eefe8afdac48a2203b8d6
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="M+ Deportes" tvg-id="M+ Deportes 2 - 1080", [ ESP] M+ Deportes 2 - 1080 (Opcion 2)
+http://192.168.66.2:6878/ace/getstream?id=f4cbec08c5a2f3bdbb7a0b8693a3936cd93ae2b5
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" group-title="M+ Deportes" tvg-id="M+ Deportes 3 - 1080", [ ESP] M+ Deportes 3 - 1080
+http://192.168.66.2:6878/ace/getstream?id=ecf2096f9f612a70638d644fb621472a3ddaeb20
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem4.png" group-title="M+ Deportes" tvg-id="M+ Deportes 4 - 1080", [ ESP] M+ Deportes 4 - 1080
+http://192.168.66.2:6878/ace/getstream?id=08db089084ddbaceba7c239817407bf99708b9ad
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="M+ Deportes" tvg-id="M+ Deportes 5 - 1080", [ ESP] M+ Deportes 5 - 1080
+http://192.168.66.2:6878/ace/getstream?id=ada5b10ab38ea2ad9f4fc8ccacad89d70af48c3c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="M+ Deportes" tvg-id="M+ Deportes 6 - 720", [ ESP] M+ Deportes 6 - 720
+http://192.168.66.2:6878/ace/getstream?id=f41bd6f3eed3fa2f561e39a9865df8ab354bf486
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="M+ Deportes" tvg-id="M+ Deportes 7 - 1080", [ ESP] M+ Deportes 7 - 1080
+http://192.168.66.2:6878/ace/getstream?id=5da3c25c14d111cb9c33cf6e0b45b7cab88fe741
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem8.png" group-title="M+ Deportes" tvg-id="M+ Deportes 8 - 720", [ ESP] M+ Deportes 8 - 720
+http://192.168.66.2:6878/ace/getstream?id=b779e6056975e3682a804d47cbd5cc806217f64d
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="Liga Smartbank - 1080", [ ESP] Liga Smartbank - 1080 (Opcion 1)
+http://192.168.66.2:6878/ace/getstream?id=d4fa689e575f7626c8b136c9ad8685b945d3cccf
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="Liga Smartbank - 1080", [ ESP] Liga Smartbank - 1080 (Opcion 2)
+http://192.168.66.2:6878/ace/getstream?id=7791ba828c0226d8f54cef1611889d29fb333247
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="Liga Smartbank - 720", [ ESP] Liga Smartbank - 720 (Opcion 1)
+http://192.168.66.2:6878/ace/getstream?id=24b85e8cdd5031e6752a8da2d1c8bbee19b0b3b3
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasm.png" group-title="La Liga" tvg-id="Liga Smartbank - 720", [ ESP] Liga Smartbank - 720 (Opcion 2)
+http://192.168.66.2:6878/ace/getstream?id=ae84b2cc45ebf1148cc36ee5f801f26a04a2ac2c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="Liga Smartbank M2 - 1080", [ ESP] Liga Smartbank M2 - 1080 (Opcion 1)
+http://192.168.66.2:6878/ace/getstream?id=d475208e72b5a343080afa0724c7b7c42264b9a0
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="Liga Smartbank M2 - 1080", [ ESP] Liga Smartbank M2 - 1080 (Opcion 2)
+http://192.168.66.2:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm2.png" group-title="La Liga" tvg-id="Liga Smartbank M2 - 720", [ ESP] Liga Smartbank M2 - 720
+http://192.168.66.2:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/laligasmm3.png" group-title="La Liga" tvg-id="Liga Smartbank M3 - 720", [ ESP] Liga Smartbank M3 - 720
+http://192.168.66.2:6878/ace/getstream?id=1000c018cf4afb7357f10e438e966d23340e4295
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/" group-title="CINE", Black Adam
+http://192.168.66.2:6878/ace/getstream?id=?xt=urn:btih:1c4fca73555626cdc6e12867f2dbc336f00f5591
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Un Novio
+magnet:?xt=urn:btih:20925B2E11520C67D8FC436264C0111F04326810
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", La Memoria
+magnet:?xt=urn:btih:EFFCC57E623F003F6ACA07A8DB195336156B3E18
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE 4K", Jurasic World
+magnet:?xt=urn:btih:4B0C470D96E1C12309E77291258D5B2B4D688B23
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE 4K", Top Gun Maverick
+magnet:?xt=urn:btih:43C42E97D0605E57B484F21AA93B67B0F42EDD08
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE 4K", 8 Millas
+magnet:?xt=urn:btih:8BEE8916FF262482A9740D4E7F302673B61C2D97
+
+#EXTINF:-1  tvg-logo="https://www.nundoplus.tv/wiki/_media/logos/"  group-title="CINE", Interceptor
+magnet:?xt=urn:btih:B8D7C420F56EBF68867D7C89720A777DCD7FC303
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Emili La Estafadora
+magnet:?xt=urn:btih:CD98E5FCA14EC9B0D37BD516DA21AD7D10C231C7
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Codigo Banshee
+magnet:?xt=urn:btih:4628BAAF58179A171557AA97275808E666C8604D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Espejo Espejo
+magnet:?xt=urn:btih:DC7CB03B936A31F55DBDEF39DF3C922CC475B66B
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Destino Final
+magnet:?xt=urn:btih:30b975e1e1e2be3d737e819ced03a5a304f1540b&dn=Destino+Final+%5BDVDRip%5D%5BSpanish%5D%5B2000%5D%5Bwww.newpct.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Destino Final2
+magnet:?xt=urn:btih:965457866A6FAD88F8E16A63A0C743C0F8E056F5
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Destino Final3
+magnet:?xt=urn:btih:8C30131DCB35C4A64E80C37B845F3315B9361F43
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Destino Final4
+magnet:?xt=urn:btih:BA7EB84847EBD72190418A6E90D2EE54015F45C5
+
+#EXTINF:-1  tvg-logo="https:/www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Destino Final5
+magnet:?xt=urn:btih:6C8CF85E6B658F974EA7C563A4889C357E459D7D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Hasta El Cielo
+magnet:?xt=urn:btih:1AF8A0D9666B788A7D8AFD923A190A65872BD192
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE INFANTIL", El Parque Magico
+magnet:?xt=urn:btih:8eb21728ecd64ef7e49ba3109853859b39ef7e85&dn=Parque+Magico+%5B1080p%5D%5BCastellano%5D%5BwWw.EliteTorrent.IO%5D&xl=4024389689&tr=udp://tracker.openbittorrent.com:80/announce&tr=udp://tracker.opentrackr.org:1337/announce&dn=el-parque-magico&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Braverheart
+magnet:?xt=urn:btih:E7648C94C4241EC2D27E1CD936ABD80916C85D95
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Las Nadadoras
+magnet:?xt=urn:btih:11EEDA4CDA4D0D37F951A605C0D6D1A5879A05FA&dn=las-nadadoras&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Un Escandalo De Estado
+magnet:?xt=urn:btih:A8947428E945AA9C7940151212380D7653247FF5&dn=un-escandalo-de-estado&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Plan De Estudios
+magnet:?xt=urn:btih:B66F52028576B32981B95926AD8C84656DD185F9&dn=plan-de-estudios&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Bebe Jefazo: Negocios De Familia
+magnet:?xt=urn:btih:A69C7F9C60575B9A7E87E2F0E528D82FEB51DC7A&dn=el-bebe-jefazo-negocios-de-familia&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", La Mujer Rey
+magnet:?xt=urn:btih:3BE847A975B91B4067034A6F3AD8ADE5812F4D41&dn=la-mujer-rey&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/" group-title="CINE", El Buen Patron
+magnet:?xt=urn:btih:CC5B98720934B146FBFAD19F8213286D11683CEC&dn=el-buen-patron&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_ media/logos/"  group-title="CINE", Resurreccion
+magnet:?xt=urn:btih:8C1940A5C6DEA8DD1F7A77866131AE0DD7707FAE&dn=resurreccion&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Alcarrás
+magnet:?xt=urn:btih:930D671EC43A7188D800DA6762EB69E4D2BFE146&dn=alcarras&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Y Si No, Nos Enfadamos
+magnet:?xt=urn:btih:44B158015A09B3A58E0A0FE176446554AFED9399&dn=y-si-no-nos-enfadamos&tr=http%3A%2F%2Ftracker.trackerfix.com%3A80%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2940%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2770%2Fannounce&tr=udp%3A%2F%2Ftracker.tallpenguin.org%3A15710%2Fannounce&tr=udp%3A%2F%2Ftracker.thinelephant.org%3A12710%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Juego De Tronos 
+magnet:?xt=urn:btih:57C02E03977B36A72A0F01CF9D4AD30E60B2670
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Juego De Tronos 2
+magnet:?xt=urn:btih:2542236F7135CA6CF32D910F010F404E8DE36696
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Juego De Tronos 3
+magnet:?xt=urn:btih:5ED7ED2D4AF801B2A8502E53E14612E6FBC2571C
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Juego De Tronos 4
+magnet:?xt=urn:btih:A57B3C87D860CBB24BBA5D26212E83D5AA890BF0
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Juego De Tronos 5
+magnet:?xt=urn:btih:6B77C90F99671BA65B4EAE6EFC6D4F064DC0D8EC
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Juego De Tronos 6
+magnet:?xt=urn:btih:94B00D0B20F6C463232DA66D1336A6B445EDF237
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/" group-title="CINE", La Novia
+magnet:?xt=urn:btih:09938E71FAFDCF2D1328AE06C4E6798EB4C40424
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Mañana Es Hoy
+magnet:?xt=urn:btih:9DFF981064095D0CC60007A00A59A4E19474934B
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Voy A Pasarmelo Bien
+magnet:?xt=urn:btih:203707A11D4566C6AEA50C972599D53EAE4C6428
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Detective
+magnet:?xt=urn:btih:09589FD1CA55B4F37C8FFCE0CC7911234AC79690
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Fly
+magnet:?xt=urn:btih:D5F92748C477A54AE882D3B796B6A80BD68412B4
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Fuerza Bruta
+magnet:?xt=urn:btih:D5C1791F8E29C1422C91138BB7CCD1E87DE798AB
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Mad Heidi
+magnet:?xt=urn:btih:BC39AA9F30CA7497723C75A5FEF3379BB4901ADD
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Trol
+magnet:?xt=urn:btih:5346607F7966C40C48256B29057B1F2798D259B4
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Ali Baba
+magnet:?xt=urn:btih:5AA13FFAFA3E097889C12786D72057AE96A567CB
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Nop
+magnet:?xt=urn:btih:6CC957393EDA2C516D27A41013FBA53E50D1B5ED
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Reyes Contra Santa
+magnet:?xt=urn:btih:08D64EEBAA59A4BA54A86DDAEF8780119AC1F7ED
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Hacia La Libertad
+magnet:?xt=urn:btih:E4D086A5DF4552F7008CA159433560B3E17E0CB3
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Pinocho
+magnet:?xt=urn:btih:0CBE1FD4CC3070C87834C8CF8DBA52C51111A58D
 
 
-#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Desface En Navidad
+magnet:?xt=urn:btih:6DB91922C8185B5FD5B475F36B0001C9F2545576
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Cuartel Secreto
+magnet:?xt=urn:btih:714B448DF42B1AB6C1D7EFB942800E8B223CE86B
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Yo Creo En Papa Noel
+magnet:?xt=urn:btih:3AAE3AF1447CD36B1C14A7B14E30C0E64937D97F
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Ultimo Tesoro De La Corona
+magnet:?xt=urn:btih:61F0F6B28999075F9B0FC8653D10E8CFFA4AAED5
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Grinch
+magnet:?xt=urn:btih:106218F9FC3B59596DAE395E81E9EAC8DD1974BE
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Noche En El Museo
+magnet:?xt=urn:btih:43A3DD1EAE81934D14FDD002A82A4EFD0D93B1F6
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", La Búsqueda 
+magnet:?xt=urn:btih:B739C283A31512DEA94866A640C052B93ED8440C
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Marmaduke
+magnet:?xt=urn:btih:688E2358DAFFE16548FC1E1E1CA02802B317A6FC
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Juego De Tronos 7
+magnet:?xt=urn:btih:9F4B17D059A02DBCB38058E91A128A44CC1CC8A0
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Juego De Tronos 8
+magnet:?xt=urn:btih:FF25C123D2123162CD3DD8F9A6AAFA09407C1F46
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Chip y Chop
+magnet:?xt=urn:btih:00AF1E3909D6B972DA3AEF4B1257D531487AF254
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Puñales Por La Espalda
+magnet:?xt=urn:btih:9f9b052519e2efff96951982d50e568c713d66f3&dn=Punales+por+la+espalda+El+misterio+de+Glass+Onion+%282022%29.mkv
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Mundo Extraño
+magnet:?xt=urn:btih:25296FD59D3DC493204E146739D5A19DA3B152EA
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Punto De Mira
+magnet:?xt=urn:btih:e82497171a5a13722608afb69ba1449905c24a05&dn=Punto.de.mira.%282022%29.BluRay.Remux.1080p.ESP-DDP5.1.ENG-DTSHD5.1.SUBS.AVC-EML.HDTeam.mkv
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", FCB Una Nueva Era
+magnet:?xt=urn:btih:EC0B7BEAF62F16940ECADBF3518D3E2BC243703C
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Ruta 1
+magnet:?xt=urn:btih:D5A0474CC9D52C5EA6122C3C82A606FDA61A9DD7
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Ruta 2
+magnet:?xt=urn:btih:943C6F31DA2DF49DF1AF3C15F29A59167839DCEF
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Ruta 3
+magnet:?xt=urn:btih:16CB67C37F89C186A9FC77D431C3CAB892DDD913
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Ruta 4
+magnet:?xt=urn:btih:56EC630BC4C5C4905FA7820CBA8BFF650F880435
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Ruta 5
+magnet:?xt=urn:btih:CF695C82E053FDF91734B5FEFD6DAF8C3EB3C032
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Ruta 6
+magnet:?xt=urn:btih:08E2BBB7707B498F760362B7C1722F69F86F6205
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Ruta 7
+magnet:?xt=urn:btih:6FE6A1F62D1AB9882645565EB7EA3BDA300264E4
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Ruta 8
+magnet:?xt=urn:btih:F8A7574405D383F468A0AB6E49499035DBF1C500
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Encerrado Con El Diablo
+magnet:?xt=urn:btih:597439915E47B165E16E1BB862A83BED9129138B
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Severance 
+magnet:?xt=urn:btih:0D559609D3AB1290790F429C2FC508ED1CB2DA8F
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Machos Alfa
+magnet:?xt=urn:btih:7CEE3201DBB1CF6F0605DFECE9D4C7636B4F3B2B
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Avatar El Sentido Del Agua
+magnet:?xt=urn:btih:0107aa0ef8bad9facf4909aaf97d752c065d66e6&dn=Avatar.The.Way.Of.Water.2022.UltraHD.V2.Dual.YG
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Combustion Instantanea
+magnet:?xt=urn:btih:0fec48a68c130bc33f119bf407ce758556b0de3c&dn=Combustion+instantanea+%282022%29.mkv
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Clases Particulares 
+magnet:?xt=urn:btih:056bf17ca15dc05ad789fe3a09abfb15b701434f&dn=Clases+particulares+%282022%29.mkv
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Pelé El Nacimiento De Una Estrella
+magnet:?xt=urn:btih:FEFF68ED3A4E63813644833A73A8A123CA1BBEB2
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Atrapa La Bala5
+magnet:?xt=urn:btih:bf9e1a81ee8bdc0e64b78fa68fda5d588ddde730&dn=Catch+the+Bullet+%282022%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Atropello Salvador
+magnet:?xt=urn:btih:c53377e1ac4323b506e120b27e5c4183d872d8d2&dn=Atropello+salvador+%28Big+Gold+Brick%29+%282022%29.mkv
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Series_2_por_Movistar_Plus%2B_2022_logo.svg/205px-Series_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title= "Movistar" tvg-id="Movistar Serie 2", Movistar Serie 2
+http://806591676233321344.stonehuge.xyz:80/live/Omar01/57643542/321344.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo.svg/640px-Cine_Espa%C3%B1ol_por_Movistar_Plus%2B_2022_logo. svg.png" group-title="Movistar" tvg-id="Movistar Cine Ñ", Movistar Cine Ñ
+http://nfnt.ddns.net:8080/live/Emi/mUnWhRZKyKUe/41779.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo. svg.png" group-title="Movistar" tvg-id="Movistar Clásicos", Movistar Clásicos
+http://806591676233321314.stonehuge.xyz:80/live/Omar01/57643542/321314.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg/2560px-Estrenos_2_por_Movistar_Plus%2B_2022_logo.svg.png" group-title= "Movistar" tvg-id="Movistar Estrenos 2", Movistar Estrenos 2
+http://806591676233321334.stonehuge.xyz:80/live/Omar01/57643542/321335.ts
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Series_por_Movistar_Plus%2B_2022_logo.svg/640px-Series_por_Movistar_Plus%2B_2022_logo.svg.png" group-title= "Movistar" tvg-id="Movistar Serie", Movistar Serie
+http://nfnt.ddns.net:8080/live/Emi/mUnWhRZKyKUe/122.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Drama_por_Movistar_Plus%2B_2022_logo.svg/1200px-Drama_por_Movistar_Plus%2B_2022_logo.svg.png" group-title= "Movistar" tvg-id="Movistar Drama", Movistar Drama
+http://363443248869321331.nicesbot.xyz:80/live/VV35PSGLDB/6210194046/321331.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Movistar_Comedia.svg/1863px-Movistar_Comedia.svg.png" group-title="Movistar" tvg -id="Movistar Comedia", Movistar Comedia
+http://nfnt.ddns.net:8080/live/Emi/mUnWhRZKyKUe/108.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo.svg/1200px-Acci%C3%B3n_por_Movistar_Plus%2B_2022_logo. svg.png" group-title="Movistar" tvg-id="Movistar Acción", Movistar Acción
+http://nfnt.ddns.net:8080/live/Emi/mUnWhRZKyKUe/103.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title= "Movistar" tvg-id="Movistar Estrenos", Movistar Estrenos
+http://nfnt.ddns.net:8080/live/Emi/mUnWhRZKyKUe/114.ts
+
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="NBA TV", NBA TV
+http://192.168.66.2:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Dos Son Multitud
+magnet:?xt=urn:btih:C88A389DD82001F5AA544D11B804B244DACE1223
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Metodo Williams
+magnet:?xt=urn:btih:2789DBFF28F3980F25CD4EE2590F1A59051500C3
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Los Renglones Torcidos De Dios
+magnet:?xt=urn:btih:C864D5346F120D12F978691605CF6B54A59012A8
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Vertigo
+magnet:?xt=urn:btih:9BDB273CCED81F6B736A93285CB8195C6E8DCC9A
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Mi Amigo Enzo
+magnet:?xt=urn:btih:899d138d2245def677a8172501f9425ab32c5daf&dn=El+Arter+De+Vivir+Bajo+La+Lluvia+%282019%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.descargas2020.ORG%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Coda
+magnet:?xt=urn:btih:16ceec181c79a1c31807346a52e3d084263bf559&dn=CODA+%282021%29.mkv
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Buena Suerte Leo Grande
+magnet:?xt=urn:btih:1e871d24d000b3e1c105f747f1ce5a91dcb4f832&dn=Buena+suerte+Leo+Grande+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Black Beauty
+magnet:?xt=urn:btih:8621ab21efa530642010176211a18e23a97f5556&dn=Black+Beauty+%282020%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.PctMix.co
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Asesinato De Kenneth Chamberlain
+magnet:?xt=urn:btih:F26FAE5C97A469AB0EC3F7E7E423C0FA154215F9
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Padre
+magnet:?xt=urn:btih:A30CB893C778F20BFF4A12B316783D0C9D25E909
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Practicante
+magnet:?xt=urn:btih:d666f2ce54a2e3d911bcaf98be3a422b6cd41a4b&dn=El+Practicante+%282020%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.PctMix.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Hogar
+magnet:?xt=urn:btih:9205db4e72c70012af5f63eb1b1457de0331b706&dn=Hogar+%282020%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Las Leyes De La Frontera
+magnet:?xt=urn:btih:d006d18f947e979651f4ecfdc25ab2ae018e26f8&dn=La+Leyes+De+La+Frontera+%282021%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Almas En Pena
+magnet:?xt=urn:btih:491ea615ca5fea054314dc883526520776b59e45&dn=Almas+en+pena+de+Inisherin+%282022%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Lobos De Guerra
+magnet:?xt=urn:btih:a464de718613b3c5bfd77361e1206d5add66b4a9&dn=Lobos+de+guerra+%28Wolves+of+War%29+%282022%29.mkv
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Sobredosis
+magnet:?xt=urn:btih:5db091926fa3cce42d6cfbe567face54dda0f205&dn=Sobredosis+%28Overdose%29+%282022%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Cop Secret
+magnet:?xt=urn:btih:548edb8df4aa8bdebe7256bfbd97ea39e77287e5&dn=Cop+Secret+%282022%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Dos Son Multitud
+magnet:?xt=urn:btih:C88A389DD82001F5AA544D11B804B244DACE1223
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Avandonada
+magnet:?xt=urn:btih:7BB09283186C1B63317F587B2FCA2F3395BCC553
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Rig
+magnet:?xt=urn:btih:84C52118A4FC4A2F2E1F82A542BBD84BA26E2F3C
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Bajo Vigilancia 
+magnet:?xt=urn:btih:351F995A3922F85215E12FF302299A83B07DA560
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Perdidos En El Tiempo 
+magnet:?xt=urn:btih:AC449C10A1332D03DFA70CB45893B72B97D85010
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Menu
+magnet:?xt=urn:btih:92B9E996C73A1424156B12DE1EAB44136244A90F
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Madoff
+magnet:?xt=urn:btih:F779AECEF2673AC6D2CD7B6D22031A4D6E2DE55E
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Esta Casa Es Una Ruina
+magnet:?xt=urn:btih:2557F21E2D2630FE3A79EA69238A58E94543E2F3
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Cobra
+magnet:?xt=urn:btih:06D94CC729568AA7F2125479243A98BA73917163
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Muñeco Diabolico Saga
+magnet:?xt=urn:btih:076e7e99271f541efd879b051c0df072f2171b3f&dn=Saga+Mu%C3%B1eco+Diabolico+%5BMicroHD%5D%5B1080+px%5D%5BAC3+5.1-Castellano-AC3+5.1+Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Bruce Lee
+magnet:?xt=urn:btih:75c23f69136022267e995284cbd7e5db83a32017&dn=Coleccion+Bruce+Lee+%5BMicroHD%5D%5B1080+px%5D%5BAC3+2.0-Castellano-Chino%2BSubs%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Le Seguian Llamando Trinidad 
+magnet:?xt=urn:btih:692D1487C2AB58D4EC75B4C6F8F92DA40A9CD003
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Dos Son Multitud
+magnet:?xt=urn:btih:0bd2f687db6fbd660a7d15018feed049b1a1c548&dn=Dos+son+multitud+%282022%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", La Piel Del Tambor
+magnet:?xt=urn:btih:799455dfc6b271c69785878638fec23b87ebf53b&dn=La+piel+del+tambor+%282022%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Hombre Del Norte
+magnet:?xt=urn:btih:795DC56742C57755DA0282ADA3CF1ABAEA0200C5
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Terminator
+magnet:?xt=urn:btih:85479070A5668A6870A222D2E00CAC1FB3F167B1
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Megalodon 
+magnet:?xt=urn:btih:C22691F95D82F34875978A19713080430FEAD08A
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Alien El Octavo Pasajero
+magnet:?xt=urn:btih:569044953832d45c0791570fae31e9a1cf4e64f9&dn=Alien+El+octavo+pasajero+%5BBDremux+1080p%5D%5BDTS+5.1+Castellano-DTS+5.1+Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Alien El Regreso
+magnet:?xt=urn:btih:f8aba0360bd28376b4d6d19aaf2a71db616e5d85&dn=Aliens%2C+el+regreso.XviD.AC3.HDRip.%5BTorrentmas.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Alien 3
+magnet:?xt=urn:btih:57dbba63ec4d25c359a8c226b920f9d60e6c3307&dn=Alien+3+%5BBDremux+1080p%5D%5BDTS+5.1+Castellano+DTS+5.1-Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Alien Predator
+magnet:?xt=urn:btih:80b60227d3e24a657773cbff3544b560ea3446a6&dn=Alien.vs.Predator.DvDRip%5BDivx%5DSpanish%5D%5Bwww.PorTorrent.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Alien Predator 2
+magnet:?xt=urn:btih:61d16432cd178aa186d03baddceefd9dc4cc29f9&dn=Alien+Vs+Predator+2+%5BBluRay+Rip%5D%5BAC3+2.0+Espa%C3%B1ol+Castellano%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Alien Prometheus
+magnet:?xt=urn:btih:8c053dee46178411afa3fb6fc7df87d23d5dd68b&dn=Prometheus+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5B2012%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Alien Covenant
+magnet:?xt=urn:btih:52320c4b9b656954532fd4e826e6ba1a2c5de5e0&dn=Alien+Covenant+%5BMicroHD+1080p%5D%5BAC3+5.1-Castellano-AC3+5.1-Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Observada
+magnet:?xt=urn:btih:d025c84baff7014fe03b7a015316fe74bf73524c&dn=Watcher+%282022%29.mp4
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Old Man 1
+magnet:?xt=urn:btih:e25bb658dd6647febb32a93c3136d720bbd7ed8e&dn=The+Old+Man+-+Temporada+1+%5BHDTV%5D%5BCap.107%5D%5BCastellano%5D%5Bwww.Atomohd.ch%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Old Man 2
+magnet:?xt=urn:btih:3ea7ebadb144e8bf40aaed3286407515e5fc3ee6&dn=The+Old+Man+-+Temporada+1+%5BHDTV%5D%5BCap.106%5D%5BCastellano%5D%5Bwww.AtomoHD.vip%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Old Man 3
+magnet:?xt=urn:btih:6ea0125737953d7b2b0f206864212974f3a80064&dn=The+Old+Man+-+Temporada+1+%5BHDTV%5D%5BCap.105%5D%5BCastellano%5D%5Bwww.AtomoHD.app%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Old Man 4
+magnet:?xt=urn:btih:33d98ab29430a8a2c6a3c38ecb2862f7e76411d8&dn=The+Old+Man+-+Temporada+1+%5BHDTV%5D%5BCap.104%5D%5BCastellano%5D%5Bwww.AtomoHD.app%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Old Man 5
+magnet:?xt=urn:btih:bb8ce9f8e1cbba2c414c133924566fd4331f38aa&dn=The+Old+Man+-+Temporada+1+%5BHDTV%5D%5BCap.103%5D%5BCastellano%5D%5Bwww.AtomoHD.cc%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Old Man 6
+magnet:?xt=urn:btih:5bdb4d6a8bc9bc463fe18486c795d5bef3ba40e7&dn=The+Old+Man+-+Temporada+1+%5BHDTV%5D%5BCap.102%5D%5BCastellano%5D%5Bwww.AtomoHD.re%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Old Man 7
+magnet:?xt=urn:btih:0387b6eeb310c3130e49624707c218719cbe481b&dn=The+Old+Man+-+Temporada+1+%5BHDTV%5D%5BCap.101%5D%5BCastellano%5D%5Bwww.AtomoHD.re%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Predator
+magnet:?xt=urn:btih:b323369bc11b9c64e25415ea2b9fd7f792ffd9a8&dn=Predator+2+%5B4K+UHDrip%5D%5B2160p%5D%5BHDR%5D%5BAC3+5.1-DTS+5.1+Castellano+AC+3+5.1-Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Predator 2
+magnet:?xt=urn:btih:abf9e0f851b0d8c014075f8eae399126dce27730&dn=Predator+%5B4K+UHDrip%5D%5B2160p%5D%5BHDR%5D%5BAC3+5.1-DTS+5.1+Castellano+AC+3+5.1-Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Mars Attack
+magnet:?xt=urn:btih:a54832a55c66354bd7509f1adb0a01b96d6b2127&dn=Mars+Attacks+%5BMicroHD%5D%5B1080p%5D%5B-AC3+5.1-Castellano-AC3+5.1-Ingles%2BSubs-ES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Mad Max Trilogia
+magnet:?xt=urn:btih:21b38663bc7a082782b3545dfcb83bbe201cc957&dn=Trilogia+Mad+Max+%5BMicroHD%5D%5B1080+px%5D%5BAC3+5.1-Castellano-Ingles%2BSubs%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE 4K", La Memoria De Un Asesino
+magnet:?xt=urn:btih:0fdce02c8579585d02d0318a02c8384cece76c82&dn=La+memoria+de+un+asesino+%5B4K+UHDremux+2160p%5D%5BHDR10%5D%5BAC3+5.1+Castellano-DTS-HD+5.1-Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Solo En Casa
+magnet:?xt=urn:btih:FEA38341B224FF5724B9517BF07567CB13829040
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE INFANTIL", Bola De Drac+Z+Gt
+magnet:?xt=urn:btih:846d5f97b17b65379a956ed85a0e273f35e8f2e7&dn=Dragon+Ball
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Echo 3
+magnet:?xt=urn:btih:c09cf75d7814a685f5cbe15ab2a4b0b136066308&dn=Echo.3.S01.2160p.ATVP.WEB-DL.x265.10bit.HDR.DDP5.1.Atmos-MIXED%5Brartv%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", A Todo Tren
+magnet:?xt=urn:btih:c43cbdd583cbf92fe98e6f4b5eed1b45317c7021&dn=A+Todo+Tren+Destino+Asturias+%282021%29+%5B1080p%5D+%5BBluRay%5D+%5B5.1%5D+%5BYTS.MX%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", A Todo Tren 2
+magnet:?xt=urn:btih:332bd69c860f34733ce5f2329cc93c5966c5617c&dn=A+todo+tren+2+S%C3%AD%2C+les+ha+pasado+otra+vez+HDCAM+SPAM+MP4+Castellano
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Pasengers
+magnet:?xt=urn:btih:79c838ea98bcfae90dd19f2b046904cea479cab9&dn=Passengers.DVD.XviD.%5Bwww.DivxTotaL.com%5D.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE 4K", Ni Un Pelo De Tonto
+magnet:?xt=urn:btih:934353063ffa8cef09b977a5f8ec8d38c63d0941&dn=Ni+un+pelo+de+tonto+%5B4K+UHDremux+2160p%5D%5BHDR10%5D%5BAC3+2.0-+Castellano-DTS-HD+5.1-Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE 4K", Thor
+magnet:?xt=urn:btih:2c7a42a7c9032fd7c9a73b1e4684ce4dae5a98be&dn=Thor+Love+and+Thunder+%5B4K+UHDremux+2160p%5D%5BHDR10%5D%5BCastellano+DTS+5.1-Ingles+TrueHD+7.1%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Oswald El Falsificador 
+magnet:?xt=urn:btih:4d0795bd3409160a793e269b1d1c0cfdf897d0de&dn=Oswald+El+falsificador+%282022%29+-+WEBRIP+720p+-+NNF.mkv
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", 10 Minutos Menos
+magnet:?xt=urn:btih:c468b094500d61db160089344826044a7addd505&dn=10+minutos+menos+%5BBDremux+1080p%5D%5BAC3+5.1+Castellano-TrueHD+5.1+Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Lobos De Acero
+magnet:?xt=urn:btih:2c32065fb369b331d44d4547dc3d296b7be34bb1&dn=Wolf+Hound.+Lobos+de+acero+%282022%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Acusado
+magnet:?xt=urn:btih:7954d2b1646a26775e95e0c8f2c27ebd59cf9b73&dn=El+acusado+%28Les+choses+humaines%29+%282023%29%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="Movistar", La Resistencia 
+http://37.49.230.48:8080/jardzcastillo/db68e7ddbe/286800
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Luck
+magnet:?xt=urn:btih:fa1c7f3dc698b136458aefa584222d144678a9e9&dn=Luck+%282022%29.avi
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2011.png"  group-title="EUROSPORT", Eurosport 1 Hd
+http://192.168.66.2:6878/ace/getstream?id=c9ee7c95e7a2e9cd0e848b1f70848453652bebc2
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2011.png"  group-title="EUROSPORT", Eurosport 2 Hd
+http://192.168.66.2:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE INFANTIL", El Niño Delfin
+magnet:?xt=urn:btih:1f18bff005ae51ba4db01bcff2c08896da567322&dn=El+nino+delfin+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Una Boda Explosiva
+magnet:?xt=urn:btih:821ce936851cad89cdff4e01dc815e368d2dc106&dn=Una+boda+explosiva+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Darbi y los Espiritus
+magnet:?xt=urn:btih:778de7ef19535cd982e119216513caeefcc4b0c3&dn=Darby+y+los+espiritus+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", The Inocents
+magnet:?xt=urn:btih:40aec16d3635a7b2e664592e76c13a005e140274&dn=The+Innocents+%5BBluRay+1080p%5D%5BAC3+5.1+Castellano+DTS+5.1-Noruego%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", En Los Margenes
+magnet:?xt=urn:btih:a175a866415d5ea4cc4d26140056d3592e1bc2b4&dn=En+los+margenes+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Caribe Todo Incluido
+magnet:?xt=urn:btih:929a405f8cfc62439136560090afc204b917c357&dn=Caribe+todo+incluido+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Paradise City
+magnet:?xt=urn:btih:c6a979d9920eeff3ba41c4f5c6c163409abf056b&dn=Paradise+City+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Jethica
+magnet:?xt=urn:btih:393f4aaf03d14613f1b616e2fa1a5eef12c931a4&dn=Jethica+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE 4K", Atrapada En El Tiempo 
+magnet:?xt=urn:btih:78282cb53559ee3060cc1333c5b758ad13a256cc&dn=Atrapado+en+el+tiempo+%5B4K+UHDremux+2160p%5D%5BHDR10%5D%5BCastellano+DTS+5.1-Ingles+TrueHD+7.1%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Vasco
+magnet:?xt=urn:btih:c9b1251ca2e31ab8f152cbdf6cacad9ac644ee7c&dn=El+vasco+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE 4K", Black Panther
+magnet:?xt=urn:btih:87c4368f2c4adf17e2ae4d99b5c27eabdbe52c40&dn=Black+Panther+Wakanda+Forever+%282022%29+BluRay+2160p+ESP+DTS+5.1+ENG+DD+5.1+Subs+x265
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Black Panther
+magnet:?xt=urn:btih:1bf664dac10cf418bc7838653980ce03a0d81bb3&dn=Black+Panther+Wakanda+Forever+%5BBDremux+1080p%5D%5BAC3+5.1-DTS+5.1+Castellano-DTS-HD+5.1+Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Paradise City
+magnet:?xt=urn:btih:c6a979d9920eeff3ba41c4f5c6c163409abf056b&dn=Paradise+City+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Una Buena Película De Acción
+magnet:?xt=urn:btih:e90566d76b971a6f00abd10569e3a47f69a96447&dn=Una+buena+pelicula+de+accion+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Jason Buscado Por El FBI
+magnet:?xt=urn:btih:c47aa1d410091cc9f38f0e331abdf736fed8adbb&dn=Jason-+Buscado+por+el+FBI+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE INFANTIL", Los Buscamundos
+magnet:?xt=urn:btih:59d991f5e4737be3a4c07c5ee75301ed82dafd05&dn=Los+buscamundos+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", There Are No Saints 
+magnet:?xt=urn:btih:dcc01e91709ec544cd015de62f70a4303532cce2&dn=There+Are+No+Saints+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE INFANTIL", Scooby Doo
+magnet:?xt=urn:btih:c748ef03666069e5d0752c6653027549f7b0782f&dn=Scooby+Doo+conoce+a+Agallas+el+perro+cobarde+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/t5hd.png" group-title="TDT" tvg-id="TELECINCO", [ ESP] TELECINCO - 720
+http://192.168.66.2:6878/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/wrc.png"  group-title="WRC", WRC
+http://192.168.66.2:6878/ace/getstream?id=1337384461e30979b22c63ca0c9e2804fb3e1091
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="TDT" tvg-id="TELEDEPORTE", [ ESP] TELEDEPORTE - 720
+http://192.168.66.2:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/barça.png   " group-title="TDT" tvg-id="BARÇA TV", [ ESP] BARÇA TV - 720
+http://192.168.66.2:6878/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Modelo 77
+magnet:?xt=urn:btih:2200cd58010bfd6232b0ac3af6ddf85f48f2391e&dn=Modelo+77+%282022%29+%5BWEB-DL+1080p%5D%5BCastellano+AC3+5.1%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", 5 Lobitos
+magnet:?xt=urn:btih:caf30d4ee5803d25bab0b0daf406c77aaf3945a1&dn=Cinco+lobitos+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", As Bestas
+magnet:?xt=urn:btih:af8fe7b293fff9b4608a6498e2b83a1d605dcc6d&dn=As+bestas+%5BBluRay+1080p%5D%5BCastellano+AC3+5.1%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", En El Lugar Equivocado
+magnet:?xt=urn:btih:773a9c1770b9bd920cc06b2712c799b5ffcd8fd9&dn=En+el+lugar+equivocado+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll2019.png" group-title="La Liga",  Movistar Liga - 4K (Multiaudio)
+http://192.168.66.2:6878/ace/getstream?id=c957b0b3e9a5b7602cd7c769c8aa386b2e1a4f45
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll2019.png" group-title="La Liga",  Movistar Liga - 4K (Multiaudio)
+http://192.168.66.2:6878/ace/getstream?id=6731b994a19857183dfd314dd1c44acd3ff59752
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nascar.png"  group-title="NASCAR", NASCAR
+http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Atracador Perfecto
+magnet:?xt=urn:btih:58881d10fb3ced027654ae0d891bca88ac61fa7d&dn=El+atracador+perfecto+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Un Año Una Noche
+magnet:?xt=urn:btih:36229b403ebe67c9e5f955e1a9b9dc85f1044315&dn=Un+ano+una+noche+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Madres Paralelas
+magnet:?xt=urn:btih:a4dd1459d5e6cb786d9acda026e21d36e45d0b13&dn=Madres+paralelas+%282021%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.atomixHQ.one%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Embaucadores
+magnet:?xt=urn:btih:c0dfc09e038aef68cf28ad8f3477560f9f650bff&dn=Embaucadores+%28Sharper%29+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", La Guarida
+magnet:?xt=urn:btih:3a2c65e1434ca9dea64c9553e7b8f997eac69050&dn=La+guarida+%28The+Lair%29+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Amor Al Cuadrado Otra Vez
+magnet:?xt=urn:btih:3cddac7d6e647d5bdfb7db520cf750960ba2e124&dn=Amor+al+cuadrado+otra+vez+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Chica De Nieve 6
+magnet:?xt=urn:btih:485d0020f52cb7f700dab2735e8d54893618f89e&dn=La+Chica+De+Nieve+-+Temporada+1+%5BHDTV%5D%5BCap.106%5D%5BCastellano%5D%5Bwww.AtomoHD.MBA%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Chica De Nieve 5
+magnet:?xt=urn:btih:3545599476d9addf017044310cadaff8eb4c1e56&dn=La+Chica+De+Nieve+-+Temporada+1+%5BHDTV%5D%5BCap.105%5D%5BCastellano%5D%5Bwww.AtomoHD.MBA%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Chica De Nieve 4
+magnet:?xt=urn:btih:6b22d0546752f577143f649f36f2411f3151a986&dn=La+Chica+De+Nieve+-+Temporada+1+%5BHDTV%5D%5BCap.104%5D%5BCastellano%5D%5Bwww.AtomoHD.MBA%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Chica De Nieve 3
+magnet:?xt=urn:btih:ab01d1e230fa3bfe8c752f7ff008fd6e9c40962c&dn=La+Chica+De+Nieve+-+Temporada+1+%5BHDTV%5D%5BCap.103%5D%5BCastellano%5D%5Bwww.AtomoHD.MBA%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Chica De Nieve 2
+magnet:?xt=urn:btih:a6319442f952aff0ba3551ed94892c05d95449ae&dn=La+Chica+De+Nieve+-+Temporada+1+%5BHDTV%5D%5BCap.102%5D%5BCastellano%5D%5Bwww.AtomoHD.MBA%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", La Chica De Nieve 1
+magnet:?xt=urn:btih:6a15f4d7deace0c4281abbecc45b68f6984a5890&dn=La+Chica+De+Nieve+-+Temporada+1+%5BHDTV%5D%5BCap.101%5D%5BCastellano%5D%5Bwww.AtomoHD.MBA%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Carnival Row 5 6 7 8
+magnet:?xt=urn:btih:01ba4bd2f249aae53f2958678e564f1d46fa2689&dn=Carnival+Row+-+Temporada+1+%5BHDTV%5D%5BCap.105_108%5D%5BCastellano%5D%5Bwww.descargas2020.ORG%5D%5Bwww.pctnew%2CORG%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Carnival Row 1 2 3 4
+magnet:?xt=urn:btih:19debd1c0b63cae49657d7324b42d027efd9a573&dn=Carnival+Row+-+Temporada+1+%5BHDTV%5D%5BCap.101_104%5D%5BCastellano%5D%5Bwww.descargas2020.ORG%5D%5Bwww.pctnew%2CORG%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Carnival Row temp 2 cap 2
+magnet:?xt=urn:btih:06fe302a271c9faac79779bcd920ff88d3f03d57&dn=Carnival+Row+-+Temporada+2+%5BHDTV%5D%5BCap.202%5D%5BCastellano%5D%5Bwww.AtomoHD.BEER%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", Carnival Row temp 2 cap 1
+magnet:?xt=urn:btih:2489ef3c59b3d4231a02debe35dc7c91633f8998&dn=Carnival+Row+-+Temporada+2+%5BHDTV%5D%5BCap.201%5D%5BCastellano%5D%5Bwww.AtomoHD.BEER%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Last Of Us 5
+magnet:?xt=urn:btih:cee4ae9829a5df61519dcf9604d598597ca230ae&dn=The+Last+of+Us+-+Temporada+1+%5BHDTV%5D%5BCap.105%5D%5BCastellano%5D%5Bwww.AtomoHD.beer%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Last Of Us 4
+magnet:?xt=urn:btih:ce2efa2d0f5ac1777a5b97119f068d25ff38c5b9&dn=The+Last+of+Us+-+Temporada+1+%5BHDTV%5D%5BCap.104%5D%5BCastellano%5D%5Bwww.AtomoHD.beer%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Last Of Us 3
+magnet:?xt=urn:btih:88c6cee04cc32b9fb29aaaccaf09d1255598715a&dn=The+Last+of+Us+-+Temporada+1+%5BHDTV%5D%5BCap.103%5D%5BCastellano%5D%5Bwww.AtomoHD.nl%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Last Of Us 2
+magnet:?xt=urn:btih:c77b4a2d933957458a679301530846cbb2444c64&dn=The+Last+of+Us+-+Temporada+1+%5BHDTV%5D%5BCap.102%5D%5BCastellano%5D%5Bwww.AtomoHD.mba%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="SERIES", The Last Of Us 1
+magnet:?xt=urn:btih:42d2f40c645c6bf278990d53403fcf2bef8d0cba&dn=The+Last+of+Us+-+Temporada+1+%5BHDTV%5D%5BCap.101%5D%5BCastellano%5D%5Bwww.AtomoHD.mba%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Emboscada
+magnet:?xt=urn:btih:09ee7b8c962a0de404812ca3b43beb0bec53e457&dn=Emboscada+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 HD", [ ESP] DAZN F1 - 1080 (Opcion 2)
+http://192.168.66.2:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", High Heat
+magnet:?xt=urn:btih:d7fd3e924ddbcd1326d65b1f353f2f1d0361a2e5&dn=High+Heat+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE INFANTIL", Parque Salvaje
+magnet:?xt=urn:btih:cfa532c04bf2d30a473ae10f324effc0848210fb&dn=Parque+Salvaje+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Oficio De Aprender
+magnet:?xt=urn:btih:2e64fa67074c0c23b52088cc528127ee4fdb2c04&dn=El+oficio+de+aprender+%282022%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.com%5D
+
+#EXTINF:-1  tvg-logo="https://wwhttps://vkvsd38.mycdn.me/hls/3772871346714.m3u8/sig/KnJlheqwqko/expires/1678607451881/srcIp/95.17.170.240/urls/45.136.20.46/clientType/13/srcAg/CHROME_ANDROID/mid/4676272466714/3772871346714_high/index.m3u8w.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Sonic 2
+magnet:?xt=urn:btih:18ca9ae6c499f14610374e05cce34a2c950abe20&dn=Sonic+2+%5BBluRay+1080p%5D%5BAC3+5.1+Castellano+AC3+5.1-Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/ufc2022.png"  group-title="FOX SPORTS", UFC
+http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/espn.png"  group-title="ESPN", ESPN
+http://192.168.66.2:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Estrenos_por_Movistar_Plus%2B_2022_logo.svg/1200px-Estrenos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title= "Movistar" tvg-id="Movistar Estrenos", Movistar Estrenos2
+http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", El Peor Vecino Del Mundo
+magnet:?xt=urn:btih:8d7bcf934bced8f51539db9a586529d5ee05d48e&dn=El+peor+vecino+del+mundo+%5BBluRay+1080p%5D%5BAC3+5.1+Castellano+AC3+5.1-Ingles%2BSubs%5D%5BES-EN%5D
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznf1.png" group-title="Dazn" tvg-id="DAZN F1 FHD", [ ESP] DAZN F1 - FHD 
+http://192.168.66.2:6878/ace/getstream?id=61b531f0630fc6f74e711be61a3c5cf170e494ae
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080
+http://192.168.66.2:6878/ace/getstream?id=1e7db6b9a2e3d33e1be783694f50632d9fab9454
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 1080
+http://192.168.66.2:6878/ace/getstream?id=1bea67d359b8494a1a598aa477583ed9cc6353ba
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn" tvg-id="DAZN 1", [ ESP] DAZN 1 - 4K
+http://192.168.66.2:6878/ace/getstream?id=8c69914eb2ad331e67a700bcecc347a630465c44
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/barça.png   " group-title="TDT" tvg-id="BARÇA TV", [ ESP] GOL TV - 1080
+http://192.168.66.2:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn Diferidos F1" tvg-id="DAZN DIFERIDOS", [ ESP] DAZN F1 - BAHREIN
+http://192.168.66.2:6878/ace/getstream?id=5c0a0e52f85740264284d773cf6ab2db582e8ed5
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn Diferidos F1" tvg-id="DAZN DIFERIDOS", [ ESP] DAZN F1 - ARABIA SAUDI 
+http://192.168.66.2:6878/ace/getstream?id=6ca01b3e13256f911afb819dc86e72a112c8985d
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn Diferidos F1" tvg-id="DAZN DIFERIDOS", [ ESP] - AUSTRALIA 
+http://192.168.66.2:6878/ace/getstream?id=7382874394be846b8635383cc9b1fc2d414f62a0
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn Diferidos Moto GP" tvg-id="DAZN DIFERIDOS",  MOTO GP - PORTUGAL
+http://192.168.66.2:6878/ace/getstream?id=b42bbd008c2379b35d239ac9bb95c8657b95a538
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn Diferidos Moto GP" tvg-id="DAZN DIFERIDOS",  MOTO GP 2- PORTUGAL 
+http://192.168.66.2:6878/ace/getstream?id=0f408ea4b6ddc2aff4f2ccd55689ba6c558244d8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn Diferidos Moto GP" tvg-id="DAZN DIFERIDOS",  MOTO GP 3- PORTUGAL
+http://192.168.66.2:6878/ace/getstream?id=e0efca53bbb9b670b96e95797a61660532b615c3
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn Diferidos Moto GP" tvg-id="DAZN DIFERIDOS",  MOTO GP - ARGENTINA
+http://192.168.66.2:6878/ace/getstream?id=2aba72224c6d5b88f1b8c4907f22cfb277987b44
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn Diferidos Moto GP" tvg-id="DAZN DIFERIDOS",  MOTO GP 2- ARGENTINA
+http://192.168.66.2:6878/ace/getstream?id=0aefd372bcb3b1926b046861503d1b25ae039ceb
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn01.png" group-title="Dazn Diferidos Moto GP" tvg-id="DAZN DIFERIDOS",  MOTO GP 3- ARGENTINA
+http://192.168.66.2:6878/ace/getstream?id=3f1c6cf3f8608f9b6a3ac288571d7000af6387c9
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Dartacan Y Los Tres Mosqueteros
+magnet:?xt=urn:btih:10479fdfc7124eefff7b2c26b4d4d896bec5523e&dn=DArtacan+y+los+tres+mosqueperros+%282021%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.atomixHQ.NET%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Peter Pan
+magnet:?xt=urn:btih:f6c956d2732db5d698b7f8c844e63f67be414c9d&dn=Peter+Pan+and+Wendy+%282023%29+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5Bwww.nucleohd.net%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE", Campeones
+magnet:?xt=urn:btih:1299776522ae49bf1917ecfdbd43a34f94158160&dn=Campeones+%5BBluRay+Rip%5D%5BAC3+5.1+Castellano%5D%5B2018%5D
+
+#EXTINF:-1  tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/"  group-title="CINE",  Jhon Wich 4
+magnet:?xt=urn:btih:ca7f1ac13b108b69ff13c26beffd928f11a3f770&dn=John+Wick+Chapter+4+%282023%29+%5BBluray+720p%5D%5BCastellano%5D#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
 http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
 #EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 2 1080
 http://192.168.66.2:6878/ace/getstream?id=f1c84ec8ea0c0bfff8a24272b66c64354a522110
