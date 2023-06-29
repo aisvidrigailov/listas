@@ -358,9 +358,7 @@ http://31.43.191.49:25461/okyanus54/trmpurur76ZHRE/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (16)
 http://31.43.191.49:25461/mihammadashan/5F9wRNUW990/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=bb2976a6e2296ffa562c91d761db5460f325bd1a
-#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento) (02)
-http://192.168.66.2:6878/ace/getstream?id=65c705d7b387aa9b2a83e66b2fd0b9611e941a02
+http://192.168.66.2:6878/ace/getstream?id=a6915d6ebcb1c988d0ac97caa743cfc65527382b
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (01)
 http://23.227.140.78:8080/JsnCdcSSe8/CWvQ6KPTQR/405789
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (02)
@@ -368,7 +366,7 @@ http://62.182.86.121:80/live/laquitaevans3@gmail.com/laquitaevans3/769457.ts
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportF1Germany.de" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 1080 [DE]
 http://192.168.66.2:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=b51620dca67dfd508dc65d0b84e6171a0260f3d5
+http://192.168.66.2:6878/ace/getstream?id=ebdb1d3d1f8ad29e0e9c01c88f25bf41a085af84
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 IPTV
 http://37.49.230.42:8080/iptvturk/ee1aafb3d9/265
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 IPTV (01)
@@ -1237,8 +1235,6 @@ http://192.168.66.2:6878/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e6
 http://192.168.66.2:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 12" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 12
 http://192.168.66.2:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
-#EXTINF:-1 group-title="Otros contenidos" tvg-id="" tvg-logo="https://i.postimg.cc/3NkZfXbZ/rt-es.png" ,RT en español m3u8
-https://vkvsd30.mycdn.me/hls/4824741775964.m3u8/sig/_Ge0eqPvubI/srcIp/62.43.41.107/urls/45.136.20.81/expires/1688132255518/clientType/13/srcAg/CHROME/fromCache/1/mid/5721313717084/id/4824741775964/4824741775964_high/index.m3u8
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="" tvg-logo="https://i.postimg.cc/3NkZfXbZ/rt-es.png" ,RT en español 1080 IPTV
 http://45.84.217.143:2095/live/BastianSuecia12243/AQNbBTDH6fUf/9979.ts
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="" tvg-logo="https://i.postimg.cc/3NkZfXbZ/rt-es.png" ,RT en español 1080 IPTV (01)
