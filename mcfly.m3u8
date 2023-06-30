@@ -13859,15 +13859,3 @@ http://192.168.66.2:6878/ace/getstream?id=b4d85bfdb66e5740fc5d99556fb25a00acd29a
 http://192.168.66.2:6878/ace/getstream?id=9fab7ee2766af5e435c4c1354ced678c2c0736bc
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0Mjk4Njc4M15BMl5BanBnXkFtZTgwNDExNjg4MjE@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Torrente 5  Operacion Eurovegas(2014)5.3
 http://192.168.66.2:6878/ace/getstream?id=96ee346513b72b444bb979a47dbe9334b4b0fea6
-#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
-http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
-#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 2 1080
-http://192.168.66.2:6878/ace/getstream?id=f1c84ec8ea0c0bfff8a24272b66c64354a522110
-#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN USA 1080
-http://192.168.66.2:6878/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-espn-29.png" ,ESPN 2 USA 1080
-http://192.168.66.2:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-1-60.png" ,FOX SPORTS USA 1080
-http://192.168.66.2:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-us-fox-sports-2-61.png" ,FOX SPORTS 2 USA 1080
-http://192.168.66.2:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
