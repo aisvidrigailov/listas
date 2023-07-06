@@ -820,7 +820,7 @@ http://192.168.66.2:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3f
 #EXTINF:-1 group-title="M+ Golf" tvg-id="M+ Golf 2 HD" tvg-logo="https://i.postimg.cc/1508V8hz/golf2.png" ,M+ Golf 2 1080 IPTV
 http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/454216.ts
 #EXTINF:-1 group-title="M+ Wimbledon UHD" tvg-id="M+ Wimbledon UHD" tvg-logo="https://i.postimg.cc/nh71mrZN/wimbledonuhd.png" ,M+ Wimbledon 4K
-http://192.168.66.2:6878/ace/getstream?id=93af83ce68de603823a5e48850c45b20c6059a56
+http://192.168.66.2:6878/ace/getstream?id=c3abb6aa67cd87d851e2aea878a34f3b890df3ca
 #EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080*
 http://192.168.66.2:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080 IPTV
