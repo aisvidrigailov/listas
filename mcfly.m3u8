@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", @chanquetepower
-https://t.me/chanquetepower
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", @barcoproxy
+https://t.me/barcoproxy
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=a4ee6f9590351d2c88c416f9962af82c7e1ce816
@@ -1311,8 +1311,8 @@ http://192.168.66.2:6878/ace/getstream?id=8be8e3b857f19fa97637626bc91ae247ce7a79
 http://192.168.66.2:6878/ace/getstream?id=5a63600a7d3cfd43aa844aa9f928551a8cde0fe8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 27-06
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEEwCseN9HqWVngjYrsHFXrFw6lDu3WvA6NhPkuS2TkScOPcwZZ-u4_zkrQb4eCry-hz7KjfHQShRbZOFKdlwSo5EBYnSi2uw40OTAdsTHKGjr2e3_Nl6RwR8L7YGLY9JkF9vWDbClCH9N90Qd-sSZwpcSjdMUdAQOqwbOXRNlO74bPvjsnnOojtJOawXeeMKpf_sV0VA5Mtntm5ihd_4krs_59PJ--sJL9gnEH88lfaZcIrPi9a5WtinElkvbzhzUL6o2kmltJ_2OJQoxM7PQCQAOZmrKochDYtnjTSy8Rlk_kb0sUbTvt9nD8tRgHU6n7VEtRiR9L4QZTODlRsx_hBHxfxsWohZD0A25OoRSPZjjxLaD_OkgKccdnnHwYCucY1AOOewN3bogmOy0gHCM7Mnmw_VdeWt-14xsf9_Ctc3UfdIE-al91NJcGfEO0DPFDqED2Xwpizo31WkgztEzuOkuuxoz0IEv_8yMGu4ybDdMU7kjvHoEkHZA4_dZS9nrcBEQCOsWQywpTL96IvkmpYu5rmhXhJMn4YdUBWm0XOaqR5mBYJfwnHZOspczkC05gKh3R73bVoji5SG3ctUar5xkqHzJelInjE-_KtBqF4N1nb5DcFsV6bwBY1req64ECm8RE4WmFBfPEZKexglpkVXYoU20o1iWqqlszohzdpjxztkDQAfwmJBNo6RTRr6ycFRtSJRKVK0KlDiwfD3DNziZD4r7nlTOU1Gu6dUYY5XWadVyhRbwMbvrxNipM73TiwvbXLYBlyO7gT4ipkfbAuu0aDMlnAq4TUQmXp6gwQiABKglldS13ZXN0LTIw9AY.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 06-07
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Cs8EJTz5dn8iQaVn-SMNm0muVtPxHTcvBVGl7PtjEGxJDa0WLo2_s8Vff5qV0NZoHN4O27nIb4c3ZLZPsrwD5Z-2K7jfr6qYMR0A-M4jEEqG1syQJeLfnk2b71FGl1NpgKAssZFksvD4eUS0DspTJfrWR_dKEdIDFoutQASsrvFkVcm9VREBRm7AKxss2RExsEANNOC5vNN6ZbXr5kWppRfyqNNnSGCt2DqRn3eahPqi7QKJ9CAKXyXrBqok4FNzvSmS1qGiImVTC7pmCpSTLDUokZ0HE0JBiSZEolUG2mg0TeWE_qJZhjTa4p3LwvvlM1d1Tw_o-aEM3L3as0ZjahDoPNGkSO5lvKjigt_YG3F453IHC7DBuAs0MJlNVzJ1YErN7q8Lmkix-TupUnYi23IWIoc-BwajxieR6e0-5CLv1_5TDfnjM1aSscIw226qAOse_tiaHuHcphoZPwYy_v4VwJNZ8bxMsAynE9hl6IwKkQtAeLp5Y2RGVDxu-o84_0NlGIYaqSmrscXDFZmvZzuDBrYxGnDS5ztVTQsys4FRedNTc0y-M9VgsEcseiMIT4Xql_mLcwKUVnOPOFUJaLz5qGMheUsSNY8PSMDQqYQRitI_uEb2S6HKz5XIXA3suOhSwGOCvxNFge3byzzdd_oOjRNCC3Kd-dJ_pMZLTHKFznL8z25zXwW0fRhyVVv1SUmkJrCj5Xbe1G4k_9cOoOwfcYaYxDTZzK_TVDukbhCikIx4pEkgmrnjon50RAuo4gAL9hoNpomlJ25eAFaQcjo4GgyesbKmuoALQ5SEoekgASoJZXUtd2VzdC0yMP0G.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ikercasillas 25-06
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtQEgsKiI_Xf6f_v3KEx2i03dt7fvWCbL5qi3VuUTDlIl5nCxFiL9J3IMzxikxTERvy2pgI6CL2t1V5h3hEAlmCbvkU8myWrdApkgq5IbSik_ivWhRiEiblTq4KSkC-9EpX-Bh0WIPO5XMyqIWFMn36VS5lSGK2YqqCzJ98fRugHDv51WREJs8lmC2MRYixJNtcJVKU8PvmAVRP6jWDF6BSN8DkNeEvCBIYhtMxGvKtZFGp0xhiKJs5BU89Q-LieyXm9-u69MBdTvlGFa6Ktv4PkURrXLiAaHE-u8NWUUlEf0GzKJCZ4bN3TW7WSx-Yta9Qn2TPh6cT8AGSCNsixW__nnhLq26SMUCESed-LD7jBO4rpltoibdojvQa_EMuN5h7mdGtX8ySgqequanIWHrXu1iAWm_Zrg8C2H14I_hqo5dqnAKaDE9S8ZBer0hHkdVJCI1K-QLHELqCwjU8JkwCGLvQWysZWFy0TdU-tETNK-Zv2Hujb_JQss7jOpoNbUShzWcBrBlGiMaeRVfSNESC_fjfscJs_8vitvk9IaJuvLXQ67PfeObW5NSr6tUTY7k4IG0sUOzxh08h9WL_Kb3DDIafohZlEvUze5XkTFfc80qFekaLW91VSj11wvEaydvvhUGpzRiihjQGuMsE1KLVGMbpMoi0QgRi2yaPmf7_Z3Npn_uDG62Ww67zLuw1RK9Sd07IgXlxeLqOyovNtePevBWsQJ28UySrG2oR0_vvMz_y8TOoifOwGnLToXT1UhKJPbIal-b1nFAOo92qLOs66QGN5Fg8aDHvowtA_-1zFlGMNCSABKglldS13ZXN0LTIw8gY.m3u8
@@ -1375,10 +1375,10 @@ http://454396946848328845.of529.xyz:80/play/Lobato01/57542532/328845.ts
 
 
 #EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", LA 1
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8
+http://525000925616321276.of2304.xyz:80/play/vi924002/9565509818/321276.ts
 
 #EXTINF:-1 tvg-id="La2.es" tvg-name="LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar TDT", LA 2 HD
-https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8
+http://525000925616321279.of2304.xyz:80/play/vi924002/9565509818/321279.ts
 
 #EXTINF:-1 tvg-id="TV3 HD" tvg-name="TV3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", TV3 HD
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
@@ -9506,6 +9506,12 @@ http://682290282523505705.of2304.xyz:80/movie/hu1104160/3KeDqrK@TCcs/505705.mkv
 http://682290282523505706.of2304.xyz:80/movie/hu1104160/3KeDqrK@TCcs/505706.mkv
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ4ZDA0MjctYTQ5MS00YTQzLTk4YTYtYjI0ZGZiNTA4NzMyXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_FMjpg_UX1000_.jpg",Hijos (2023)
+http://192.168.66.2:6878/ace/getstream?id=165a61cf7aa59ee8e4d4baf6dbb5b018d39ec915
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM5Y2RmNmYtYjA0Ni00ZTkxLThkYmQtMTIzOGUxNTE2NWQ0XkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_.jpg",Eldorado Todo lo que odian los nazis (2023)
+http://192.168.66.2:6878/ace/getstream?id=8f46517c1970d55cb8cf87461b7128e3d5fea979
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjNlYzNhMTgtYTFlYi00ZDg4LWIwMGItZWU2OTY1NTk4MDdlXkEyXkFqcGdeQXVyMTYyMTYyOTcw._V1_FMjpg_UX1000_.jpg",Los caballeros del zodiaco (2023)
+http://192.168.66.2:6878/ace/getstream?id=59af9bbc52a3adc5d2760ff283540b8daebc829d
 #EXTINF:-1,tvg-logo="https://www.fmfederal.com/wp-content/uploads/2023/05/20230516192442_ytyqlfcfifbs5k5xudoj6yv4eq.jpg",Misión de rescate 2 (2023)
 http://192.168.66.2:6878/ace/getstream?id=76500ea6039f164a5f17310bcf50f485db5c434d
 #EXTINF:-1,tvg-logo="https://www.fmfederal.com/wp-content/uploads/2023/05/20230516192442_ytyqlfcfifbs5k5xudoj6yv4eq.jpg",Misión de rescate 2 1080
