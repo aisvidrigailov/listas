@@ -220,8 +220,8 @@ http://192.168.66.2:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a4034520
 http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
-http://192.168.66.2:6878/ace/getstream?id=9cc535aa14f47220bcffbc65f8b60c770524f584
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento", WINBLEDON 4K
+http://192.168.66.2:6878/ace/getstream?id=a04af4852f5c3a2f277ba245a3d1af1dc6eeffdf
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
 http://192.168.66.2:6878/ace/getstream?id=172a0843a8f136659ab139af2d247bcfac602d05
@@ -429,6 +429,10 @@ http://192.168.66.2:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="RALLY" tvg-id="FS2", FS2
 http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="WTP", WTP [IPTV]
+https://amg01970-mypadeldigitals-mypadeltv-samsungspain-k7d0l.amagi.tv/playlist/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 1080
@@ -1314,11 +1318,11 @@ http://192.168.66.2:6878/ace/getstream?id=5a63600a7d3cfd43aa844aa9f928551a8cde0f
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 06-07
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Cs8EJTz5dn8iQaVn-SMNm0muVtPxHTcvBVGl7PtjEGxJDa0WLo2_s8Vff5qV0NZoHN4O27nIb4c3ZLZPsrwD5Z-2K7jfr6qYMR0A-M4jEEqG1syQJeLfnk2b71FGl1NpgKAssZFksvD4eUS0DspTJfrWR_dKEdIDFoutQASsrvFkVcm9VREBRm7AKxss2RExsEANNOC5vNN6ZbXr5kWppRfyqNNnSGCt2DqRn3eahPqi7QKJ9CAKXyXrBqok4FNzvSmS1qGiImVTC7pmCpSTLDUokZ0HE0JBiSZEolUG2mg0TeWE_qJZhjTa4p3LwvvlM1d1Tw_o-aEM3L3as0ZjahDoPNGkSO5lvKjigt_YG3F453IHC7DBuAs0MJlNVzJ1YErN7q8Lmkix-TupUnYi23IWIoc-BwajxieR6e0-5CLv1_5TDfnjM1aSscIw226qAOse_tiaHuHcphoZPwYy_v4VwJNZ8bxMsAynE9hl6IwKkQtAeLp5Y2RGVDxu-o84_0NlGIYaqSmrscXDFZmvZzuDBrYxGnDS5ztVTQsys4FRedNTc0y-M9VgsEcseiMIT4Xql_mLcwKUVnOPOFUJaLz5qGMheUsSNY8PSMDQqYQRitI_uEb2S6HKz5XIXA3suOhSwGOCvxNFge3byzzdd_oOjRNCC3Kd-dJ_pMZLTHKFznL8z25zXwW0fRhyVVv1SUmkJrCj5Xbe1G4k_9cOoOwfcYaYxDTZzK_TVDukbhCikIx4pEkgmrnjon50RAuo4gAL9hoNpomlJ25eAFaQcjo4GgyesbKmuoALQ5SEoekgASoJZXUtd2VzdC0yMP0G.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ikercasillas 25-06
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtQEgsKiI_Xf6f_v3KEx2i03dt7fvWCbL5qi3VuUTDlIl5nCxFiL9J3IMzxikxTERvy2pgI6CL2t1V5h3hEAlmCbvkU8myWrdApkgq5IbSik_ivWhRiEiblTq4KSkC-9EpX-Bh0WIPO5XMyqIWFMn36VS5lSGK2YqqCzJ98fRugHDv51WREJs8lmC2MRYixJNtcJVKU8PvmAVRP6jWDF6BSN8DkNeEvCBIYhtMxGvKtZFGp0xhiKJs5BU89Q-LieyXm9-u69MBdTvlGFa6Ktv4PkURrXLiAaHE-u8NWUUlEf0GzKJCZ4bN3TW7WSx-Yta9Qn2TPh6cT8AGSCNsixW__nnhLq26SMUCESed-LD7jBO4rpltoibdojvQa_EMuN5h7mdGtX8ySgqequanIWHrXu1iAWm_Zrg8C2H14I_hqo5dqnAKaDE9S8ZBer0hHkdVJCI1K-QLHELqCwjU8JkwCGLvQWysZWFy0TdU-tETNK-Zv2Hujb_JQss7jOpoNbUShzWcBrBlGiMaeRVfSNESC_fjfscJs_8vitvk9IaJuvLXQ67PfeObW5NSr6tUTY7k4IG0sUOzxh08h9WL_Kb3DDIafohZlEvUze5XkTFfc80qFekaLW91VSj11wvEaydvvhUGpzRiihjQGuMsE1KLVGMbpMoi0QgRi2yaPmf7_Z3Npn_uDG62Ww67zLuw1RK9Sd07IgXlxeLqOyovNtePevBWsQJ28UySrG2oR0_vvMz_y8TOoifOwGnLToXT1UhKJPbIal-b1nFAOo92qLOs66QGN5Fg8aDHvowtA_-1zFlGMNCSABKglldS13ZXN0LTIw8gY.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", caracoldeportes 07-07
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtoEmumCZk-KzxABq1dNLJNUEgTgytAeIoCN3owxssp4xAbGC9JeqdrH47JpMZQajlwX8DvU19qtmREibgclxaheSPuvzIizfd_lkldQ6y2V3suZ2HT_mrFSz-ASnihe5uOHCd1Jr6iEvFjQLfrOR4fCHuC_-d_8pS9puqT_UfcCKjcaJ9JCWFAZMoiozci6T6iH0mwFB8EVHuOk9HZZx3b0cTTN3_SsA5hl-osY9rAYvqvNzqT1hPWLpIixboflFfjBeCagls9uJ-OrlIjboU-VI9GVy3bv8PM9kPhnjHv5FPR-OkOuPlpw8tnKzVHMckpfupYY9Hk4rmO_kVQaoOVtn1xo9MpdpGdGU0GhF42xDx9IcSmISAUZmxw3tsWEqXLbas8Zaba59VSRw2BgZm-NhoPS4jc_QHT-CgKz0Ue41sjtnRs65-GVakZleWhVBwYUF9f52Ad3XhFHh5AY6uBZ1nBxUdgcRF_tQkpqqLVvL7wC4Zb3FGWowCS85LtTGpiWP3hcMCBu5u3HQG8g0BR9i5OlYdnW9Vq-DKC3p3hsmIs0yeFuW2FRbclaYr5h6DDQfzl1a0Iat-oGSXl-wOwJwPtby9VjQ7p0-zwfP7mfxe6cQIxxOO469LCO_XVBND3whaLJh01XsH2mvPVBA9ORvUV6b9s75wsZrsrHk3BNrgyriPtD-4RnvuP2vwleCcR5jZr47qEDl88ZCMTgjIFYJSXw8OKGoebxGIOck45N75fl0XTvEh0g4AVmZ58m7rlZeExrV80KHGEHz34XSi1zpRszin8tsPQXYu8aDGftGpRaajNmllSfuSABKgl1cy1lYXN0LTIw_AY.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 25-06
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CpwEFkH8mkLN07q8t7THp2Fuf1XGU8z5Q2-03jVtVPvbzpS9Q2K-0vZPutMqoCYexfmMuzzo2QbQg3lvDrpjQ3mDd5o8C_r5gOzX9goHv6aMxrc78LoxsjfBm9Jxsg8_d92305KnVuFRvYg5ofElWDO3agMZM9vogl3Lhu4h7fFMPPiHY9z0kuy6HiIT40QlKmw73Ngdlk8wJhJiF3tJK-0pUE1iw2rp1mSWChAEnmVV4QlB0LnaBD-Lt6SUZ_HO_sxrkH5y9rCVoa7dhAmzBj-zSMENxEyydENddUMaaNuR8SqcfruQRichlHfnWsjKIZ6Kn8mIHPyIOUOV5iLAjyKvP4flQ1pNd0AyM5nxrvbC1w8lGEGOKdMxvVRk7U_9sAEE4tucIaQW50AxGxJGogijAG7kZFzVMOklwk-gnBJSunuhVOuThTxdLJLEZLgqtHwjJDZTnXt1BAdvFzeNQFHSPIx8S4mEE_smnwi6U3QCRkhNEYcoFjhoAS-EUwwiFG2MJokklWFNM7OPp2gwJr04IY0KFVWJvy8Ydem9nsO6Jf0H60_NkJKKcD0KDsI6Z_BEdY3YqKu4x59I8iktaji2_8_CMlb93xyJ6yjF3J1h96LBxKMMMmR6nCwTpXSwQD4ux5iCwFt0jAvxMKuouNDoJ_UzZGMXjOAGv7ye3tHtmZllZMLfhQZPtYZSOiQcRJnD_ZLdOYMGgK9TmkBgGgwEkfzqV32_4phhSKsgASoJZXUtd2VzdC0xMOgC.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 07-07
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrQEmIk5MZWrBYbNUzmWNjb0txEqcOtx3YgjvYhe-R3shswU0liawpUbUwuMrlHZy1URTibd1JAiy4tYPZKLmC5zmlKZWDQ9uS0GWDJlv6hru7ZK1670o5fjzrvjz2CW57QiIQaauGvZuwTTqe2E-pety0xxKxt5CvXab12v9Um8fyyvM_lMUnG1ov2LZFJmbmh2iph9PPNOjasGZ-Dlze5sJ4aHEvwMNtDTsY5lNqI_ppKuv6ewXO1jl30wUK07OOPGzY-aXNXIgSGTPEQUS3H5jcKRL6P9fhrdp0Lvmnj1-7cKxs2-vGRBS9rgd8s8oFRo9uA4gydruwytRFn4nuIBVNd164OVuVuM1oS1lppcPkGl1snfjUXDQMOk6xIoxAIxPDZaR1Dm_xdCB8j0KaoiCkG38t1Wpolw-rZJeBqkyyk9wJ0aKeQDIjlSS9d1_QaJ5um8Sw3r7Y3NjnVthPyoO-xY38X8IocaKtDtzPw2-4jVafzmHniug0LrzFaLhiGZiRDXe7fVbJ7XiDndIlF1Pdv8Ad988ldRrLlNEE5Y8_1CA0WGQ-FkrBDj_3cDF9_SvT8aN7y9RoIQCj1WBg4rm0HzuaCFIcQnCLCPnTBt_u8du7waxfdsO_1BBfugw_B4r-83hJxYI0qXvrvBssjZPh2c2vbTFtwhltT8oiYFjEUrSFKBONtbmS2E2BNjfJz2T3fSarGS0E1exGtdX4NY6MLj0xe26qCu0H2r5QLff7litzEwGgyywDdy6A1P8hH0bwYgASoJZXUtd2VzdC0yMP4G.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="INSTAT",ES: INSTAT TV INFO FHD
 http://454396946848501598.of529.xyz:80/play/Lobato01/57542532/501598.ts
