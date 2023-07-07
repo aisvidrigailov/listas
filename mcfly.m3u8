@@ -459,14 +459,18 @@ http://192.168.66.2:6878/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="DEPORTES" tvg-id="M+ Deportes 7", M.Deportes 7 720
 http://192.168.66.2:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC3zDsbK/banner-tennis-tv-750.jpg" group-title="DEPORTES" tvg-id="TennisChannel.us", Tenis Live
-http://192.168.66.2:6878/ace/getstream?id=16089ab3f31a2756cf2ba6d507ff367cce14df83
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES" tvg-id="FOX SPORTS", FOX SPORTS
 http://192.168.66.2:6878/ace/getstream?id=d4aa975dd59ae7f4e68ceadee8b77d65e9fc1360
 
 #EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a244.png" group-title="DEPORTES" tvg-id="Fight Box HD", ESPN 4
 http://192.168.66.2:6878/ace/getstream?id=078aba97b4781ad171fa4048ea9ab17092ac6bd1
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC3zDsbK/banner-tennis-tv-750.jpg" group-title="TENIS" tvg-id="TennisChannel.us", Tenis Channel
+http://192.168.66.2:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgV0RQxM/tench2.png" group-title="TENIS" tvg-id="TennisChannel.us2", Tenis Channel 2
+http://192.168.66.2:6878/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
 
 
 #EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="Alemania" tvg-id="(DE) DAZN 1", (DE) DAZN 1
@@ -520,25 +524,25 @@ http://192.168.66.2:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed
 http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
 
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass1.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 01
-http://wltv.xyz:80/play/l50pY_s8aEkTmaBnPDTpSO1IOQ2KikM2XXSty3biMEySwzP0kzR1FsHALqdLhycq/ts
+http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/83025
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass2.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 02
-http://wltv.xyz:80/play/l50pY_s8aEkTmaBnPDTpSO1IOQ2KikM2XXSty3biMEz1RwGGmMLTGYlMNUEG5fM0/ts
+http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/83026
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass3.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 03
-http://wltv.xyz:80/play/l50pY_s8aEkTmaBnPDTpSO1IOQ2KikM2XXSty3biMEwp615XgD1mHIkiehia32-X/ts
+http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/83027
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass3.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 04
-http://wltv.xyz:80/play/l50pY_s8aEkTmaBnPDTpSO1IOQ2KikM2XXSty3biMExfEnZgM-7gKr-8c4l8IoSe/ts
+http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/83028
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass3.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 05
-http://wltv.xyz:80/play/l50pY_s8aEkTmaBnPDTpSO1IOQ2KikM2XXSty3biMEy8nU9_VKDws7KNVYDq3qmc/ts
+http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/83029
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass3.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 06
-http://wltv.xyz:80/play/l50pY_s8aEkTmaBnPDTpSO1IOQ2KikM2XXSty3biMExsQj6JTZy3z3Smx94OkXNh/ts
+http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/83030
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass3.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 07
-http://wltv.xyz:80/play/l50pY_s8aEkTmaBnPDTpSDrEzl0fTXQq9Vkbic2nCGAE4LKTayIsCISDEQAmz58z/ts
+http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/83031
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass3.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 08
-http://wltv.xyz:80/play/l50pY_s8aEkTmaBnPDTpSDrEzl0fTXQq9Vkbic2nCGBXEedmKzvfy7lBhpbCErQg/ts
+http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/86913
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass3.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 09
-http://wltv.xyz:80/play/l50pY_s8aEkTmaBnPDTpSDrEzl0fTXQq9Vkbic2nCGA6CMzmS_Db1iWMP3LeMGXD/ts
+http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/86914
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass3.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 10
-http://wltv.xyz:80/play/l50pY_s8aEkTmaBnPDTpSDrEzl0fTXQq9Vkbic2nCGAbq5wVwKkqUgIi7DnkUt_J/ts
+http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/86915
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.webp" group-title="Rumania" tvg-id="Digi Sport 1", Digi Sport 1
 http://192.168.66.2:6878/ace/getstream?id=51cee9d0b29dbd9104e9a3971fd2569419eab159
