@@ -180,7 +180,16 @@ http://192.168.66.2:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65
 http://192.168.66.2:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Multicamara
-http://192.168.66.2:6878/ace/getstream?id=dca8b79aadd3763786c255746b7712faa7db55e6
+http://192.168.66.2:6878/ace/getstream?id=dd7c34f04c96253ac10922e7759c8ebbb484a100
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/1366_2000.jpeg" group-title="F1" tvg-id="DAZN F1 HD", F1 TV [ES]
+http://192.168.66.2:6878/ace/getstream?id=7053fc8ab4d763d331ce66dc577d42fccc860481
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVP 720 [EN]
+http://192.168.66.2:6878/ace/getstream?id=6c3e4c14388f071fa2c9e1d8e8f0254e00078c1d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVP 1080 [EN]
+http://192.168.66.2:6878/ace/getstream?id=b52b5904ff70b211513a7fc72c2f5d3e6884775c
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVPRO
 http://192.168.66.2:6878/ace/getstream?id=65c705d7b387aa9b2a83e66b2fd0b9611e941a02
@@ -188,11 +197,14 @@ http://192.168.66.2:6878/ace/getstream?id=65c705d7b387aa9b2a83e66b2fd0b9611e941a
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1TV PRO 50fps
 http://192.168.66.2:6878/ace/getstream?id=bb2976a6e2296ffa562c91d761db5460f325bd1a
 
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 SD
-http://192.168.66.2:6878/ace/getstream?id=28710e9057927317c869b11d669c28a4d77a6ab3
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 HD
+http://192.168.66.2:6878/ace/getstream?id=2bf297d4941c1721e858658533755406c73f486b
 
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 SD
-http://192.168.66.2:6878/ace/getstream?id=3251c61c831ddeae6b7feeae704a3f6c5c975e02
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 UHD
+http://192.168.66.2:6878/ace/getstream?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 [DE]
+http://192.168.66.2:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 
 #EXTINF:-1 tvg-logo="https://img2.freepng.es/20180430/pze/kisspng-nio-formula-e-team-logo-brand-5ae77a4a219680.8868016715251195621376.jpg" group-title="F1" tvg-id="Formula E", Formula E
 http://192.168.66.2:6878/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
