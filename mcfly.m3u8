@@ -235,8 +235,8 @@ http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9b
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/nh71mrZN/wimbledonuhd.png" group-title="Evento del momento" tvg-id="M+ Wimbledon UHD", WINBLEDON 4K
 http://192.168.66.2:6878/ace/getstream?id=a04af4852f5c3a2f277ba245a3d1af1dc6eeffdf
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
-http://192.168.66.2:6878/ace/getstream?id=172a0843a8f136659ab139af2d247bcfac602d05
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", San Fermines
+https://rtvemvodlote7.rtve.es/2023/dia3/DIA3_PGM.mp4
 
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN ARGENTINA", ESPN ARGENTINA
@@ -445,6 +445,9 @@ http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="WTP", WTP [IPTV]
 https://amg01970-mypadeldigitals-mypadeltv-samsungspain-k7d0l.amagi.tv/playlist/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="WTP", WTP [IPTV2]
+http://laligatech-live-usp.akamaized.net/live/wpt01/wpt01.isml/hdntl=exp=1688976166~acl=%2f*~data=hdntl~hmac=7ca942cc2bceba18a02a4915f9f0a490cbf66d4033d1119d440c14cd969c4213/wpt01-audio_track_0_0_spa=96000-video_track=2500000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 1080
@@ -9548,8 +9551,12 @@ http://192.168.66.2:6878/ace/getstream?id=c5f5152304c28e707e6c09b7031c82d79327ba
 http://192.168.66.2:6878/ace/getstream?id=5667c4aad726adab0d13b23ca6660e287fa190f2
 #EXTINF:-1,tvg-logo="https://www.covercaratulas.com/mini-caratula-carteles-John_Wick_4_Por_Chechelin-49026.jpg",John Wick Chapter 4 (265)
 http://192.168.66.2:6878/ace/getstream?id=5ce9e116ace93f705ff92cb8fcea779ac7460c35
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Guardianes_de_la_galaxia_Vol_3-328540746-large.jpg",Guardianes de la Galaxia (2023)
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Guardianes_de_la_galaxia_Vol_3-328540746-large.jpg",Guardianes de la Galaxia Vol.3 (2023)
 http://192.168.66.2:6878/ace/getstream?id=8137a4fafe63136f832dfdd800281fc0584ac2d5
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Guardianes_de_la_galaxia_Vol_3-328540746-large.jpg",Guardianes de la Galaxia Vol.3 (2023) 1080
+http://192.168.66.2:6878/ace/getstream?id=8bcc8ab90149b0776483600671e6bfa2ec28073f
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Guardianes_de_la_galaxia_Vol_3-328540746-large.jpg",Guardianes de la Galaxia Vol.3 (2023) 4K
+http://192.168.66.2:6878/ace/getstream?id=1192016d6a41a58869ae89a6146af7bf569d0f5e
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYTNhNWRmMDctYzE4OS00MzczLWJkODgtNzYxZTQxM2Y1YmM3XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",Beau tiene miedo (2023)7.2
 http://192.168.66.2:6878/ace/getstream?id=065e832a227b16b515f942e9a90ee50ec0e850e1
 #EXTINF:-1,tvg-logo="https://mx.web.img3.acsta.net/pictures/21/08/09/19/54/0656163.jpg",Respect La historia de Aretha Franklin (2021)6.6
