@@ -304,7 +304,7 @@ http://192.168.66.2:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f
 http://192.168.66.2:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV IPTV
-http://185.71.64.28:2052/csp11xsxkhkdshdkhskdhhkshkd/ghjjgg45471441525521hggg/96430
+http://todoen1.xyz:8080/Concordia/eXUCjygnj9RB/170088
 
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", MUNDOTORO TV FHD IPTV
 http://454396946848441850.of529.xyz:80/play/Lobato01/57542532/441850.ts
@@ -317,6 +317,12 @@ http://454396946848441852.of529.xyz:80/play/Lobato01/57542532/441852.ts
 
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV IPTV
 http://185.233.16.53:80/play/ff08274/2343800298/441850.ts
+
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV IPTV
+http://todoen1.xyz:8080/robertoherreraza/robertoHz1/170088
+
+#EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV IPTV
+http://todoen1.xyz:8080/CamiloG/tPTMXqQWhHRt/170088
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Eurosport" tvg-id="Eurosport 1 HD", Eurosport 1 - 1080
