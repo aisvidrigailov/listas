@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", @barcoproxy
 https://t.me/barcoproxy
@@ -1341,6 +1342,15 @@ http://192.168.66.2:6878/ace/getstream?id=8be8e3b857f19fa97637626bc91ae247ce7a79
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos" tvg-id="Big Tits", Big Tits
 http://192.168.66.2:6878/ace/getstream?id=5a63600a7d3cfd43aa844aa9f928551a8cde0fe8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos" tvg-id="PeliX", Dani Diaz Stepsis Stop Staring At My Dick [4K]
+http://192.168.66.2:6878/ace/getstream?id=d1977a3f061d3b84ab267fed5c556072cff6b002
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos" tvg-id="PeliX", Give Me Some Honey [4K]
+http://192.168.66.2:6878/ace/getstream?id=3ff3890a8298b59c819dc9da2c64f0d80853ca85
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos" tvg-id="PeliX", Lore.XXX.1080p.HEVC.x265
+http://192.168.66.2:6878/ace/getstream?id=08055d9e1e149ae23c6c1ae0a25bff8b18ffb5a8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 09-07
