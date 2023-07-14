@@ -232,11 +232,11 @@ http://192.168.66.2:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a4034520
 http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 1080
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
 http://192.168.66.2:6878/ace/getstream?id=a04af4852f5c3a2f277ba245a3d1af1dc6eeffdf
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", San Fermines
-https://rtvemvodlote7.rtve.es/2023/dia3/DIA3_PGM.mp4
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
+http://192.168.66.2:6878/ace/getstream?id=a04af4852f5c3a2f277ba245a3d1af1dc6eeffdf
 
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN ARGENTINA", ESPN ARGENTINA
@@ -387,7 +387,7 @@ http://192.168.66.2:6878/ace/getstream?id=eca5dfd22ce7fc352205749f78ac2c1dff5b5a
 http://192.168.66.2:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="#Vamos - 720", #Vamos - 720
-http://192.168.66.2:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
+http://192.168.66.2:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1483729360414810113/IG-lTzNZ_400x400.png" group-title="TDT" tvg-id="#0 - 1080", #0 - 1080
 http://192.168.66.2:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
