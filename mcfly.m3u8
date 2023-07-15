@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", @barcoproxy
 https://t.me/barcoproxy
@@ -52,7 +52,7 @@ http://192.168.66.2:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f12
 http://192.168.66.2:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLigaTV HD", M.Liga 1080 Multi
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLigaTV HD", M.Liga 1080 Multi
@@ -407,10 +407,10 @@ http://192.168.66.2:6878/ace/getstream?id=d6d64a0a2f3f83f94b0ad176af764a0bd9430e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_Telesur_%282011-2014%29.png" group-title="TDT" tvg-id="TeleSur", TeleSur
 http://192.168.66.2:6878/ace/getstream?id=d80713de995db0c853e7e835f1278420d32a8b93
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TDT" tvg-id="Canal de las Estrellas", Canal de las Estrellas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TDT" tvg-id="I402.16461.schedulesdirect.org", Canal de las Estrellas
 http://192.168.66.2:6878/ace/getstream?id=f06a25f371ab0a70fabdd5d28690716996898814
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TDT" tvg-id="Canal de las Estrellas", Canal de las Estrellas IPTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TDT" tvg-id="I402.16461.schedulesdirect.org", Canal de las Estrellas IPTV
 http://partyplay.live:8080/exch@grogi/grogi456/42099
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="TDT" tvg-id="Canal 26", Canal 26
@@ -445,10 +445,10 @@ http://192.168.66.2:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f3
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC2 +", WRC2 +
 http://192.168.66.2:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/FS1-Logo-Claim-NEG-RGB-rund.png" group-title="RALLY" tvg-id="FS1", FS1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/FS1-Logo-Claim-NEG-RGB-rund.png" group-title="RALLY" tvg-id="I316.82541.schedulesdirect.org", FS1
 http://192.168.66.2:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="RALLY" tvg-id="FS2", FS2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="RALLY" tvg-id="I316.82541.schedulesdirect.org", FS2
 http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
 
 
@@ -504,10 +504,10 @@ http://192.168.66.2:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e2
 http://192.168.66.2:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1", BT SPORT 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="I413.1805.tvguide.co.uk", BT SPORT 1
 http://192.168.66.2:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.svg" group-title="UK" tvg-id="BT SPORT 2", BT SPORT 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.svg" group-title="UK" tvg-id="I414.1807.tvguide.co.uk", BT SPORT 2
 http://192.168.66.2:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.svg" group-title="UK" tvg-id="BT SPORT 3", BT SPORT 3
@@ -528,23 +528,23 @@ http://192.168.66.2:6878/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba01395
 #EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="UK" tvg-id="Sky Sports Premier League", Sky Sports Premier League
 http://192.168.66.2:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 
-#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="UK" tvg-id="Sky Sports Maint Event", Sky Sports Maint Event
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="UK" tvg-id="I400.52300.schedulesdirect.org", Sky Sports Maint Event
 http://192.168.66.2:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="UK" tvg-id="Sky Sports Arena", Sky Sports Arena
 http://192.168.66.2:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Fox_Sports_Logos_%28Basico%2C_Premium%2C_HD%29.png" group-title="UK" tvg-id="Fox Sports Premium", Fox Sports Premium
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Fox_Sports_Logos_%28Basico%2C_Premium%2C_HD%29.png" group-title="UK" tvg-id="I312.123582.schedulesdirect.org", Fox Sports Premium
 http://192.168.66.2:6878/ace/getstream?id=http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1 FHD", BT SPORT 1 FHD
 http://192.168.66.2:6878/ace/getstream?id=6adb56e860967c5b1ba08e1bcb1eb2c4245e5842
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="NBA TV", NBA TV USA 1080
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="I156.32281.schedulesdirect.org", NBA TV USA 1080
 http://192.168.66.2:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="NBA TV", NBA TV USA 1
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="I156.32281.schedulesdirect.org", NBA TV USA 1
 http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
 
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass1.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 01
