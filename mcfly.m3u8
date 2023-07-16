@@ -496,6 +496,9 @@ http://192.168.66.2:6878/ace/getstream?id=078aba97b4781ad171fa4048ea9ab17092ac6b
 #EXTINF:-1 tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/06/wimbledon-2.png" group-title="TENIS" tvg-id="M+ Wimbledon UHD", Wimbledon UHD
 http://192.168.66.2:6878/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
 
+#EXTINF:-1 tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/06/wimbledon-2.png" group-title="TENIS" tvg-id="M+ Wimbledon UHD", Wimbledon 4K
+http://192.168.66.2:6878/ace/getstream?id=3470a98b59416289f0e6d206b6979a0dc26defa8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/xC3zDsbK/banner-tennis-tv-750.jpg" group-title="TENIS" tvg-id="TennisChannel.us", Tenis Channel
 http://192.168.66.2:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
 
