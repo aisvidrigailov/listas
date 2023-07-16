@@ -135,7 +135,7 @@ http://192.168.66.2:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b328
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080p
 http://192.168.66.2:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720p
-http://192.168.66.2:6878/ace/getstream?id=0e18315b703248bb01eab6b9d3f0cb2cd893601f
+http://192.168.66.2:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080p
 http://192.168.66.2:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 720p
@@ -392,12 +392,14 @@ http://192.168.66.2:6878/ace/getstream?id=9b8feebaf07ced9351ad88da77ef617f82626c
 #EXTINF:-1 group-title="Otros idiomas" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sports 2
 http://192.168.66.2:6878/ace/getstream?id=02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
 
-#EXTINF:-1 group-title="Torrent2Acestream" tvg-id="" tvg-logo="" ,EL INICIO DE LA EMISIÓN PUEDE DEMORARSE UNOS MINUTOS
+#EXTINF:-1 group-title="Torrent2Acestream" tvg-id="" tvg-logo="" ,EL INICIO PUEDE DEMORARSE UNOS MINUTOS
 http://
 #EXTINF:-1 group-title="Torrent2Acestream" tvg-id="" tvg-logo="https://pics.filmaffinity.com/scream_vi-826495425-mmed.jpg" ,Scream VI
 http://192.168.66.2:6878/ace/getstream?id=eee55e3af2ad492cc7cef9b8587f7b5a9b2ad565
 #EXTINF:-1 group-title="Torrent2Acestream" tvg-id="" tvg-logo="https://pics.filmaffinity.com/the_super_mario_bros_movie-521125124-mmed.jpg" ,Super Mario Bros. La Película
 http://192.168.66.2:6878/ace/getstream?id=ea36a8a134fd2a0a777b1eec0716a85516c239ef
+#EXTINF:-1 group-title="Torrent2Acestream" tvg-id="" tvg-logo="https://pics.filmaffinity.com/avatar_the_way_of_water-722646748-mmed.jpg" ,Avatar. El Sentido del Agua
+http://192.168.66.2:6878/ace/getstream?id=6741b5e0d29492c284236e3fed4c758d571e284e
 #EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
 http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
 #EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 2 1080
