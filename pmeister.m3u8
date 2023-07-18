@@ -1605,6 +1605,14 @@ http://192.168.66.2:6878/ace/getstream?id=8d976b2a90dce3b57ed094bd8a6152335c66bb
 http://192.168.66.2:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 group-title="Extranjeros" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png" ,Sky Sports Main Event
 http://192.168.66.2:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png" ,Sky Sports Main Event IPTV
+http://31.43.191.49:25461/Dominique/q6RhSRgBgG/2091
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png" ,Sky Sports Main Event IPTV (01)
+http://31.43.191.49:25461/okyanus54/trmpurur76ZHRE/2091
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png" ,Sky Sports Main Event IPTV (02)
+http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/283053
+#EXTINF:-1 group-title="Extranjeros" tvg-id="SkySportsMainEvent.uk" tvg-logo="https://img.sport-tv-guide.live/images/stations/a663.png" ,Sky Sports Main Event IPTV (03)
+http://37.49.230.42:8080/stadnik/6a627b52a9/283053
 #EXTINF:-1 group-title="Extranjeros" tvg-id="SkySportsNews.uk" tvg-logo="https://i.postimg.cc/KzrV1LYj/sky-sports-news-uk.png" ,Sky Sports News
 http://192.168.66.2:6878/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
 #EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a95.png" ,Premier Sports 1
