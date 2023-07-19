@@ -222,10 +222,10 @@ http://192.168.66.2:6878/ace/getstream?id=c300ecb07d854c1730b04ea022c3fb0a184d78
 #EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport" tvg-id="Sport 360", Sport 360
 http://192.168.66.2:6878/ace/getstream?id=e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
 
-#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/598-5982970_bt-sport-1-1080p-sky-and-bt-sports.png" group-title="BT Sport" tvg-id="BT Sport1", BT Sport1 [UK]
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/598-5982970_bt-sport-1-1080p-sky-and-bt-sports.png" group-title="BT Sport" tvg-id="I413.1805.tvguide.co.uk", BT Sport1 [UK]
 http://192.168.66.2:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 
-#EXTINF:-1 tvg-logo="https://seekvectors.com/files/download/BT-sport-2-01.png" group-title="BT Sport" tvg-id="BT Sport2", BT Sport2 [UK]
+#EXTINF:-1 tvg-logo="https://seekvectors.com/files/download/BT-sport-2-01.png" group-title="BT Sport" tvg-id="I414.1807.tvguide.co.uk", BT Sport2 [UK]
 http://192.168.66.2:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 
 #EXTINF:-1 tvg-logo="https://archive.org/download/BtSport3/bt%20sport%203.png" group-title="BT Sport" tvg-id="BT Sport3", BT Sport3 [UK]
@@ -242,35 +242,29 @@ http://192.168.66.2:6878/ace/getstream?id=a04af4852f5c3a2f277ba245a3d1af1dc6eeff
 http://192.168.66.2:6878/ace/getstream?id=a04af4852f5c3a2f277ba245a3d1af1dc6eeffdf
 
 
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN ARGENTINA", ESPN ARGENTINA
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="I251.19158.schedulesdirect.org", ESPN ARGENTINA
 http://192.168.66.2:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN 3 ARGENTINA", ESPN 3 ARGENTINA
 http://192.168.66.2:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
 
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN 2", ESPN 2
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="I257.96876.schedulesdirect.org", ESPN 2
 http://192.168.66.2:6878/ace/getstream?id=e40b29774fdfd953751a71f5695f647726623b9d
 
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN 3", ESPN 3
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="I263.79042.schedulesdirect.org", ESPN 3
 http://192.168.66.2:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 
-#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="ESPN Extra URUGUAY", ESPN Extra URUGUAY
+#EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="I251.19158.schedulesdirect.org", ESPN Extra URUGUAY
 http://192.168.66.2:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="Fox 3 Argentina", FOX 3 Argentina
 http://192.168.66.2:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M+ Golf HD", M. Golf - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M+ Golf HD", M. Golf
 http://192.168.66.2:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M+ Golf 2 HD", M. Golf 2 - 1080
-http://192.168.66.2:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios" tvg-id="M. Golf 2 - 720", M. Golf 2 - 720
-http://192.168.66.2:6878/ace/getstream?id=d6ed18556fc6d039a9afd2cabc850f6c8b65ccaa
-
-#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="#EXTINF:-1 tvg-logo="https://www.lg.com/es/smart-tv/images/apps/laliga-sports-tv.jpg" group-title="Varios" tvg-id="Laliga Sport petanca", Laliga sport Petanca
-http://192.168.66.2:6878/ace/getstream?id=426b0f68a64fac1f6de71d47a7dfc4260d783014
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/188px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="Varios" tvg-id="I640.101736.schedulesdirect.org", M. Golf Mexico
+http://192.168.66.2:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios" tvg-id="beIN Sport ñ1", beIN SPORT ñ1
 http://192.168.66.2:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
@@ -1304,6 +1298,104 @@ http://192.168.66.2:6878/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebd
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/869/719/png-transparent-united-soccer-league-fresno-fc-espn-roku-others-television-text-trademark-thumbnail.pn" group-title="Colombia" tvg-id="ESPN Colombia", ESPN Colombia
 http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
+
+
+#EXTINF:0 tvg-id="Sportv.br" group-title="Brasil",Sportv
+http://niptv.biz:25461/crichijr/mastertv@@/127
+#EXTINF:0 tvg-id="Sportv.br" group-title="Brasil",Sportv HD
+http://niptv.biz:25461/crichijr/mastertv@@/126
+#EXTINF:0 tvg-id="Sportv.br" group-title="Brasil",Sportv Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/14
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Brasil",Sportv 2
+http://niptv.biz:25461/crichijr/mastertv@@/105
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Brasil",Sportv 2 HD
+http://niptv.biz:25461/crichijr/mastertv@@/106
+#EXTINF:0 tvg-id="sporttv2.pt" group-title="Brasil",Sportv 2 Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/7
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Brasil",Sportv 3
+http://niptv.biz:25461/crichijr/mastertv@@/132
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Brasil",Sportv 3 HD
+http://niptv.biz:25461/crichijr/mastertv@@/131
+#EXTINF:0 tvg-id="sporttv3.pt" group-title="Brasil",Sportv 3 Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/6
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Brasil",Espn
+http://niptv.biz:25461/crichijr/mastertv@@/46
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Brasil",Espn HD
+http://niptv.biz:25461/crichijr/mastertv@@/47
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Brasil",Espn Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/11
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Brasil",Espn 2
+http://niptv.biz:25461/crichijr/mastertv@@/38
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Brasil",Espn 2 HD
+http://niptv.biz:25461/crichijr/mastertv@@/39
+#EXTINF:0 tvg-id="ESPN2.us" group-title="Brasil",Espn 2 Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/10
+#EXTINF:0 tvg-id="ESPN3.mx" group-title="Brasil",Espn 3
+http://niptv.biz:25461/crichijr/mastertv@@/89
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Brasil",Espn 3 HD
+http://niptv.biz:25461/crichijr/mastertv@@/88
+#EXTINF:0 tvg-id="ESPN3HD.mx" group-title="Brasil",Espn 3 Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/9
+#EXTINF:0 tvg-id="ESPN4.nl" group-title="Brasil",ESPN 4
+http://niptv.biz:25461/crichijr/mastertv@@/26
+#EXTINF:0 tvg-id="ESPN4.br" group-title="Brasil",ESPN 4 HD
+http://niptv.biz:25461/crichijr/mastertv@@/49
+#EXTINF:0 tvg-id="ESPN4.br" group-title="Brasil",Espn 4 Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/8
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Brasil",Fox Sports 2
+http://niptv.biz:25461/crichijr/mastertv@@/94
+#EXTINF:0 tvg-id="FoxSports2HD.mx" group-title="Brasil",Fox Sports 2 HD
+http://niptv.biz:25461/crichijr/mastertv@@/68
+#EXTINF:0 tvg-id="Combate.br" group-title="Brasil",Combate
+http://niptv.biz:25461/crichijr/mastertv@@/118
+#EXTINF:0 tvg-id="Combate.br" group-title="Brasil",Combate HD
+http://niptv.biz:25461/crichijr/mastertv@@/117
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Brasil",Band Sports
+http://niptv.biz:25461/crichijr/mastertv@@/140
+#EXTINF:0 tvg-id="Bandsports.br" group-title="Brasil",Band Sports HD
+http://niptv.biz:25461/crichijr/mastertv@@/154
+#EXTINF:0 tvg-id="ext" group-title="Brasil",Premiere FC
+http://niptv.biz:25461/crichijr/mastertv@@/80
+#EXTINF:0 tvg-id="Premierefchd.br" group-title="Brasil",Premiere FC HD
+http://niptv.biz:25461/crichijr/mastertv@@/95
+#EXTINF:0 tvg-id="Premierefchd.br" group-title="Brasil",Premiere FC Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/176
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Brasil",Premiere 2
+http://niptv.biz:25461/crichijr/mastertv@@/81
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Brasil",Premiere 2 HD
+http://niptv.biz:25461/crichijr/mastertv@@/98
+#EXTINF:0 tvg-id="Premiere2.br" group-title="Brasil",Premiere 2 Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/4
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Brasil",Premiere 3
+http://niptv.biz:25461/crichijr/mastertv@@/85
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Brasil",Premiere 3 HD
+http://niptv.biz:25461/crichijr/mastertv@@/84
+#EXTINF:0 tvg-id="Premiere3.br" group-title="Brasil",Premiere 3 Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/15
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Brasil",Premiere 4
+http://niptv.biz:25461/crichijr/mastertv@@/135
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Brasil",Premiere 4 HD
+http://niptv.biz:25461/crichijr/mastertv@@/136
+#EXTINF:0 tvg-id="Premiere4.br" group-title="Brasil",Premiere 4 Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/3
+#EXTINF:0 tvg-id="Premiere5.br" group-title="Brasil",Premiere 5
+http://niptv.biz:25461/crichijr/mastertv@@/171
+#EXTINF:0 tvg-id="ext" group-title="Brasil",Premiere 5 HD
+http://niptv.biz:25461/crichijr/mastertv@@/170
+#EXTINF:0 tvg-id="ext" group-title="Brasil",Premiere 5 Full HD
+http://niptv.biz:25461/crichijr/mastertv@@/5
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Brasil",Premiere 6
+http://niptv.biz:25461/crichijr/mastertv@@/173
+#EXTINF:0 tvg-id="Premiere6.br" group-title="Brasil",Premiere 6 HD
+http://niptv.biz:25461/crichijr/mastertv@@/172
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Brasil",Premiere 7
+http://niptv.biz:25461/crichijr/mastertv@@/175
+#EXTINF:0 tvg-id="Premiere7.br" group-title="Brasil",Premiere 7 HD
+http://niptv.biz:25461/crichijr/mastertv@@/174
+#EXTINF:0 tvg-id="Premiere8.br" group-title="Brasil",Premiere 8
+http://niptv.biz:25461/crichijr/mastertv@@/17
+#EXTINF:0 tvg-id="Premiere9.br" group-title="Brasil",Premiere 9
+http://niptv.biz:25461/crichijr/mastertv@@/16
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos" tvg-id="Russian", Russian
@@ -8442,6 +8534,22 @@ http://373225658598279572.ot0711.xyz:80/movie/fe108035/8428010165/279572.mp4
 
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYxYWU3MGYtOTllOS00NmUxLTk4OTItNTMyNmVmZDMzNjFlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Mari(dos) (2023)
+http://192.168.66.2:6878/ace/getstream?id=f6006435cfae70cdcb0c73f6f2c0cea1d8f56c1d
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_44132_78.jpg" tvg-id="Oso Vicioso 2023", Oso Vicioso (2023)
+http://192.168.66.2:6878/ace/getstream?id=ef46c90b3f05712a3f00bdf3fea37165dcb720c2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGY0ZThmM2YtZjQ2NC00ZTJmLWExYjAtN2NhOTQ2YzFhZjgzXkEyXkFqcGdeQXVyMTUzOTczNzYx._V1_.jpg",Unos suegros de armas tomar (2023)
+http://192.168.66.2:6878/ace/getstream?id=89e63cc77070d45bd177695fcbf567927e2eb680
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjhmNGRiNDktMTZlYy00MTdkLWI0NGQtOWMwMjVmMDgxNzIzXkEyXkFqcGdeQXVyNzI3NjQ3ODM@._V1_.jpg",Bad City (2022)
+http://192.168.66.2:6878/ace/getstream?id=fca7d845e6e81e05213b43c98a3fe35ebd6ed948
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDNiNzdiN2EtYzc0NC00OGRiLTkxNzMtNzI5ZjFlZmVlODg3XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_.jpg",Robots (2023)
+http://192.168.66.2:6878/ace/getstream?id=6290d0eb819f78b5daa3178cb371c1346a075cfb
+#EXTINF:-1,tvg-logo="https://cineclubtoledo.com/wp-content/uploads/2023/02/12-EL-DESPERTAR-DE-MARIA.jpg",El despertar de Maria (2022)
+http://192.168.66.2:6878/ace/getstream?id=29421503ffe604ddc3ca3533fad974f6dae1d6e8
+#EXTINF:-1,tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/fe4f396ac7106a19602f44d0a9bb172ba49f59290038768de24cdcbc8c2b29e5._RI_TTW_.png",Los iniciados (2023)
+http://192.168.66.2:6878/ace/getstream?id=9e27c39b1c21ced2787d161277b3b15b8d7a01f9
+#EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/7/w1280/4x9u5HsxeSJu9SW9Pf6fVVDPwxv.jpg",Cash (2023)
+http://192.168.66.2:6878/ace/getstream?id=acestream://6ade3b54c67fb7014dacf61373cbb5a6223957a3
 #EXTINF:-1,tvg-logo="https://www.neocine.es/recurso/articulo/fast_and_furious_10_97112.jpg",Fast And Furious X (2023)
 http://192.168.66.2:6878/ace/getstream?id=68b6a4f18c39f9b97e312ca765606323ca29bdeb
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ4ZDA0MjctYTQ5MS00YTQzLTk4YTYtYjI0ZGZiNTA4NzMyXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_FMjpg_UX1000_.jpg",Hijos (2023)
