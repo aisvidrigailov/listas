@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
-#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" tvg-name="" ,Evento #1 (Rally)
-http://192.168.66.2:6878/ace/getstream?id=7105058fc5d07a7a75c912c9211551458da2fc8c
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" tvg-name="" ,Evento #1 (Rally Estonia)
+http://192.168.66.2:6878/ace/getstream?id=4b4e4277ee6b7f3041cf7d1a708862b3330b1b4b
 #EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #4 (NBA ESPN Español)
 http://192.168.66.2:6878/ace/getstream?id=16150dafbbd4515a8b539a8e21e0f083f86416da
 #EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #5 ()
