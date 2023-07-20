@@ -436,11 +436,11 @@ http://192.168.66.2:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760e
 http://185.53.88.153:2095/live/BastianSuecia12243/AQNbBTDH6fUf/7508.ts
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC +", WRC +
-http://192.168.66.2:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="I414.1807.tvguide.co.uk", WRC +
+http://192.168.66.2:6878/ace/getstream?id=4b4e4277ee6b7f3041cf7d1a708862b3330b1b4b
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="WRC2 +", WRC2 +
-http://192.168.66.2:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="I414.1807.tvguide.co.uk", WRC + [PL]
+http://192.168.66.2:6878/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/FS1-Logo-Claim-NEG-RGB-rund.png" group-title="RALLY" tvg-id="I316.82541.schedulesdirect.org", FS1
 http://192.168.66.2:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
@@ -449,10 +449,10 @@ http://192.168.66.2:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f
 http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="WTP", WTP [IPTV]
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WTP [IPTV]
 https://amg01970-mypadeldigitals-mypadeltv-samsungspain-k7d0l.amagi.tv/playlist/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="WTP", WTP [IPTV2]
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WTP [IPTV2]
 http://laligatech-live-usp.akamaized.net/live/wpt01/wpt01.isml/hdntl=exp=1688976166~acl=%2f*~data=hdntl~hmac=7ca942cc2bceba18a02a4915f9f0a490cbf66d4033d1119d440c14cd969c4213/wpt01-audio_track_0_0_spa=96000-video_track=2500000.m3u8
 
 
@@ -1459,8 +1459,8 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEE9PwBNv0OA7ocj8hofH4a2w4
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 11-07
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Ct0E8j-XqSihjLyTJOrjRhwEW2Aukk4sIC92z5XixbQ7XEYFjELxLmZLOjEWixiBhRMlNb4iQ9voSBJOU2QOD0oczAiKkB_MRwaY859laPMaZjhIYhKtva1tuw1Zy-ZDysT2QImGmDmvWMe6YQU8nIUQDQGsxWloLD8zYXDx3YOaxpji4YOsCpioB2kYmV0cZ45SAY_y8Bts3Q6ncFMRc7A1zEVTR5fDvD0cRkh5e8PJ1mNA7BAtvb__HH4aDUoUEKz_XKXBEvNEu7isrGmJl5ob4aY2c0FriC1SviIkLa2hxZKvRrOkh0WgWkmA52nb6Ee0UUZX9Xb5QLF_bs1sls-I5ItvPSskDv79X8m2u82epjJLfLXjJXsz7z-g_j_KB3uJ41CZi9SaAMJ2hlaXJHF6sXINkR-9rFBxYcToaKLfDkL3Bw0T27qC2ufwhzmTf2T9zMOapr5eayiMUpFs0y2Xep9It9GK68bur2JhToZuSBK70YaYP8S9eKmIbn80SC8erSdS6ABXiBV1b6d8szGR0MA3NYAGYwqL3n4jZ7NTxiLskbasWoP1uIdq_3Ohb9vJ6TelUAKqYffPK6TAzvdeHQgzUqPgt_70Iy8IKiIoZROvkuA1g_IuK2D0XJJiIV0AKXXM1cGgHWSWCHOZMVlxe7b1O-vaT409ge-vRFXO7HfL8tX4IselhGqQIlhIAULuu6W9wD4QmWZlVle3zlySzVpXF3DGYgPr4gAaxQC1kHmBuOdxPQmMB5MSJCuXsssxBcngQpJK94MM8QH0sbtc9JBP-XCKzTAcTsfja3waDA1Qcd9104uj1LBftCABKglldS13ZXN0LTIwggc.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 16-07
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrgEtSDgfHMDknQsY0jXIk8YtY5GlCmWRL-xQJQIy7ZPlN3L4WC-FDyew_6NQSd-clGzH4dJjBRX7EszQlC4CxjunjI8p4pF8FG0mcnTiLuRbSXBl2EKemcZbWLT0ejI79FutmtzmrppoVZiT0w8qQsE3GbNFJG7S4H47cKbWlF8jfFnp9fXafxxWtdnIWRADsWHQwAq_ugQ_9xe81aTuis-4G_4JUnPPXD-oRqLn9q1ShD1mf8zz7LpwjcisWTMxgvq1dA14dQo9kO7hvgmXnkPwxDT79JFOsnJaT1N9R7r0_bQ0ZWrq-XBVZ_6yL2Yax5hp_Jfm64GAdeIwX1_9R-kqXg1aDObioQsnI1am0voyWSwOOcLkZyYxM3Ty61a2DYk64StcaHkFlzXutc5njPLi76D6H9Jfaus7HQcPbxVIFoLxbEdKOb9P5y2wIdUJiLXuu6zfz3-3LL3x_Gwwvwt5aRS8d-wKVsg8Klsw3AjFtKV5u415r1bFCiSPFhZv4BZJp5y9WaKFVVYSoSdBf9vyGv-8G0AroQo2GGJX7U7d98ROSAiZfoSrQ7z87nQANO-FRi_mLzK9NWFmCZ8Czs0t_PSME5WjRbFkEjkgxfzDyGKU08QBuFPvf6ffTsGFo2JfnqxmOaQMV3Tz-KCpETmw5G7Mhfo4BE13KsgSBsi1Hw0SO_bkD8SrGoqo8uyjttrXovROOGjH65ljzB64lpMfKIh211q3ZmoKXVUVkTdjhLFOie2nI0WVRoMyAnKSWJrzBwaK2VKIAEqCWV1LXdlc3QtMjCHBw.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 20-07
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrcEHsOR51gTK-d-8cKWs4ZfMNA3m9YyX7r3F-dXhyuz5lQYFx_9-EeYleObinO6XbggvuE5rTBMKOThNyANZD9V1Qhbxb6J2h8djqzJ5cO_EX1w8BsAVDGGd_uMsdom-KbzVhPnRLTfLE6WOJWUJ4QUqFCtB06DNDv0PwLxQZAiLU2vbfQwA7b6TJinN_d52GMRq1Tt9g6O3UVBbgJr3DTGSU5QDJuGJj1m4Zxtdo7bUuh4bQIrGMlQHHtmAwVK322kuGYHFtJ4deHz-bhXnOhEAYILPHCjb-dS96F56A-k9Qi0drE3qYgC3-UH3fAABAwg-5CQxpZgTn9uaNP_Vt9MTfgRJsZOTgjDWACNgwULGtm-UfSFdTvoE1w3SdgFB1pcYsyQeci3LCZUVOM8KUw__RxM5es4DnDY8BHGiCE6LfL01vwx6mponlCikvLog5dkrXMQGcgLr-bjf0mKRQ6GeuwsiAWtlepBpOEZFD4XaihR2FLrorx9q-ykb2QgrQyzGNyUhxP0DH3MI-mm46OCvosWMoRSx0UXMJlSWGgGGe_DEkqFQQl1S2ux-XUkhcj4R-lM7uQ0Ptxvd2O70oecYd8HcxGNwuFo6Pgv0SCM4GGASqwu8KBtw20WxGr9aZ7lduWleyNrtSgeLEf8Eo5cLc99YV2vV4cb4Ork5LyDUqeriKbxMo8A0adAItJyPjI2ekv0POVRNidOvvUsXrfe1epDect75Rma08KbCaQ4CoR2AaJkihp6GgzaiuVBn_TjLko6FuYgASoJZXUtd2VzdC0yMIsH.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="ES INSTAT INSPORTS",ES: INSTAT 01 FHD (Solo Eventos)
@@ -8534,6 +8534,10 @@ http://373225658598279572.ot0711.xyz:80/movie/fe108035/8428010165/279572.mp4
 
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/the_flash-205686824-large.jpg",Flash 1080p (2023)
+http://192.168.66.2:6878/ace/getstream?id=96f2e4446b4f840058ed84647c5073245004ef7e
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/the_flash-205686824-large.jpg",Flash 720p (2023)
+http://192.168.66.2:6878/ace/getstream?id=c07c820251aa2b516011129d8ffb6325dcd701f1
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMmYxYWU3MGYtOTllOS00NmUxLTk4OTItNTMyNmVmZDMzNjFlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Mari(dos) (2023)
 http://192.168.66.2:6878/ace/getstream?id=f6006435cfae70cdcb0c73f6f2c0cea1d8f56c1d
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_44132_78.jpg" tvg-id="Oso Vicioso 2023", Oso Vicioso (2023)
