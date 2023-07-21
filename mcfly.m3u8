@@ -52,6 +52,12 @@ http://192.168.66.2:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f12
 http://192.168.66.2:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 
 
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD", Cooming Soon 1
+http://192.168.66.2:6878/ace/getstream?id=
+#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD", Cooming Soon 2
+http://192.168.66.2:6878/ace/getstream?id=
+
+
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
@@ -112,34 +118,34 @@ http://192.168.66.2:6878/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a697
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-5-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 5 HD", Dazn La Liga 5 720
 http://192.168.66.2:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion HD", M+ LaLiga Smartbank 1080 
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/443838291362ceb3f6962.jpg" group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 1080 
 http://192.168.66.2:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion HD", M+ LaLiga Smartbank 720
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/443838291362ceb3f6962.jpg" group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 720
 http://192.168.66.2:6878/ace/getstream?id=06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 2 HD", M+ LaLiga Smartbank 2 1080
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/9f02b0dace818a9965fab.jpg" group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 2 HD", LaLiga Hypermotion 2 1080
 http://192.168.66.2:6878/ace/getstream?id=cf6249379184d88a61f9db617341c6b6e6abb342
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/LaLiga_SmartBank_TV_logo.svg/1200px-LaLiga_SmartBank_TV_logo.svg.png" group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 2 HD", M+ LaLiga Smartbank 2 720
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/9f02b0dace818a9965fab.jpg" group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 2 HD", LaLiga Hypermotion 2 720
 http://192.168.66.2:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
-#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank3.png" ,M+ LaLiga Smartbank 3 1080
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://telegra.ph/file/860380255e3d72bb46049.jpg", LaLiga Hypermotion 3
 http://192.168.66.2:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
 
-#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank4.png" ,M+ LaLiga Smartbank 4 1080
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://telegra.ph/file/3f40c767141b23051112b.jpg", LaLiga Hypermotion 4
 http://192.168.66.2:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
 
-#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank5.png" ,M+ LaLiga Smartbank 5 1080
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://telegra.ph/file/d5d56b31d671f2112f90a.jpg", LaLiga Hypermotion 5
 http://192.168.66.2:6878/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
 
-#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 6" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank6.png" ,M+ LaLiga Smartbank 6 1080
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 6" tvg-logo="https://telegra.ph/file/ef798665258120d7a4c5b.jpg", MLaLiga Hypermotion 6
 http://192.168.66.2:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
 
-#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank7.png" ,M+ LaLiga Smartbank 7 1080
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://telegra.ph/file/1e9c615591ff4d9016e24.jpg", LaLiga Hypermotion 7
 http://192.168.66.2:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d75
 
-#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://i.postimg.cc/4NfkryTV/ligasmartbank8.png" ,M+ LaLiga Smartbank 8 1080
+#EXTINF:-1 group-title="LaLiga Smartbank" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://telegra.ph/file/fd25f9a86fc18baa055fa.jpg", LaLiga Hypermotion 8
 http://192.168.66.2:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 1080
@@ -188,11 +194,11 @@ http://192.168.66.2:6878/ace/getstream?id=018186e9a5b942e3a5d8c24ca906ded64c2bbb
 #EXTINF:-1 tvg-logo="https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/1366_2000.jpeg" group-title="F1" tvg-id="DAZN F1 HD", F1 TV [ES]
 http://192.168.66.2:6878/ace/getstream?id=7053fc8ab4d763d331ce66dc577d42fccc860481
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVP 720 [EN]
-http://192.168.66.2:6878/ace/getstream?id=6c3e4c14388f071fa2c9e1d8e8f0254e00078c1d
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1TV 720 [EN]
+http://192.168.66.2:6878/ace/getstream?id=77f28424b7539c83a7445d33e1f75c95e2d499ab 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVP 1080 [EN]
-http://192.168.66.2:6878/ace/getstream?id=b52b5904ff70b211513a7fc72c2f5d3e6884775c
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1TV 1080 [EN]
+http://192.168.66.2:6878/ace/getstream?id=410917d68b5325e3cd168c47b0899eb22868da8a
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVPRO
 http://192.168.66.2:6878/ace/getstream?id=65c705d7b387aa9b2a83e66b2fd0b9611e941a02
@@ -201,9 +207,9 @@ http://192.168.66.2:6878/ace/getstream?id=65c705d7b387aa9b2a83e66b2fd0b9611e941a
 http://192.168.66.2:6878/ace/getstream?id=bb2976a6e2296ffa562c91d761db5460f325bd1a
 
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 HD
-http://192.168.66.2:6878/ace/getstream?id=2bf297d4941c1721e858658533755406c73f486b
+http://192.168.66.2:6878/ace/getstream?id=2260011d2520b1a93c8f371e2fb7fda07ace4ee5
 
-#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 UHD
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 UHD [DE]
 http://192.168.66.2:6878/ace/getstream?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
 
 #EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 [DE]
@@ -600,7 +606,7 @@ http://192.168.66.2:6878/ace/getstream?id=f15354d90dcc2c4b015aa20f0a473f408c19f5
 http://192.168.66.2:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfXybjP0/match-premier-logo-8-A89-A040-BF-seeklogo-com.png" group-title="RUSIA-РОССИЯ" tvg-id="Okko Sport TV", Okko Sport TV
-http://192.168.66.2:6878/ace/getstream?id=722f34a71cedbeb96bda429dc0f4d0e015995ea4
+http://192.168.66.2:6878/ace/getstream?id=a2af650d4c459435dd3c61ceb1779a0e0b5823be
 
 
 #EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 1 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 1 HD (Event Only)
