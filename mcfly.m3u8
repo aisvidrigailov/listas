@@ -183,7 +183,7 @@ http://192.168.66.2:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65
 http://192.168.66.2:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Multicamara
-http://192.168.66.2:6878/ace/getstream?id=dd7c34f04c96253ac10922e7759c8ebbb484a100
+http://192.168.66.2:6878/ace/getstream?id=018186e9a5b942e3a5d8c24ca906ded64c2bbbe4
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/1366_2000.jpeg" group-title="F1" tvg-id="DAZN F1 HD", F1 TV [ES]
 http://192.168.66.2:6878/ace/getstream?id=7053fc8ab4d763d331ce66dc577d42fccc860481
