@@ -53,9 +53,10 @@ http://192.168.66.2:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee8
 
 
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD", Cooming Soon 1
-http://192.168.66.2:6878/ace/getstream?id=
+http://192.168.66.2:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD", Cooming Soon 2
-http://192.168.66.2:6878/ace/getstream?id=
+http://192.168.66.2:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
 
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi
