@@ -1,12 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" tvg-name="" ,Evento #1 (Rally Estonia)
 http://192.168.66.2:6878/ace/getstream?id=4b4e4277ee6b7f3041cf7d1a708862b3330b1b4b
-#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #4 (NBA ESPN Español)
-http://192.168.66.2:6878/ace/getstream?id=16150dafbbd4515a8b539a8e21e0f083f86416da
-#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #5 ()
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #2 ()
 http://192.168.66.2:6878/ace/getstream?id=
-#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #6 (Laligatv)
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #3 (UFC)
 http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #4 ()
+http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 group-title="4K" tvg-id="ElevenSports1Poland.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a631.png" ,Eleven Sports 1 4K
 http://192.168.66.2:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="4K" tvg-id="SkySportBundesligaUHD.de" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1817.png" ,Sky Sport Bundesliga 4K
@@ -543,6 +543,8 @@ http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/147223
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/180672
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a945.png" ,TUDN IPTV (22)
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/180672
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a945.png" ,TUDN IPTV (23)
+http://45.5.119.155:8000/play/a0kh/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/295641
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (01)
@@ -615,6 +617,8 @@ http://45.5.119.155:8000/play/a0ht/index.m3u8
 http://37.49.230.42:8080/stadnik/6a627b52a9/3043
 #EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a943.png" ,Fox Sports 2 MX IPTV (01)
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/3043
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV
+http://45.5.119.155:8000/play/a0kj/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 Uruguay
 http://192.168.66.2:6878/ace/getstream?id=b97f5975dbd067655432512d4693b417bc85a714
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 Argentina
