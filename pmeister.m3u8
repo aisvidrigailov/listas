@@ -327,7 +327,7 @@ http://31.43.191.49:25461/Dominique/q6RhSRgBgG/1931
 http://31.43.191.49:25461/okyanus54/trmpurur76ZHRE/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (16)
 http://31.43.191.49:25461/mihammadashan/5F9wRNUW990/1931
-#EXTINF:-1 group-title="F1TV/ SKY F1 /Onboards" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV Español(Solo evento)
+#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV Español(Solo evento)
 http://192.168.66.2:6878/ace/getstream?id=c1485d3d14e6a6f95d475a119ce50cf1f32c4f93
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento)
 http://192.168.66.2:6878/ace/getstream?id=410917d68b5325e3cd168c47b0899eb22868da8a
@@ -561,6 +561,62 @@ http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/147223
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/180672
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a945.png" ,TUDN IPTV (22)
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/180672
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV
+http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/295641
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (01)
+http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/298157
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (02)
+http://37.49.230.42:8080/stadnik/6a627b52a9/295641
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (03)
+http://37.49.230.42:8080/stadnik/6a627b52a9/298157
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (04)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/86357
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (05)
+http://62.197.129.85:8080/HernandezJoel/202022/86357
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (06)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/86357
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (07)
+http://62.197.129.85:8080/firesp11/2023C/86357
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (08)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/86357
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (09)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/253058
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (10)
+http://62.197.129.85:8080/HernandezJoel/202022/253058
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (11)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/253058
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (12)
+http://62.197.129.85:8080/firesp11/2023C/253058
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (13)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/253058
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (14)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/128623
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (15)
+http://62.197.129.85:8080/HernandezJoel/202022/128623
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (16)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/128623
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (17)
+http://62.197.129.85:8080/firesp11/2023C/128623
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (18)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/128623
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (19)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/192669
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (20)
+http://62.197.129.85:8080/HernandezJoel/202022/192669
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (21)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/192669
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (22)
+http://62.197.129.85:8080/firesp11/2023C/192669
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (23)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/192669
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (24)
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/124442
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (25)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/124442
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (26)
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/123980
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1252.png" ,ESPN 3 IPTV (27)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/123980
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1250.png" ,ESPN Argentina
 http://192.168.66.2:6878/ace/getstream?id=2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2036.png" ,ESPN Extra Uruguay
