@@ -168,6 +168,9 @@ http://192.168.66.2:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd
 http://192.168.66.2:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 by Alex
+http://192.168.66.2:6878/ace/getstream?id=aff9ef05a35642dbad7c0eee8c315768942e417e
+
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 by Jonathan
 http://192.168.66.2:6878/ace/getstream?id=37b382c9f9b1c55191f35ac90949457618f94060
 
@@ -330,6 +333,9 @@ http://todoen1.xyz:8080/robertoherreraza/robertoHz1/170088
 
 #EXTINF:-1 tvg-logo="https://www.mundotoro.com/wp-content/uploads/2023/02/MundotoroTV.jpg" group-title="Mundotoro" tvg-id="Mundotoro TV", Mundotoro TV IPTV
 http://todoen1.xyz:8080/CamiloG/tPTMXqQWhHRt/170088
+
+#EXTINF:-1 tvg-id="Toros.es" tvg-logo="https://1.bp.blogspot.com/-EPtK2ZVmjIo/XxPVnVLS4eI/AAAAAAAAAfQ/teQPqB7QL8QVph61bPf_RZA1i3nwGqPhwCLcBGAsYHQ/w200-h200/Toros%2Bespa%25C3%25B1a.png" group-title="Mundotoro TV", Toros TV (TV)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117206
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Eurosport" tvg-id="Eurosport 1 HD", Eurosport 1 - 1080
@@ -1572,6 +1578,172 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
 #EXTINF:0 tvg-id="Mega" group-title="Movistar TDT",ES | Mega
 http://fireott.biz:2052/802411455218374/802497856238254/96443
+
+
+#EXTINF:-1 tvg-id="Cero.es" tvg-logo="https://1.bp.blogspot.com/-4d8WW8rGqvQ/XyNeAJY5WXI/AAAAAAAAAmI/-vAdda8pyDEQF_feIVlKK8mcypUbZ3W5QCLcBGAsYHQ/w200-h200/69%2Bnumeral0.png" group-title="ES   MOVISTAR+", ESP - #0 (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117211
+
+#EXTINF:-1 tvg-id="Cero.es" tvg-logo="https://1.bp.blogspot.com/-4d8WW8rGqvQ/XyNeAJY5WXI/AAAAAAAAAmI/-vAdda8pyDEQF_feIVlKK8mcypUbZ3W5QCLcBGAsYHQ/w200-h200/69%2Bnumeral0.png" group-title="ES   MOVISTAR+", ESP - #0 (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117210
+
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-logo="https://1.bp.blogspot.com/-01Iu08DxodI/XxZrj1enWOI/AAAAAAAAAgQ/VnAGbJRScig1lpGRu6sS9IvpCwzgNgB5QCLcBGAsYHQ/w200-h200/17%2Ba3%2Bseries.png" group-title="ES   MOVISTAR+", ESP - A3Series (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117229
+
+#EXTINF:-1 tvg-id="ESP - A3Series Internacional (TV)(1080)" tvg-logo="noimage.png" group-title="ES   MOVISTAR+", ESP - A3Series Internacional (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117230
+
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://1.bp.blogspot.com/-nqbZNAkwmuc/XxZrkj6a2HI/AAAAAAAAAgY/mbXMt5LQRxMhTeAZGxfHu8QWiJU0TLLwgCLcBGAsYHQ/w200-h200/20%2BAMC.png" group-title="ES   MOVISTAR+", ESP - AMC (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117212
+
+#EXTINF:-1 tvg-id="AMC.es" tvg-logo="https://1.bp.blogspot.com/-nqbZNAkwmuc/XxZrkj6a2HI/AAAAAAAAAgY/mbXMt5LQRxMhTeAZGxfHu8QWiJU0TLLwgCLcBGAsYHQ/w200-h200/20%2BAMC.png" group-title="ES   MOVISTAR+", ESP - AMC (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117213
+
+#EXTINF:-1 tvg-id="AXN.mx" tvg-logo="https://1.bp.blogspot.com/-_yN6S9GwyRI/XxZrmFipxHI/AAAAAAAAAgs/UHjw8RHgXngR7aibf3eePWKK6sS6U2AWgCLcBGAsYHQ/w200-h200/25%2BAXN.png" group-title="ES   MOVISTAR+", ESP - AXN (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117214
+
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-logo="https://1.bp.blogspot.com/-DQIttGLeoK8/XxZrmA8GcmI/AAAAAAAAAgo/ZTRAxK0DnS0UoqCUdQuwAxPWI4Wwl8cbACLcBGAsYHQ/w200-h200/24%2BAXN%2BWhite.png" group-title="ES   MOVISTAR+", ESP - AXN White (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117216
+
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-logo="https://1.bp.blogspot.com/-DQIttGLeoK8/XxZrmA8GcmI/AAAAAAAAAgo/ZTRAxK0DnS0UoqCUdQuwAxPWI4Wwl8cbACLcBGAsYHQ/w200-h200/24%2BAXN%2BWhite.png" group-title="ES   MOVISTAR+", ESP - AXN White (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117217
+
+#EXTINF:-1 tvg-id="ESP - Bom Cine (TV)(720)" tvg-logo="noimage.png" group-title="ES   MOVISTAR+", ESP - Bom Cine (TV)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117258
+
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-logo="https://1.bp.blogspot.com/-rJu5vDBvqMU/XxPVkqAiSRI/AAAAAAAAAe4/g1rbjDxqZf0YkQtbxAOF9TbzGXMu3HdaACLcBGAsYHQ/w200-h200/Coemdy%2BCentral%2BEspa%25C3%25B1a.png" group-title="ES   MOVISTAR+", ESP - Comedy Central (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117196
+
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-logo="https://1.bp.blogspot.com/-rJu5vDBvqMU/XxPVkqAiSRI/AAAAAAAAAe4/g1rbjDxqZf0YkQtbxAOF9TbzGXMu3HdaACLcBGAsYHQ/w200-h200/Coemdy%2BCentral%2BEspa%25C3%25B1a.png" group-title="ES   MOVISTAR+", ESP - Comedy Central (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117197
+
+#EXTINF:-1 tvg-id="Fox.es" tvg-logo="https://1.bp.blogspot.com/-GL4alboGrPo/XxPVlP0xoRI/AAAAAAAAAe8/u4v68eYxAjE2KR8IvLWwSFP2mtq1PxtMQCLcBGAsYHQ/w200-h200/Fox%2BEspa%25C3%25B1a.png" group-title="ES   MOVISTAR+", ESP - FOX (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117222
+
+#EXTINF:-1 tvg-id="Fox.es" tvg-logo="https://1.bp.blogspot.com/-GL4alboGrPo/XxPVlP0xoRI/AAAAAAAAAe8/u4v68eYxAjE2KR8IvLWwSFP2mtq1PxtMQCLcBGAsYHQ/w200-h200/Fox%2BEspa%25C3%25B1a.png" group-title="ES   MOVISTAR+", ESP - FOX (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117223
+
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-logo="https://1.bp.blogspot.com/-RI7d4aTPLL0/XyNd9ET0X6I/AAAAAAAAAlw/d_pVYWoJMmU4H3lC1i4OV2m05B_62qBuQCLcBGAsYHQ/w200-h200/63%2Bhollywood.png" group-title="ES   MOVISTAR+", ESP - Hollywood (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117231
+
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-logo="https://1.bp.blogspot.com/-wUoVSCGiLEk/XxZrjzp2NWI/AAAAAAAAAgI/NgNsd_d1DwoNsV5GJJE8L2mT2YMiFFJugCLcBGAsYHQ/w200-h200/18%2BMovistar%2BAccion.png" group-title="ES   MOVISTAR+", ESP - M. Accion (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117232
+
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-logo="https://1.bp.blogspot.com/-wUoVSCGiLEk/XxZrjzp2NWI/AAAAAAAAAgI/NgNsd_d1DwoNsV5GJJE8L2mT2YMiFFJugCLcBGAsYHQ/w200-h200/18%2BMovistar%2BAccion.png" group-title="ES   MOVISTAR+", ESP - M. Accion (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117233
+
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-logo="https://1.bp.blogspot.com/-QXTGVw7rOlg/XxPWBEJC8II/AAAAAAAAAfs/_CIYdPMhiLYWzoVFAJshKZ-48tpFKg6eACLcBGAsYHQ/w200-h200/Movistar%2BCine.png" group-title="ES   MOVISTAR+", ESP - M. Cine Español (TV)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117337
+
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-logo="https://1.bp.blogspot.com/-NGi8JELz8io/XyNd8HxDZ6I/AAAAAAAAAlo/YNE1z6ziRfkroyWhzTX1dt9t1mOQ75_YQCLcBGAsYHQ/w200-h200/61%2Bmcomedia.png" group-title="ES   MOVISTAR+", ESP - M. Comedia (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117237
+
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-logo="https://1.bp.blogspot.com/-NGi8JELz8io/XyNd8HxDZ6I/AAAAAAAAAlo/YNE1z6ziRfkroyWhzTX1dt9t1mOQ75_YQCLcBGAsYHQ/w200-h200/61%2Bmcomedia.png" group-title="ES   MOVISTAR+", ESP - M. Comedia (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117238
+
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-logo="https://1.bp.blogspot.com/-McbuHekd6kY/XxPVl0f3smI/AAAAAAAAAfE/H-_OlkLQVm8cdjHTSJNHE2qw7agBYaLcACLcBGAsYHQ/w200-h200/Movistar%2BDrama.png" group-title="ES   MOVISTAR+", ESP - M. Drama (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117239
+
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-logo="https://1.bp.blogspot.com/-McbuHekd6kY/XxPVl0f3smI/AAAAAAAAAfE/H-_OlkLQVm8cdjHTSJNHE2qw7agBYaLcACLcBGAsYHQ/w200-h200/Movistar%2BDrama.png" group-title="ES   MOVISTAR+", ESP - M. Drama (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117240
+
+#EXTINF:-1 tvg-id="ESP - M. Dreamworks (TV)(1080)" tvg-logo="noimage.png" group-title="ES   MOVISTAR+", ESP - M. Dreamworks (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117277
+
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-logo="https://1.bp.blogspot.com/-UJoX1V6P1ZY/XyNd5BLsQzI/AAAAAAAAAlQ/gHDOvidrDZ0k33B9C3hc05M3Yyj576uSgCLcBGAsYHQ/w200-h200/55%2Bmestrenos.png" group-title="ES   MOVISTAR+", ESP - M. Estrenos (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117241
+
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-logo="https://1.bp.blogspot.com/-UJoX1V6P1ZY/XyNd5BLsQzI/AAAAAAAAAlQ/gHDOvidrDZ0k33B9C3hc05M3Yyj576uSgCLcBGAsYHQ/w200-h200/55%2Bmestrenos.png" group-title="ES   MOVISTAR+", ESP - M. Estrenos (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117242
+
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-logo="https://1.bp.blogspot.com/-eJJOuHbWAhE/XyNd1dsl3QI/AAAAAAAAAkw/00ucgwum0AAUxa7mRuGLWhm-XlvD588fwCLcBGAsYHQ/w200-h200/47%2Bm%2Bseries.png" group-title="ES   MOVISTAR+", ESP - M. Series (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117243
+
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-logo="https://1.bp.blogspot.com/-eJJOuHbWAhE/XyNd1dsl3QI/AAAAAAAAAkw/00ucgwum0AAUxa7mRuGLWhm-XlvD588fwCLcBGAsYHQ/w200-h200/47%2Bm%2Bseries.png" group-title="ES   MOVISTAR+", ESP - M. Series (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117244
+
+#EXTINF:-1 tvg-id="CcanalPlusSeriesmania.es" tvg-logo="https://1.bp.blogspot.com/-cILFZFxgiQk/XyNd4PbXW4I/AAAAAAAAAlI/OVZyP299MUoBqkqX2iISgoTcH3cs2SVxACLcBGAsYHQ/w200-h200/53%2Bmseriesmania.png" group-title="ES   MOVISTAR+", ESP - M. Seriesmania (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117245
+
+#EXTINF:-1 tvg-id="SyFy.es" tvg-logo="noimage.png" group-title="ES   MOVISTAR+", ESP - SyFy (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117248
+
+#EXTINF:-1 tvg-id="ParamountChannel.es" tvg-logo="https://1.bp.blogspot.com/-P4r9dBof998/XztH5TZ43TI/AAAAAAAABF8/U6Y7ukK96sIXqql25xY7GUEVJqe9O1qCQCLcBGAsYHQ/w200-h200/90%2BPARAMOUNT.png" group-title="ES   MOVISTAR+", ESP - Paramount Channel (TV)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117259
+
+#EXTINF:-1 tvg-id="Somos.es" tvg-logo="https://1.bp.blogspot.com/-qlmTRuhKSko/XyNd9lLLmgI/AAAAAAAAAl0/CbDW51ZO3-k5Eo0gJiipQM-C1-XDc4D7wCLcBGAsYHQ/w200-h200/64%2Bsomos.png" group-title="ES   MOVISTAR+", ESP - SOMOS (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117228
+
+#EXTINF:-1 tvg-id="TCM.es" tvg-logo="https://1.bp.blogspot.com/-8rgq4MBm_HM/XyNd3UKB6II/AAAAAAAAAlE/0xXVPAKDLMU7Ss6o3MJ_XpUpU4oPp8MzwCLcBGAsYHQ/w200-h200/52%2Btcm.png" group-title="ES   MOVISTAR+", ESP - TCM (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117250
+
+#EXTINF:-1 tvg-id="TNT.es" tvg-logo="https://1.bp.blogspot.com/-F7J6ERzq0lQ/XyNd22mUdEI/AAAAAAAAAlA/owF3_cSNt2062nca7S9IEzM5wBM5W0mEwCLcBGAsYHQ/w200-h200/51%2Btnt.png" group-title="ES   MOVISTAR+", ESP - TNT (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117252
+
+#EXTINF:-1 tvg-id="•●★-- Infantil --★●" tvg-logo="noimage.png" group-title="ES   MOVISTAR+", •●★-- Infantil --★●
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117263
+
+#EXTINF:-1 tvg-id="BabyTV.es" tvg-logo="https://1.bp.blogspot.com/-RqFxhfTv8bQ/XxZrm1v9DoI/AAAAAAAAAgw/GGN74RCmf14EAPhFlzygmIzM6J7mD9mZACLcBGAsYHQ/w200-h200/26%2BBaby%2BTV.png" group-title="ES   MOVISTAR+", ESP - Baby TV (TV)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117274
+
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-logo="https://1.bp.blogspot.com/-5VrlDahw3Lo/XxZrqTRI3PI/AAAAAAAAAhM/uHQwt1eoF0cRhMLfbecA8DTgUla_pjXCgCLcBGAsYHQ/w200-h200/33%2BCanal%2BCocina.png" group-title="ES   MOVISTAR+", ESP - Canal Cocina (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117200
+
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://1.bp.blogspot.com/-ysbVeW4x-hc/XyNd1wsNe0I/AAAAAAAAAk4/H2mXj3f89foyE8SklzFyGDP_ivUqn3f6ACLcBGAsYHQ/w200-h200/49%2Bdisney.png" group-title="ES   MOVISTAR+", ESP - Disney Channel (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117267
+
+#EXTINF:-1 tvg-id="DisneyChannel.es" tvg-logo="https://1.bp.blogspot.com/-ysbVeW4x-hc/XyNd1wsNe0I/AAAAAAAAAk4/H2mXj3f89foyE8SklzFyGDP_ivUqn3f6ACLcBGAsYHQ/w200-h200/49%2Bdisney.png" group-title="ES   MOVISTAR+", ESP - Disney Channel (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117268
+
+#EXTINF:-1 tvg-id="DisneyJunior.es" tvg-logo="https://1.bp.blogspot.com/-zbyAXhT8UAw/XyNd7jU9NvI/AAAAAAAAAlk/bpYpGFOzfDsqotNwoDq_kUxi9VYoYda6ACLcBGAsYHQ/w200-h200/60%2Bdisneyjr.png" group-title="ES   MOVISTAR+", ESP - Disney Junior (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117269
+
+#EXTINF:-1 tvg-id="NickJr.es" tvg-logo="https://1.bp.blogspot.com/-F5p1A-N_ymc/XyNd7Di7gpI/AAAAAAAAAlg/Mffhy4HSyMAOiZDsBy8sHPtU9qg1b27qQCLcBGAsYHQ/w200-h200/59%2Bnickjr.png" group-title="ES   MOVISTAR+", ESP - Nick Jr (TV)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117270
+
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-logo="https://1.bp.blogspot.com/-qLfd8hEiquI/XxPVmZ8WWII/AAAAAAAAAfI/czIAzyI7mHwn9IU3GRdU8jWYoTucgttAQCLcBGAsYHQ/w200-h200/Nickelodeon%2BEspa%25C3%25B1a.png" group-title="ES   MOVISTAR+", ESP - Nickelodeon (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117272
+
+#EXTINF:-1 tvg-id="•●★-- Documentales--★●" tvg-logo="noimage.png" group-title="ES   MOVISTAR+", •●★-- Documentales--★●
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117284
+
+#EXTINF:-1 tvg-id="CanalPanda.es" tvg-logo="https://1.bp.blogspot.com/-7YbZTwYYZQI/XxZrra7TtzI/AAAAAAAAAhU/wyvLdLYk2NwnP5k33Nfo-O_l3hd5maJWgCLcBGAsYHQ/w200-h200/35%2BCanal%2BPanda.png" group-title="ES   MOVISTAR+", ESP - Canal Panda (TV)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117273
+
+#EXTINF:-1 tvg-id="CazaPesca.es" tvg-logo="https://1.bp.blogspot.com/-ku53-GBV8vs/XxZrsTyjl8I/AAAAAAAAAhc/PR9nixIl1xMZZb7j8jsytd7PTEVUe0TNQCLcBGAsYHQ/w200-h200/37%2BCaza%2BY%2BPezca.png" group-title="ES   MOVISTAR+", ESP - Caza y Pesca (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117226
+
+#EXTINF:-1 tvg-id="CazaPesca.es" tvg-logo="https://1.bp.blogspot.com/-ku53-GBV8vs/XxZrsTyjl8I/AAAAAAAAAhc/PR9nixIl1xMZZb7j8jsytd7PTEVUe0TNQCLcBGAsYHQ/w200-h200/37%2BCaza%2BY%2BPezca.png" group-title="ES   MOVISTAR+", ESP - Caza y Pesca (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117227
+
+#EXTINF:-1 tvg-id="CrimenInvestigacion.es" tvg-logo="https://1.bp.blogspot.com/-IzHQ8ypK76g/XyNeEPO_oMI/AAAAAAAAAmo/7qvAfjTXodcLaoEf4BtqrA2BodCGUcCAgCLcBGAsYHQ/w200-h200/77%2BCrimenInvetigac.png" group-title="ES   MOVISTAR+", ESP - Crimen Investigacion (M)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117185
+
+#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-logo="https://1.bp.blogspot.com/-gNru16SK8CU/XyNeBEuaPoI/AAAAAAAAAmQ/8l6wFqvOMDQakrAbAHKcXO0t3JvPFXDSwCLcBGAsYHQ/w200-h200/71%2Bdecasa.png" group-title="ES   MOVISTAR+", ESP - Decasa (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117199
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-logo="https://1.bp.blogspot.com/-19FYQrLswqY/XyNeDs-4pII/AAAAAAAAAmk/ubcnngFHtzgLmeWyfokLONBm0S_lDqwqACLcBGAsYHQ/w200-h200/76%2BDiscovery.png" group-title="ES   MOVISTAR+", ESP - Discovery Channel (X)(SD)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117188
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.es" tvg-logo="https://1.bp.blogspot.com/-19FYQrLswqY/XyNeDs-4pII/AAAAAAAAAmk/ubcnngFHtzgLmeWyfokLONBm0S_lDqwqACLcBGAsYHQ/w200-h200/76%2BDiscovery.png" group-title="ES   MOVISTAR+", ESP - Discovery Channel (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117189
+
+#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://1.bp.blogspot.com/-KGgmQI5ecXE/XyNeCobepzI/AAAAAAAAAmc/xSeTxkjlrUQewpSfCjNJIWqykMimCpbowCLcBGAsYHQ/w200-h200/74%2BHistoria.png" group-title="ES   MOVISTAR+", ESP - Historia (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117190
+
+#EXTINF:-1 tvg-id="Historia.es" tvg-logo="https://1.bp.blogspot.com/-KGgmQI5ecXE/XyNeCobepzI/AAAAAAAAAmc/xSeTxkjlrUQewpSfCjNJIWqykMimCpbowCLcBGAsYHQ/w200-h200/74%2BHistoria.png" group-title="ES   MOVISTAR+", ESP - Historia (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117191
+
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-logo="https://1.bp.blogspot.com/-3qy0mpdQPiw/XyNeBvWlJcI/AAAAAAAAAmU/mtpycXd2KEMZY0O4ZGdoKAvj-QwkbkIywCLcBGAsYHQ/w200-h200/72%2Bnationalch.png" group-title="ES   MOVISTAR+", ESP - National Geographic (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117194
+
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-logo="https://1.bp.blogspot.com/-iAoHtoG_ESQ/XyNeCE5MvJI/AAAAAAAAAmY/Bj1Qa1zryXwnRRhccaCbsT6LsIcZkLQFwCLcBGAsYHQ/w200-h200/73%2Bnatwild.png" group-title="ES   MOVISTAR+", ESP - Nat Geo Wild (TV)(1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117193
+
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-logo="https://1.bp.blogspot.com/-iAoHtoG_ESQ/XyNeCE5MvJI/AAAAAAAAAmY/Bj1Qa1zryXwnRRhccaCbsT6LsIcZkLQFwCLcBGAsYHQ/w200-h200/73%2Bnatwild.png" group-title="ES   MOVISTAR+", ESP - Nat Geo Wild (X)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117192
+
+#EXTINF:-1 tvg-id="Viajar.es" tvg-logo="https://1.bp.blogspot.com/-tekHxU4E9g4/XyNeAsanY8I/AAAAAAAAAmM/9wnmGrsza7ozcAu7QeJw7jc3LFQN0_c-gCLcBGAsYHQ/w200-h200/70%2Bviajar.png" group-title="ES   MOVISTAR+", ESP - Viajar (TV)(720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117204
 
 EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 FHD
 http://48252825189321276.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/321276.ts
@@ -2943,6 +3115,8 @@ http://48252825189522752.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/522752.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 8 TV CáDIZ SD
 http://48252825189523092.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/523092.ts
 
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-logo="https://1.bp.blogspot.com/-QF3Agxs6PL8/XyNd0B1sfwI/AAAAAAAAAkY/SYmYLXb9GEwpyJmc8uH5jVsl4HZdOSHrQCLcBGAsYHQ/w200-h200/42%2Bmf1.png" group-title="ES  DAZN F1", M. F1 (1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117134
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 SD
 http://48252825189165257.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/165257.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 FHD
@@ -2952,12 +3126,20 @@ http://48252825189165419.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/165419.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 HEVC
 http://48252825189318564.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/318564.ts
 
+#EXTINF:-1 tvg-id="ext" tvg-logo="http://tvgolatino.com:8080/images/d374184ab224ce5cd020dd43ae92f5d4.png" group-title="ES DEPORTES", Multideportes SD
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117112
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: #VAMOS 1080
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117130
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: #VAMOS 720
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117129
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: #VAMOS HD
 http://48252825189321072.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/321072.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: #VAMOS SD
 http://48252825189321073.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/321073.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: U-BEAT HD
 http://48252825189165452.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/165452.ts
+#EXTINF:0 tvg-id="MovistarGolf.es" group-title="ES DEPORTES",ES: M+ GOLF 1080
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117137
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF FHD
 http://48252825189268094.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/268094.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF HD
@@ -2994,6 +3176,10 @@ http://48252825189463951.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/463951.ts
 http://48252825189466753.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/466753.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: ELLAS #V HD
 http://48252825189466755.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/466755.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="ES DEPORTES",ES: EUROSPORT 1 720
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117140
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="ES DEPORTES",ES: EUROSPORT 2 720
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117142
 #EXTINF:0 tvg-id="Eurosport1.es" group-title="ES DEPORTES",ES: EUROSPORT 1 FHD
 http://48252825189466756.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/466756.ts
 #EXTINF:0 tvg-id="Eurosport1.es" group-title="ES DEPORTES",ES: EUROSPORT 1 HD
@@ -3016,6 +3202,10 @@ http://48252825189497616.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/497616.ts
 http://48252825189538677.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/538677.ts
 #EXTINF:0 tvg-id="Eurosport2.es" group-title="ES DEPORTES",ES: EUROSPORT 2 SD
 http://48252825189538678.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/538678.ts
+#EXTINF:0 tvg-id="MovistarDeportes.es" group-title="ES DEPORTES",ES: M+ DEPORTES 1080
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117139
+#EXTINF:0 tvg-id="MovistarDeportes.es" group-title="ES DEPORTES",ES: M+ DEPORTES 720
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117138
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 2 FHD
 http://48252825189538679.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/538679.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 2 HD
@@ -3081,6 +3271,8 @@ http://48252825189538755.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/538755.ts
 #EXTINF:0 tvg-id="Esport3.es" group-title="ES DEPORTES",ES: ESPORT 3 SD
 http://48252825189538756.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/538756.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: GOL PLAY FHD
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117131
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: GOL PLAY (SD)
 http://48252825189538757.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/538757.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: GOL PLAY HD
 http://48252825189538758.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/538758.ts
@@ -3117,6 +3309,14 @@ http://48252825189542877.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/542877.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: TELEMADRID INT FHD
 http://48252825189544103.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/544103.ts
 
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-logo="https://1.bp.blogspot.com/-QIvGldf-QnM/XyNd0xjCRtI/AAAAAAAAAko/8L_Eyo0gvn4uC3uFqFYL8wCs9tanYUwzgCLcBGAsYHQ/w200-h200/45%2Bmligacampeones.png" group-title="ES  M+ LIGA DE CAMPEONES", M. Liga de Campeones (1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117128
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-logo="https://1.bp.blogspot.com/-QIvGldf-QnM/XyNd0xjCRtI/AAAAAAAAAko/8L_Eyo0gvn4uC3uFqFYL8wCs9tanYUwzgCLcBGAsYHQ/w200-h200/45%2Bmligacampeones.png" group-title="ES  M+ LIGA DE CAMPEONES", M. Liga de Campeones (720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117127
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-logo="https://1.bp.blogspot.com/-QIvGldf-QnM/XyNd0xjCRtI/AAAAAAAAAko/8L_Eyo0gvn4uC3uFqFYL8wCs9tanYUwzgCLcBGAsYHQ/w200-h200/45%2Bmligacampeones.png" group-title="ES  M+ LIGA DE CAMPEONES", M. Liga de Campeones 1 (1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117149
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-logo="https://1.bp.blogspot.com/-QIvGldf-QnM/XyNd0xjCRtI/AAAAAAAAAko/8L_Eyo0gvn4uC3uFqFYL8wCs9tanYUwzgCLcBGAsYHQ/w200-h200/45%2Bmligacampeones.png" group-title="ES  M+ LIGA DE CAMPEONES", M. Liga de Campeones 2 (1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117150
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD
 http://48252825189246282.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/246282.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES HD
@@ -3160,7 +3360,18 @@ http://48252825189282466.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/282466.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 8 HD (OP1)
 http://48252825189282467.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/282467.ts
 
-
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ES  M+ LALIGA", M. LaLiga (1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117124
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ES  M+ LALIGA", M. LaLiga (720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117123
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ES  M+ LALIGA", M. LaLiga 1 (1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117146
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ES  M+ LALIGA", M. LaLiga 1 (720)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117145
+#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-logo="https://1.bp.blogspot.com/-BpdDoi6333g/XztJbgqczdI/AAAAAAAABGI/PU-MILA4H2YsZT2K3TGhjgshK1Dx1qdrwCLcBGAsYHQ/w200-h200/91%2BMovistar%2Bla%2Bliga%2B2.png" group-title="ES  M+ LALIGA", M. LaLiga 2 (1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117147
+#EXTINF:-1 tvg-id="MLaLiga3.es" tvg-logo="https://1.bp.blogspot.com/-haPg1TKdqxc/XyNd1WhqfUI/AAAAAAAAAks/DPGMtchTo1I-KVCjdt7hHzTPyysBUwepwCLcBGAsYHQ/w200-h200/46%2Bmliga.png" group-title="ES  M+ LALIGA", M. LaLiga 3 (1080)
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117148
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA FHD
 http://48252825189165385.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/165385.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA HD
@@ -3195,9 +3406,13 @@ http://48252825189237737.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/237737.ts
 http://48252825189237738.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/237738.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 10 SD
 http://48252825189237739.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/237739.ts
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR FHD
+#EXTINF:0 tvg-id="LaLigaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR 1080
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117126
+#EXTINF:0 tvg-id="LaLigaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR 720
+http://89.187.173.138:43201/marcuspty/PBSHBciC5C/117125
+#EXTINF:0 tvg-id="LaLigaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR FHD
 http://48252825189268042.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/268042.ts
-#EXTINF:0 tvg-id="BarcaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR HD
+#EXTINF:0 tvg-id="LaLigaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR HD
 http://48252825189165407.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/165407.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA SMARTBANK FHD
 http://48252825189320785.ot0711.xyz:80/play/D3C6U76CVN/4WdyRdCfSy/320785.ts
