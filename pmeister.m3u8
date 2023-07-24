@@ -7,6 +7,8 @@ http://192.168.66.2:6878/ace/getstream?id=
 http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
 #EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #4 ()
 http://192.168.66.2:6878/ace/getstream?id=
+#EXTINF:-1 group-title="Póker" tvg-logo="https://i.postimg.cc/50DjbRZn/wpt.png" tvg-name="" ,World Poker Tour Español
+http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/241590
 #EXTINF:-1 group-title="AppleTV" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV IPTV
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145381
 #EXTINF:-1 group-title="AppleTV" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV IPTV (01)
@@ -1140,7 +1142,7 @@ http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151365
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720 IPTV Multiaudio (07)
 http://185.71.64.28:2052/franco/802463478720321/151365
 #EXTINF:-1 group-title="M+ Champions Tour" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 Multiaudio
-http://192.168.66.2:6878/ace/getstream?id=dfc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+http://192.168.66.2:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="M+ Champions Tour" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV
 http://37.49.230.42:8080/stadnik/6a627b52a9/81096
 #EXTINF:-1 group-title="M+ Champions Tour" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV (02)
