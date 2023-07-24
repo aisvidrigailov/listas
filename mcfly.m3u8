@@ -13,10 +13,10 @@ http://192.168.66.2:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b49
 http://192.168.66.2:6878/ace/getstream?id=90beb42e9e276854348bc91a9ff3c3e46c617495
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 UHD", M.Liga De Campeones 2 1080
-http://192.168.66.2:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+http://192.168.66.2:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 UHD", M.Liga De Campeones 2 720
-http://192.168.66.2:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
+http://192.168.66.2:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD", M.Liga De Campeones 3 1080
 http://192.168.66.2:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
@@ -53,10 +53,10 @@ http://192.168.66.2:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee8
 
 
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD", Champions Tour 1080
-http://192.168.66.2:6878/ace/getstream?id=dfffbcdd9c7e32d5dc88d268dee830ff2a0d3ab6
+http://192.168.66.2:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 
 #EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour 2 HD", Champions Tour 720
-http://192.168.66.2:6878/ace/getstream?id=2d584c7335ff44f97c3cf64947892ef30fde715c
+http://192.168.66.2:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
 
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi
