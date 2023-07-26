@@ -272,11 +272,11 @@ http://192.168.66.2:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a4034520
 http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 1080", Evento del momento 1080
-http://192.168.66.2:6878/ace/getstream?id=a04af4852f5c3a2f277ba245a3d1af1dc6eeffdf
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ Champions Tour HD", Real Madrid vs Manchester 2:30h
+http://192.168.66.2:6878/ace/getstream?id=b62a689d7845c4b3f9af3bff472cd90843590fa1
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento del momento 720", Evento del momento 720
-http://192.168.66.2:6878/ace/getstream?id=a04af4852f5c3a2f277ba245a3d1af1dc6eeffdf
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ Champions Tour HD", Barcelona vs Arsenal 4:30h
+http://192.168.66.2:6878/ace/getstream?id=b62a689d7845c4b3f9af3bff472cd90843590fa1
 
 
 #EXTINF:-1 tvg-logo="" group-title="Varios" tvg-id="I251.19158.schedulesdirect.org", ESPN ARGENTINA
@@ -8796,6 +8796,8 @@ http://373225658598279572.ot0711.xyz:80/movie/fe108035/8428010165/279572.mp4
 
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://www.mundiario.com/media/mundiario/images/2023/07/14/2023071405264822982.png",Baby Assassins (2023)
+http://192.168.66.2:6878/ace/getstream?id=5649eb9f7159c4bae5dc16a85edc33cc1e2d5b77
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/the_flash-205686824-large.jpg",Flash 1080p (2023)
 http://192.168.66.2:6878/ace/getstream?id=96f2e4446b4f840058ed84647c5073245004ef7e
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/the_flash-205686824-large.jpg",Flash 720p (2023)
