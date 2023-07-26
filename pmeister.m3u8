@@ -1147,6 +1147,8 @@ http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151365
 http://185.71.64.28:2052/franco/802463478720321/151365
 #EXTINF:-1 group-title="M+ Champions Tour" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 Multiaudio
 http://192.168.66.2:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 group-title="M+ Champions Tour" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080i Multiaudio (A)
+http://192.168.66.2:6878/ace/getstream?id=b62a689d7845c4b3f9af3bff472cd90843590fa1
 #EXTINF:-1 group-title="M+ Champions Tour" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV
 http://37.49.230.42:8080/stadnik/6a627b52a9/81096
 #EXTINF:-1 group-title="M+ Champions Tour" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV (02)
