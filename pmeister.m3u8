@@ -390,11 +390,11 @@ http://31.43.191.49:25461/okyanus54/trmpurur76ZHRE/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (16)
 http://31.43.191.49:25461/mihammadashan/5F9wRNUW990/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV Español(Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=06383dad4a0e4b0887c1fb62d6bef1f4326dc18e
+http://192.168.66.2:6878/ace/getstream?id=e2594d19631c351cd2303db4ef53dc920cae56ec
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=f27d260388bd64fe95aadce46ef43129e77adc7f
+http://192.168.66.2:6878/ace/getstream?id=f4d18d14af5c5b532926379a9c8770d05982f277
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento) (02)
-http://192.168.66.2:6878/ace/getstream?id=e274f2d8174849e2924c7556a43d30eb407b5296
+http://192.168.66.2:6878/ace/getstream?id=40ca56b687217852083ee78ef64ea23301517774
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (01)
 http://23.227.140.78:8080/JsnCdcSSe8/CWvQ6KPTQR/405789
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (02)
@@ -402,7 +402,7 @@ http://62.182.86.121:80/live/laquitaevans3@gmail.com/laquitaevans3/769457.ts
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportF1Germany.de" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 1080 [DE]
 http://192.168.66.2:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=87bec84122be40d4bd0f4c9e88bb0b7cd0dec91e
+http://192.168.66.2:6878/ace/getstream?id=aee5d270d2694eb41a21f148534532c27f3acc50
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 IPTV
 http://37.49.230.42:8080/stadnik/6a627b52a9/265
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 IPTV (01)
