@@ -337,6 +337,9 @@ http://192.168.66.2:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f
 #EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV 
 http://192.168.66.2:6878/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
 
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV  01-08 
+http://192.168.66.2:6878/ace/getstream?id=a05861bc05c220c5f0a841da9180d32950292f8d
+
 #EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV FHD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321445.ts
 
@@ -1554,8 +1557,8 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtAECqB6s0JsoKPn78jmYj8SzvK
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 30-07
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Ct0EpsmY8lwjKMD3IlMZhBbVKiCaljtNXuGfGASE3Q0rQDZ-186hlccIq6O0OVq8EB4K6ErL9LeJAhDb42YjahD7OTncF22k5rRzN1zhyqKuraap4TVJ1V178as6bKIcsCeKLppC6quhycUjHQLYoaNpGmwMe5YcjF3dbIoIObqmVxWsSqAOtoHma28fOlOTzvuKy0FOjjLtgSTlsCqu_pQ_ngDKb94KV2IwBDyI5Bv2r_PqGTEY8gy2O77h6kuAeHc_etkPkx4FNYrhvg-i36EEv2pz3kHboKflVABn9tX19Sy1PA6I1kC8U3Cn1MzYWRSLHHc6wFcjiXm9wuV7o_9hummUM9ww_RexJjYc-xMsnGYQQH1nIDk_8KJrAhLrDRzeo0aj47frSmcLYyR7hQFe4iNRAvOUOcK6InRnHyXtvgcM-WthYYPpZd6e3SuO9wgsCuNppH_f_l_j4Zz2_aA45IES-zoAnqF_FZPY134yWUKBCH_WEqQlq08FRRDB7mV8-SYsedMmR3HiW7vEO2ZMPpabeCgH33yZRIPjsgSfgCfNCEFtAuuchB5SEULD16DX9akpC5SG7dLcBg03Lt_HlZPPxtbR3SCmasM9GzI-8b-dh6RVU7JfyfqdDGEhcCqVs9YIxQ27-efjiNiJn1i6iwo63Q7Ar_sG7Pf4QmuAECZkCNYmLVopa3BNjCXgRHYN0S-k_1yraHmxcRYHoU3LZ_Cy24dpFXTe9iOHJWpyEP_2mBZu3uB5xmDE5X8d7cxDm6ckLWAxfaK0m9ndBW65_9nsSFmiHsc9kC_lbm4aDOhNns6Plxtjir3dlyABKglldS13ZXN0LTIwlQc.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 20-07
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrcEHsOR51gTK-d-8cKWs4ZfMNA3m9YyX7r3F-dXhyuz5lQYFx_9-EeYleObinO6XbggvuE5rTBMKOThNyANZD9V1Qhbxb6J2h8djqzJ5cO_EX1w8BsAVDGGd_uMsdom-KbzVhPnRLTfLE6WOJWUJ4QUqFCtB06DNDv0PwLxQZAiLU2vbfQwA7b6TJinN_d52GMRq1Tt9g6O3UVBbgJr3DTGSU5QDJuGJj1m4Zxtdo7bUuh4bQIrGMlQHHtmAwVK322kuGYHFtJ4deHz-bhXnOhEAYILPHCjb-dS96F56A-k9Qi0drE3qYgC3-UH3fAABAwg-5CQxpZgTn9uaNP_Vt9MTfgRJsZOTgjDWACNgwULGtm-UfSFdTvoE1w3SdgFB1pcYsyQeci3LCZUVOM8KUw__RxM5es4DnDY8BHGiCE6LfL01vwx6mponlCikvLog5dkrXMQGcgLr-bjf0mKRQ6GeuwsiAWtlepBpOEZFD4XaihR2FLrorx9q-ykb2QgrQyzGNyUhxP0DH3MI-mm46OCvosWMoRSx0UXMJlSWGgGGe_DEkqFQQl1S2ux-XUkhcj4R-lM7uQ0Ptxvd2O70oecYd8HcxGNwuFo6Pgv0SCM4GGASqwu8KBtw20WxGr9aZ7lduWleyNrtSgeLEf8Eo5cLc99YV2vV4cb4Ork5LyDUqeriKbxMo8A0adAItJyPjI2ekv0POVRNidOvvUsXrfe1epDect75Rma08KbCaQ4CoR2AaJkihp6GgzaiuVBn_TjLko6FuYgASoJZXUtd2VzdC0yMIsH.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 01-08
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrgEyVtlEyM35KI1DsTyVF6LJtbD2Tqw82D_ZyV-bl46f4_vUrj2ygGCg6-Mz3aCsveP_hfDr8bXyN4ztv41RlENo4aXd1zHgZhqDnfBKmcf9T-wrmOk_oBkdcoyM8whBEY392SUe27ETmnpV8qKhlNCzCreYVbJvCnVilpkrNoGdGun-TD5jCi6Anp7oA8QFFX1qp7ynwlO586yPs09mtzfWRt_3PYBNUA0QpU12KD1STotfKqA1F-vUg3DgCndmA9QBzJM2KvVtKvwyGhgpFh7xKfNErE7_F9CQoi4RaxP2o4kObYFnYhZLg8kHbcEiEpC4oogklJ88njwrZdaR0pd4fdv8TxuyXOQJBNk97_dE823McTXCFZ7mSUSmhaOHkav-mrLun8qHXglD3zol9QtpWi2W7CSYYqcf7QlBbqcUQO_0Z1Jzf10xs8IV7Ek-LoydyaMcmtkeabrL1MWosCRmijQljbE40GF1ioAgVGnqFEpYThsMPXGdmL-KmiQn3KEhik2j3ilS_0Eeg2r-rZ6gSvbj5o5Eqgt-ACHfdN6LP4A6TFc5TrkLA-oCBtJxfl5ki6QjmY2UdmWSR47Z9rUOZoQDht9uf1pc7EJK0PXuI_V5ntJBI3PVeyVdwJAmrOB4tWSUsSx05VzmX-QlKdygcg0H8b8AICR98snBV1KexKXtjgpuGxVLT-RJawEWnXatznUgPXcdGq8ebK1ivj9-1DCHKlV4HPie84pW0-OnKBzkQaVns8qxBoMCz8aRR9XMb1-yox7IAEqCWV1LXdlc3QtMjCXBw.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="ES INSTAT INSPORTS",INSTAT TV 1
@@ -1618,6 +1621,9 @@ http://525000925616321279.of2304.xyz:80/play/vi924002/9565509818/321279.ts
 
 #EXTINF:-1 tvg-id="TV3 HD" tvg-name="TV3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", TV3 HD
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Esports 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-esport-3-614.png" group-title="Movistar TDT", Esports 3
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master-720p.m3u8
 
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", ANTENA 3 FHD
 http://398538678963321105.ofio.xyz:80/play/Benicarlo/Paco/321105.ts
@@ -11421,6 +11427,10 @@ http://194539863471279571.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279571.mp4
 http://194539863471279572.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279572.mp4
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Transformers_El_despertar_de_las_bestias-717876501-large.jpg",Transformers el despertar de las bestias (2023)
+http://192.168.66.2:6878/ace/getstream?id=815d8a603e3ceec4177a7f3d33feeae4329d7f97
+#EXTINF:-1,tvg-logo="https://www.burjassot.org/wp-content/uploads/2023/06/Como-Dios-manda.jpg",Como Dios manda (2023)
+http://192.168.66.2:6878/ace/getstream?id=2bb77926b91fb90253981d7f4d7543c34ee425c4
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/beautiful_disaster-325608225-mmed.jpg",Maravilloso desastre (2023)
 http://192.168.66.2:6878/ace/getstream?id=eda842afb1860e8ebf8b97d24d5ff207320f5a68
 #EXTINF:-1,tvg-logo="https://lumiere-a.akamaihd.net/v1/images/image_be473c63.jpeg",La Sirenita 1080p (2023)
