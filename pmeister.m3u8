@@ -707,8 +707,60 @@ http://45.5.119.155:8000/play/a0ht/index.m3u8
 http://37.49.230.42:8080/stadnik/6a627b52a9/3043
 #EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a943.png" ,Fox Sports 2 MX IPTV (01)
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/3043
-#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 CL IPTV
+#EXTINF:-1 group-title="Extranjeros" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1249.png" ,Fox Sports 3 AR IPTV
 http://45.5.119.155:8000/play/a0kj/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/87186
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (02)
+http://62.197.129.85:8080/HernandezJoel/202022/87186
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (03)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/87186
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (04)
+http://62.197.129.85:8080/firesp11/2023C/87186
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (05)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/87186
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (06)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/86250
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (07)
+http://62.197.129.85:8080/HernandezJoel/202022/86250
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (08)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/86250
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (09)
+http://62.197.129.85:8080/firesp11/2023C/86250
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (10)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/86250
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (11)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/87053
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (12)
+http://62.197.129.85:8080/HernandezJoel/202022/87053
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (13)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/87053
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (14)
+http://62.197.129.85:8080/firesp11/2023C/87053
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (15)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/87053
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (16)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/87020
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (17)
+http://62.197.129.85:8080/HernandezJoel/202022/87020
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (18)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/87020
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (19)
+http://62.197.129.85:8080/firesp11/2023C/87020
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (20)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/87020
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 LA IPTV
+http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/8740
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 LA IPTV (02)
+http://37.49.230.42:8080/stadnik/6a627b52a9/8740
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1265.png" ,Fox Sports 3 CO IPTV
+http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/189906
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1265.png" ,Fox Sports 3 CO IPTV (02)
+http://37.49.230.42:8080/stadnik/6a627b52a9/189906
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 SUR IPTV
+http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/3042
+#EXTINF:-1 group-title="Extranjeros" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 SUR IPTV (02)
+http://37.49.230.42:8080/stadnik/6a627b52a9/3042
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080
 http://192.168.66.2:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080 IPTV (02)
