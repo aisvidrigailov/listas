@@ -1494,36 +1494,62 @@ http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/96431
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="" tvg-logo="https://i.postimg.cc/hjfdMyMw/mundotoro.png" ,Mundotoro IPTV (30)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/96432
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV+ POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a455.png" ,Sport TV+ 1080 IPTV
+http://37.189.31.207:9001/play/a07o/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV+ POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a455.png" ,Sport TV+ 1080 IPTV (01)
+http://37.189.31.207:9001/play/a09l/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV+ POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a455.png" ,Sport TV+ 1080 IPTV (02)
 http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245161
-#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 1080
-http://192.168.66.2:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 1080 IPTV
-http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245164
+http://188.82.106.56:3001/play/a02l/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 1080 IPTV (02)
+http://192.168.66.2:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 1080 IPTV (03)
+http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245164
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 1080 IPTV (04)
 http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245165
-#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080
-http://192.168.66.2:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png" ,Sport TV1 SD IPTV
+http://188.82.106.56:3001/play/a016/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080 IPTV
-http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245168
+http://188.82.106.56:3001/play/a02m/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080 IPTV (02)
+http://192.168.66.2:6878/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080 IPTV (03)
+http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245168
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 1080 IPTV (04)
 http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245169
-#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 1080
-http://192.168.66.2:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV2 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a451.png" ,Sport TV2 SD IPTV
+http://188.82.106.56:3001/play/a00z/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 1080 IPTV
+http://188.82.106.56:3001/play/a02n/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 1080 IPTV (02)
+http://192.168.66.2:6878/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 1080 IPTV (03)
 http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245173
-#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV3 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" ,Sport TV3 SD IPTV
+http://188.82.106.56:3001/play/a010/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV
+http://188.82.106.56:3001/play/a02o/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (02)
 http://192.168.66.2:6878/ace/getstream?id=c300ecb07d854c1730b04ea022c3fb0a184d7801
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (03)
+http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245177
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (04)
+http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245178
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 720
 http://192.168.66.2:6878/ace/getstream?id=7b910812372dc00639e284ffd342525686a5d43f
-#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV
-http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245177
-#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (02)
-http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245178
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 720 IPTV
+http://188.82.106.56:3001/play/a011/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,Sport TV5 1080 IPTV
 http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245181
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,Sport TV5 720 IPTV
 http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/242706
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV5 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a454.png" ,Sport TV5 720 IPTV (02)
+http://188.82.106.56:3001/play/a012/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV6 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2619.png" ,Sport TV6 1080 IPTV
+http://37.189.31.207:9001/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV6 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2619.png" ,Sport TV6 1080 IPTV (02)
+http://37.189.31.207:9001/play/a09j/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV6 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2619.png" ,Sport TV6 1080 IPTV (03)
 http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245185
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 1 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1500.png" ,Eleven Sports 1 PT
 http://192.168.66.2:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
@@ -1531,18 +1557,38 @@ http://192.168.66.2:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d5
 http://192.168.66.2:6878/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 3 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1502.png" ,Eleven Sports 3 PT
 http://192.168.66.2:6878/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 3 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1502.png" ,Eleven Sports 3 PT IPTV
+http://37.189.31.207:9001/play/a054/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 3 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1502.png" ,Eleven Sports 3 PT IPTV (02)
+http://37.189.31.207:9001/play/a097/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 4 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png" ,Eleven Sports 4 PT
 http://192.168.66.2:6878/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 4 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png" ,Eleven Sports 4 PT IPTV
+http://37.189.31.207:9001/play/a055/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 4 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1557.png" ,Eleven Sports 4 PT IPTV (02)
+http://37.189.31.207:9001/play/a098/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 5 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png" ,Eleven Sports 5 PT
 http://192.168.66.2:6878/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 5 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png" ,Eleven Sports 5 PT IPTV
+http://37.189.31.207:9001/play/a04y/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 5 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1558.png" ,Eleven Sports 5 PT IPTV (02)
+http://37.189.31.207:9001/play/a099/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 6 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png" ,Eleven Sports 6 PT
 http://192.168.66.2:6878/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 6 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png" ,Eleven Sports 6 PT IPTV
+http://37.189.31.207:9001/play/a04z/index.m3u8
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Eleven Sports 6 POR" tvg-logo="https://img.sport-tv-guide.live/images/stations/a1559.png" ,Eleven Sports 6 PT IPTV (02)
+http://37.189.31.207:9001/play/a09a/index.m3u8
 #EXTINF:-1 group-title="NBA" tvg-id="NBATV.us" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" ,NBA TV USA 1 1080
 http://192.168.66.2:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 group-title="NBA" tvg-id="NBATV.us" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" ,NBA USA 1 1080
 http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" ,NBA USA 2 1080
 http://192.168.66.2:6878/ace/getstream?id=f1c84ec8ea0c0bfff8a24272b66c64354a522110
+#EXTINF:-1 group-title="NBA" tvg-id="Sport TV NBA POR" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1895.png" ,Sport TV NBA 1080 IPTV
+http://37.189.31.207:9001/play/a06o/index.m3u8
+#EXTINF:-1 group-title="NBA" tvg-id="Sport TV NBA POR" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1895.png" ,Sport TV NBA 1080 IPTV (02)
+http://37.189.31.207:9001/play/a09k/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="beINSPORTSXTRAenEspanol.us" tvg-logo="https://i.postimg.cc/SR7CH0H3/xtra-3.png" tvg-shift="+1" ,beIN SPORTS Xtra Ñ
 http://192.168.66.2:6878/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 group-title="Extranjeros" tvg-id="beINSportsenEspanol.us" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-bein-sports-n-85.png" tvg-shift="+1" ,beIN SPORTS ñ 1080
