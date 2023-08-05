@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
-#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" tvg-name="" ,Evento #1 (Rally Finlandia)
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" tvg-name="" ,Evento #1 (Rally)
+http://192.168.66.2:6878/ace/getstream?id=71cfa532a191eef3570b031156a4c1c6c3345a04
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" tvg-name="" ,Evento #2 (Rally)
 http://quiponay.online:2082/687639915/XNx4bSVCyYRF/226307
 #EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #3 ()
 http://192.168.66.2:6878/ace/getstream?id=
