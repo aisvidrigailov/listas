@@ -502,6 +502,9 @@ https://amg01970-mypadeldigitals-mypadeltv-samsungspain-k7d0l.amagi.tv/playlist/
 http://laligatech-live-usp.akamaized.net/live/wpt01/wpt01.isml/hdntl=exp=1688976166~acl=%2f*~data=hdntl~hmac=7ca942cc2bceba18a02a4915f9f0a490cbf66d4033d1119d440c14cd969c4213/wpt01-audio_track_0_0_spa=96000-video_track=2500000.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="MUTV" tvg-id="ext", MuTV [Manchester United]
+http://192.168.66.2:6878/ace/getstream?id=30447ef0ecb4410d5499eaac68026bf123a7ffa6
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 1080
 http://192.168.66.2:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
 
