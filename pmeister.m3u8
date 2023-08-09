@@ -986,7 +986,7 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/2148
 #EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080 IPTV (07)
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/2148
 #EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080 IPTV (08)
-http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/321071.ts
+http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/550863.ts
 #EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720*
 http://192.168.66.2:6878/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
 #EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720 IPTV
@@ -995,6 +995,10 @@ http://31.43.191.49:25461/Dominique/q6RhSRgBgG/3619
 http://31.43.191.49:25461/okyanus54/trmpurur76ZHRE/3619
 #EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720 IPTV (03)
 http://31.43.191.49:25461/mihammadashan/5F9wRNUW990/3619
+#EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720 IPTV (04)
+http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/563579.ts
+#EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ #Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 720 IPTV (05)
+http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/538744.ts
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas #V HD" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V 1080
 http://192.168.66.2:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Ellas #V HD" tvg-logo="https://i.postimg.cc/QMs0bDFj/ellas.png" ,ELLAS #V
