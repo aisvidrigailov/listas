@@ -12477,6 +12477,10 @@ http://194539863471279571.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279571.mp4
 http://194539863471279572.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279572.mp4
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/The_Donor_Party-703387806-large.jpg",The Donor Party (2023) 
+http://192.168.66.2:6878/ace/getstream?id=8069347e3f5c2cd9abe555c77836a9eaad743a0b
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Lincessa_Los_silencios_del_bosque-333067069-large.jpg",Lincessa; Los silencios del bosque (2023)
+http://192.168.66.2:6878/ace/getstream?id=92cf4aa6728d752e953ba13e7f884203630672fb
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/devil_s_peak-864900195-mmed.jpg",El pico del diablo (2023)
 http://192.168.66.2:6878/ace/getstream?id=001b58054e838d4a2063210a0539bc5fde071444
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Spider_Man_Cruzando_el_Multiverso-257260163-large.jpg",Spider-Man: Cruzando el Multiverso (2023)
@@ -12541,7 +12545,7 @@ http://192.168.66.2:6878/ace/getstream?id=29421503ffe604ddc3ca3533fad974f6dae1d6
 http://192.168.66.2:6878/ace/getstream?id=9e27c39b1c21ced2787d161277b3b15b8d7a01f9
 #EXTINF:-1,tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2023/7/w1280/4x9u5HsxeSJu9SW9Pf6fVVDPwxv.jpg",Cash (2023)
 http://192.168.66.2:6878/ace/getstream?id=acestream://6ade3b54c67fb7014dacf61373cbb5a6223957a3
-#EXTINF:-1,tvg-logo="https://www.neocine.es/recurso/articulo/fast_and_furious_10_97112.jpg",Fast And Furious X (2023)
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Fast_Furious_X-556821969-large.jpg",Fast And Furious X (2023)
 http://192.168.66.2:6878/ace/getstream?id=68b6a4f18c39f9b97e312ca765606323ca29bdeb
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDQ4ZDA0MjctYTQ5MS00YTQzLTk4YTYtYjI0ZGZiNTA4NzMyXkEyXkFqcGdeQXVyMTY5OTQzNzY@._V1_FMjpg_UX1000_.jpg",Hijos (2023)
 http://192.168.66.2:6878/ace/getstream?id=165a61cf7aa59ee8e4d4baf6dbb5b018d39ec915
