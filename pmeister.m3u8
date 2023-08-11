@@ -505,6 +505,8 @@ http://89.187.169.23:9000/zenigata/zwnkutudtn/60
 http://192.168.66.2:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 multiaudio*
 http://192.168.66.2:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080i multiaudio (A)
+http://192.168.66.2:6878/ace/getstream?id=95b2238dec35cf00dfdf8fba18e9920bc2c56256
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 IPTV (02)
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/157411
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://img.sport-tv-guide.live/images/stations/a2784.png" ,DAZN LaLiga 1080 IPTV (03)
@@ -1022,13 +1024,9 @@ http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/133776
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLigaTV 1080 multiaudio*
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLigaTV 1080 multiaudio (A)
-http://192.168.66.2:6878/ace/getstream?id=88a3a53d66ce2ad83b2601da29c21b1a5c622578
+http://192.168.66.2:6878/ace/getstream?id=731428b18eb656121990261c1b072b13f7caef30
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLigaTV 1080 multiaudio
 http://192.168.66.2:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLigaTV 1080p
-http://192.168.66.2:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLigaTV 1080p Multiliga
-http://192.168.66.2:6878/ace/getstream?id=32e733a096ba11d97f30503571dd91d5c8c53211
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLigaTV 1080 multiaudio IPTV
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/285652
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-1841.png" ,M+ LaLigaTV 1080 multiaudio IPTV (01)
