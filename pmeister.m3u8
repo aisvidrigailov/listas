@@ -965,15 +965,9 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/454215.ts
 http://192.168.66.2:6878/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
 #EXTINF:-1 group-title="Golf" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf 1080
 http://192.168.66.2:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1 group-title="Golf" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf 1080 IPTV (02)
+#EXTINF:-1 group-title="Golf" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf 1080 IPTV
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151451
-#EXTINF:-1 group-title="Golf" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf 1080 IPTV (04)
-http://185.71.64.28:2052/franco/802463478720321/151451
-#EXTINF:-1 group-title="Golf" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf 1080 IPTV (05)
-http://31.42.184.159:2082/LiberoLiberov/gGTXsze5D3gD/135992
-#EXTINF:-1 group-title="Golf" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf 1080 IPTV (06)
-http://31.42.184.159:2082/dsnrrcn/87djD6Sk7hWOy7d/135992
-#EXTINF:-1 group-title="Golf" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf 1080 IPTV (07)
+#EXTINF:-1 group-title="Golf" tvg-id="M+ Golf HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf 1080 IPTV (02)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/268094.ts
 #EXTINF:-1 group-title="Golf" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a69.png" ,Canal Golf (MX) 1080i
 http://45.5.119.155:8000/play/a0h1/index.m3u8
@@ -1411,6 +1405,22 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/297246
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/297246
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="GOL PLAY" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080 IPTV (03)
 http://62.182.83.91:80/protoniom12@1/o4IBsSqT12dfafa@1/14094
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="GOL PLAY" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080 IPTV (04)
+http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/543736.ts
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="GOL PLAY" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080 IPTV (05)
+http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/538757.ts
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="GOL PLAY" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080 IPTV (06)
+http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/340038.ts
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="GOL PLAY" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080 IPTV (07)
+http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/347931.ts
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="GOL PLAY" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080 IPTV (08)
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/133781
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="GOL PLAY" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080 IPTV (09)
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/133795
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="GOL PLAY" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080 IPTV (10)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/133781
+#EXTINF:-1 group-title="Otros contenidos" tvg-id="GOL PLAY" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-gol-369.png" ,GOL TV 1080 IPTV (11)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/133795
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="Historia" tvg-logo="https://i.postimg.cc/13TMkF75/historia.png" ,Historia 720
 http://192.168.66.2:6878/ace/getstream?id=b899f725b8782aa263026b2bfbd43ee1e18482b6
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="La 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" ,La 1 1080*
