@@ -657,6 +657,9 @@ http://192.168.66.2:6878/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/NfXybjP0/match-premier-logo-8-A89-A040-BF-seeklogo-com.png" group-title="RUSIA-РОССИЯ" tvg-id="Okko Sport TV", Okko Sport TV
 http://192.168.66.2:6878/ace/getstream?id=a2af650d4c459435dd3c61ceb1779a0e0b5823be
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfXybjP0/match-premier-logo-8-A89-A040-BF-seeklogo-com.png" group-title="RUSIA-РОССИЯ" tvg-id="Okko Sport TV", Okko Sport TV HD
+http://192.168.66.2:6878/ace/getstream?id=265605cd67a79717a59dd06f43cc29a65e3a99e1
+
 
 #EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 1 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 1 HD (Event Only)
 http://192.168.66.2:6878/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
@@ -837,6 +840,12 @@ http://194539863471554361.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554361.ts
 http://194539863471554362.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554362.ts
 #EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 9 HD
 http://194539863471554363.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554363.ts
+
+#EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="Polonia" tvg-id="Eleven Sports HD", Eleven Sports 1
+http://192.168.66.2:6878/ace/getstream?id=c7696100b1a507ecfe43b4373feabadc02e42d54
+
+#EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="Polonia" tvg-id="Eleven Sports HD", Eleven Sports 1
+http://192.168.66.2:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 
 #EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="Polonia" tvg-id="Eleven Sports 1 4K", Eleven Sports 1 4K
 http://192.168.66.2:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
@@ -12483,6 +12492,14 @@ http://194539863471279571.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279571.mp4
 http://194539863471279572.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279572.mp4
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://i1.wp.com/www.themoviedb.org/t/p/w185/7Hk7in9Vck0tW6KG7LD2l5DrjdB.jpg",Rojo blanco y sangre (2023) 
+http://192.168.66.2:6878/ace/getstream?id=1807ae98aa8bf87234337bada2142516a7bff055
+#EXTINF:-1,tvg-logo="blob:https://web.tel.onl/64c258ce-f076-40a4-af8e-89ca812c1c1d",Agente Stone (2023) 
+http://192.168.66.2:6878/ace/getstream?id=58ee1ed5304ec3ade31b258ac5d1dafe79dce59a
+#EXTINF:-1,tvg-logo="https://cineclubsitges.com/wp-content/uploads/2023/05/Si-quiero-Prado.jpg",Si quiero o no (2023) 
+http://192.168.66.2:6878/ace/getstream?id=df56913a13f4919b30ee41aa4ab66267db6b4dab
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/marlowe-770445566-large.jpg",Marlowe (2023) 
+http://192.168.66.2:6878/ace/getstream?id=f59f1d3cd5c91242f2c7cb5ef4a93108cf2144f9
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/The_Donor_Party-703387806-large.jpg",The Donor Party (2023) 
 http://192.168.66.2:6878/ace/getstream?id=8069347e3f5c2cd9abe555c77836a9eaad743a0b
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Lincessa_Los_silencios_del_bosque-333067069-large.jpg",Lincessa; Los silencios del bosque (2023)
