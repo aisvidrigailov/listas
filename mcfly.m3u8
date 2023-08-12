@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", @barcoproxy
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", Encuentranos en @barcoproxy
 https://t.me/barcoproxy
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi
@@ -86,6 +86,9 @@ http://31.42.184.159:2082/dsnrrcn/87djD6Sk7hWOy7d/135972
 http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/165365.ts
 
 
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi By Alex
+http://192.168.66.2:6878/ace/getstream?id=731428b18eb656121990261c1b072b13f7caef30
+
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
@@ -121,6 +124,9 @@ http://192.168.66.2:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b5
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="LaLiga TV BAR HD", M.LigaTv Bar 1080
 http://192.168.66.2:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi By Alex
+http://192.168.66.2:6878/ace/getstream?id=95b2238dec35cf00dfdf8fba18e9920bc2c56256
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
