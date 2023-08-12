@@ -1218,7 +1218,7 @@ http://62.197.129.85:8080/HernandezJoel/202022/163240
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://i.postimg.cc/Dzk5jjcH/hyper2.png" ,M+ LaLiga Hypermotion 2 1080 IPTV (12)
 http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/163240
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 HD" tvg-logo="https://i.postimg.cc/Dzk5jjcH/hyper2.png" ,M+ LaLiga Hypermotion 2 720
-http://192.168.66.2:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+http://192.168.66.2:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.postimg.cc/8cgS1QLG/hyper3.png" ,M+ LaLiga Hypermotion 3 1080
 http://192.168.66.2:6878/ace/getstream?id=59ba45b79152e4599144177b234f6491fc19db53
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.postimg.cc/8cgS1QLG/hyper3.png" ,M+ LaLiga Hypermotion 3 1080 IPTV (01)
@@ -1262,7 +1262,7 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/197711
 #EXTINF:-1 group-title="M+ LaLiga TV BAR" tvg-id="LaLiga TV BAR HD" tvg-logo="https://i.postimg.cc/MG75h7PT/tvbar.png" ,M+ LaLiga TV BAR 720 IPTV (07)
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/197711
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080i Multiaudio
-http://192.168.66.2:6878/ace/getstream?id=a4ee6f9590351d2c88c416f9962af82c7e1ce816
+http://192.168.66.2:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080i 
 http://192.168.66.2:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 IPTV Multiaudio
