@@ -511,11 +511,14 @@ http://192.168.66.2:6878/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f
 http://192.168.66.2:6878/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
 
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WTP [IPTV]
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WPT [IPTV]
 https://amg01970-mypadeldigitals-mypadeltv-samsungspain-k7d0l.amagi.tv/playlist/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WTP [IPTV2]
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WPT [IPTV2]
 http://laligatech-live-usp.akamaized.net/live/wpt01/wpt01.isml/hdntl=exp=1688976166~acl=%2f*~data=hdntl~hmac=7ca942cc2bceba18a02a4915f9f0a490cbf66d4033d1119d440c14cd969c4213/wpt01-audio_track_0_0_spa=96000-video_track=2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WPT [IPTV3]
+http://turvqpow.xyz:8080/Juana/Juana/10243
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="MUTV" tvg-id="ext", MuTV [Manchester United]
@@ -12503,7 +12506,7 @@ http://194539863471279572.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279572.mp4
 
 #EXTINF:-1,group-title="Peliculas Acestream"
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/elemental-694000259-large.jpg",Elemental (2023)
-http://192.168.66.2:6878/content/ef451b1b9d7a17c457740687f58d2bc9510b72b6/0.562274913419
+http://192.168.66.2:6878/ace/getstream?id=cf4a58cc584846472c2b9323d7e195839108282b
 #EXTINF:-1,tvg-logo="https://i1.wp.com/www.themoviedb.org/t/p/w185/7Hk7in9Vck0tW6KG7LD2l5DrjdB.jpg",Rojo blanco y sangre (2023) 
 http://192.168.66.2:6878/ace/getstream?id=1807ae98aa8bf87234337bada2142516a7bff055
 #EXTINF:-1,tvg-logo="blob:https://web.tel.onl/64c258ce-f076-40a4-af8e-89ca812c1c1d",Agente Stone (2023) 
