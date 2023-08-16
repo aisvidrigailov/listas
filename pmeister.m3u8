@@ -15,6 +15,46 @@ https://cdn5.lqsa.es/hls/0/stream.m3u8
 https://cdn7.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Series 24h" tvg-logo="https://i.postimg.cc/mgN5QLjs/lqsa.png" ,La que se avecina (Señal #2)
 https://video-weaver.arn03.hls.live-video.net/v1/playlist/Cu4FaYG71bbNhM_IYddrb0nroo7LMpRTMjJNilI6qpz8HxbgB2zBKDKPbXAhs1FDHXCPXM_mimyQ9vSO0r42waWvEu1a9-u1GNJ1dAyV07UZX8QZC_SuloGwUaKDmOfe2WhCx2-pfpE932qmNA2TXFP0khOT_piuxcUG6CqW6d1jOQd7UoHWf_vrGZmEPJO4gpPuQVAwtESP1yVnecuEXQqcZNIv_W7BVbzsGIQ1ncmf26IzUfcdlvPuGxHVwWULHyC3PmwiGwGeefsYbbtVywPj24jEHgZNJbNZUtVtWz-Pt43vfFYnYApgS5qX6Xz9z4CzTz5OSnZcyq7tN4d89y5VZd5-e6NkyUogw-yA9M0_izEvJYpHwZ7LrfPBYJjQXy7D2MCQQ5iEVVJYarV_AmRdjL4KH8AbOYKVJUWWGlu6g4dmdRxYYJtDxnQBJ4GCy8YlOoT_9fAI1mmkByNdMvWUFOTdu9t2ITJ_OC3J4FUXY6AYXLbuw6SCSUUz9atwGEBvDj8KQg0ig8EXClCbT6YEstgiLsrhY2WJSdr8JJBXo20-tUKoOASnNEQ-P5972kY3twA21GVWMWWNQ0okQqtqYnVqPzD_L6WG-JEYL53b2dBG3PBEpD7wU-PHAlo1xjz3X6jHr7KGiSjyyC_PgQw-4RtvwWVHWWWVPaUkq068SnFpRfIlrO2yOzfjgpkakmG89vU9E-AEeeRLox34mubwgaTbsEopCpcldndCn3k5ZVMcntk1uVLfywLGLizKlKUm-efIaptze1CeIynG7rx60Cxbc7V28jW58-YhAdJsHsBEkIDGNZZkxnwSJwwwIAtFf6KZ5YFoq_ChcTkd_LoH_gCOnjNpsjACsxEqv_MvqdlImKdtYJbmiv7z4vKqk5WHMfYFca1gUgMfS9C3DN1UtWdZglnRWmPdhkaP0U5jQ2mkCGCrin8U5v2JhXo1gAnBdhnuxdLBM5jG7sW9Oxwxiy8d0GBiYnilQJIql64YGgwgItDh_RQ-LQv7aKMgASoJZXUtd2VzdC0yMKIH.m3u8
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV IPTV
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/209476
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/209476
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 1 IPTV
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/209475
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 1 IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/209475
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 2 IPTV
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/209491
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 2 IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/209491
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 3 IPTV
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145381
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 3 IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145381
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 4 IPTV
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145382
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 4 IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145382
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 5 IPTV
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193276
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 5 IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193276
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 6 IPTV
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145383
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 6 IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145383
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 7 IPTV
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145385
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 7 IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145385
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 8 IPTV
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145387
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 8 IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145387
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 9 IPTV
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/192838
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 9 IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/192838
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 01 IPTV
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193274
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 01 IPTV (02)
@@ -63,34 +103,6 @@ http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193284
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193285
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 12 IPTV (02)
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193285
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV IPTV
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145381
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV IPTV (02)
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145381
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 1 IPTV
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145382
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 1 IPTV (02)
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145382
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 2 IPTV
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193276
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 2 IPTV (02)
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193276
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 3 IPTV
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145383
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 3 IPTV (02)
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145383
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 4 IPTV
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145385
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 4 IPTV (02)
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145385
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 5 IPTV
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145387
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 5 IPTV (02)
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145387
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 6 IPTV
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/192838
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 6 IPTV (02)
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/192838
 #EXTINF:-1 group-title="4K" tvg-id="ElevenSports1Poland.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a631.png" ,Eleven Sports 1 4K
 http://192.168.66.2:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="4K" tvg-id="SkySportBundesligaUHD.de" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1817.png" ,Sky Sport Bundesliga 4K
@@ -171,8 +183,6 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/64711
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/64711
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (04)
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/88484
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (06)
-http://185.71.64.28:2052/franco/802463478720321/151404
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (08)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151404
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (10)
@@ -183,8 +193,6 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/373766.ts
 http://192.168.66.2:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080
 http://192.168.66.2:6878/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (02)
-http://185.71.64.28:2052/franco/802463478720321/151407
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (03)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151407
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (04)
@@ -215,8 +223,6 @@ http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/157408
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/228393.ts
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 1080 IPTV (10)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/228392.ts
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 1080 IPTV (12)
-http://185.71.64.28:2052/franco/802463478720321/151410
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 1080 IPTV (13)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151410
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 1080 IPTV (14)
@@ -243,8 +249,6 @@ http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/269911
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/88487
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080 IPTV (13)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/228397.ts
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080 IPTV (15)
-http://185.71.64.28:2052/franco/802463478720321/151413
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080 IPTV (16)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151413
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4 1080 IPTV (17)
@@ -375,8 +379,6 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/1672
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/1672
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (07)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151416
-#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (09)
-http://185.71.64.28:2052/franco/802463478720321/151416
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (10)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/165419.ts
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (11)
@@ -529,12 +531,8 @@ http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/157414
 http://192.168.66.2:6878/ace/getstream?id=0950c37fe1ea817fc561c611ae943d58505f7a79
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/DZ5gz2K3/daznll2.png" ,DAZN LaLiga 2 720 IPTV (03)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151339
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/DZ5gz2K3/daznll2.png" ,DAZN LaLiga 2 720 IPTV (05)
-http://185.71.64.28:2052/franco/802463478720321/151339
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/DZ5gz2K3/daznll2.png" ,DAZN LaLiga 2 720 IPTV (06)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151340
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/DZ5gz2K3/daznll2.png" ,DAZN LaLiga 2 720 IPTV (08)
-http://185.71.64.28:2052/franco/802463478720321/151340
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/DZ5gz2K3/daznll2.png" ,DAZN LaLiga 2 720 IPTV (09)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/320780.ts
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://i.postimg.cc/DZ5gz2K3/daznll2.png" ,DAZN LaLiga 2 720 IPTV (10)
@@ -769,8 +767,6 @@ http://192.168.66.2:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b9
 http://212.18.115.61:8000/musmus/DP2Yc3AFzJMb/85802
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080 IPTV (03)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151424
-#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080 IPTV (04)
-http://185.71.64.28:2052/franco/802463478720321/151424
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080 IPTV (05)
 http://37.49.230.42:8080/stadnik/6a627b52a9/1160
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080 IPTV (06)
@@ -819,8 +815,6 @@ http://192.168.66.2:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c
 http://212.18.115.61:8000/musmus/DP2Yc3AFzJMb/85803
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080 IPTV (02)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151427
-#EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080 IPTV (03)
-http://185.71.64.28:2052/franco/802463478720321/151427
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080 IPTV (04)
 http://37.49.230.42:8080/stadnik/6a627b52a9/1159
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-2-616.png" ,EuroSport 2 1080 IPTV (05)
@@ -885,8 +879,6 @@ http://31.42.184.159:2082/LiberoLiberov/gGTXsze5D3gD/135982
 http://31.42.184.159:2082/dsnrrcn/87djD6Sk7hWOy7d/135982
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ Deportes 2 1080 IPTV (14)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151433
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ Deportes 2 1080 IPTV (15)
-http://185.71.64.28:2052/franco/802463478720321/151433
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M+ Deportes 3 1080
 http://192.168.66.2:6878/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M+ Deportes 3 1080 IPTV
@@ -903,8 +895,6 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/340189.ts
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/277443.ts
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M+ Deportes 3 1080 IPTV (11)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151436
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" ,M+ Deportes 3 1080 IPTV (12)
-http://185.71.64.28:2052/franco/802463478720321/151436
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 4 1080
 http://192.168.66.2:6878/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 4 IPTV
@@ -915,8 +905,6 @@ http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/133760
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/463653.ts
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 4 IPTV (07)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151439
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 4 IPTV (08)
-http://185.71.64.28:2052/franco/802463478720321/151439
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5 
 http://192.168.66.2:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5 IPTV
@@ -929,8 +917,6 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/285690
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/285690
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5 IPTV (08)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151442
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5 IPTV (09)
-http://185.71.64.28:2052/franco/802463478720321/151442
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5 IPTV (10)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/463654.ts
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 6 
@@ -945,8 +931,6 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/198066
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/198066
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 6 IPTV (09)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151445
-#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 6 IPTV (10)
-http://185.71.64.28:2052/franco/802463478720321/151445
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 6 IPTV (11)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/454215.ts
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 7 
@@ -1215,8 +1199,6 @@ http://192.168.66.2:6878/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f29
 http://192.168.66.2:6878/ace/getstream?id=59ba45b79152e4599144177b234f6491fc19db53
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.postimg.cc/8cgS1QLG/hyper3.png" ,M+ LaLiga Hypermotion 3 1080 IPTV (01)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151349
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.postimg.cc/8cgS1QLG/hyper3.png" ,M+ LaLiga Hypermotion 3 1080 IPTV (02)
-http://185.71.64.28:2052/franco/802463478720321/151349
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.postimg.cc/8cgS1QLG/hyper3.png" ,M+ LaLiga Hypermotion 3 1080 IPTV (03)
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/157419
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://i.postimg.cc/8cgS1QLG/hyper3.png" ,M+ LaLiga Hypermotion 3 1080 IPTV (04)
@@ -1269,14 +1251,6 @@ http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/157421
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/157421
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080i IPTV Multiaudio (17)
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/14081
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 IPTV Multiaudio (18)
-http://62.197.129.85:8080/flowtvhd/JbCvBidBDt/211507
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 IPTV Multiaudio (19)
-http://62.197.129.85:8080/skytvperu/61DS56165DW1/211507
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 IPTV Multiaudio (20)
-http://62.197.129.85:8080/tv5full/ORuTvDJPer432/211507
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 IPTV Multiaudio (21)
-http://62.197.129.85:8080/Viejo1/hPaUPsnrIX/211507
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 IPTV Multiaudio (22)
 http://62.197.129.85:8080/TvPremiumNelson/uRucSYBC9L/211507
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720*
@@ -1285,12 +1259,8 @@ http://192.168.66.2:6878/ace/getstream?id=90beb42e9e276854348bc91a9ff3c3e46c6174
 http://192.168.66.2:6878/ace/getstream?id=297b513e2999e829d8bc9bd963428ea3d43362db
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720 IPTV Multiaudio (01)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/285651
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720 IPTV Multiaudio (03)
-http://185.71.64.28:2052/franco/802463478720321/285651
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720 IPTV Multiaudio (05)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151365
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 720 IPTV Multiaudio (07)
-http://185.71.64.28:2052/franco/802463478720321/151365
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 1080 Multiaudio
 http://192.168.66.2:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 1080 IPTV
@@ -1299,8 +1269,6 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/81096
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/81096
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 1080 IPTV (04)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151368
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 1080 IPTV (06)
-http://185.71.64.28:2052/franco/802463478720321/151368
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 1080 IPTV (07)
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/81096
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-2-1460.png" ,M+ Liga de Campeones 2 1080 IPTV (08)
@@ -1325,8 +1293,6 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/165365.ts
 http://192.168.66.2:6878/ace/getstream?id=ecf4ec41200785812c140e3d1050b412f1519fa7
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (02)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151371
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (04)
-http://185.71.64.28:2052/franco/802463478720321/151371
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (05)
 http://31.42.184.159:2082/LiberoLiberov/gGTXsze5D3gD/135973
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (06)
@@ -1341,8 +1307,6 @@ http://192.168.66.2:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f
 http://192.168.66.2:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ Liga de Campeones 4 IPTV (01)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151374
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ Liga de Campeones 4 IPTV (03)
-http://185.71.64.28:2052/franco/802463478720321/151374
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ Liga de Campeones 4 IPTV (04)
 http://31.42.184.159:2082/LiberoLiberov/gGTXsze5D3gD/135974
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" ,M+ Liga de Campeones 4 IPTV (05)
@@ -1355,8 +1319,6 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/282473.ts
 http://192.168.66.2:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ Liga de Campeones 5 IPTV (02)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151377
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ Liga de Campeones 5 IPTV (04)
-http://185.71.64.28:2052/franco/802463478720321/151377
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ Liga de Campeones 5 IPTV (05)
 http://31.42.184.159:2082/LiberoLiberov/gGTXsze5D3gD/207553
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-5-1550.png" ,M+ Liga de Campeones 5 IPTV (06)
@@ -1367,16 +1329,12 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/282460.ts
 http://192.168.66.2:6878/ace/getstream?id=e9950ec551124c490ecbc2526a83d2c5a4516293
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" ,M+ Liga de Campeones 6 IPTV (01)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151380
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" ,M+ Liga de Campeones 6 IPTV (03)
-http://185.71.64.28:2052/franco/802463478720321/151380
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 6" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-6-1551.png" ,M+ Liga de Campeones 6 IPTV (05)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/282462.ts
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M+ Liga de Campeones 7
 http://192.168.66.2:6878/ace/getstream?id=d84a90adb6998083403f610ab3fae340b5711b1e
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M+ Liga de Campeones 7 IPTV (01)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151383
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M+ Liga de Campeones 7 IPTV (03)
-http://185.71.64.28:2052/franco/802463478720321/151383
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M+ Liga de Campeones 7 IPTV (04)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/282464.ts
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" ,M+ Liga de Campeones 8
