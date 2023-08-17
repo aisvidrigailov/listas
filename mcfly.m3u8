@@ -412,6 +412,9 @@ http://192.168.66.2:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd66618
 #EXTINF:-1 tvg-id="" tvg-name="TVE1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="TDT", TVE1 HD
 http://192.168.66.2:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 
+#EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-logo="https://www.unedvalencia.es/wordpress/wp-content/uploads/2021/07/la2.png" group-title="TDT", La 2
+http://192.168.66.2:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="M+ Ellas #V HD", Ellas #V
 http://192.168.66.2:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
