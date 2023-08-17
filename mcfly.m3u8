@@ -10,7 +10,7 @@ http://192.168.66.2:6878/ace/getstream?id=acestream://931b1984badcb821df7b47a66a
 http://192.168.66.2:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 720
-http://192.168.66.2:6878/ace/getstream?id=90beb42e9e276854348bc91a9ff3c3e46c617495
+http://192.168.66.2:6878/ace/getstream?id=3caae3914e0a77ddff6940a68e7a5eb9b5b3d9e5
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 UHD", M.Liga De Campeones 2 1080
 http://192.168.66.2:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
@@ -12507,6 +12507,14 @@ http://194539863471279572.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279572.mp4
 #EXTINF:-1,group-title="Peliculas Acestream"
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/elemental-694000259-large.jpg",Elemental (2023)
 http://192.168.66.2:6878/ace/getstream?id=cf4a58cc584846472c2b9323d7e195839108282b
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/nightmare_radio_the_night_stalker-521492497-large.jpg",Nightmare radio (2023)
+http://192.168.66.2:6878/ace/getstream?id=12417552baf65e29cea20d2dd390f8e75652db9c
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/simulant-367266962-large.jpg",Replicantes (2023)
+http://192.168.66.2:6878/ace/getstream?id=91ced1fcd76f2c3fbeae85db7ce00c9557dd63ee
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/En_caaida_libre-356660908-large.jpg",En caída libre (2022)
+http://192.168.66.2:6878/ace/getstream?id=a95589b801e37805961c0f1e9df9a367912a7468
+#EXTINF:-1,tvg-logo="https://media.filmelier.com/tit/iyAl7J/poster/el-final-que-quiero_Al9cKCk.jpeg",El final que quiero (2023)
+http://192.168.66.2:6878/ace/getstream?id=f31a39e3fa1d518c565df4a9f78e4bbf5ee1240c
 #EXTINF:-1,tvg-logo="https://i1.wp.com/www.themoviedb.org/t/p/w185/7Hk7in9Vck0tW6KG7LD2l5DrjdB.jpg",Rojo blanco y sangre (2023) 
 http://192.168.66.2:6878/ace/getstream?id=1807ae98aa8bf87234337bada2142516a7bff055
 #EXTINF:-1,tvg-logo="blob:https://web.tel.onl/64c258ce-f076-40a4-af8e-89ca812c1c1d",Agente Stone (2023) 
