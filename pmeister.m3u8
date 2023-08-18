@@ -259,7 +259,7 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/228398.ts
 http://192.168.66.2:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080
 http://192.168.66.2:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 Multicámara (A)
+#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 Multicámara (Solo evento)
 http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/d3S50qPM/daznf14k.png" ,DAZN F1 4K
 http://192.168.66.2:6878/ace/getstream?id=
@@ -497,7 +497,7 @@ http://89.187.169.23:9000/zenigata/zwnkutudtn/60
 http://192.168.66.2:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/2y6xbPzb/daznll.png" ,DAZN LaLiga 1080 multiaudio*
 http://192.168.66.2:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/2y6xbPzb/daznll.png" ,DAZN LaLiga 1080i multiaudio (A)
+#EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/2y6xbPzb/daznll.png" ,DAZN LaLiga 1080i multiaudio (Temp)
 http://192.168.66.2:6878/ace/getstream?id=95b2238dec35cf00dfdf8fba18e9920bc2c56256
 #EXTINF:-1 group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD" tvg-logo="https://i.postimg.cc/2y6xbPzb/daznll.png" ,DAZN LaLiga 1080 IPTV (02)
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/157411
@@ -829,6 +829,8 @@ http://51.195.58.109:80/s5564/s.500/134251
 http://51.195.58.109:80/nll3747/nl.3747/134251
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080*
 http://192.168.66.2:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080 (Temp)
+http://192.168.66.2:6878/ace/getstream?id=bea74178823e9a3aa3d586146325e836cbd18589
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080 IPTV (02)
 http://37.49.230.42:8080/stadnik/6a627b52a9/227121
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080 IPTV (03)
@@ -965,7 +967,7 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/2146
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/2146
 #EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080*
 http://192.168.66.2:6878/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
-#EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080 (Solo evento)
+#EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080 (Temp)
 http://192.168.66.2:6878/ace/getstream?id=7723ba3af000d47d8de3969ece560416a66a41c7
 #EXTINF:-1 group-title="M+ #Vamos" tvg-id="M+ Vamos HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,M+ #Vamos 1080 IPTV (02)
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/133788
@@ -1013,7 +1015,7 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/556713.ts
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/542877.ts
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/GpCJJBL1/liga1.png" ,M+ LaLigaTV 1080 multiaudio*
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/GpCJJBL1/liga1.png" ,M+ LaLigaTV 1080 multiaudio (A)
+#EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/GpCJJBL1/liga1.png" ,M+ LaLigaTV 1080 multiaudio (Temp)
 http://192.168.66.2:6878/ace/getstream?id=731428b18eb656121990261c1b072b13f7caef30
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV HD" tvg-logo="https://i.postimg.cc/GpCJJBL1/liga1.png" ,M+ LaLigaTV 1080 multiaudio
 http://192.168.66.2:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
@@ -1239,7 +1241,7 @@ http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/197711
 http://192.168.66.2:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080i 
 http://192.168.66.2:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080i Multiaudio (Solo evento)
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080i Multiaudio (Temp)
 http://192.168.66.2:6878/ace/getstream?id=fb854a0da764db77a4b05fb5bf3e41e6d6650909
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 IPTV Multiaudio
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/157420
