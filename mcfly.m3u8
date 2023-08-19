@@ -281,16 +281,10 @@ http://192.168.66.2:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a4034520
 http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", ⏰17.00h Real Sociedad - Celta
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", Evento del momento
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", ⏰19.30h Almeria - Real Madrid
-http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", ⏰21.30h  Osasuna - Atlhetic Club
-http://192.168.66.2:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", 20-08 FC Barcelona - Cadiz ⏰19.30h 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", ⏰19.30h  FC Barcelona - Cadiz
 http://192.168.66.2:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
 
@@ -653,6 +647,39 @@ http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/86913
 http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/86914
 #EXTINF:-1 group-title="NBA" tvg-id="NBALeaguePass3.us" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 10
 http://joao-1-us.mainbkonline.shop:80/02svm7pk/jboim9t0/86915
+#EXTINF:0 tvg-id="ext" group-title="NBA",USA | NBA TV HD
+http://ufospeeds.com:2095/Stuff/8430721285/30266
+#EXTINF:0 tvg-id="ext" group-title="NBA",US: NBA TV
+http://ufospeeds.com:2095/Stuff/8430721285/30267
+#EXTINF:0 tvg-id="ext" group-title="NBA",USA | NBA TV FHD
+http://ufospeeds.com:2095/Stuff/8430721285/30268
+#EXTINF:0 tvg-id="ext" group-title="NBA",USA | NBA TV FHD
+http://ufospeeds.com:2095/Stuff/8430721285/30269
+#EXTINF:0 tvg-id="ext" group-title="NBA",NBA |  ABC
+http://ufospeeds.com:2095/Stuff/8430721285/35422
+#EXTINF:0 tvg-id="ext" group-title="NBA",NBA |  ESPN
+http://ufospeeds.com:2095/Stuff/8430721285/35423
+#EXTINF:0 tvg-id="ext" group-title="NBA",NBA |  NBA TV
+http://ufospeeds.com:2095/Stuff/8430721285/35424
+#EXTINF:0 tvg-id="TNT.us" group-title="NBA",NBA |  TNT
+http://ufospeeds.com:2095/Stuff/8430721285/35425
+#EXTINF:0 tvg-id="ext" group-title="NBA",US TNT (East) (SP)
+http://ufospeeds.com:2095/Stuff/8430721285/37375
+#EXTINF:0 tvg-id="TNT.us" group-title="NBA",US TNT East FHD (Y)
+http://ufospeeds.com:2095/Stuff/8430721285/37380
+#EXTINF:0 tvg-id="ext" group-title="NBA",USA TNT East LHD
+http://ufospeeds.com:2095/Stuff/8430721285/37384
+#EXTINF:0 tvg-id="ext" group-title="NBA",USA TNT East SD
+http://ufospeeds.com:2095/Stuff/8430721285/37385
+#EXTINF:0 tvg-id="ext" group-title="NBA",USA TNT East UHD
+http://ufospeeds.com:2095/Stuff/8430721285/37386
+#EXTINF:0 tvg-id="tnt" group-title="NBA",TNT
+http://ufospeeds.com:2095/Stuff/8430721285/37389
+#EXTINF:0 tvg-id="ext" group-title="NBA",ES:TNT
+http://ufospeeds.com:2095/Stuff/8430721285/37390
+#EXTINF:0 tvg-id="ext" group-title="NBA",USA NBA TV UHD
+http://ufospeeds.com:2095/Stuff/8430721285/37391
+
 
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.webp" group-title="Rumania" tvg-id="Digi Sport 1", Digi Sport 1
 http://192.168.66.2:6878/ace/getstream?id=51cee9d0b29dbd9104e9a3971fd2569419eab159
@@ -1851,8 +1878,12 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321168.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321169.ts
 #EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321170.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD 1
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321172.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD 2
+http://833041393163321172.go30818.xyz:80/play/ja1112257/x$D7fYG@$UW/321172.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD 3
+http://849077177644321172.go30818.xyz:80/play/ja629662/nJKKvC7yRjeK/321172.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CLAN HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321175.ts
 #EXTINF:0 tvg-id="ClassicaHD.es" group-title="ES   MOVISTAR+",ES: CLASSICA HD
@@ -2499,6 +2530,19 @@ http://16692914887339772.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/339772.ts
 http://16692914887339773.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/339773.ts
 #EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO HD
 http://16692914887339777.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/339777.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO WILD FHD
+http://849077177644321364.go30818.xyz:80/play/ja629662/nJKKvC7yRjeK/321364.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO WILD HD
+http://849077177644321365.go30818.xyz:80/play/ja629662/nJKKvC7yRjeK/321365.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NAT GEO SD
+http://849077177644321366.go30818.xyz:80/play/ja629662/nJKKvC7yRjeK/321366.ts
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD FHD
+http://849077177644321368.go30818.xyz:80/play/ja629662/nJKKvC7yRjeK/321368.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC FHD
+http://849077177644321371.go30818.xyz:80/play/ja629662/nJKKvC7yRjeK/321371.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
+http://849077177644321372.go30818.xyz:80/play/ja629662/nJKKvC7yRjeK/321372.ts
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC SD
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NICK JUNIOR FHD
 http://16692914887339778.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/339778.ts
 #EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES   MOVISTAR+",ES: NICKELODEON FHD
@@ -2973,16 +3017,26 @@ http://16692914887558668.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558668.ts
 http://16692914887558669.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558669.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MIRAME TV HD
 http://16692914887558670.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558670.ts
-#EXTINF:0 tvg-id="Viajar.sp" group-title="ES   MOVISTAR+",ES: VIAJAR FHD
+#EXTINF:0 tvg-id="Viajar.sp" group-title="ES   MOVISTAR+",ES: VIAJAR FHD 1
 http://16692914887558674.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558674.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE FHD
+#EXTINF:0 tvg-id="Viajar.sp" group-title="ES   MOVISTAR+",ES: VIAJAR FHD 2
+http://833041393163558674.go30818.xyz:80/play/ja1112257/x$D7fYG@$UW/558674.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE FHD 1
 http://16692914887559513.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/559513.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + FHD
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE FHD 2
+http://833041393163559513.go30818.xyz:80/play/ja1112257/x$D7fYG@$UW/559513.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + FHD 1
 http://16692914887559514.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/559514.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE HD
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + FHD 2
+http://833041393163559514.go30818.xyz:80/play/ja1112257/x$D7fYG@$UW/559514.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE HD 1
 http://16692914887561133.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/561133.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE SD
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE HD 2
+http://833041393163561133.go30818.xyz:80/play/ja1112257/x$D7fYG@$UW/561133.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE SD 1 
 http://16692914887561134.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/561134.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE SD 2
+http://833041393163561134.go30818.xyz:80/play/ja1112257/x$D7fYG@$UW/561134.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ MUSICA FHD
 http://16692914887561135.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/561135.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ MUSICA HD
@@ -2995,10 +3049,14 @@ http://16692914887561138.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/561138.ts
 http://16692914887563161.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/563161.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG EVENTO 2 SD
 http://16692914887563162.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/563162.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + HD
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + HD 1
 http://16692914887563577.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/563577.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + SD
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + HD 2
+http://833041393163563577.go30818.xyz:80/play/ja1112257/x$D7fYG@$UW/563577.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + SD 1
 http://16692914887563578.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/563578.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ PLUS + SD 2
+http://833041393163563578.go30818.xyz:80/play/ja1112257/x$D7fYG@$UW/563578.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL SIERRA DE CADIZ HD
 http://16692914887565526.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/565526.ts
 
@@ -3267,72 +3325,102 @@ http://172.93.111.179:8080/sergioarayacas/SergioWh6/193274
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193274
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 01 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193274
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 01
+http://ufospeeds.com:2095/Stuff/8430721285/32778
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 02 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193275
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 02
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193275
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 02 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193275
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 02
+http://ufospeeds.com:2095/Stuff/8430721285/32779
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 03 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193276
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 03
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193276
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 03 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193276
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 03
+http://ufospeeds.com:2095/Stuff/8430721285/32780
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 04 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193277
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 04 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193277
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 04
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193277
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 04
+http://ufospeeds.com:2095/Stuff/8430721285/32781
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 05 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193278
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 05 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193278
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 05
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193278
+EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 05
+http://ufospeeds.com:2095/Stuff/8430721285/32782
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 06 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193279
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 06 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193279
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 06
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193279
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 06
+http://ufospeeds.com:2095/Stuff/8430721285/32783
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 07 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193280
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 07 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193280
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 07
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193280
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 07
+http://ufospeeds.com:2095/Stuff/8430721285/32784
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 08 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193281
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 08 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193281
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 08
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193281
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 08
+http://ufospeeds.com:2095/Stuff/8430721285/32785
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 09 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193282
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 09 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193282
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 09
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193282
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 09
+http://ufospeeds.com:2095/Stuff/8430721285/32786
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 10 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193283
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 10 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193283
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 10
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193283
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 10
+http://ufospeeds.com:2095/Stuff/8430721285/32787
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 11 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193284
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 11 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193284
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 11
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193284
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 11
+http://ufospeeds.com:2095/Stuff/8430721285/32788
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 12 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/193285
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 12 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/193285
 #EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 12
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/193285
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 12
+http://ufospeeds.com:2095/Stuff/8430721285/32789
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 13
+http://ufospeeds.com:2095/Stuff/8430721285/32790
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 14
+http://ufospeeds.com:2095/Stuff/8430721285/32791
+#EXTINF:-1 group-title="MLS" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 15
+http://ufospeeds.com:2095/Stuff/8430721285/32792
 
 #EXTINF:-1 group-title="AppleTV" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/145381
@@ -3362,6 +3450,127 @@ http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/145387
 http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/192838
 #EXTINF:-1 group-title="AppleTV" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 6 
 http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/192838
+
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Toronto Blue Jays (TOR) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34518
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Texas Rangers (TEX) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34519
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Tampa Bay Rays (TBR) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34520
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB St. Louis Cardinals (STL) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34521
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Seattle Mariners (SEA) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34522
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB San Francisco Giants (SFG) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34523
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB San Diego Padres (SDP) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34524
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Pittsburgh Pirates (PIT) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34525
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Philadelphia Phillies (PHI) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34526
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Oakland Athletics (OAK) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34527
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB New York Yankees (NYY) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34528
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB New York Mets (NYM) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34529
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Washington Nationals (WAS) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34530
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Minnesota Twins (MIN) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34531
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Milwaukee Brewers (MIL) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34532
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Los Angeles Dodgers (LAD) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34533
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Kansas City Royals (KCR) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34534
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Houston Astros (HOU) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34535
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Miami Marlins (MIA) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34536
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Detroit Tigers (DET) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34537
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Colorado Rockies (COL) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34538
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Cleveland Guardians (CLE) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34539
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Cincinnati Reds (CIN) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34540
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Chicago White Sox (CHW) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34541
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Chicago Cubs (CHC) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34542
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Boston Red Sox (BOS) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34543
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Baltimore Orioles (BAL) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34544
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Atlanta Braves (ATL) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34545
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Arizona Diamondbacks (ARI) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34546
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Los Angeles Angels (LAA) (F)
+http://ufospeeds.com:2095/Stuff/8430721285/34547
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Arizona Diamondbacks (ARI) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34548
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Atlanta Braves (ATL) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34549
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Baltimore Orioles (BAL) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34550
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Boston Red Sox (BOS) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34551
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Chicago Cubs (CHC) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34552
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Cincinnati Reds (CIN) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34553
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Cleveland Guardians (CLE) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34554
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Colorado Rockies (COL) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34555
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Chicago White Sox (CHW) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34556
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Detroit Tigers (DET) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34557
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Houston Astros (HOU) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34558
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Kansas City Royals (KCR) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34559
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Los Angeles Angels (LAA) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34560
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Los Angeles Dodgers (LAD) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34561
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Miami Marlins (MIA) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34562
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Milwaukee Brewers (MIL) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34563
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Minnesota Twins (MIN) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34564
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB New York Mets (NYM) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34565
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB New York Yankees (NYY) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34566
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Oakland Athletics (OAK) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34567
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Philadelphia Phillies (PHI) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34568
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Pittsburgh Pirates (PIT) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34569
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB San Diego Padres (SDP) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34570
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Seattle Mariners (SEA) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34571
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB San Francisco Giants (SFG) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34572
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB St. Louis Cardinals (STL) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34573
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Tampa Bay Rays (TBR) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34574
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Texas Rangers (TEX) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34575
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Toronto Blue Jays (TOR) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34576
+#EXTINF:0 tvg-id="ext" group-title="MLB TEAMS (VIP)",MLB Washington Nationals (WAS) (D)
+http://ufospeeds.com:2095/Stuff/8430721285/34577
 
 #EXTINF:0 tvg-id="ext" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 1 FHD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/267808.ts
