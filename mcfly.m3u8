@@ -281,19 +281,13 @@ http://192.168.66.2:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a4034520
 http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", 18-08 Mallorca - Villareal ⏰19.30h 
-http://192.168.66.2:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", 18-08 Valencia - Las Palmas ⏰21.30h
-http://192.168.66.2:6878/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
-
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", 19-08 Real Sociedad - Celta ⏰17.00h
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", ⏰17.00h Real Sociedad - Celta
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", 19-08 Almeria - Real Madrid ⏰19.30h
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", ⏰19.30h Almeria - Real Madrid
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", 19-08 Osasuna - Atlhetic Club ⏰21.30h 
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", ⏰21.30h  Osasuna - Atlhetic Club
 http://192.168.66.2:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", 20-08 FC Barcelona - Cadiz ⏰19.30h 
@@ -541,6 +535,9 @@ http://turvqpow.xyz:8080/Juana/Juana/10243
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="MUTV" tvg-id="ext", MuTV [Manchester United]
 http://192.168.66.2:6878/ace/getstream?id=30447ef0ecb4410d5499eaac68026bf123a7ffa6
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 1080i Alex
+http://192.168.66.2:6878/ace/getstream?id=bea74178823e9a3aa3d586146325e836cbd18589
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 1080
 http://192.168.66.2:6878/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
@@ -1615,8 +1612,8 @@ https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Ct0ERhTkXNerjsZK_3JDdKMXN20
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 18-08
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtwEKPROXudSey_r10yLBRzCp1gHB1gQ_kUEGySGQI6Z66OSngFU7iCIFaCQpmrynqEET7f63amv34pjnXtidIX6OELAyDnDmYPWrgaPsgoL106Cdx19jDhNpHDMoWZE03ZxUMXi20p51iJ_Kll8A3o1goq3jo9x0momrsN0lqhlcBbN8ScI_NsRfWPV-uUXbZaP8KYwR4Ym78bmc5ugHV2d00KEWA0I0WLSOVg6w3B9pbuhfEY7tg26-52QoGIkBJlcefcjncEE5WV_xQlqS8ODwztGccYcleXr0PXQm0tZybvjRapjNvQFdZfL4-Gownmrst10PQNH0sFh4iuU0ldEe1Tg4qhCJNdQo0DDTLdscBF_3x46J30_tb8wErdjnV4siQP6LIABTsIvEISoJKRHK6EQ98s8AIF0j3xbzo3d154rc52Oyh5_-OTkYHv4SNeI4i3FjZjpJDU841lind57EWkUX9SM8t3wZZWU5tSPUwRaIAN7FivqV3cQIr5gl57PGl33Ktaocd8donrewTcspJALXUzRbIH-2fSyG5Evi1Jd4LWgJWWerXr4yh-sA-HC9837qPgMq2mepI9yQwsd_aY-ewoLZca2QIqILI3sC90DsMJQ61KMAz80RqCG-PNrgH03k7gGU6AHoNvnfdgSRzyTwYAVBObUzIOnDMrp0MeR63-LQFqhm3kP65LHBOuB746osIWiF7Qh8SzzySTBB6JWA7NKPPMCDyuUhTDXdRAxoXntkALnw0ctPuFTCUDVLLrNJJGiAp0B4TwtyOeankL1GSthbhQ5fNLLLRoMlSy0F2F1eI71_fQdIAEqCWV1LXdlc3QtMjCoBw.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 01-08
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrgEyVtlEyM35KI1DsTyVF6LJtbD2Tqw82D_ZyV-bl46f4_vUrj2ygGCg6-Mz3aCsveP_hfDr8bXyN4ztv41RlENo4aXd1zHgZhqDnfBKmcf9T-wrmOk_oBkdcoyM8whBEY392SUe27ETmnpV8qKhlNCzCreYVbJvCnVilpkrNoGdGun-TD5jCi6Anp7oA8QFFX1qp7ynwlO586yPs09mtzfWRt_3PYBNUA0QpU12KD1STotfKqA1F-vUg3DgCndmA9QBzJM2KvVtKvwyGhgpFh7xKfNErE7_F9CQoi4RaxP2o4kObYFnYhZLg8kHbcEiEpC4oogklJ88njwrZdaR0pd4fdv8TxuyXOQJBNk97_dE823McTXCFZ7mSUSmhaOHkav-mrLun8qHXglD3zol9QtpWi2W7CSYYqcf7QlBbqcUQO_0Z1Jzf10xs8IV7Ek-LoydyaMcmtkeabrL1MWosCRmijQljbE40GF1ioAgVGnqFEpYThsMPXGdmL-KmiQn3KEhik2j3ilS_0Eeg2r-rZ6gSvbj5o5Eqgt-ACHfdN6LP4A6TFc5TrkLA-oCBtJxfl5ki6QjmY2UdmWSR47Z9rUOZoQDht9uf1pc7EJK0PXuI_V5ntJBI3PVeyVdwJAmrOB4tWSUsSx05VzmX-QlKdygcg0H8b8AICR98snBV1KexKXtjgpuGxVLT-RJawEWnXatznUgPXcdGq8ebK1ivj9-1DCHKlV4HPie84pW0-OnKBzkQaVns8qxBoMCz8aRR9XMb1-yox7IAEqCWV1LXdlc3QtMjCXBw.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", AgoraFutbol 19-08
+https://video-weaver.mad02.hls.ttvnw.net/v1/playlist/Cq8Gaf7_cSLD0c6pKZro75HYN5BsAM3O5_I2_O7s5P849lyKSv9-fAHTsSCMXcPxpoRJb9mTv_zW6idkrFXcEzlyyc_yMOur8VVLyOPYy-GFzybjXbxJnjZS1i8qfU4SGYzgbT90EhWMxE4N6HwJ3OtPupHgkXc_61K6BNDtHAxHnabFOfZUCRWDLfzS_5XDNMfRI-34U5Vsevulj0fdETYUyqOlMQRTPsrZjEFTh6R3bKc6MQAFXmOHffeGuI18WUsS3rdlUGDgt7Bd2hbCfplzT0mLRjKRDlUQUHSEiQhzi15iFiae-Gn2josDZcUVNwwmAV-hmr26aCzlgjJYq3bMogSCrvRb3ZZ7WwH27h_48K5j6YlGgufJrmDWc2blKayJ-VhWGLvPEsjLuDQ772Q4HHism6pGvtL6Ehzjtcy634_tf4Q7T5Gm564I6XNcBo62oQ4dC5q245gFxjWxfKEDZfqMn-4T4UqvAzOwDMNcVXcdnDQylcAXG0ELV1sQxyePMDetHX5WUugFSH0hgR7T9jqmK38kGleDjgsMjWLvL1oJ6f5y1XaJaCqB0ST22pW-q1f6_2RV3Z6XfLkcbdGfV5nKp56D3qQnLJtM54wk1CdZc_HSfroAhkle0CDYD3Ou1s615YtTqe0iwLKuqEoj2nmwTaxL-apRPttzlivvxEFuNOmE6gsM-_5Dh86vr-A1jIMCTB8chACWebSGASPiZbdDY4xuSO7GvYIK5u7GKbhII4My5OMLHOU54UjiAG2bMoPJ3gwsmRosfDwiOG47-ISkQeyPcX49uEHtV3i3s2qhGt0ffczqbjUCUYN00kGjZqZ_G4BOczhVnjwiu7g8pAV7rb667l1Bchc-wLQvZI6FpOfImX0KLxWeF_5NmcT2x306Tgb1Cx-tyL-CR7kIakWFk0lIlOwtMFUmf4cC4KpoSnw2WnwOY-bhkqrwXgPeX9RTAusxghV4p518PgukDuAF-eqkBqzrdGhVjvQQ8sxEhRdgS9tRfZPlN9WNXpd9rVeG6kphJEgT-sAmBvEr1OioK0Ff3GCLvGDsOxnRy4QzatajeJiYbfEiQePSnmsaDHSntvhj7utNdDPaVyABKglldS13ZXN0LTIwqQc.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="ES INSTAT INSPORTS",ES: INSTAT 01 FHD (Solo Eventos)
@@ -1713,7 +1710,7 @@ http://398538678963381751.ofio.xyz:80/play/Benicarlo/Paco/381751.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="Melilla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Melilla TV
 https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Canal Extremadura Sat" tvg-name="Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal Extremadura
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
 
 #EXTINF:0 tvg-id="ClanTVE.es" group-title="Movistar TDT",ES | Clan TVE
@@ -1724,6 +1721,9 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
 #EXTINF:0 tvg-id="Mega" group-title="Movistar TDT",ES | Mega
 http://fireott.biz:2052/802411455218374/802497856238254/96443
+
+#EXTINF:-1 tvg-id="ext" tvg-name="CMM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/125px-CMMedia.svg.png" group-title="Movistar TDT", CMM TV
+https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 #EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 FHD
 http://605556319856321276.of3805.xyz:80/play/jj08182/3184268591/321276.ts
@@ -12523,6 +12523,12 @@ http://194539863471279571.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279571.mp4
 http://194539863471279572.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279572.mp4
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/alguien_que_cuide_de_mi-266384141-mmed.jpg",Alguien que cuide de mí (2023)
+http://192.168.66.2:6878/ace/getstream?id=542211962f4a8de1e9bbb72dbd9192425894583c
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/les_petites_victoires-499377721-mmed.jpg",Las pequeñas victorias (2023)
+http://192.168.66.2:6878/ace/getstream?id=f45390c402a72d66ef6f2083edf339173699d383
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/foodies-944385861-mmed.jpg",Foodies (2022)
+http://192.168.66.2:6878/ace/getstream?id=79fcf23d854d2fff533b0547c1c85937d8f16ccd
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/elemental-694000259-large.jpg",Elemental (2023)
 http://192.168.66.2:6878/ace/getstream?id=cf4a58cc584846472c2b9323d7e195839108282b
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/nightmare_radio_the_night_stalker-521492497-large.jpg",Nightmare radio (2023)
