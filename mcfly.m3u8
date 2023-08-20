@@ -281,11 +281,10 @@ http://192.168.66.2:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a4034520
 http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", Evento del momento
-http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
-
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", ⏰19.30h  FC Barcelona - Cadiz
 http://192.168.66.2:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", ⏰21.30h  Betis - Atletico de Madrid
+http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 
 #EXTINF:-1 group-title="Movistar Plus" tvg-id="Movistar Plus+ HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png" ,Movistar Plus+ 1080
@@ -1636,8 +1635,8 @@ http://192.168.66.2:6878/ace/getstream?id=08055d9e1e149ae23c6c1ae0a25bff8b18ffb5
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 25-07
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Ct0ERhTkXNerjsZK_3JDdKMXN20-uJFORbuUOsO_fpLfqTbiRCMhKWguqlZNI732L-WFQJWnOKag3W4RYcFC-KABWygphcYj5wpP2siwsIuLPnLiAd5YPpD0QeyYpw-OpI2QNaxGyNXRX66gVkJctCX2cUb548oqWS8DSuo0R93al4hoGzwC28x80_DONpv4bvcG0pay84pvD5msGqqQKtGZyIGX2pwB4EnSykz0rWRiSdNlTNR_3817JzHKxnvwWlqe4HHE5MNgIZmnPp9lGTNwS73MF1Euiy_TyEN_2XirpdGzi-FMWynr7ZfPWoQLY9nckvR0J-FUirqjwUDfEKvI7kCc8V_RyQmr5SGKhpO3VKKTzS5zN4V-AHdOSyl67tLTCWI8D-GNKqgoy7DqHBdU96mXdpT2yTEir8vfT4bPJsZZYs3oePuyjTBK3PpimrbFCnpx6L5h01rAGfeP4e8ZYsBnUgdJKRAmCRkYYtEzBCEvB0TNv0pF2KelvLz2m4q11nT4qMgWhiQCaF2ilxmLLPmSJmWyqstJTcMOVb-qwaAFWpcXBG00XBBHZtwWHT0zThm2yX_SJyzrCxDaajBk92VoqEQpaich8TwcFfapugI32MqNMtFwPVPqaLM5Z52npYaEeUyZ3lY62PKivsOWHJCLWD09P1DlHrOEoYP9ddwSPTrwXqQYn4RIH3ihylZCDB01x6bdpEkM4D984fWp-a0Xf07J_p5FJdiwqKJPnenLSaurVMVqTMujjfuMQCruXpor7Byxm63fwHp5_ia5QCOK6eVKT0HyOcA9DnkaDBGGqxLVu_2WiC0kriABKglldS13ZXN0LTIwoAc.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 18-08
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtwEKPROXudSey_r10yLBRzCp1gHB1gQ_kUEGySGQI6Z66OSngFU7iCIFaCQpmrynqEET7f63amv34pjnXtidIX6OELAyDnDmYPWrgaPsgoL106Cdx19jDhNpHDMoWZE03ZxUMXi20p51iJ_Kll8A3o1goq3jo9x0momrsN0lqhlcBbN8ScI_NsRfWPV-uUXbZaP8KYwR4Ym78bmc5ugHV2d00KEWA0I0WLSOVg6w3B9pbuhfEY7tg26-52QoGIkBJlcefcjncEE5WV_xQlqS8ODwztGccYcleXr0PXQm0tZybvjRapjNvQFdZfL4-Gownmrst10PQNH0sFh4iuU0ldEe1Tg4qhCJNdQo0DDTLdscBF_3x46J30_tb8wErdjnV4siQP6LIABTsIvEISoJKRHK6EQ98s8AIF0j3xbzo3d154rc52Oyh5_-OTkYHv4SNeI4i3FjZjpJDU841lind57EWkUX9SM8t3wZZWU5tSPUwRaIAN7FivqV3cQIr5gl57PGl33Ktaocd8donrewTcspJALXUzRbIH-2fSyG5Evi1Jd4LWgJWWerXr4yh-sA-HC9837qPgMq2mepI9yQwsd_aY-ewoLZca2QIqILI3sC90DsMJQ61KMAz80RqCG-PNrgH03k7gGU6AHoNvnfdgSRzyTwYAVBObUzIOnDMrp0MeR63-LQFqhm3kP65LHBOuB746osIWiF7Qh8SzzySTBB6JWA7NKPPMCDyuUhTDXdRAxoXntkALnw0ctPuFTCUDVLLrNJJGiAp0B4TwtyOeankL1GSthbhQ5fNLLLRoMlSy0F2F1eI71_fQdIAEqCWV1LXdlc3QtMjCoBw.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 20-08
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Ct0ExE-Lws3awHbuP2Xb7xVKbrwQUcYGtnWn38_W37VHOuUnTChntml8MjipOG764VBigddsa4eicM8iaBl4rW7cbHI9A5KImogBp5RaHrMGiLWMdhsGPFbZ7jASPoPB6pOFZPOyt_ITnI4V_cewvHHHfLnuRNhRrWH-BTM69wLq_nrqWBmchOcHqZXAEZYjMd0599tEEIr1eF1z0CP5e3b8_6omPZ7EIV10xk8gewIqC_zBFWuKP3HWgYBuSPMJgujVFLxirilyebTOptzM6smnKunLvvcUFWjP3EZHR1hSezLACQkI8NAT27I75c--nmFuF9lxQmx7wd47XztBmzx2e-S7nlegrAnxZ92EpbE2f6oi76OGFv3X4Nn8MpTgDRsy6_Z2lam58afXEaqHtb3RuKbvjNVHLYGQg0sIznjwYKZFlgVXG4x2eBxhbmKdfE4KTmQlB_Dxht2Hi0N4hL2Kzzvnnl6QxjA0JavMnZSLkqSW1Fxsb_GmFEIWBDUnJnAA0BJn-JMr2kUIXNXFuQx31_fGnwoBCtS9ikBtU841H0-XFNvGNX12cBKhg4vCtrfeznyeImyPMgqc0e1INV7sCxVFeJmUgbOGI8f9n73eu1oJOse6RRKNW6-eavf-hDqqZVS6ZofzppHODb47zgGFBrK5QkBUryEZ5pnY-DjPAK5YmyKAt9gnwYKnhdym2h7yoPWuiT7pxuHHA3k6-BPCZsBxwSRXcmgNSyPU-oLRccPAbf5gp_-76hazxvxRe98bkS3wRGF-Sju221QY1BZMuNLPaO3gIbmOsfqBZNEaDMHh1W3LdQNiy_F1OiABKglldS13ZXN0LTIwqgc.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", AgoraFutbol 19-08
 https://video-weaver.mad02.hls.ttvnw.net/v1/playlist/Cq8Gaf7_cSLD0c6pKZro75HYN5BsAM3O5_I2_O7s5P849lyKSv9-fAHTsSCMXcPxpoRJb9mTv_zW6idkrFXcEzlyyc_yMOur8VVLyOPYy-GFzybjXbxJnjZS1i8qfU4SGYzgbT90EhWMxE4N6HwJ3OtPupHgkXc_61K6BNDtHAxHnabFOfZUCRWDLfzS_5XDNMfRI-34U5Vsevulj0fdETYUyqOlMQRTPsrZjEFTh6R3bKc6MQAFXmOHffeGuI18WUsS3rdlUGDgt7Bd2hbCfplzT0mLRjKRDlUQUHSEiQhzi15iFiae-Gn2josDZcUVNwwmAV-hmr26aCzlgjJYq3bMogSCrvRb3ZZ7WwH27h_48K5j6YlGgufJrmDWc2blKayJ-VhWGLvPEsjLuDQ772Q4HHism6pGvtL6Ehzjtcy634_tf4Q7T5Gm564I6XNcBo62oQ4dC5q245gFxjWxfKEDZfqMn-4T4UqvAzOwDMNcVXcdnDQylcAXG0ELV1sQxyePMDetHX5WUugFSH0hgR7T9jqmK38kGleDjgsMjWLvL1oJ6f5y1XaJaCqB0ST22pW-q1f6_2RV3Z6XfLkcbdGfV5nKp56D3qQnLJtM54wk1CdZc_HSfroAhkle0CDYD3Ou1s615YtTqe0iwLKuqEoj2nmwTaxL-apRPttzlivvxEFuNOmE6gsM-_5Dh86vr-A1jIMCTB8chACWebSGASPiZbdDY4xuSO7GvYIK5u7GKbhII4My5OMLHOU54UjiAG2bMoPJ3gwsmRosfDwiOG47-ISkQeyPcX49uEHtV3i3s2qhGt0ffczqbjUCUYN00kGjZqZ_G4BOczhVnjwiu7g8pAV7rb667l1Bchc-wLQvZI6FpOfImX0KLxWeF_5NmcT2x306Tgb1Cx-tyL-CR7kIakWFk0lIlOwtMFUmf4cC4KpoSnw2WnwOY-bhkqrwXgPeX9RTAusxghV4p518PgukDuAF-eqkBqzrdGhVjvQQ8sxEhRdgS9tRfZPlN9WNXpd9rVeG6kphJEgT-sAmBvEr1OioK0Ff3GCLvGDsOxnRy4QzatajeJiYbfEiQePSnmsaDHSntvhj7utNdDPaVyABKglldS13ZXN0LTIwqQc.m3u8
@@ -1696,10 +1695,10 @@ http://16692914887328845.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/328845.ts
 
 
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", LA 1
-http://525000925616321276.of2304.xyz:80/play/vi924002/9565509818/321276.ts
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar TDT", LA 2 HD
-http://525000925616321279.of2304.xyz:80/play/vi924002/9565509818/321279.ts
+https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_720.m3u8
 
 #EXTINF:-1 tvg-id="TV3 HD" tvg-name="TV3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", TV3 HD
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
