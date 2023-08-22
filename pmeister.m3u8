@@ -1371,15 +1371,19 @@ http://31.42.184.159:2082/dsnrrcn/87djD6Sk7hWOy7d/135972
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/165365.ts
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080*
 http://192.168.66.2:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (01)
+http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/157426
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (02)
+http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/157426
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (03)
 http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151371
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (04)
+http://37.49.230.42:8080/stadnik/6a627b52a9/298805
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (05)
-http://31.42.184.159:2082/LiberoLiberov/gGTXsze5D3gD/135973
+http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/298805
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (06)
-http://31.42.184.159:2082/dsnrrcn/87djD6Sk7hWOy7d/135973
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (07)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/282470.ts
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (08)
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 1080 IPTV (07)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/282471.ts
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" ,M+ Liga de Campeones 3 720
 http://192.168.66.2:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
