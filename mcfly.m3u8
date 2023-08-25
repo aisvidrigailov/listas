@@ -52,11 +52,12 @@ http://192.168.66.2:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f12
 http://192.168.66.2:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
 
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD", Champions Tour 1080
-http://192.168.66.2:6878/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+#EXTINF:-1 tvg-logo="https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_PR_Talento_0fc53286f5.png" group-title="Gol Mundial" tvg-id="Gol Mundial HD", Gol Mundial 2
+http://192.168.66.2:6878/ace/getstream?id=a248e0e3649b135d3e3a806874153f8bccd32e4a
 
-#EXTINF:-1 tvg-logo="https://satcesc.com/wp-content/uploads/2023/07/Champions-Tour.jpg" group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour 2 HD", Champions Tour 720
-http://192.168.66.2:6878/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+#EXTINF:-1 tvg-logo="https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_PR_Talento_0fc53286f5.png" group-title="Gol Mundial" tvg-id="Gol Mundial HD", Gol Mundial 4
+http://192.168.66.2:6878/ace/getstream?id=2288e220d02b9d0364a95a36087a45d9ecb9e2b4
+
 
 #EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV
 http://37.49.230.42:8080/stadnik/6a627b52a9/81096
