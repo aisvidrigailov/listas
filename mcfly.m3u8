@@ -285,8 +285,8 @@ http://192.168.66.2:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a4034520
 http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN F1 HD", F1
-https://nes05.quest123.top:8088/live/hdfhdfh7vgdfhdfgmm/playlist.m3u8?vidictid=195957667353&id=119515&pk=22fea641c0d740a4bcaf0e0d5192fd7319868cad4ad28758433c7c81731716cf517a97be80b88d75069a66824c1e62a1912a6c3cab044e8d8845d6ae06bab1cd
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Eurosport 1 HD", Boxeo USYK vs DUBOIS
+http://192.168.66.2:6878/ace/getstream?id=309380b5a2c02184f777826b6f1b1a81ac381b86
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento", Evento del momento
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
@@ -3042,116 +3042,401 @@ http://833041393163563578.go30818.xyz:80/play/ja1112257/x$D7fYG@$UW/563578.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL SIERRA DE CADIZ HD
 http://16692914887565526.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/565526.ts
 
+#EXTINF:0 tvg-id="ETB1.es" group-title="ES AUTONOMICOS",ES: ETB 1 SD
+http://16692914887165332.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165332.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ETB 2 HD
+http://16692914887165333.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165333.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 7 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165298.ts
-#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: RTVCE FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165312.ts
+http://16692914887165298.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165298.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: MELILLA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165328.ts
-#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ETB 1 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165332.ts
-#EXTINF:0 tvg-id="ETB2.es" group-title="ES AUTONOMICOS",ES: ETB 2 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165333.ts
-#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: À PUNT HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165348.ts
+http://16692914887165328.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165328.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: RTVCE FHD
+http://16692914887165312.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165312.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELEMADRID FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165351.ts
+http://16692914887165351.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165351.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: À PUNT HD
+http://16692914887165348.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165348.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 25 TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272431.ts
+http://16692914887272431.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272431.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 7 TELEVALENCIA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272434.ts
+http://16692914887272434.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272434.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ALGECIRAS TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272436.ts
+http://16692914887272436.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272436.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ALTERNATIVA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272437.ts
+http://16692914887272437.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272437.ts
 #EXTINF:0 tvg-id="AragonTVsat.sp" group-title="ES AUTONOMICOS",ES: ARAGON TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272438.ts
+http://16692914887272438.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272438.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: BON DIA CATALUÑA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272439.ts
+http://16692914887272439.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272439.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: BON DIA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272440.ts
+http://16692914887272440.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272440.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CADENA ELITE HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272441.ts
+http://16692914887272441.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272441.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL 25 BARBASTRO TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272442.ts
+http://16692914887272442.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272442.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL COSTA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272445.ts
+http://16692914887272445.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272445.ts
 #EXTINF:0 tvg-id="CanalExtremadura.es" group-title="ES AUTONOMICOS",ES: CANAL EXTREMADURA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272446.ts
+http://16692914887272446.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272446.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL MALAGA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272447.ts
+http://16692914887272447.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272447.ts
 #EXTINF:0 tvg-id="CanalSur.es" group-title="ES AUTONOMICOS",ES: CANAL SUR SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272448.ts
+http://16692914887272448.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272448.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL TARONJA OSONA I MOIANï¿½S HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272449.ts
+http://16692914887272449.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272449.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CCMA EXCLUSIU 1 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272450.ts
+http://16692914887272450.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272450.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CCMA EXCLUSIU 2 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272451.ts
+http://16692914887272451.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272451.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: DISTRITO TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272453.ts
+http://16692914887272453.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272453.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ERLO TELEBISTA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272454.ts
+http://16692914887272454.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272454.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LEVANTE TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272458.ts
+http://16692914887272458.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272458.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LOGOS TV FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272459.ts
+http://16692914887272459.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272459.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: MARBELLA TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272460.ts
+http://16692914887272460.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272460.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: MOLA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272461.ts
+http://16692914887272461.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272461.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: NOROESTE TV FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272462.ts
+http://16692914887272462.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272462.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ONDA CADIZ HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272463.ts
+http://16692914887272463.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272463.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: POPULAR TV MELILLA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272465.ts
+http://16692914887272465.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272465.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: SOLIDARIA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272469.ts
+http://16692914887272469.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272469.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELEONUBA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272471.ts
+http://16692914887272471.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272471.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TENERIFE 2030 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272473.ts
+http://16692914887272473.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272473.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV3 CAMERES HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272478.ts
+http://16692914887272478.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272478.ts
 #EXTINF:0 tvg-id="TV3.sp" group-title="ES AUTONOMICOS",ES: TV3 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272479.ts
+http://16692914887272479.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272479.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TVG EVENTO 2 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272480.ts
+http://16692914887272480.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272480.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TVG HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272481.ts
+http://16692914887272481.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272481.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TVG INFANTIL HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272482.ts
+http://16692914887272482.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272482.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TVG MOMENTOS G HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/272483.ts
+http://16692914887272483.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/272483.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL SAN ROQUE FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/273369.ts
+http://16692914887273369.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/273369.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LANCELOT TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/273370.ts
-#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: MIRAME TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/273371.ts
+http://16692914887273370.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/273370.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: MIRAME TV HD
+http://16692914887273371.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/273371.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TVG 2 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/273372.ts
+http://16692914887273372.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/273372.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TVG CULTURA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/273373.ts
+http://16692914887273373.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/273373.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: C33 MADRID HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/273841.ts
+http://16692914887273841.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/273841.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: PEQUERADIO TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/273843.ts
+http://16692914887273843.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/273843.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV GIRONA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/273844.ts
+http://16692914887273844.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/273844.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TVG MUSIGAL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/275483.ts
+http://16692914887275483.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/275483.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: RTV MOGáN FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/275910.ts
+http://16692914887275910.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/275910.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV MUNICIPAL CORDOBA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/275912.ts
+http://16692914887275912.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/275912.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV CANARIA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/276232.ts
+http://16692914887276232.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/276232.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 1 CANARIAS HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/277795.ts
+http://16692914887277795.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/277795.ts
 #EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: POPULAR TV MURCIA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/277796.ts
+http://16692914887277796.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/277796.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: GITB GOIERRI IRRATI TELEBISTA HD
+http://16692914887278369.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/278369.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 101 TELE ANTEQUERA HD
+http://16692914887286925.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286925.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 101 TV AXARQUíA HD
+http://16692914887286926.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286926.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 101TV MáLAGA FHD
+http://16692914887286927.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286927.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 8 LA MARINA TV HD
+http://16692914887286943.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286943.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ALACANTí TV HD
+http://16692914887286944.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286944.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ALCARRIA TV SD
+http://16692914887286945.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286945.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: BAILéN TV HD
+http://16692914887286946.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286946.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL 10 EMPORDà SD
+http://16692914887286947.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286947.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL 2000 HD
+http://16692914887286948.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286948.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL 56 SD
+http://16692914887286950.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286950.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL DOñANA HD
+http://16692914887286951.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286951.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL SIERRA DE CADIZ FHD
+http://16692914887286952.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286952.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL SIERRA DE CADIZ HD
+http://16692914887286953.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286953.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL TARONJA OSONA I MOIANéS HD
+http://16692914887286955.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286955.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANCIONERO TV SD
+http://16692914887286956.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286956.ts
+#EXTINF:0 tvg-id="CMM.es" group-title="ES AUTONOMICOS",ES: CASTILLA-LA MANCHA MEDIA SD
+http://16692914887286957.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286957.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CORTS VALENCIANES SD
+http://16692914887286959.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286959.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: COSTA NOROESTE TV FHD
+http://16692914887286960.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286960.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: COSTADELSOL TV SD
+http://16692914887286961.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286961.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CóRDOBA TV SD
+http://16692914887286963.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286963.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: DIEZ TV FHD
+http://16692914887286964.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286964.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ESTEPONA TV HD
+http://16692914887286967.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286967.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: FIBRACAT TV FHD
+http://16692914887286968.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286968.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: FUENGIROLA TV SD
+http://16692914887286969.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286969.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: GCM TV FHD
+http://16692914887286970.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286970.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: GOIENA EUS HD
+http://16692914887286971.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286971.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: GOIERRI IRRATI TV HD
+http://16692914887286972.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286972.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: HAMAIKA TV HD
+http://16692914887286973.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286973.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: HUELVA TV FHD
+http://16692914887286975.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286975.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: IMáS TV FHD
+http://16692914887286976.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286976.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ISLATEL SD
+http://16692914887286979.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286979.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: JUNTA CASTILLA Y LEóN FHD
+http://16692914887286980.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286980.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 1 CATALUNYA HD
+http://16692914887286981.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286981.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: MAR TV HD
+http://16692914887286984.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286984.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: MIJAS 3.40 TV HD
+http://16692914887286985.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286985.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: NAVARRA TV HD
+http://16692914887286986.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286986.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: NAVARRA TV SD
+http://16692914887286987.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286987.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: OIZMENDI TV SD
+http://16692914887286988.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286988.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ONDA 15 TV SD
+http://16692914887286989.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286989.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ONDA CáDIZ 24H HD
+http://16692914887286990.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286990.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ONDA CáDIZ HD
+http://16692914887286991.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286991.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ONDA VALENCIA HD
+http://16692914887286992.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286992.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ONDAMEZQUITA TV HD
+http://16692914887286993.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286993.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: PARLAMENTO DE ANDALUCíA SD
+http://16692914887286994.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286994.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: PIERA TV HD
+http://16692914887286995.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286995.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: POPULAR TV CANTABRIA SD
+http://16692914887286996.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286996.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: PTV CóRDOBA HD
+http://16692914887286997.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286997.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: PTV GRANADA HD
+http://16692914887286998.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286998.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: PTV LINARES HD
+http://16692914887286999.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/286999.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: PTV MáLAGA HD
+http://16692914887287000.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287000.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: PTV SEVILLA HD
+http://16692914887287001.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287001.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: PUNT 3 VALL UIXó FHD
+http://16692914887287002.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287002.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: SAL TELEVISIóN HD
+http://16692914887287003.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287003.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TAC 12 HD
+http://16692914887287004.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287004.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELEGANéS HD
+http://16692914887287006.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287006.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELERIBERA FHD
+http://16692914887287008.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287008.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELETOLEDO HD
+http://16692914887287009.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287009.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELEVISIóN DE ALICANTE FHD
+http://16692914887287010.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287010.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TEVE.CAT FHD
+http://16692914887287011.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287011.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TUYA LA JANDA TV FHD
+http://16692914887287013.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287013.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV 4 VALL DE UXó FHD
+http://16692914887287014.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287014.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV ARTEQUATRE HD
+http://16692914887287015.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287015.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV BENAVENTE HD
+http://16692914887287016.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287016.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV DE SAN VICENTE FHD
+http://16692914887287017.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287017.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV FERROL SD
+http://16692914887287019.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287019.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV HELLíN HD
+http://16692914887287020.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287020.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TVG EVENTOS HD
+http://16692914887287021.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287021.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TVG XABARIN HD
+http://16692914887287022.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287022.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: UROLA TV SD
+http://16692914887287023.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287023.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: VISIóN 6 TV HD
+http://16692914887287024.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287024.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: XALOA TELEBISTA HD
+http://16692914887287026.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287026.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 7 LA RIOJA HD
+http://16692914887287052.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287052.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: BETEVé FHD
+http://16692914887287053.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287053.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: GUADA TV HD
+http://16692914887287056.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287056.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: NORTEVISIóN HD
+http://16692914887287057.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287057.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELE 7 HD
+http://16692914887287059.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287059.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LEBRIJA TV HD
+http://16692914887287067.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287067.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TREBUJENA TV HD
+http://16692914887287069.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287069.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELEVIGO HD
+http://16692914887287076.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287076.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 324 FHD
+http://16692914887287117.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287117.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: SUPER3 HD
+http://16692914887287119.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287119.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 VALLADOLID SD
+http://16692914887287239.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287239.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: BETEVE FHD
+http://16692914887287696.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287696.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL MáLAGA HD
+http://16692914887287697.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287697.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ETB EVENTOS 1 HD
+http://16692914887287698.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287698.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 AVILA SD
+http://16692914887287699.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287699.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 BIERZO HD
+http://16692914887287700.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287700.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 BURGOS SD
+http://16692914887287701.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287701.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 LEON HD
+http://16692914887287702.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287702.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 PALENCIA HD
+http://16692914887287703.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287703.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 SEGOVIA HD
+http://16692914887287705.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287705.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 SORIA SD
+http://16692914887287706.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287706.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 ZAMORA HD
+http://16692914887287707.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/287707.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ELCHE 7 TV SD
+http://16692914887289293.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/289293.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ATV HD
+http://16692914887289514.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/289514.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 33 FHD
+http://16692914887290361.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290361.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL 4 MANCHA CENTRO HD
+http://16692914887290362.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290362.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CANAL SIERRA DE CADIZ SD
+http://16692914887290363.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290363.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: IBIZA GLOBAL TV SD
+http://16692914887290364.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290364.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 1 ARAGóN HD
+http://16692914887290365.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290365.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 SALAMANCA HD
+http://16692914887290366.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290366.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: MAESTRAT TV FHD
+http://16692914887290367.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290367.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: RIBERA TV SD
+http://16692914887290368.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290368.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELESAFOR HD
+http://16692914887290369.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290369.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 2 CATALUNYA HD
+http://16692914887290785.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290785.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 8 MEDITERRáNEO HD
+http://16692914887290786.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/290786.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: MTMAD 24H HD
+http://16692914887291397.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/291397.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: BIOSFERA TV HD
+http://16692914887291658.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/291658.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELEMOTRIL HD
+http://16692914887292727.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/292727.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TV RIOJA SD
+http://16692914887292728.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/292728.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LA 2 CANARIAS HD
+http://16692914887292860.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/292860.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: UNIVERS TV HD
+http://16692914887292861.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/292861.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 24H CANARIAS HD
+http://16692914887294370.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/294370.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 7 MURCIA SD
+http://16692914887294371.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/294371.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: M95 MARBELLA FHD
+http://16692914887294372.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/294372.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TELEGILENA HD
+http://16692914887294373.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/294373.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 24H CATALUNYA HD
+http://16692914887294688.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/294688.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ZAFRA TV FHD
+http://16692914887295066.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/295066.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: CMM FHD
+http://16692914887295503.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/295503.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TORREVISIóN HD
+http://16692914887295504.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/295504.ts
+#EXTINF:0 tvg-id="Trece.es" group-title="ES AUTONOMICOS",ES: TRECE SD
+http://16692914887295613.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/295613.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: WEBCAM ONDAMADRID HD
+http://16692914887302922.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/302922.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: LAOTRA HD
+http://16692914887316864.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/316864.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: INFORMACION TV HD
+http://16692914887318076.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/318076.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TVM CóRDOBA FHD
+http://16692914887318077.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/318077.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: INTERALMERIA FHD
+http://16692914887319368.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/319368.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: INTERALMERíA TV FHD
+http://16692914887319369.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/319369.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 8 TV HD
+http://16692914887319522.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/319522.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 9 LA LOMA TV FHD
+http://16692914887332019.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/332019.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: NORTEVISIóN FHD
+http://16692914887337058.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/337058.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ESPORT3 FHD
+http://16692914887341930.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/341930.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: PARLAMENTO DE NAVARRA SD
+http://16692914887341931.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/341931.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: BADAJOZ ONLINE HD
+http://16692914887390862.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/390862.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: TEVE4 SD
+http://16692914887481890.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/481890.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 28 KANALA HD
+http://16692914887522752.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/522752.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: 8 TV CáDIZ SD
+http://16692914887523092.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/523092.ts
+#EXTINF:0 tvg-id="ext" group-title="ES AUTONOMICOS",ES: ETB 1 HD
+http://16692914887563449.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/563449.ts
+
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 SD
+http://16692914887165257.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165257.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 FHD
+http://16692914887165418.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165418.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 HD
+http://16692914887165419.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165419.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",ES: DAZN FORMULA 1 HEVC
+http://16692914887318564.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/318564.ts
 
 #EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-logo="https://1.bp.blogspot.com/-QF3Agxs6PL8/XyNd0B1sfwI/AAAAAAAAAkY/SYmYLXb9GEwpyJmc8uH5jVsl4HZdOSHrQCLcBGAsYHQ/w200-h200/42%2Bmf1.png" group-title="ES  DAZN F1", DAZN F1 HD
 http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/204940
@@ -3172,18 +3457,191 @@ http://172.93.111.179:8080/sergioarayacas/SergioWh6/129283
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",DEPORTES F1 | FOX SPORTS PREMIUM
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/162309
 
-#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: U-BEAT HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165452.ts
-#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/268094.ts
-#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/268095.ts
-#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/268096.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: #VAMOS HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321072.ts
+http://16692914887321072.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321072.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: #VAMOS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321073.ts
+http://16692914887321073.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321073.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: U-BEAT HD
+http://16692914887165452.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165452.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF FHD
+http://16692914887268094.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/268094.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF HD
+http://16692914887268095.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/268095.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF SD
+http://16692914887268096.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/268096.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="ES DEPORTES",ES: BARCA TV SD
+http://16692914887340036.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/340036.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="ES DEPORTES",ES: GOL FHD
+http://16692914887340038.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/340038.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="ES DEPORTES",ES: GOL HD
+http://16692914887340039.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/340039.ts
+#EXTINF:0 tvg-id="GOL.es" group-title="ES DEPORTES",ES: GOL SD
+http://16692914887340040.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/340040.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="ES DEPORTES",ES: REAL MADRID TV FHD
+http://16692914887363229.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/363229.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF 2 FHD
+http://16692914887454216.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/454216.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF 2 HD
+http://16692914887454217.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/454217.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: U-BEAT FHD
+http://16692914887463655.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/463655.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: U-BEAT SD
+http://16692914887463656.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/463656.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: CANAL BETIS TV SD
+http://16692914887463948.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/463948.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: FIGHT TIME HD
+http://16692914887463949.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/463949.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: GO&GO FHD
+http://16692914887463950.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/463950.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: SEVILLA FC SD
+http://16692914887463951.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/463951.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: DBIKE HD
+http://16692914887466753.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/466753.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: ELLAS #V HD
+http://16692914887466755.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/466755.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="ES DEPORTES",ES: EUROSPORT 1 FHD
+http://16692914887466756.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/466756.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="ES DEPORTES",ES: EUROSPORT 1 HD
+http://16692914887466757.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/466757.ts
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="ES DEPORTES",ES: EUROSPORT 1 SD
+http://16692914887466758.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/466758.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="ES DEPORTES",ES: EUROSPORT 2 FHD
+http://16692914887466759.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/466759.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="ES DEPORTES",ES: EUROSPORT 2 HD
+http://16692914887466760.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/466760.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: MOTO ADV HD
+http://16692914887466762.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/466762.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: LIGASPORTSTV FHD
+http://16692914887497614.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/497614.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: LIGASPORTSTV HD
+http://16692914887497615.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/497615.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: LIGASPORTSTV SD
+http://16692914887497616.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/497616.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: BARCA TV FHD
+http://16692914887538677.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538677.ts
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="ES DEPORTES",ES: EUROSPORT 2 SD
+http://16692914887538678.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538678.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 2 FHD
+http://16692914887538679.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538679.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 2 HD
+http://16692914887538680.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538680.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 2 SD
+http://16692914887538681.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538681.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 3 FHD
+http://16692914887538682.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538682.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 3 HD
+http://16692914887538683.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538683.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 3 SD
+http://16692914887538684.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538684.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 4 FHD
+http://16692914887538685.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538685.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 4 HD
+http://16692914887538686.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538686.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 4 SD
+http://16692914887538687.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538687.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 5 FHD
+http://16692914887538688.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538688.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 5 HD
+http://16692914887538689.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538689.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 5 SD
+http://16692914887538690.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538690.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 6 FHD
+http://16692914887538691.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538691.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 6 HD
+http://16692914887538692.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538692.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 6 SD
+http://16692914887538693.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538693.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES 7 SD
+http://16692914887538694.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538694.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES FHD
+http://16692914887538695.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538695.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES HD
+http://16692914887538696.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538696.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ DEPORTES SD
+http://16692914887538698.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538698.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: #VAMOS FHD
+http://16692914887538744.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538744.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: BARCA TV HD
+http://16692914887538745.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538745.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: BARCA HD
+http://16692914887538746.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538746.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="ES DEPORTES",ES: BARCA SD
+http://16692914887538747.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538747.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: MLB HD
+http://16692914887538748.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538748.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: NBA HD
+http://16692914887538749.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538749.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: NBA SD
+http://16692914887538750.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538750.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: NFL NETWORK HD
+http://16692914887538751.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538751.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: REDBUL TV HD
+http://16692914887538752.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538752.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: TENNIS CHANNEL HD
+http://16692914887538753.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538753.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: UNBEATEN HD
+http://16692914887538754.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538754.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: ESPORT 3 HD
+http://16692914887538755.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538755.ts
+#EXTINF:0 tvg-id="Esport3.es" group-title="ES DEPORTES",ES: ESPORT 3 SD
+http://16692914887538756.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538756.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: GOL PLAY FHD
+http://16692914887538757.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538757.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: GOL PLAY HD
+http://16692914887538758.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538758.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: GOL PLAY SD
+http://16692914887538759.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538759.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF 2 SD
+http://16692914887538760.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538760.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ REAL MADRID TV SD
+http://16692914887538764.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538764.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ REAL MADRID SD
+http://16692914887538765.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538765.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ TELEDEPORTE HD
+http://16692914887538766.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538766.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: R. MADRID FHD
+http://16692914887538767.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538767.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: R. MADRID SD
+http://16692914887538768.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538768.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES DEPORTES",ES: TELEDEPORTE FHD
+http://16692914887538769.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538769.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES DEPORTES",ES: TELEDEPORTE HD
+http://16692914887538770.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538770.ts
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="ES DEPORTES",ES: TELEDEPORTE SD
+http://16692914887538771.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/538771.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: TENNIS CHANNEL FHD
+http://16692914887540949.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/540949.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ TELEDEPORTE FHD
+http://16692914887540950.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/540950.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ REAL MADRID TV HD
+http://16692914887542582.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/542582.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ REAL MADRID TV FHD
+http://16692914887542873.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/542873.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: ELLAS #V FHD
+http://16692914887542877.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/542877.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: TELEMADRID INT FHD
+http://16692914887544103.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/544103.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES:Champions Tour SD
+http://16692914887545232.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/545232.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES:Champions Tour HD
+http://16692914887545233.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/545233.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ #VAMOS FHD
+http://16692914887550863.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/550863.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: WIMBLEDON HEVC
+http://16692914887550864.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/550864.ts
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="ES DEPORTES",ES: REAL MADRID TV SD
+http://16692914887552967.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/552967.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: R. MADRID HD
+http://16692914887554776.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/554776.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: GO&GO SD
+http://16692914887558675.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558675.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: WIMBLEDON SD
+http://16692914887558676.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558676.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ #VAMOS HD
+http://16692914887563579.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/563579.ts
+#EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ #VAMOS SD
+http://16692914887563580.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/563580.ts
+
 
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",[ES] M+ LCAMPEONES HD 1080P
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/157420
