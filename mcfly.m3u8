@@ -285,8 +285,8 @@ http://192.168.66.2:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a4034520
 http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento", Evento del momento
-http://192.168.66.2:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN F1 HD", F1
+https://nes05.quest123.top:8088/live/hdfhdfh7vgdfhdfgmm/playlist.m3u8?vidictid=195957667353&id=119515&pk=22fea641c0d740a4bcaf0e0d5192fd7319868cad4ad28758433c7c81731716cf517a97be80b88d75069a66824c1e62a1912a6c3cab044e8d8845d6ae06bab1cd
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="Evento", Evento del momento
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
@@ -357,27 +357,18 @@ http://192.168.66.2:6878/ace/getstream?id=a05861bc05c220c5f0a841da9180d32950292f
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321445.ts
 
 #EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV FHD
-http://605556319856558671.of3805.xyz:80/play/jj08182/3184268591/558671.ts
+http://16692914887558671.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558671.ts
 
 #EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321446.ts
 
 #EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV HD
-http://605556319856558672.of3805.xyz:80/play/jj08182/3184268591/558672.ts
+http://16692914887558672.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558672.ts
 
 #EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV SD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321449.ts
 
 #EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV SD
-http://605556319856558673.of3805.xyz:80/play/jj08182/3184268591/558673.ts
-
-#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV FHD IPTV
-http://16692914887558671.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558671.ts
-
-#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV HD IPTV
-http://16692914887558672.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558672.ts
-
-#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV SD IPTV
 http://16692914887558673.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558673.ts
 
 #EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV
@@ -1744,43 +1735,43 @@ http://fireott.biz:2052/802411455218374/802497856238254/96443
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
 #EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 FHD
-http://605556319856321276.of3805.xyz:80/play/jj08182/3184268591/321276.ts
+http://16692914887321276.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321276.ts
 #EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 HD
-http://605556319856321277.of3805.xyz:80/play/jj08182/3184268591/321277.ts
+http://16692914887321277.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321277.ts
 #EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 SD
-http://605556319856321278.of3805.xyz:80/play/jj08182/3184268591/321278.ts
+http://16692914887321278.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321278.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA 2 FHD
-http://605556319856321279.of3805.xyz:80/play/jj08182/3184268591/321279.ts
+http://16692914887321279.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321279.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA 2 HD
-http://605556319856321280.of3805.xyz:80/play/jj08182/3184268591/321280.ts
+http://16692914887321280.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321280.ts
 #EXTINF:0 tvg-id="LA2.es" group-title="ES   MOVISTAR+",ES: LA 2 SD
-http://605556319856321281.of3805.xyz:80/play/jj08182/3184268591/321281.ts
+http://16692914887321281.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321281.ts
 #EXTINF:0 tvg-id="Antena3.es" group-title="ES   MOVISTAR+",ES: ANTENA 3 FHD
-http://605556319856321105.of3805.xyz:80/play/jj08182/3184268591/321105.ts
+http://16692914887321105.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321105.ts
 #EXTINF:0 tvg-id="Antena3.es" group-title="ES   MOVISTAR+",ES: ANTENA 3 HD
-http://605556319856321106.of3805.xyz:80/play/jj08182/3184268591/321106.ts
+http://16692914887321106.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321106.ts
 #EXTINF:0 tvg-id="Antena3.es" group-title="ES   MOVISTAR+",ES: ANTENA 3 SD
-http://605556319856321107.of3805.xyz:80/play/jj08182/3184268591/321107.ts
+http://16692914887321107.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321107.ts
 #EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO FHD
-http://605556319856321429.of3805.xyz:80/play/jj08182/3184268591/321429.ts
+http://16692914887321429.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321429.ts
 #EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO HD
-http://605556319856321430.of3805.xyz:80/play/jj08182/3184268591/321430.ts
+http://16692914887321430.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321430.ts
 #EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO SD
-http://605556319856321431.of3805.xyz:80/play/jj08182/3184268591/321431.ts
+http://16692914887321431.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321431.ts
 #EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO FHD
-http://605556319856321196.of3805.xyz:80/play/jj08182/3184268591/321196.ts
+http://16692914887321196.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321196.ts
 #EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO HD
-http://605556319856321197.of3805.xyz:80/play/jj08182/3184268591/321197.ts
+http://16692914887321197.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321197.ts
 #EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO SD
-http://605556319856321198.of3805.xyz:80/play/jj08182/3184268591/321198.ts
+http://16692914887321198.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321198.ts
 #EXTINF:0 tvg-id="BabyTV.es" group-title="ES   MOVISTAR+",ES: BABY TV SD
-http://605556319856321122.of3805.xyz:80/play/jj08182/3184268591/321122.ts
+http://16692914887321122.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321122.ts
 #EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC FHD
-http://605556319856321102.of3805.xyz:80/play/jj08182/3184268591/321102.ts
+http://16692914887321102.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321102.ts
 #EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC HD
-http://605556319856321103.of3805.xyz:80/play/jj08182/3184268591/321103.ts
+http://16692914887321103.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321103.ts
 #EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC SD
-http://605556319856321104.of3805.xyz:80/play/jj08182/3184268591/321104.ts
+http://16692914887321104.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321104.ts
 #EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 FHD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321068.ts
 #EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 HD
@@ -3231,8 +3222,46 @@ http://172.93.111.179:8080/sergioarayacas/SergioWh6/157436
 
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165392.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA FHD
+http://16692914887165385.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165385.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA HD
+http://16692914887165392.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165392.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA SD
+http://16692914887165393.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165393.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: LA LIGA FHD (H 265)
+http://16692914887262413.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/262413.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 2 HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165398.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 2 HD
+http://16692914887165398.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165398.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 3 HD
+http://16692914887165400.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165400.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 4 SD
+http://16692914887237729.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237729.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 5 SD
+http://16692914887237730.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237730.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 4 FHD
+http://16692914887237731.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237731.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 4 HD
+http://16692914887237732.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237732.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 5 FHD
+http://16692914887237733.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237733.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 5 HD
+http://16692914887237734.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237734.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 6 SD
+http://16692914887237735.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237735.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 7 SD
+http://16692914887237736.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237736.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 8 SD
+http://16692914887237737.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237737.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 9 SD
+http://16692914887237738.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237738.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 10 SD
+http://16692914887237739.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237739.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR FHD
+http://16692914887268042.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/268042.ts
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR HD
+http://16692914887165407.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165407.ts
 
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN LALIGA",[ES] DAZN LALIGA HD 1080P
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/157411
@@ -3278,12 +3307,28 @@ http://172.93.111.179:8080/sergioarayacas/SergioWh6/157419
 
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228385.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 HD
+http://16692914887228385.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/228385.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 (H265) FHD
+http://16692914887228390.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/228390.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228388.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 HD
+http://16692914887228388.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/228388.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 2 FHD
+http://16692914887228389.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/228389.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228394.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 FHD (H265) FHD
+http://16692914887228392.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/228392.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 3 FHD
+http://16692914887228393.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/228393.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/228398.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 FHD (H265) FHD
+http://16692914887228396.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/228396.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 FHD
+http://16692914887228397.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/228397.ts
 
 #EXTINF:0 tvg-id="Eurosport1.es" group-title="ES EUROSPORT",ES: EUROSPORT 1 FHD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290348.ts
