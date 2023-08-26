@@ -327,9 +327,9 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/228398.ts
 http://192.168.66.2:6878/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080
 http://192.168.66.2:6878/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 4K" tvg-logo="https://i.postimg.cc/d3S50qPM/daznf14k.png" ,DAZN F1 4K (Solo evento)
+http://192.168.66.2:6878/ace/getstream?id=5c340fa3440fef0f9330187cb53e09350d1de270
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 Multicámara (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=
-#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://i.postimg.cc/d3S50qPM/daznf14k.png" ,DAZN F1 4K
 http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 1080 50 IPTV (01)
 http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/204940
