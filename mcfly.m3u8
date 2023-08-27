@@ -93,8 +93,8 @@ http://31.42.184.159:2082/dsnrrcn/87djD6Sk7hWOy7d/135972
 http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/165365.ts
 
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi By Alex
-http://192.168.66.2:6878/ace/getstream?id=731428b18eb656121990261c1b072b13f7caef30
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi 4K
+http://192.168.66.2:6878/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
@@ -208,8 +208,8 @@ http://192.168.66.2:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd
 http://192.168.66.2:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 by Alex
-http://192.168.66.2:6878/ace/getstream?id=aff9ef05a35642dbad7c0eee8c315768942e417e
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K
+http://192.168.66.2:6878/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 by Jonathan
 http://192.168.66.2:6878/ace/getstream?id=37b382c9f9b1c55191f35ac90949457618f94060
@@ -233,7 +233,7 @@ http://192.168.66.2:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65
 http://192.168.66.2:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Multicamara
-http://192.168.66.2:6878/ace/getstream?id=018186e9a5b942e3a5d8c24ca906ded64c2bbbe4
+http://192.168.66.2:6878/ace/getstream?id=2429005c1005ab2e9750252039587781384782ca
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/1366_2000.jpeg" group-title="F1" tvg-id="DAZN F1 HD", F1 TV [ES]
 http://192.168.66.2:6878/ace/getstream?id=7053fc8ab4d763d331ce66dc577d42fccc860481
