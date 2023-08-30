@@ -23,10 +23,14 @@ http://192.168.66.2:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e0
 http://192.168.66.2:6878/ace/getstream?id=52c8ff01836c294caad8b8c029b53360aa16a4cd
 #EXTINF:-1 group-title="Mundial Baloncesto" tvg-id="Gol Mundial 4" tvg-logo="https://i.postimg.cc/gJ7z7mPS/golbal.png" ,Gol Mundial 4 
 http://192.168.66.2:6878/ace/getstream?id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,NYRB VS INTER MIAMI
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/211852
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,NYRB VS INTER MIAMI (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/211852
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI
+http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/212560
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (02)
+http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/212560
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (Inglés)
+http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/212559
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (Inglés) (02)
+http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/212559
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV IPTV
 http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/210151
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV IPTV (02)
@@ -59,54 +63,6 @@ http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/145387
 http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/192838
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV 7 IPTV (02)
 http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/192838
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 01 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193274
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 01 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193274
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 02 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193275
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 02 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193275
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 03 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193276
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 03 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193276
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 04 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193277
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 04 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193277
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 05 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193278
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 05 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193278
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 06 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193279
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 06 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193279
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 07 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193280
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 07 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193280
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 08 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193281
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 08 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193281
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 09 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193282
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 09 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193282
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 10 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193283
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 10 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193283
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 11 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193284
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 11 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193284
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 12 IPTV
-http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/193285
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,MLS 12 IPTV (02)
-http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/193285
 #EXTINF:-1 group-title="4K" tvg-id="ElevenSports1Poland.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a631.png" ,Eleven Sports 1 4K
 http://192.168.66.2:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="4K" tvg-id="SkySportBundesligaUHD.de" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1817.png" ,Sky Sport Bundesliga 4K
