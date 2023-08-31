@@ -27,9 +27,13 @@ http://192.168.66.2:6878/ace/getstream?id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c
 http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/212560
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (02)
 http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/212560
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (Inglés)
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI FHD (Inglés)
+http://38.91.101.47:8080/live/elprofessor/MHbxPuti72/132816.ts
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI FHD (Inglés) 02
+http://38.91.101.47:8080/live/banana_discord/FwbGdfy9DQnC/132816.ts
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (Inglés) 03
 http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/212559
-#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (Inglés) (02)
+#EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (Inglés) 04
 http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/212559
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV IPTV
 http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/210151
