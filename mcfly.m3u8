@@ -93,9 +93,6 @@ http://31.42.184.159:2082/dsnrrcn/87djD6Sk7hWOy7d/135972
 http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/165365.ts
 
 
-#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi 4K
-http://192.168.66.2:6878/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
-
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
@@ -208,8 +205,11 @@ http://192.168.66.2:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd
 http://192.168.66.2:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 UHD Electro
 http://192.168.66.2:6878/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K Alex
+http://192.168.66.2:6878/ace/getstream?id=5fe18260bf2e180ee16e32b9162afb7ac18be9ad
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 by Jonathan
 http://192.168.66.2:6878/ace/getstream?id=37b382c9f9b1c55191f35ac90949457618f94060
@@ -1615,14 +1615,14 @@ http://192.168.66.2:6878/ace/getstream?id=3ff3890a8298b59c819dc9da2c64f0d80853ca
 http://192.168.66.2:6878/ace/getstream?id=08055d9e1e149ae23c6c1ae0a25bff8b18ffb5a8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 25-07
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Ct0ERhTkXNerjsZK_3JDdKMXN20-uJFORbuUOsO_fpLfqTbiRCMhKWguqlZNI732L-WFQJWnOKag3W4RYcFC-KABWygphcYj5wpP2siwsIuLPnLiAd5YPpD0QeyYpw-OpI2QNaxGyNXRX66gVkJctCX2cUb548oqWS8DSuo0R93al4hoGzwC28x80_DONpv4bvcG0pay84pvD5msGqqQKtGZyIGX2pwB4EnSykz0rWRiSdNlTNR_3817JzHKxnvwWlqe4HHE5MNgIZmnPp9lGTNwS73MF1Euiy_TyEN_2XirpdGzi-FMWynr7ZfPWoQLY9nckvR0J-FUirqjwUDfEKvI7kCc8V_RyQmr5SGKhpO3VKKTzS5zN4V-AHdOSyl67tLTCWI8D-GNKqgoy7DqHBdU96mXdpT2yTEir8vfT4bPJsZZYs3oePuyjTBK3PpimrbFCnpx6L5h01rAGfeP4e8ZYsBnUgdJKRAmCRkYYtEzBCEvB0TNv0pF2KelvLz2m4q11nT4qMgWhiQCaF2ilxmLLPmSJmWyqstJTcMOVb-qwaAFWpcXBG00XBBHZtwWHT0zThm2yX_SJyzrCxDaajBk92VoqEQpaich8TwcFfapugI32MqNMtFwPVPqaLM5Z52npYaEeUyZ3lY62PKivsOWHJCLWD09P1DlHrOEoYP9ddwSPTrwXqQYn4RIH3ihylZCDB01x6bdpEkM4D984fWp-a0Xf07J_p5FJdiwqKJPnenLSaurVMVqTMujjfuMQCruXpor7Byxm63fwHp5_ia5QCOK6eVKT0HyOcA9DnkaDBGGqxLVu_2WiC0kriABKglldS13ZXN0LTIwoAc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 01-09
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEEcXZnyur0A26Gmf7MMskTNLbOT_5rdey0g4hs6D4bJEGQMC1ssdpL8wHocDI36pR3tCsg7B_8ci7LKswHEPHJ4_ie1xlqLmGENdFHCwSs9278dq0HucUitvZDH4guMskUfcrfBu6tRM4zBLKyujAPjC3Xek3oMj02IIIhdTFAqvRZcEXh6IILahGAsNXLATwDPBVAIVpDVfEczDhy7xbM69CxEtf_sTH09N4a0xR9ydiYmzxjY2AynJPASm_XkDIRoTFUTh0oly3v-Ona7jpb-VAwA8vQjRd6pmwtj3s6OScXqUO52bH02TNFPhFBnD-b5Ljogfm7OKbx-ndBtElJPL0v5C3UmIHxAHyWKLl0jhtrT17kAveUi5xpLuhurqM9moJhVJWfViH-YCoC9vSsy5ZKB_C9xo0O0O_1HLLjz7vEi-AKZOoQ_Zblw-lhbeIuT_K5uI4yABds647DQU47T0IADbotw-hys1xE0PnniVQEODBiMc53bQaBd3kRBU3_5JU0Q-BaOWCKrwp0lzULeidmaI5nIhShOzfsmPxAzqRG45WhRMvwtddFbZSDJRueACAZYvGyVK3Ch8E_McSXUc-aUFhUh_VDgr2A_IpjUIiyAYDYLnArYY6JoWBCF-GnLP-Cpjhc0AZhJoalIWoGafLA6LyIDG5m_Mv0fff_X4Qi6Nv-xjvTbLnRKmD_B2R7BMxXq2dAAhlbnBX2BSNHyx58tpvQg9lvwGhuwVMdDNmHlul3n-jSbHKjPDBRUJetqu7pvRgBlymJVz0op2ujhMAaDKPRykZq_EQ5rMBm3iABKglldS13ZXN0LTIwtgc.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 27-08
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Ct0EOzBZT0KjL2ZimXUCv7lxOAtlaTp1oeBlJG9e8LFTpgN2dyJju1w9dw_BI2DtIqxmdYBEKjChigXpVs0LhnEKp84uokAHBjV2yGH3XPr9BeiasI2oPia6UCxMkaeOoJ4ynNaPQzhK7pdrg7WQzlUA_9VKvSIfzlWuzaMpWS79kg9IKSjgCDoYRU5Yxd6ZgH0vxgyUdJnINMIK_YGc5HNpCIt_09fV8PlFXS2iMJjBYR6iGOpm3LS7UIC4JT8ZVklY9vXT1es_-9KfyQhwKB-nBO19Xc3S9tiyFmMsYulydnrkQyJN6Zi0LTgWfUUpMuUxSkySVvkwtXSIotdYMtT9IeHjCPvm7xTl53JY2Og4nllbYC9iD6EAO5dap4gpJ34uOsQdhWTOTZzNGysmtRNbG8JNIOpBdKi2SClApK-8-wnGw3DovUuczJwqpMxvKPEs1xzT5QAPrsZLNANOiQWUtS8wlo62iZgwa6T7JydXqFQFjLzqZcOx1gCSNToDaLRGgL5ZGkGMjMEh_vEuu7QDTrx1u5lgLJrxhEa7QDxsMXJK5_YtawfN5h6Lzn9VLXT1VaAsHPr9BhnJ6mpkr3VXiaWvlOkPRcuRkq_9DXBozxEn9epcU1SUUjvLdvPSfk1V9bo4LSKQsWU1zjA_78aisrBT5NfVe2L-lXD8SFYCXzCpM5imXu9KfQmwv28VvqvIs2EO8xbxWDQZoploYiFp5GG050lE1UY6wqg3wShzmtRCHeSXTYlz2EI_9Qzs8ad_NkLIYQ4l8BvSKSLcumAujGiDTHMz5U0lHGwldtcaDFciEd76QeZgyYScUiABKglldS13ZXN0LTIwsQc.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 01-09
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Ct4ECOJuvXAYlicvkBaJWwh-sAgEdPwiXkVSZR1y_hUw8ahE3NBDaHf9hm9358FYeRsb_sf_eesWl2a8HioXS6qYG8np09nKaqazBT8fTJ8SG-F0Q81R9LdPBQEII8qcqYgJIer5wNluUlLkV6kcvVQ0LymcrQIqjugPUwtSg6kDZY6TvAllfVog71LjDT_0Wz5_PSgMkmmHf-AAygl2uLUn6ee6ggc51tsrbjjPCyb_Kih0Eh--ZJP5d6V3GJfpbLlmSYyb1Y-1Qj0yZOObJqURSYiTGm_7twvDLBC-f_ox44jzQEVcHO4WjLMGdKafoK7fSxxmP1J9z_2omIiwKo-uRIZFHPlUPLxi8WZY0ej4i3Hnp3P-pi-8H5NO5QPzG57YhvT9ibFnpt29jTyIERVmOmuo0X44OpIho2In-vWnj41b6PRoR930KQTaH_aqUaBzFJjitfw9KQQFjRS2k98jaQ2ymugBoKP9O-39nYpR4m1tgfWtPZHIkxMwj6Y3xWYxg_IZgr-2s7mzG5EUON6EPagQiVjP1_vDtjmK7TffONmLWDpYxfg_FYMOEGXuUYE9bP1kVa3xMuBxEGvEqW4epHBND3C40fhqTmaYGhCre8p2X6IK6qsiwFuWzj7Oc7BUXpiUukYom1NA2jo8RHXoe0BzoHlucqpTKoI51CugD_X6U-lC2hLaUX9xIT2xS-eF27b9scHtLv58CMPseZLgrZK4QJvRxcMZGQA143UWwc5mfj6Rb5n4Oce0va9VTS8Nh82dRZQ0KirvcGw7bZddqo24Vzad1Tn_bPXE4u2xGgxVfTSvCruh9mzE2kAgASoJZXUtd2VzdC0xMKwD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 27-08
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CrgEvbe8mdvZNXISloA4K4hw3Uyva7Vj4nFP5KsngHG8KUVhFWDJKQGr3KwkmQrpIjGjsY5_Xl_SO_XMvma83QsDc4aIBHglN8VoGHfUwrHNWzy2LNf9sJosaF82-gftjKfnTzgiGcJbRjxLNtOQ2Xzw1avclDZrmIEppNRoCY_IlFaulyqfcPEHvt2bC0FS0sCDuRNEfjh2t2SJuE1U157K3W7AH2WNlZeJi7w9duLG6YYdPMEIN0ZVcOM7fZ8G1C2NCrUsjFxv-wIF5lRgxuaD5CknCCkGGWC_azbMsevy5_AgOqHnMZQnICHcrJrFgijrjdKVGVBHHt-2GKsHFJzja_g6IP8MsfVQ2hwA_bCxN8Uy-gxDFDkBWHqi2sSKv5yTKSGC5D0AhA2a0x_D6EA9bdixCu0o1jLD6Gecnm11kLflGiKkSnLyYL01XMetaf75IkB25pHtqn6u000SyQewi1H4iJJPMhVF01flZ9ollNxF59lKmuPQPMj2M6n7k-szwKkftZl9v9-JQghFOJJNpK6uJg6ufSJRwbGe5Fl6LcV4NGW8S8272ilCurvN6ME4FRbzoOCxyrIOqfZXk4RgcCCgYFNTrHPb6u5KWi8LbvM1GbZHiPjspIJ20AtBXwn2xwDI50tmW5xbe72_f2FqDkCtqXMYsFWCr09Ccy_Fq5FdLGg1t2libk59xGa3h4C-mwy_8ydyWxQdYFG7fUIylzulsldG8W_NFSF3J2JKkM7ogMAx9Q1AKhoM5_MS_pS48uXmH4bBIAEqCWV1LXdlc3QtMjCxBw.m3u8
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrgE3YCsnebaq3YEQCLwwLsekXYnujnjgLncU5uJtj2Vllusj9H1EHOcd36Ce6zEyoeBsyN3bHO2g2F_H6SE-_bN0DBtVDSfBGC79L05O6aH76tSPzy8YHN5jESIcUtSzmobkVSxGzgb-ClT0nM5sv8rFLUz7rjZwR4Cmf45YJfwrQvK1h5JnK6NreQ8GgnEYnlZV4Vj8g1GAfKS2qlTxxe7Eo2uLY5JgCQaxYdqsS7WCzPS8yb5Ncn-5BCmVZz2oPQJEOTdM20lij5L6bj7pv5RsN7eE-H8NSz-5sh1LK4zMR3tHMBUJiFHyqgD9PbhVCdMpdwiscUrZECH4g4mxr6XTXnjQNvbs7nwf81nFuH8rZ1GXrcEtP7IJOi1qAaR4ioKWZSkG4LK-64vEDoYdosgf3ygy1g4hV3uahkCoEP4fdu7-WfrBtxXq3hqtv8Qa5Rl7fDwV7mpqpXkRdP6Q9P2SCxmCzALJr0HLQBD23nHS91JDgGcw8ON249_jZsvYsw1po0WeOb4slaOd4piQi34yHc8qmgl0FUmTBG4T2emoVFmsG2Uirb8hLR9j0Hd2mYFUv1qFWf5ZPLPwCwb2kQ3uT94olsuoVuJ085-oSoey5KAxSMZtcS74mlE-i--GGBnvW61NqRCDCv5UASwkvMwBK6Hm9bTNPLk-z1PPijtCFcAfSS1jOTYs-eQO8ukKlFqo-K7JD4tzEe4WTkmH3k4GZSJ9lhrtlP7HFa_V5pRAeQLcfJIScI_tRoMFcTkmCqbbne5xkRgIAEqCWV1LXdlc3QtMTCsAw.m3u8
 
 
 #EXTINF:0 tvg-id="ext" group-title="ES INSTAT INSPORTS",ES: INSTAT 01 FHD (Solo Eventos)
