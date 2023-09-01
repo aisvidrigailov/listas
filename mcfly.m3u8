@@ -1704,6 +1704,9 @@ http://398538678963321196.ofio.xyz:80/play/Benicarlo/Paco/321196.ts
 #EXTINF:-1 tvg-id="LA SIETE HD" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
 http://398538678963165298.ofio.xyz:80/play/Benicarlo/Paco/165298.ts
 
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="Movistar TDT", TELEDEPORTE
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
 #EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
 http://398538678963272448.ofio.xyz:80/play/Benicarlo/Paco/272448.ts
 
@@ -1734,6 +1737,8 @@ http://fireott.biz:2052/802411455218374/802497856238254/96443
 #EXTINF:-1 tvg-id="ext" tvg-name="CMM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/125px-CMMedia.svg.png" group-title="Movistar TDT", CMM TV
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PELICULAS Y ENTRETENIMIENTO
+http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255182
 #EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 FHD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321068.ts
 #EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 HD
@@ -1822,6 +1827,8 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321168.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321169.ts
 #EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321170.ts
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA
+http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255264
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321172.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CLAN HD
@@ -1842,6 +1849,8 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321189.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321194.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CRIMEN INVESTIGACION SD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321195.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CRIMEN INVESTIGACION
+http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255137
 #EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO FHD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321196.ts
 #EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO HD
@@ -1856,6 +1865,8 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321203.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321205.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DECASA TV SD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321206.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DECASA TV
+http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255142
 #EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNEL SD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321209.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNELS SD
@@ -2180,6 +2191,8 @@ http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321147.ts
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321148.ts
 #EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA SD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321149.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA
+http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255143
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL DARK SD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321152.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL DECASA HD
@@ -2494,6 +2507,8 @@ http://16692914887321273.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321273.ts
 http://16692914887321286.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321286.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA RESISTENCIA SD
 http://16692914887321287.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321287.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA RESISTENCIA 
+http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255194
 #EXTINF:0 tvg-id="LaSexta.sp" group-title="ES   MOVISTAR+",ES: LA SEXTA FHD
 http://16692914887321288.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/321288.ts
 #EXTINF:0 tvg-id="LaSexta.sp" group-title="ES   MOVISTAR+",ES: LA SEXTA HD
@@ -3932,12 +3947,18 @@ http://16692914887165392.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165392.ts
 http://16692914887165393.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165393.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: LA LIGA FHD (H 265)
 http://16692914887262413.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/262413.ts
-#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 2 HD
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA 
+http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255299
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 2 FHD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165398.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 2 HD
 http://16692914887165398.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165398.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA 2
+http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255298
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 3 HD
 http://16692914887165400.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165400.ts
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA 3
+ http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255297
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 4 SD
 http://16692914887237729.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/237729.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTI 5 SD
@@ -3977,6 +3998,8 @@ http://172.93.111.179:8080/sergioarayacas/SergioWh6/157412
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/157414
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN LALIGA",[ES] DAZN LALIGA 2 HD
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/157452
+#EXTINF:0 tvg-id="ext" group-title="ES  DAZN LALIGA",[ES] DAZN LALIGA 2
+http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255306
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES",[ES] M+ LaLigaTV 2 FHD
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/157440
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES",[ES] M+ LaLigaTV 2 HD
@@ -13535,6 +13558,8 @@ http://194539863471279571.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279571.mp4
 http://194539863471279572.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279572.mp4
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://www.burjassot.org/wp-content/uploads/2023/04/De-caperucita-a-loba-ok-460x367.jpg",De Caperucita a Loba (2023)
+http://192.168.66.2:6878/ace/getstream?id=8d4aa15cf88c9d7b35da7960e90b5fbe010f5a68
 #EXTINF:-1,tvg-logo="blob:https://web.tel.onl/08b4376c-90ae-4ece-985e-65ba06778006",Indiana Jones y el dial del destino (2023)
 http://192.168.66.2:6878/ace/getstream?id=eae1710c22b8605215afc2516c519d21654cc821
 #EXTINF:-1,tvg-logo="blob:https://web.tel.onl/41b56510-c36b-4ace-b8db-31a868cbfd0c",Megalodon 2 (2023)
