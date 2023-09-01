@@ -410,9 +410,9 @@ http://31.43.191.49:25461/okyanus54/trmpurur76ZHRE/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (16)
 http://31.43.191.49:25461/EXCHfamous/4SceG2qsZkHV/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV Español(Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=37ef1451c3faf8e93f5200cd72ed9185acecb98e
+http://192.168.66.2:6878/ace/getstream?id=255422e3ba3e2030ac0d97d2fafd3e7eeec675f9
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=45cf883432719191acef2b9cd3679540dd8320b8
+http://192.168.66.2:6878/ace/getstream?id=2ce71f25114cf5fbf04816bcb1be980fb6676064
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento) (02)
 http://192.168.66.2:6878/ace/getstream?id=f9e42b1a9efb4604749dbf56e77080e1c50d2864
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (01)
