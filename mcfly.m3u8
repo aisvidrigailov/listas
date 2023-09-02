@@ -4602,6 +4602,530 @@ http://907341120796593287.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/593287.ts
 #EXTINF:0 tvg-id="Rai2.it" group-title="FIBA World Cup",RAI 2 HD
 http://907341120796593151.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/593151.ts
 
+#EXTINF:0 tvg-id="#0.es" group-title="Spain ➾ LifeStyle",ES: #0
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2146
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: 7 Noticias
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/283875
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: 101 Tele Antequera
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285722
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: 101 TV Malaga
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/146345
+#EXTINF:0 tvg-id="Apunt.es" group-title="Spain ➾ LifeStyle",ES: A Punt
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/146343
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: AFV Espanol
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/284259
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Alacanti TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/66947
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Alcarria TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/12153
+#EXTINF:0 tvg-id="Antena3.es" group-title="Spain ➾ LifeStyle",ES: Antena 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1173
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Aragon TV Internacional
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2758
+#EXTINF:0 tvg-id="Beteve.es" group-title="Spain ➾ LifeStyle",ES: beteve
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285834
+#EXTINF:0 tvg-id="Blaze.es" group-title="Spain ➾ LifeStyle",ES: Blaze
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5303
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Canal 2000 La Solana
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/294891
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Canal 25 Barbastro
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/146340
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Canal 56
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/270088
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Canal Diocesano
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285741
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Canal Malaga
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/12139
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Canal Super 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285745
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="Spain ➾ LifeStyle",ES: Caza y Pesca
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1165
+#EXTINF:0 tvg-id="Cuatro.es" group-title="Spain ➾ LifeStyle",ES: Cuatro
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1163
+#EXTINF:0 tvg-id="Decasa.es" group-title="Spain ➾ LifeStyle",ES: Decasa
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2771
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Diez TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/269929
+#EXTINF:0 tvg-id="Divinity.es" group-title="Spain ➾ LifeStyle",ES: Divinity
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2795
+#EXTINF:0 tvg-id="ElToro.es" group-title="Spain ➾ LifeStyle",ES: El Toro TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/201928
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Esperanza TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/11119
+#EXTINF:0 tvg-id="ETBBasque.es" group-title="Spain ➾ LifeStyle",ES: ETB Basque
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/50135
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Girona TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/174484
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Imas TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/269931
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Inter Almeria
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/81640
+#EXTINF:0 tvg-id="La7.es" group-title="Spain ➾ LifeStyle",ES: LA 7
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285768
+#EXTINF:0 tvg-id="LaOtra.es" group-title="Spain ➾ LifeStyle",ES: La Otra
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/145616
+#EXTINF:0 tvg-id="LaSexta.sp" group-title="Spain ➾ LifeStyle",ES: La Sexta
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1152
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Lancelot TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/12159
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Levante TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/146658
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Logos TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281790
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Maestrat TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285784
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Mar TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/166347
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Marbella TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/174751
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Mirame TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285786
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Molahits TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281793
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: MOVISTAR La Resistencia
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/286800
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Navarra TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/146410
+#EXTINF:0 tvg-id="Neox.es" group-title="Spain ➾ LifeStyle",ES: NEOX
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2208
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Oizmendi Telebista
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285790
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Onda Algeciras TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/269932
+#EXTINF:0 tvg-id="OndaCadiz.es" group-title="Spain ➾ LifeStyle",ES: Onda Cadiz
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/66953
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Portal Foxmix
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/295008
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Sofy TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285809
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Solidaria TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285810
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Sophia TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285811
+#EXTINF:0 tvg-id="Telemadrid.es" group-title="Spain ➾ LifeStyle",ES: TeleMadrid
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298747
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: TV Castilla La Mancha
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/169000
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: TV Vega Baja
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/269915
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: TV5 Limares
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285819
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: TVG Cultural
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/71536
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: TVG Infantil
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281806
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: TVG Musigal
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281808
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ LifeStyle",ES: Ubeat
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/147368
+#EXTINF:0 tvg-id="Viajar.es" group-title="Spain ➾ LifeStyle",ES: Viajar
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2776
+
+#EXTINF:0 tvg-id="Vamos.es" group-title="Spain ➾ Sports",ES: #VAMOS
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2148
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",ES: Bon Dia TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/165148
+#EXTINF:0 tvg-id="CanalSurAndalucia.es" group-title="Spain ➾ Sports",ES: Canal Sur Andalucia
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2191
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",ES: D Kiss
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/9356
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="Spain ➾ Sports",ES: DAZN F1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1672
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",ES: ESPN 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281480
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",ES: ESPN 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281403
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",ES: ESPN Deportes
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281417
+#EXTINF:0 tvg-id="Esport3.es" group-title="Spain ➾ Sports",ES: Esport 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/7445
+#EXTINF:0 tvg-id="ETB1.es" group-title="Spain ➾ Sports",ES: ETB 1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/165969
+#EXTINF:0 tvg-id="ETB2.es" group-title="Spain ➾ Sports",ES: ETB 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/165970
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="Spain ➾ Sports",ES: EUROSPORT 1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1160
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="Spain ➾ Sports",ES: EUROSPORT 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1159
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",ES: FOX SPORTS 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/89723
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",ES: FOX SPORTS 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/89722
+#EXTINF:0 tvg-id="Golf.es" group-title="Spain ➾ Sports",ES: MOVISTAR Golf
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1142
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Sports",ES: Popular TV Cantabria
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285794
+
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Music",ES: 4 TV Vall Uxa
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285753
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Music",ES: Activa TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285727
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Music",ES: Cadena Elite
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/200665
+#EXTINF:0 tvg-id="Canal33.es" group-title="Spain ➾ Music",ES: Canal 33
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/64938
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Music",ES: Costa Noroeste TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285752
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Music",ES: CostadelSol TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/295246
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Music",ES: Ibiza Global TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285763
+#EXTINF:0 tvg-id="MTV2.sp" group-title="Spain ➾ Music",ES: MTV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/29307
+#EXTINF:0 tvg-id="MTVEsp.es" group-title="Spain ➾ Music",ES: MTV Espana
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5308
+
+#EXTINF:0 tvg-id="324CAT.es" group-title="Spain ➾ News",ES: 324 Cat
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/165149
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: Bailen TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285732
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: Bloomberg TV EMEA Live Event
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285720
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: Bloomberg TV Europe
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285843
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: CNN en Espanol
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/31762
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: Congreso de los Diputados 1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285747
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: Congreso de los Diputados 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285748
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: Congreso de los Diputados 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285749
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: Congreso de los Diputados 4
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285750
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: Congreso de los Diputados 5
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285751
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: euronews en Espanol
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/282292
+#EXTINF:0 tvg-id="FRANCE24.es" group-title="Spain ➾ News",ES: France 24
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/9148
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: Hola TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/3061
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: NTV Europe
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285846
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="Spain ➾ News",ES: RT Español
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/166663
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: RTVE Noticias
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/296504
+#EXTINF:0 tvg-id="TV3cat.es" group-title="Spain ➾ News",ES: TV3 Catalunya
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/9367
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: TVE Internacional América 1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/49480
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ News",ES: TVE Internacional Europa
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5943
+#EXTINF:0 tvg-id="LA1.es" group-title="Spain ➾ News",ES: TVE La 1 Madrid
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1151
+#EXTINF:0 tvg-id="tvG2.es" group-title="Spain ➾ News",ES: TVG 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281802
+
+#EXTINF:0 tvg-id="8Madrid.sp" group-title="Spain ➾ Movie",ES: 8TV Madrid
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/75902
+#EXTINF:0 tvg-id="AMC.es" group-title="Spain ➾ Movie",ES: AMC
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1174
+#EXTINF:0 tvg-id="AMCBreak.es" group-title="Spain ➾ Movie",ES: AMC Break
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/297245
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Movie",ES: Atrecine
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/283299
+#EXTINF:0 tvg-id="A3seriesHD.es" group-title="Spain ➾ Movie",ES: Atreseries
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/9102
+#EXTINF:0 tvg-id="AXNhd.es" group-title="Spain ➾ Movie",ES: AXN
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1172
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Movie",ES: AXN Movies
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298734
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="Spain ➾ Movie",ES: AXN White
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1171
+#EXTINF:0 tvg-id="BEMAD.es" group-title="Spain ➾ Movie",ES: Be Mad
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2213
+#EXTINF:0 tvg-id="BomCine.es" group-title="Spain ➾ Movie",ES: Bom Cine
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/75926
+#EXTINF:0 tvg-id="Calle13.es" group-title="Spain ➾ Movie",ES: Calle 13
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1168
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Movie",ES: Canal Hollywood
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1154
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Movie",ES: Canal Sierra de Cadiz
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285744
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="Spain ➾ Movie",ES: Comedy Central
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1164
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Movie",ES: Cosmopolitan TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2215
+#EXTINF:0 tvg-id="Dark.es" group-title="Spain ➾ Movie",ES: Dark
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/121514
+#EXTINF:0 tvg-id="DMAX.es" group-title="Spain ➾ Movie",ES: DMAX
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2762
+#EXTINF:0 tvg-id="Energy.es" group-title="Spain ➾ Movie",ES: Energy
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2217
+#EXTINF:0 tvg-id="FDF.es" group-title="Spain ➾ Movie",ES: Factoria de Ficcion
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2207
+#EXTINF:0 tvg-id="Fox.es" group-title="Spain ➾ Movie",ES: FOX
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1158
+#EXTINF:0 tvg-id="FoxLife.es" group-title="Spain ➾ Movie",ES: Fox Life
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/295164
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Movie",ES: HBO
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285191
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Movie",ES: HBO Signature
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/91989
+#EXTINF:0 tvg-id="M.Accion.es" group-title="Spain ➾ Movie",ES: MOVISTAR Accion
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1148
+#EXTINF:0 tvg-id="DCineEsp.sp" group-title="Spain ➾ Movie",ES: MOVISTAR Cine Espanol
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/64788
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Movie",ES: MOVISTAR Clasicos
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281773
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="Spain ➾ Movie",ES: MOVISTAR Comedia
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1146
+#EXTINF:0 tvg-id="M.CineEspanol.es" group-title="Spain ➾ Movie",ES: MOVISTAR Drama
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1144
+#EXTINF:0 tvg-id="M.Estrenos.es" group-title="Spain ➾ Movie",ES: MOVISTAR Estrenos
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1143
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Movie",ES: MOVISTAR Estrenos 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/295135
+#EXTINF:0 tvg-id="M.Series.es" group-title="Spain ➾ Movie",ES: MOVISTAR Series
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1140
+#EXTINF:0 tvg-id="Nova.es" group-title="Spain ➾ Movie",ES: Nova
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2189
+#EXTINF:0 tvg-id="Paramount.es" group-title="Spain ➾ Movie",ES: Paramount Network
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2209
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Movie",ES: Popular TV Melilla
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/270090
+#EXTINF:0 tvg-id="Somos.es" group-title="Spain ➾ Movie",ES: Somos
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/16274
+#EXTINF:0 tvg-id="Sundance.es" group-title="Spain ➾ Movie",ES: Sundance TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2757
+#EXTINF:0 tvg-id="WarnerTV.es" group-title="Spain ➾ Movie",ES: Warner TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298814
+#EXTINF:0 tvg-id="XTRM.es" group-title="Spain ➾ Movie",ES: XTRM
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/11148
+
+#EXTINF:0 tvg-id="AandE.es" group-title="Spain ➾ Documentary",ES: A&E
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/7731
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Documentary",ES: Crime District
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298744
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Documentary",ES: Discovery World
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1162
+#EXTINF:0 tvg-id="Historia.es" group-title="Spain ➾ Documentary",ES: Historia
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1155
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Documentary",ES: Investigation Discovery
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/27790
+#EXTINF:0 tvg-id="NationalGeographic.es" group-title="Spain ➾ Documentary",ES: NAT GEO
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1138
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Documentary",ES: RTVC
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/11809
+
+#EXTINF:0 tvg-id="Alquiler1.es" group-title="Spain",ES: Alquiler 1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/12107
+#EXTINF:0 tvg-id="Alquiler2.es" group-title="Spain",ES: Alquiler 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/12108
+#EXTINF:0 tvg-id="Taquilla3.es" group-title="Spain",ES: Alquiler 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/12109
+#EXTINF:0 tvg-id="Taquilla4.es" group-title="Spain",ES: Alquiler 4
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/12110
+#EXTINF:0 tvg-id="Taquilla5.es" group-title="Spain",ES: Alquiler 5
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/11818
+#EXTINF:0 tvg-id="Taquilla6.es" group-title="Spain",ES: Alquiler 6
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/15931
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Alquiler 7
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/11819
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Alquiler 8
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281769
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Alquiler 9
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281770
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Alquiler 10
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/11820
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Andorra TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299404
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Canal 10 Emporda
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285737
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Spain",ES: Canal 24 Horas
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2216
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Canal 45 TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285733
+#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="Spain",ES: Canal Extremadura Sat
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298736
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Canal Taronja Osona
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285746
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Cultura 24 TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/197864
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="Spain",ES: DAZN LaLiga
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/297787
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: El 33
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/294892
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: EL Pinguino TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/53887
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: ESNE TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/76224
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Fibwi TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/296941
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Fuengirola TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299530
+#EXTINF:0 tvg-id="GaliciaTV.sp" group-title="Spain",ES: Galicia TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2192
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: GCM TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285760
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Goiena Eus
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285761
+#EXTINF:0 tvg-id="GOL.es" group-title="Spain",ES: Gol Play
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/297246
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Hamaika Telebista
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285762
+#EXTINF:0 tvg-id="Hollywood.es" group-title="Spain",ES: Hollywood
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/297243
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: La URBAN TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285780
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Locomotion TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/286055
+#EXTINF:0 tvg-id="M+Ellas#V.es" group-title="Spain",ES: M+ Ellas #V
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/297242
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: M95 Marbella
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299508
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: MavTV Europe
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285845
+#EXTINF:0 tvg-id="Mega.es" group-title="Spain",ES: Mega
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2190
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Melilla TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/270089
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="Spain",ES: Movistar Deportes
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/227121
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Movistar Deportes 5
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285690
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Movistar Deportes 6
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/198066
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Movistar Liga De Campeones 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298805
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Movistar Liga De Campeones 4
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298806
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Movistar Liga De Campeones 6
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298808
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Movistar Liga De Campeones 7
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/146661
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Mundotoro
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298810
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Negocios TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298749
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Punt 3 Vall Uixo
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/269913
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Rakuten 1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285802
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Rakuten 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285803
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Rakuten 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285804
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Rakuten 6
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285805
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Rakuten 7
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285806
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Rakuten Family
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285801
+#EXTINF:0 tvg-id="Scifi.es" group-title="Spain",ES: SYFY
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1135
+#EXTINF:0 tvg-id="TCM.es" group-title="Spain",ES: TCM
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1134
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Tele Safor
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/50133
+#EXTINF:0 tvg-id="Telecinco.es" group-title="Spain",ES: Telecinco
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1133
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="Spain",ES: Teledeporte
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2774
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Teleonuba
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/145619
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: TeleRibera
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285823
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: TeleVigo
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285825
+#EXTINF:0 tvg-id="Ten.es" group-title="Spain",ES: Ten
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5306
+#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="Spain",ES: Toros TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1132
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: Trece TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/60943
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: TV 4 La Vall
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/270092
+#EXTINF:0 tvg-id="ext" group-title="Spain",ES: TV Ferrol
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/299430
+#EXTINF:0 tvg-id="LA2.es" group-title="Spain",ES: TVE La 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1150
+
+#EXTINF:0 tvg-id="BabyTV.es" group-title="Spain ➾ Kids",ES: Baby TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5302
+#EXTINF:0 tvg-id="Boing.es" group-title="Spain ➾ Kids",ES: Boing
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1169
+#EXTINF:0 tvg-id="Panda.es" group-title="Spain ➾ Kids",ES: Canal Panda
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1166
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="Spain ➾ Kids",ES: Clan TVE
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2214
+#EXTINF:0 tvg-id="DisneyChannel.es" group-title="Spain ➾ Kids",ES: Disney Channel
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1145
+#EXTINF:0 tvg-id="DisneyJr.es" group-title="Spain ➾ Kids",ES: Disney Junior
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5299
+#EXTINF:0 tvg-id="DisneyXD.es" group-title="Spain ➾ Kids",ES: Disney XD
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5298
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Kids",ES: DreamWorks TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281787
+#EXTINF:0 tvg-id="NickJunior.es" group-title="Spain ➾ Kids",ES: Nick Junior
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5296
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="Spain ➾ Kids",ES: nickelodeon
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2218
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Kids",ES: Pequeradio
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285793
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Kids",ES: RTV Vida
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/285797
+
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Spain ➾ Football",ES: Barca TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1170
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Football",ES: beIN Sports Xtra en Espanol
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281493
+#EXTINF:0 tvg-id="DAZN1.es" group-title="Spain ➾ Football",ES: DAZN 1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/64711
+#EXTINF:0 tvg-id="DAZN2.es" group-title="Spain ➾ Football",ES: DAZN 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/64712
+#EXTINF:0 tvg-id="DAZN3.es" group-title="Spain ➾ Football",ES: DAZN 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/269912
+#EXTINF:0 tvg-id="DAZN4.es" group-title="Spain ➾ Football",ES: DAZN 4
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/269911
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="Spain ➾ Football",ES: DAZN LaLiga 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298745
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Football",ES: Laliga Smartbank TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/297788
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 1
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/297791
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Football",ES: Laliga Smartbank TV 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/297790
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="Spain ➾ Football",ES: LaLiga TV Bar
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/197711
+#EXTINF:0 tvg-id="M.LaLiga.es" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1141
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/5311
+#EXTINF:0 tvg-id="M.LaLiga3.es" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 3
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281772
+#EXTINF:0 tvg-id="M.LaLiga4.es" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 4
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/269466
+#EXTINF:0 tvg-id="M.LaLiga5.es" group-title="Spain ➾ Football",ES: MOVISTAR LaLiga 5
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/281792
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="Spain ➾ Football",ES: MOVISTAR LIGA DE CAMPEONES
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2800
+#EXTINF:0 tvg-id="MovistarLDC2.es" group-title="Spain ➾ Football",ES: MOVISTAR LIGA DE CAMPEONES 2
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/81096
+#EXTINF:0 tvg-id="Multideporte1.es" group-title="Spain ➾ Football",ES: Multideporte
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/8110
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="Spain ➾ Football",ES: Real Madrid TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1136
+#EXTINF:0 tvg-id="SFCTV.es" group-title="Spain ➾ Football",ES: Sevilla FC TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/169002
+
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Nature",ES: Cacavision
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/286374
+#EXTINF:0 tvg-id="Odisea.es" group-title="Spain ➾ Nature",ES: Canal Odisea
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2194
+#EXTINF:0 tvg-id="IberaliaTV.es" group-title="Spain ➾ Nature",ES: Iberalia TV
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/2793
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="Spain ➾ Nature",ES: NAT GEO Wild
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1137
+#EXTINF:0 tvg-id="ext" group-title="Spain ➾ Nature",ES: Nature Time
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/298751
+
+#EXTINF:0 tvg-id="Cocina.es" group-title="Spain ➾ Food",ES: Canal Cocina
+http://37.49.230.42:8080/jinbox/9pTbX5Gm9GLfJHLX/1167
+
+
 #EXTINF:0 tvg-id="ext" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 1 FHD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/267808.ts
 #EXTINF:0 tvg-id="ext" group-title="ES M+ PELICULAS PPV",ES: ALQUILER 2 FHD
