@@ -14357,6 +14357,12 @@ http://194539863471279571.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279571.mp4
 http://194539863471279572.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/279572.mp4
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/El_tutor-173692203-large.jpg",El tutor (2023)
+http://192.168.66.2:6878/ace/getstream?id=9e87135f71e7519bb318b00cb9f6cbf6e2cd771a
+#EXTINF:-1,tvg-logo="https://palomaynacho-1f321.kxcdn.com/wp-content/uploads/2023/01/poster-the-magic-flute-pelicula-.jpg",La flauta mágica (2023)
+http://192.168.66.2:6878/ace/getstream?id=651ed8c11570f4a3bfdedd99efb1efd4331ddd3b
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BYjVkZDQ5NjItYTdkNS00ZmRlLTk2NGItMDAyMTNhZTBiNmQwXkEyXkFqcGdeQXVyMTUzMDA3Mjc2._V1_FMjpg_UX1000_.jpg",Sakra  (2023)
+http://192.168.66.2:6878/ace/getstream?id=10b9e85c7b55a6eaf69cd4ca09e4fc8b0e296962
 #EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/b12vzbJdKWoIzH5qMvDywfZ9al3.jpg",Hanna y los monstruos (2023)
 http://192.168.66.2:6878/ace/getstream?id=0314891f6cf04de38637b44b24cbd92ea137b4e
 #EXTINF:-1,tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dedEnWKTW5akCOoIZyjCu6PeXdy.jpg",Amigos Pasajeros 2 (2023)
@@ -14383,7 +14389,7 @@ http://192.168.66.2:6878/ace/getstream?id=d3e938d9aa5a47755a8348f2b58598630c5c48
 http://192.168.66.2:6878/ace/getstream?id=22f7fdbca9164383bba755a084d13c9466428cd2
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/El_Rey_Mono-232332190-large.jpg",El rey mono (2023)
 http://192.168.66.2:6878/ace/getstream?id=56c1256eff9e2108afd682d37dbe6a2d471e9a77
-#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/LEGO_Disney_Princess_Misiaon_Castillo-964095837-large.jpg",Lego Disney princesas (2023)
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMWQ0MjJjZjUtNmU1Zi00ODc3LWE5ZWMtMjIyM2QxMDA0NGZjXkEyXkFqcGdeQXVyMTM1NjM2ODg1._V1_FMjpg_UX1000_.jpg",Lego Disney princesas (2023)
 http://192.168.66.2:6878/ace/getstream?id=16da81490441830647dfaa52e649643a138f8cb7
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Unwelcome-289130461-large.jpg",Unwelcome (2023)
 http://192.168.66.2:6878/ace/getstream?id=f4a61eb7b8050450cb2cc2dffc9a381e8642c2c6
