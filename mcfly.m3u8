@@ -61,6 +61,9 @@ http://192.168.66.2:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e0
 #EXTINF:-1 tvg-logo="https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_PR_Talento_0fc53286f5.png" group-title="Gol Mundial" tvg-id="Gol Mundial 3", Gol Mundial 3
 http://192.168.66.2:6878/ace/getstream?id=52c8ff01836c294caad8b8c029b53360aa16a4cd
 
+#EXTINF:-1 tvg-logo="https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_PR_Talento_0fc53286f5.png" group-title="Gol Mundial" tvg-id="Gol Mundial 3", Gol Mundial 3
+http://192.168.66.2:6878/ace/getstream?id=d6d5775a2965b15ee405278b6a2e5a4374a80e25
+
 #EXTINF:-1 tvg-logo="https://statics.goltelevision.com/backoffice/public/image/Gol_Mundial_PR_Talento_0fc53286f5.png" group-title="Gol Mundial" tvg-id="Gol Mundial 4", Gol Mundial 4
 http://192.168.66.2:6878/ace/getstream?id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 
