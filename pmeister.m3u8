@@ -1,11 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
-#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" tvg-name="" ,Evento #1 ()
-http://192.168.66.2:6878/ace/getstream?id=
-#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" tvg-name="" ,Evento #2 ()
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" ,Evento #1 (Rally Grecia)
+http://192.168.66.2:6878/ace/getstream?id=afe0e179d2d1a4fa7d6248ce6af2b7c43aeb11e2
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" ,Evento #2 ()
 http://quiponay.online:2082/687639915/XNx4bSVCyYRF/226307
-#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #3 ()
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 ()
 http://192.168.66.2:6878/ace/getstream?id=
-#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" tvg-name="" ,Evento #4 ()
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png",Evento #4 ()
 http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 group-title="Póker" tvg-logo="https://i.postimg.cc/50DjbRZn/wpt.png" tvg-name="" ,World Poker Tour Español
 http://185.71.66.13:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/241590
@@ -20,6 +20,8 @@ http://192.168.66.2:6878/ace/getstream?id=78384a676407784df944243eb2f75d937fbcc2
 #EXTINF:-1 group-title="Mundial Baloncesto" tvg-id="Gol Mundial 2" tvg-logo="https://i.postimg.cc/gJ7z7mPS/golbal.png" ,Gol Mundial 2
 http://192.168.66.2:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
 #EXTINF:-1 group-title="Mundial Baloncesto" tvg-id="Gol Mundial 3" tvg-logo="https://i.postimg.cc/gJ7z7mPS/golbal.png" ,Gol Mundial 3
+http://192.168.66.2:6878/ace/getstream?id=d6d5775a2965b15ee405278b6a2e5a4374a80e25
+#EXTINF:-1 group-title="Mundial Baloncesto" tvg-id="Gol Mundial 3" tvg-logo="https://i.postimg.cc/gJ7z7mPS/golbal.png" ,Gol Mundial 3 (02)
 http://192.168.66.2:6878/ace/getstream?id=52c8ff01836c294caad8b8c029b53360aa16a4cd
 #EXTINF:-1 group-title="Mundial Baloncesto" tvg-id="Gol Mundial 4" tvg-logo="https://i.postimg.cc/gJ7z7mPS/golbal.png" ,Gol Mundial 4 
 http://192.168.66.2:6878/ace/getstream?id=5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
