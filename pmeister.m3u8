@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml"
 #EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" ,Evento #1 (Rally Grecia)
 http://192.168.66.2:6878/ace/getstream?id=afe0e179d2d1a4fa7d6248ce6af2b7c43aeb11e2
-#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" ,Evento #2 ()
+#EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/LhKZPW09/wrc.png" ,Evento #2 (Argentina-Ecuador)
 http://quiponay.online:2082/687639915/XNx4bSVCyYRF/226307
 #EXTINF:-1 group-title="1. Eventos del momento" tvg-logo="https://i.postimg.cc/s2gsRzz5/acestream.png" ,Evento #3 ()
 http://192.168.66.2:6878/ace/getstream?id=
@@ -595,6 +595,42 @@ http://31.42.185.216:8000/yennyjara187/83GGI6Z1S4/160166
 http://31.42.185.216:8000/usuarioParaEventos/usuarioParaEventos/160166
 #EXTINF:-1 group-title="Fox Sports Premium" tvg-id="FoxSportsPremiumMexico.mx" tvg-name="FoxSportsPremiumMexico.mx" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2812.png" ,Fox Sports Premium SD IPTV
 http://15.235.65.55:25461/Socorrogonzales/n6vsSKapGK/126390
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV
+http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/124214
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (02)
+http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/124214
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (03)
+http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/124217
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (04)
+http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/124217
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (05)
+http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/124218
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (06)
+http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/124218
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (07)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/131167
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (08)
+http://62.197.129.85:8080/HernandezJoel/202022/131167
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (09)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/131167
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (10)
+http://62.197.129.85:8080/firesp11/2023C/131167
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (11)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/131167
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (13)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/214260
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (14)
+http://62.197.129.85:8080/HernandezJoel/202022/214260
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (15)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/214260
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (16)
+http://62.197.129.85:8080/firesp11/2023C/214260
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (17)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/214260
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (18)
+http://37.49.230.42:8080/stadnik/6a627b52a9/8749
+#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (19)
+http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/8749
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a945.png" ,TUDN IPTV
 http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/86242
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a945.png" ,TUDN IPTV (01)
