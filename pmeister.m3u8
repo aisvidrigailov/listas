@@ -142,7 +142,7 @@ http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/175812
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080*
 http://192.168.66.2:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
-http://192.168.66.2:6878/ace/getstream?id=c743d8d8d0d00c3d05a193b8f10ccf5253f20836
+http://192.168.66.2:6878/ace/getstream?id=61148b0b23b240ac1d6d9f2bdd793dc540f29618
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (02)
 http://37.49.230.42:8080/stadnik/6a627b52a9/64711
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (03)
@@ -595,41 +595,41 @@ http://31.42.185.216:8000/yennyjara187/83GGI6Z1S4/160166
 http://31.42.185.216:8000/usuarioParaEventos/usuarioParaEventos/160166
 #EXTINF:-1 group-title="Fox Sports Premium" tvg-id="FoxSportsPremiumMexico.mx" tvg-name="FoxSportsPremiumMexico.mx" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2812.png" ,Fox Sports Premium SD IPTV
 http://15.235.65.55:25461/Socorrogonzales/n6vsSKapGK/126390
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV
 http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/124214
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (02)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (02)
 http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/124214
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (03)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (03)
 http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/124217
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (04)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (04)
 http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/124217
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (05)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (05)
 http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/124218
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (06)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (06)
 http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/124218
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (07)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (07)
 http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/131167
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (08)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (08)
 http://62.197.129.85:8080/HernandezJoel/202022/131167
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (09)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (09)
 http://62.197.129.85:8080/0003/yaz6PY6SXEFx/131167
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (10)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (10)
 http://62.197.129.85:8080/firesp11/2023C/131167
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (11)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (11)
 http://62.197.129.85:8080/1128221512/yUFEAr88Lv/131167
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (13)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (13)
 http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/214260
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (14)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (14)
 http://62.197.129.85:8080/HernandezJoel/202022/214260
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (15)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (15)
 http://62.197.129.85:8080/0003/yaz6PY6SXEFx/214260
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (16)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (16)
 http://62.197.129.85:8080/firesp11/2023C/214260
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (17)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (17)
 http://62.197.129.85:8080/1128221512/yUFEAr88Lv/214260
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (18)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (18)
 http://37.49.230.42:8080/stadnik/6a627b52a9/8749
-#EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (19)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TyCSports.ar" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1245.png" ,TyC Sports IPTV (19)
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/8749
 #EXTINF:-1 group-title="Extranjeros" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a945.png" ,TUDN IPTV
 http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/86242
@@ -1259,6 +1259,8 @@ http://45.84.214.4:2095/BastianSuecia12243/AQNbBTDH6fUf/250879.ts
 http://45.84.214.4:2095/BastianSuecia12243/AQNbBTDH6fUf/127863.ts
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/P582Ms11/hyper.png" ,M+ LaLiga Hypermotion 1080
 http://192.168.66.2:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/P582Ms11/hyper.png" ,M+ LaLiga Hypermotion 1080 (temp)
+http://192.168.66.2:6878/ace/getstream?id=0b3749789c24c5536a6d68d2333f532d87d7356f
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/P582Ms11/hyper.png" ,M+ LaLiga Hypermotion 1080 (m3u8)
 http://51.158.62.198:18000/LALIGA_SMARTBANK_TV_FHD/hls/playlist.m3u8
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/P582Ms11/hyper.png" ,M+ LaLiga Hypermotion 1080 IPTV (02)
