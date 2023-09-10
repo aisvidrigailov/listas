@@ -1,21 +1,724 @@
-<!DOCTYPE html>
-<html>
-<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Dropbox - 503</title>
-<link href="https://cfl.dropboxstatic.com/static/metaserver/static/css/error.css" rel="stylesheet" type="text/css"/>
-<link rel="shortcut icon" href="https://cfl.dropboxstatic.com/static/images/favicon.ico"/>
-</head>
-<body>
-<div class="figure">
-<img src="https://assets.dropbox.com/www/en-us/illustrations/spot/target-miss.svg" alt="Error: 503"/>
-</div>
-<div id="errorbox">
-<h1>Error (503)</h1>Something went wrong. Don't worry, your files are still safe and the Dropbox team has been notified. Check out our <a href="https://status.dropbox.com">Status Page</a> to see if there is a known incident, our <a href="https://www.dropbox.com/help">Help Center</a> and <a href="https://forums.dropbox.com">forums</a> for help, or head back to <a href="https://www.dropbox.com/home">home</a>.
-</div>
+#EXTM3U
+#EXTINF:-1 tvg-id="ES: #0" tvg-logo="noimage.png" group-title="SPAIN", ES: #0
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80662
 
-</body>
-</html>
+#EXTINF:-1 tvg-id="ES: #0 FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: #0 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80664
+
+#EXTINF:-1 tvg-id="ES: #0 HD" tvg-logo="noimage.png" group-title="SPAIN", ES: #0 HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80663
+
+#EXTINF:-1 tvg-id="ES: A Punt HD" tvg-logo="http://i.imgur.com/ROPlvzc.png" group-title="SPAIN", ES: A Punt HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80785
+
+#EXTINF:-1 tvg-id="ES: A Punt SD" tvg-logo="noimage.png" group-title="SPAIN", ES: A Punt SD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80784
+
+#EXTINF:-1 tvg-id="ES: A3Series FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: A3Series FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80691
+
+#EXTINF:-1 tvg-id="ES: A3Series HD" tvg-logo="noimage.png" group-title="SPAIN", ES: A3Series HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80690
+
+#EXTINF:-1 tvg-id="ES: A3Series Internacional FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: A3Series Internacional FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80692
+
+#EXTINF:-1 tvg-id="ES: Alcarria TV" tvg-logo="https://i.imgur.com/aJL1mjy.png" group-title="SPAIN", ES: Alcarria TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80783
+
+#EXTINF:-1 tvg-id="ES: AMC" tvg-logo="noimage.png" group-title="SPAIN", ES: AMC
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80665
+
+#EXTINF:-1 tvg-id="ES: AMC FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: AMC FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80667
+
+#EXTINF:-1 tvg-id="ES: AMC HD" tvg-logo="noimage.png" group-title="SPAIN", ES: AMC HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80666
+
+#EXTINF:-1 tvg-id="ES: Antena 3" tvg-logo="noimage.png" group-title="SPAIN", ES: Antena 3
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80589
+
+#EXTINF:-1 tvg-id="ES: Antena 3 FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Antena 3 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80591
+
+#EXTINF:-1 tvg-id="ES: Antena 3 HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Antena 3 HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80590
+
+#EXTINF:-1 tvg-id="ES: Antena 3 Internacional" tvg-logo="noimage.png" group-title="SPAIN", ES: Antena 3 Internacional
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80592
+
+#EXTINF:-1 tvg-id="ES: Antena 3 Internacional FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Antena 3 Internacional FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80593
+
+#EXTINF:-1 tvg-id="ES: Antena Series HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Antena Series HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80588
+
+#EXTINF:-1 tvg-id="ES: Aragon TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Aragon TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80791
+
+#EXTINF:-1 tvg-id="ES: AXN" tvg-logo="noimage.png" group-title="SPAIN", ES: AXN
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80668
+
+#EXTINF:-1 tvg-id="ES: AXN FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: AXN FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80670
+
+#EXTINF:-1 tvg-id="ES: AXN HD" tvg-logo="noimage.png" group-title="SPAIN", ES: AXN HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80669
+
+#EXTINF:-1 tvg-id="ES: AXN White" tvg-logo="noimage.png" group-title="SPAIN", ES: AXN White
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80671
+
+#EXTINF:-1 tvg-id="ES: AXN White FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: AXN White FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80673
+
+#EXTINF:-1 tvg-id="ES: AXN White HD" tvg-logo="noimage.png" group-title="SPAIN", ES: AXN White HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80672
+
+#EXTINF:-1 tvg-id="ES: Baby TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Baby TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80754
+
+#EXTINF:-1 tvg-id="ES: BeMad" tvg-logo="noimage.png" group-title="SPAIN", ES: BeMad
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80611
+
+#EXTINF:-1 tvg-id="ES: BeMad FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: BeMad FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80613
+
+#EXTINF:-1 tvg-id="ES: BeMad HD" tvg-logo="noimage.png" group-title="SPAIN", ES: BeMad HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80612
+
+#EXTINF:-1 tvg-id="ES: Blaze" tvg-logo="noimage.png" group-title="SPAIN", ES: Blaze
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80618
+
+#EXTINF:-1 tvg-id="ES: Boing" tvg-logo="noimage.png" group-title="SPAIN", ES: Boing
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80740
+
+#EXTINF:-1 tvg-id="ES: Boing HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Boing HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80741
+
+#EXTINF:-1 tvg-id="ES: Bom Cine" tvg-logo="noimage.png" group-title="SPAIN", ES: Bom Cine
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80734
+
+#EXTINF:-1 tvg-id="ES: Bondia TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Bondia TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80766
+
+#EXTINF:-1 tvg-id="ES: Calle 13" tvg-logo="noimage.png" group-title="SPAIN", ES: Calle 13
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80674
+
+#EXTINF:-1 tvg-id="ES: Calle 13 FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Calle 13 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80676
+
+#EXTINF:-1 tvg-id="ES: Calle 13 HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Calle 13 HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80675
+
+#EXTINF:-1 tvg-id="ES: Canal 25 Barbastro TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Canal 25 Barbastro TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80793
+
+#EXTINF:-1 tvg-id="ES: Canal Cocina" tvg-logo="noimage.png" group-title="SPAIN", ES: Canal Cocina
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80648
+
+#EXTINF:-1 tvg-id="ES: Canal Cocina FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Canal Cocina FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80650
+
+#EXTINF:-1 tvg-id="ES: Canal Cocina HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Canal Cocina HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80649
+
+#EXTINF:-1 tvg-id="ES: Canal Costa HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Canal Costa HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80787
+
+#EXTINF:-1 tvg-id="ES: Canal Extremadura TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Canal Extremadura TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80771
+
+#EXTINF:-1 tvg-id="ES: Canal Malaga" tvg-logo="noimage.png" group-title="SPAIN", ES: Canal Malaga
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80790
+
+#EXTINF:-1 tvg-id="ES: Canal Panda" tvg-logo="noimage.png" group-title="SPAIN", ES: Canal Panda
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80753
+
+#EXTINF:-1 tvg-id="ES: Canal Sur Andalucía" tvg-logo="noimage.png" group-title="SPAIN", ES: Canal Sur Andalucía
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80641
+
+#EXTINF:-1 tvg-id="ES: Canal Sur HD Andalucía" tvg-logo="noimage.png" group-title="SPAIN", ES: Canal Sur HD Andalucía
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80642
+
+#EXTINF:-1 tvg-id="ES: Caza y Pesca" tvg-logo="noimage.png" group-title="SPAIN", ES: Caza y Pesca
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80685
+
+#EXTINF:-1 tvg-id="ES: Caza y Pesca FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Caza y Pesca FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80687
+
+#EXTINF:-1 tvg-id="ES: Caza y Pesca HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Caza y Pesca HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80686
+
+#EXTINF:-1 tvg-id="ES: Cazavision" tvg-logo="noimage.png" group-title="SPAIN", ES: Cazavision
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80660
+
+#EXTINF:-1 tvg-id="ES: CGTN En Español" tvg-logo="noimage.png" group-title="SPAIN", ES: CGTN En Español
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80607
+
+#EXTINF:-1 tvg-id="ES: Clan TVE FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Clan TVE FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80744
+
+#EXTINF:-1 tvg-id="ES: Comedy Central" tvg-logo="noimage.png" group-title="SPAIN", ES: Comedy Central
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80643
+
+#EXTINF:-1 tvg-id="ES: Comedy Central FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Comedy Central FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80645
+
+#EXTINF:-1 tvg-id="ES: Comedy Central HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Comedy Central HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80644
+
+#EXTINF:-1 tvg-id="ES: COSMO" tvg-logo="noimage.png" group-title="SPAIN", ES: COSMO
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80651
+
+#EXTINF:-1 tvg-id="ES: COSMO FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: COSMO FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80653
+
+#EXTINF:-1 tvg-id="ES: COSMO HD" tvg-logo="noimage.png" group-title="SPAIN", ES: COSMO HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80652
+
+#EXTINF:-1 tvg-id="ES: Crimen Investigacion" tvg-logo="noimage.png" group-title="SPAIN", ES: Crimen Investigacion
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80629
+
+#EXTINF:-1 tvg-id="ES: Cuatro" tvg-logo="noimage.png" group-title="SPAIN", ES: Cuatro
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80594
+
+#EXTINF:-1 tvg-id="ES: Cuatro FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Cuatro FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80596
+
+#EXTINF:-1 tvg-id="ES: Cuatro HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Cuatro HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80595
+
+#EXTINF:-1 tvg-id="ES: DARK FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: DARK FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80678
+
+#EXTINF:-1 tvg-id="ES: DARK HD" tvg-logo="http://play.bimbotv.net:2052/images/logos/dark.png" group-title="SPAIN", ES: DARK HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80677
+
+#EXTINF:-1 tvg-id="ES: Decasa" tvg-logo="noimage.png" group-title="SPAIN", ES: Decasa
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80647
+
+#EXTINF:-1 tvg-id="ES: Decasa FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Decasa FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80646
+
+#EXTINF:-1 tvg-id="ES: Diez TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Diez TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80770
+
+#EXTINF:-1 tvg-id="ES: Discovery Channel" tvg-logo="noimage.png" group-title="SPAIN", ES: Discovery Channel
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80630
+
+#EXTINF:-1 tvg-id="ES: Discovery Channel FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Discovery Channel FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80631
+
+#EXTINF:-1 tvg-id="ES: Disney Channel" tvg-logo="noimage.png" group-title="SPAIN", ES: Disney Channel
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80745
+
+#EXTINF:-1 tvg-id="ES: Disney Channel FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Disney Channel FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80747
+
+#EXTINF:-1 tvg-id="ES: Disney Channel HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Disney Channel HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80746
+
+#EXTINF:-1 tvg-id="ES: Disney Junior" tvg-logo="noimage.png" group-title="SPAIN", ES: Disney Junior
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80748
+
+#EXTINF:-1 tvg-id="ES: Divinity" tvg-logo="noimage.png" group-title="SPAIN", ES: Divinity
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80616
+
+#EXTINF:-1 tvg-id="ES: Dkiss" tvg-logo="noimage.png" group-title="SPAIN", ES: Dkiss
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80614
+
+#EXTINF:-1 tvg-id="ES: DMAX" tvg-logo="noimage.png" group-title="SPAIN", ES: DMAX
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80615
+
+#EXTINF:-1 tvg-id="ES: Energy" tvg-logo="noimage.png" group-title="SPAIN", ES: Energy
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80617
+
+#EXTINF:-1 tvg-id="ES: ETB 1 HD" tvg-logo="noimage.png" group-title="SPAIN", ES: ETB 1 HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80801
+
+#EXTINF:-1 tvg-id="ES: ETB 1 SD" tvg-logo="noimage.png" group-title="SPAIN", ES: ETB 1 SD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80799
+
+#EXTINF:-1 tvg-id="ES: ETB 2 HD" tvg-logo="noimage.png" group-title="SPAIN", ES: ETB 2 HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80802
+
+#EXTINF:-1 tvg-id="ES: ETB 2 SD" tvg-logo="noimage.png" group-title="SPAIN", ES: ETB 2 SD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80800
+
+#EXTINF:-1 tvg-id="ES: ETB SAT" tvg-logo="noimage.png" group-title="SPAIN", ES: ETB SAT
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80798
+
+#EXTINF:-1 tvg-id="ES: FDF" tvg-logo="noimage.png" group-title="SPAIN", ES: FDF
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80624
+
+#EXTINF:-1 tvg-id="ES: FOX" tvg-logo="noimage.png" group-title="SPAIN", ES: FOX
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80679
+
+#EXTINF:-1 tvg-id="ES: FOX FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: FOX FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80681
+
+#EXTINF:-1 tvg-id="ES: FOX HD" tvg-logo="noimage.png" group-title="SPAIN", ES: FOX HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80680
+
+#EXTINF:-1 tvg-id="ES: FOX Life" tvg-logo="noimage.png" group-title="SPAIN", ES: FOX Life
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80682
+
+#EXTINF:-1 tvg-id="ES: FOX Life FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: FOX Life FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80684
+
+#EXTINF:-1 tvg-id="ES: FOX Life HD" tvg-logo="noimage.png" group-title="SPAIN", ES: FOX Life HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80683
+
+#EXTINF:-1 tvg-id="ES: Hispan TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Hispan TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80606
+
+#EXTINF:-1 tvg-id="ES: Historia" tvg-logo="noimage.png" group-title="SPAIN", ES: Historia
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80632
+
+#EXTINF:-1 tvg-id="ES: Historia FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Historia FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80634
+
+#EXTINF:-1 tvg-id="ES: Historia HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Historia HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80633
+
+#EXTINF:-1 tvg-id="ES: Hollywood" tvg-logo="noimage.png" group-title="SPAIN", ES: Hollywood
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80693
+
+#EXTINF:-1 tvg-id="ES: Hollywood FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Hollywood FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80695
+
+#EXTINF:-1 tvg-id="ES: Hollywood HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Hollywood HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80694
+
+#EXTINF:-1 tvg-id="ES: Iberalia TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Iberalia TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80689
+
+#EXTINF:-1 tvg-id="ES: Imas TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Imas TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80795
+
+#EXTINF:-1 tvg-id="ES: Interalmeria FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Interalmeria FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80788
+
+#EXTINF:-1 tvg-id="ES: Intereconomia" tvg-logo="noimage.png" group-title="SPAIN", ES: Intereconomia
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80786
+
+#EXTINF:-1 tvg-id="ES: La 1" tvg-logo="noimage.png" group-title="SPAIN", ES: La 1
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80583
+
+#EXTINF:-1 tvg-id="ES: La 1 FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: La 1 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80585
+
+#EXTINF:-1 tvg-id="ES: La 1 HD" tvg-logo="noimage.png" group-title="SPAIN", ES: La 1 HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80584
+
+#EXTINF:-1 tvg-id="ES: La 2" tvg-logo="noimage.png" group-title="SPAIN", ES: La 2
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80586
+
+#EXTINF:-1 tvg-id="ES: La 2 FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: La 2 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80587
+
+#EXTINF:-1 tvg-id="ES: La Sexta" tvg-logo="noimage.png" group-title="SPAIN", ES: La Sexta
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80600
+
+#EXTINF:-1 tvg-id="ES: La Sexta FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: La Sexta FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80602
+
+#EXTINF:-1 tvg-id="ES: La Sexta HD" tvg-logo="noimage.png" group-title="SPAIN", ES: La Sexta HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80601
+
+#EXTINF:-1 tvg-id="ES: Marbella TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Marbella TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80789
+
+#EXTINF:-1 tvg-id="ES: MEGA" tvg-logo="noimage.png" group-title="SPAIN", ES: MEGA
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80608
+
+#EXTINF:-1 tvg-id="ES: MEGA FHD" tvg-logo="http://play.bimbotv.net:2052/images/logos/mega.png" group-title="SPAIN", ES: MEGA FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80610
+
+#EXTINF:-1 tvg-id="ES: MEGA HD" tvg-logo="noimage.png" group-title="SPAIN", ES: MEGA HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80609
+
+#EXTINF:-1 tvg-id="ES: Mezzo" tvg-logo="noimage.png" group-title="SPAIN", ES: Mezzo
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80761
+
+#EXTINF:-1 tvg-id="ES: Movistar Accion" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Accion
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80696
+
+#EXTINF:-1 tvg-id="ES: Movistar Cine Español" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Cine Español
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80699
+
+#EXTINF:-1 tvg-id="ES: Movistar CineDoc&Roll" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar CineDoc&Roll
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80700
+
+#EXTINF:-1 tvg-id="ES: Movistar CineDoc&Roll FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar CineDoc&Roll FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80702
+
+#EXTINF:-1 tvg-id="ES: Movistar CineDoc&Roll HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar CineDoc&Roll HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80701
+
+#EXTINF:-1 tvg-id="ES: Movistar Comedia" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Comedia
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80703
+
+#EXTINF:-1 tvg-id="ES: Movistar Drama" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Drama
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80706
+
+#EXTINF:-1 tvg-id="ES: Movistar Dreamworks FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Dreamworks FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80758
+
+#EXTINF:-1 tvg-id="ES: Movistar Dreamworks HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Dreamworks HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80757
+
+#EXTINF:-1 tvg-id="ES: Movistar Estrenos" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Estrenos
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80709
+
+#EXTINF:-1 tvg-id="ES: Movistar Estrenos FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Estrenos FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80711
+
+#EXTINF:-1 tvg-id="ES: Movistar Estrenos HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Estrenos HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80710
+
+#EXTINF:-1 tvg-id="ES: Movistar Series" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Series
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80712
+
+#EXTINF:-1 tvg-id="ES: Movistar Series FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Series FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80714
+
+#EXTINF:-1 tvg-id="ES: Movistar Seriesmania" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Seriesmania
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80715
+
+#EXTINF:-1 tvg-id="ES: Movistar Seriesmania FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Seriesmania FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80717
+
+#EXTINF:-1 tvg-id="ES: Movistar Seriesmania HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Movistar Seriesmania HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80716
+
+#EXTINF:-1 tvg-id="ES: MTV España" tvg-logo="noimage.png" group-title="SPAIN", ES: MTV España
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80760
+
+#EXTINF:-1 tvg-id="ES: Nat Geo Wild" tvg-logo="noimage.png" group-title="SPAIN", ES: Nat Geo Wild
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80635
+
+#EXTINF:-1 tvg-id="ES: Nat Geo Wild FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Nat Geo Wild FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80637
+
+#EXTINF:-1 tvg-id="ES: Nat Geo Wild HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Nat Geo Wild HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80636
+
+#EXTINF:-1 tvg-id="ES: National Geographic" tvg-logo="noimage.png" group-title="SPAIN", ES: National Geographic
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80638
+
+#EXTINF:-1 tvg-id="ES: National Geographic FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: National Geographic FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80640
+
+#EXTINF:-1 tvg-id="ES: National Geographic HD" tvg-logo="noimage.png" group-title="SPAIN", ES: National Geographic HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80639
+
+#EXTINF:-1 tvg-id="ES: Neox" tvg-logo="noimage.png" group-title="SPAIN", ES: Neox
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80625
+
+#EXTINF:-1 tvg-id="ES: Neox FHD" tvg-logo="http://play.bimbotv.net:2052/images/logos/neox.png" group-title="SPAIN", ES: Neox FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80627
+
+#EXTINF:-1 tvg-id="ES: Neox HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Neox HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80626
+
+#EXTINF:-1 tvg-id="ES: Nick Jr" tvg-logo="noimage.png" group-title="SPAIN", ES: Nick Jr
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80749
+
+#EXTINF:-1 tvg-id="ES: Nickelodeon" tvg-logo="noimage.png" group-title="SPAIN", ES: Nickelodeon
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80750
+
+#EXTINF:-1 tvg-id="ES: Nickelodeon FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Nickelodeon FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80752
+
+#EXTINF:-1 tvg-id="ES: Nickelodeon HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Nickelodeon HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80751
+
+#EXTINF:-1 tvg-id="ES: Nova" tvg-logo="noimage.png" group-title="SPAIN", ES: Nova
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80619
+
+#EXTINF:-1 tvg-id="ES: Nova FHD" tvg-logo="http://play.bimbotv.net:2052/images/logos/nova.png" group-title="SPAIN", ES: Nova FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80620
+
+#EXTINF:-1 tvg-id="ES: Odisea" tvg-logo="noimage.png" group-title="SPAIN", ES: Odisea
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80621
+
+#EXTINF:-1 tvg-id="ES: Odisea FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Odisea FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80623
+
+#EXTINF:-1 tvg-id="ES: Odisea HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Odisea HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80622
+
+#EXTINF:-1 tvg-id="ES: Onda Algeciras TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Onda Algeciras TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80804
+
+#EXTINF:-1 tvg-id="ES: Paramount Channel" tvg-logo="noimage.png" group-title="SPAIN", ES: Paramount Channel
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80735
+
+#EXTINF:-1 tvg-id="ES: RTV Castilla y León HD (web)" tvg-logo="noimage.png" group-title="SPAIN", ES: RTV Castilla y León HD (web)
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80797
+
+#EXTINF:-1 tvg-id="ES: SOMOS FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: SOMOS FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80688
+
+#EXTINF:-1 tvg-id="ES: Star TVE" tvg-logo="noimage.png" group-title="SPAIN", ES: Star TVE
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80603
+
+#EXTINF:-1 tvg-id="ES: Star TVE FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Star TVE FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80604
+
+#EXTINF:-1 tvg-id="ES: Sundance TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Sundance TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80738
+
+#EXTINF:-1 tvg-id="ES: SyFy" tvg-logo="noimage.png" group-title="SPAIN", ES: SyFy
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80718
+
+#EXTINF:-1 tvg-id="ES: SyFy FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: SyFy FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80720
+
+#EXTINF:-1 tvg-id="ES: SyFy HD" tvg-logo="noimage.png" group-title="SPAIN", ES: SyFy HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80719
+
+#EXTINF:-1 tvg-id="ES: Taquilla 1 FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Taquilla 1 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80730
+
+#EXTINF:-1 tvg-id="ES: Taquilla 2 FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Taquilla 2 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80731
+
+#EXTINF:-1 tvg-id="ES: Taquilla 3 FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Taquilla 3 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80732
+
+#EXTINF:-1 tvg-id="ES: Taquilla 4 FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Taquilla 4 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80733
+
+#EXTINF:-1 tvg-id="ES: TCM" tvg-logo="noimage.png" group-title="SPAIN", ES: TCM
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80721
+
+#EXTINF:-1 tvg-id="ES: TCM FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: TCM FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80722
+
+#EXTINF:-1 tvg-id="ES: TCM HD" tvg-logo="noimage.png" group-title="SPAIN", ES: TCM HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80723
+
+#EXTINF:-1 tvg-id="ES: Telecinco" tvg-logo="noimage.png" group-title="SPAIN", ES: Telecinco
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80597
+
+#EXTINF:-1 tvg-id="ES: Telecinco FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Telecinco FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80599
+
+#EXTINF:-1 tvg-id="ES: Telecinco HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Telecinco HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80598
+
+#EXTINF:-1 tvg-id="ES: Telemadrid FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Telemadrid FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80737
+
+#EXTINF:-1 tvg-id="ES: Telemadrid HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Telemadrid HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80736
+
+#EXTINF:-1 tvg-id="ES: Teleonuba HD" tvg-logo="https://i.imgur.com/vpWSsZ7.png" group-title="SPAIN", ES: Teleonuba HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80781
+
+#EXTINF:-1 tvg-id="ES: Televisió de Girona" tvg-logo="noimage.png" group-title="SPAIN", ES: Televisió de Girona
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80767
+
+#EXTINF:-1 tvg-id="ES: Ten" tvg-logo="noimage.png" group-title="SPAIN", ES: Ten
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80628
+
+#EXTINF:-1 tvg-id="ES: TNT" tvg-logo="noimage.png" group-title="SPAIN", ES: TNT
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80724
+
+#EXTINF:-1 tvg-id="ES: TNT FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: TNT FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80726
+
+#EXTINF:-1 tvg-id="ES: TNT HD" tvg-logo="noimage.png" group-title="SPAIN", ES: TNT HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80725
+
+#EXTINF:-1 tvg-id="ES: Toros TV" tvg-logo="noimage.png" group-title="SPAIN", ES: Toros TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80657
+
+#EXTINF:-1 tvg-id="ES: Toros TV FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: Toros TV FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80659
+
+#EXTINF:-1 tvg-id="ES: Toros TV HD" tvg-logo="noimage.png" group-title="SPAIN", ES: Toros TV HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80658
+
+#EXTINF:-1 tvg-id="ES: TV Galicia America HD" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="SPAIN", ES: TV Galicia America HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80776
+
+#EXTINF:-1 tvg-id="ES: TV Galicia America SD" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="SPAIN", ES: TV Galicia America SD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80773
+
+#EXTINF:-1 tvg-id="ES: TV Galicia Cultura" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="SPAIN", ES: TV Galicia Cultura
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80777
+
+#EXTINF:-1 tvg-id="ES: TV Galicia Europa HD" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="SPAIN", ES: TV Galicia Europa HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80778
+
+#EXTINF:-1 tvg-id="ES: TV Galicia Europa SD" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="SPAIN", ES: TV Galicia Europa SD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80772
+
+#EXTINF:-1 tvg-id="ES: TV Galicia Infantil HD" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="SPAIN", ES: TV Galicia Infantil HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80780
+
+#EXTINF:-1 tvg-id="ES: TV Galicia Momentos G HD" tvg-logo="https://i.imgur.com/v5d0xMH.png" group-title="SPAIN", ES: TV Galicia Momentos G HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80779
+
+#EXTINF:-1 tvg-id="ES: TV3 FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: TV3 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80765
+
+#EXTINF:-1 tvg-id="ES: TVE Internacional" tvg-logo="noimage.png" group-title="SPAIN", ES: TVE Internacional
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80582
+
+#EXTINF:-1 tvg-id="ES: XTRM" tvg-logo="noimage.png" group-title="SPAIN", ES: XTRM
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80727
+
+#EXTINF:-1 tvg-id="ES: XTRM FHD" tvg-logo="noimage.png" group-title="SPAIN", ES: XTRM FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80729
+
+#EXTINF:-1 tvg-id="ES: XTRM HD" tvg-logo="noimage.png" group-title="SPAIN", ES: XTRM HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/80728
+
+#EXTINF:-1 tvg-id="SP: ES: #Vamos" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: #Vamos
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94583
+
+#EXTINF:-1 tvg-id="SP: ES: #Vamos FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: #Vamos FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94585
+
+#EXTINF:-1 tvg-id="SP: ES: #Vamos HD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: #Vamos HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94584
+
+#EXTINF:-1 tvg-id="SP: ES: Barça TV" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Barça TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94578
+
+#EXTINF:-1 tvg-id="SP: ES: Barça TV FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Barça TV FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94579
+
+#EXTINF:-1 tvg-id="SP: ES: Eurosport 1" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Eurosport 1
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94598
+
+#EXTINF:-1 tvg-id="SP: ES: Eurosport 1 FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Eurosport 1 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94600
+
+#EXTINF:-1 tvg-id="SP: ES: Eurosport 1 HD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Eurosport 1 HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94599
+
+#EXTINF:-1 tvg-id="SP: ES: Eurosport 2" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Eurosport 2
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94601
+
+#EXTINF:-1 tvg-id="SP: ES: Eurosport 2 HD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Eurosport 2 HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94602
+
+#EXTINF:-1 tvg-id="SP: ES: GOL" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: GOL
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94586
+
+#EXTINF:-1 tvg-id="SP: ES: LaLiga TV Bar (OFFLINE)" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: LaLiga TV Bar (OFFLINE)
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94558
+
+#EXTINF:-1 tvg-id="SP: ES: M. LaLiga 1" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. LaLiga 1
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94561
+
+#EXTINF:-1 tvg-id="SP: ES: M. LaLiga 1 FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. LaLiga 1 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94562
+
+#EXTINF:-1 tvg-id="SP: ES: M. LaLiga 2" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. LaLiga 2
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94563
+
+#EXTINF:-1 tvg-id="SP: ES: M. LaLiga 2 FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. LaLiga 2 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94564
+
+#EXTINF:-1 tvg-id="SP: ES: M. LaLiga 3" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. LaLiga 3
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94565
+
+#EXTINF:-1 tvg-id="SP: ES: M. LaLiga 3 FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. LaLiga 3 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94566
+
+#EXTINF:-1 tvg-id="SP: ES: M. LaLiga FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. LaLiga FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94557
+
+#EXTINF:-1 tvg-id="SP: ES: M. LaLiga HD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. LaLiga HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94556
+
+#EXTINF:-1 tvg-id="SP: ES: M. LaLiga SD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. LaLiga SD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94555
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 1" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 1
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94567
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 1 FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 1 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94568
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 2" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 2
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94569
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 2 FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 2 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94570
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 3" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 3
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94571
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 3 FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 3 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94572
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 4" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 4
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94573
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 5" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 5
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94574
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 6" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 6
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94575
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 7" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 7
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94576
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones 8" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones 8
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94577
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94554
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga De Campeones HD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga De Campeones HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94553
+
+#EXTINF:-1 tvg-id="SP: ES: M. Liga de Campeones SD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: M. Liga de Campeones SD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94552
+
+#EXTINF:-1 tvg-id="SP: ES: Movistar Deportes" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Movistar Deportes
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94595
+
+#EXTINF:-1 tvg-id="SP: ES: Movistar Deportes FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Movistar Deportes FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94597
+
+#EXTINF:-1 tvg-id="SP: ES: Movistar Deportes HD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Movistar Deportes HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94596
+
+#EXTINF:-1 tvg-id="SP: ES: Movistar F1 FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Movistar F1 FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94591
+
+#EXTINF:-1 tvg-id="SP: ES: Movistar Golf" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Movistar Golf
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94592
+
+#EXTINF:-1 tvg-id="SP: ES: Movistar Golf FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Movistar Golf FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94594
+
+#EXTINF:-1 tvg-id="SP: ES: Movistar Golf HD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Movistar Golf HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94593
+
+#EXTINF:-1 tvg-id="SP: ES: Real Madrid TV" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Real Madrid TV
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94580
+
+#EXTINF:-1 tvg-id="SP: ES: Real Madrid TV FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Real Madrid TV FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94582
+
+#EXTINF:-1 tvg-id="SP: ES: Real Madrid TV HD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Real Madrid TV HD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94581
+
+#EXTINF:-1 tvg-id="SP: ES: Teledeporte" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Teledeporte
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94603
+
+#EXTINF:-1 tvg-id="SP: ES: Teledeporte FHD" tvg-logo="noimage.png" group-title="SPAIN: SPORTS", SP: ES: Teledeporte FHD
+http://23.134.94.129:8080/mohawk_telegram/vvKTvUqJPBdv/94604
+
 #EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
 http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
 #EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 2 1080
