@@ -14950,6 +14950,8 @@ http://776662753850616746.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616746.ts
 http://776662753850616747.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616747.ts
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Operaciaon_Kandahar-556642606-large.jpg",operacion kandahar (2023)
+http://192.168.66.2:6878/ace/getstream?id=f6c892815901d347dbccf44b8cfe25c77a7a1466
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/El_tutor-173692203-large.jpg",El tutor (2023)
 http://192.168.66.2:6878/ace/getstream?id=9e87135f71e7519bb318b00cb9f6cbf6e2cd771a
 #EXTINF:-1,tvg-logo="https://palomaynacho-1f321.kxcdn.com/wp-content/uploads/2023/01/poster-the-magic-flute-pelicula-.jpg",La flauta mágica (2023)
