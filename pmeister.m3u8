@@ -141,8 +141,6 @@ http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/175811
 http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/175812
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080*
 http://192.168.66.2:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
-#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080
-http://192.168.66.2:6878/ace/getstream?id=61148b0b23b240ac1d6d9f2bdd793dc540f29618
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (02)
 http://37.49.230.42:8080/stadnik/6a627b52a9/64711
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (03)
@@ -985,6 +983,8 @@ http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/538685.ts
 http://185.71.66.13:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151439
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5 
 http://192.168.66.2:6878/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5(temp)
+http://192.168.66.2:6878/ace/getstream?id=61148b0b23b240ac1d6d9f2bdd793dc540f29618
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5 IPTV
 http://104.243.47.161:8080/m6hP9j9tXP/r9NJQaGU6eMe/180742
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 5" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 5 IPTV (02)
@@ -1259,8 +1259,6 @@ http://45.84.214.4:2095/BastianSuecia12243/AQNbBTDH6fUf/250879.ts
 http://45.84.214.4:2095/BastianSuecia12243/AQNbBTDH6fUf/127863.ts
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/P582Ms11/hyper.png" ,M+ LaLiga Hypermotion 1080
 http://192.168.66.2:6878/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/P582Ms11/hyper.png" ,M+ LaLiga Hypermotion 1080 (temp)
-http://192.168.66.2:6878/ace/getstream?id=0b3749789c24c5536a6d68d2333f532d87d7356f
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/P582Ms11/hyper.png" ,M+ LaLiga Hypermotion 1080 (m3u8)
 http://51.158.62.198:18000/LALIGA_SMARTBANK_TV_FHD/hls/playlist.m3u8
 #EXTINF:-1 group-title="M+ LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.postimg.cc/P582Ms11/hyper.png" ,M+ LaLiga Hypermotion 1080 IPTV (02)
