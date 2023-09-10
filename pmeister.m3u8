@@ -805,18 +805,18 @@ http://62.197.129.85:8080/0003/yaz6PY6SXEFx/87020
 http://62.197.129.85:8080/firesp11/2023C/87020
 #EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (20)
 http://62.197.129.85:8080/1128221512/yUFEAr88Lv/87020
-#EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 LA IPTV
-http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/8740
-#EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 LA IPTV (02)
-http://37.49.230.42:8080/stadnik/6a627b52a9/8740
+#EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (21)
+http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/10921
+#EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 MX IPTV (22)
+http://37.49.230.42:8080/stadnik/6a627b52a9/10921
 #EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1265.png" ,Fox Sports 3 CO IPTV
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/189906
 #EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1265.png" ,Fox Sports 3 CO IPTV (02)
 http://37.49.230.42:8080/stadnik/6a627b52a9/189906
-#EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 SUR IPTV
-http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/3042
-#EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 SUR IPTV (02)
-http://37.49.230.42:8080/stadnik/6a627b52a9/3042
+#EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 ARG IPTV
+http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/3044
+#EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 ARG IPTV (02)
+http://37.49.230.42:8080/stadnik/6a627b52a9/3044
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080
 http://192.168.66.2:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="EuroSport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080 (m3u8)
