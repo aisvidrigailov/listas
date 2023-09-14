@@ -405,17 +405,32 @@ http://partyplay.live:8080/exch@grogi/grogi456/310855
 #EXTINF:-1 tvg-id="" tvg-name="TVE1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="TDT", TVE1
 http://192.168.66.2:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
 
+#EXTINF:-1 tvg-id="" tvg-name="TVE1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="TDT", TVE1
+http://192.168.66.2:6878/ace/getstream?id=3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
+
 #EXTINF:-1 tvg-id="" tvg-name="TVE1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="TDT", TVE1 HD
 http://192.168.66.2:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
 
 #EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-logo="https://www.unedvalencia.es/wordpress/wp-content/uploads/2021/07/la2.png" group-title="TDT", La 2
 http://192.168.66.2:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
 
+#EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-logo="https://www.unedvalencia.es/wordpress/wp-content/uploads/2021/07/la2.png" group-title="TDT", La 2
+http://192.168.66.2:6878/ace/getstream?id=52d3738871536dce27db50f044d3294a4c52253d
+
+#EXTINF:-1 tvg-logo="https://imagenes.heraldo.es/files/image_990_v3/uploads/imagenes/2022/09/14/24h.jpeg" group-title="TDT" tvg-id="24h", 24h Cat 
+http://192.168.66.2:6878/ace/getstream?id=2191383ed85d20f5f6759785e14a4aff8a3ab8f4
+
+#EXTINF:-1 tvg-logo="https://imagenes.heraldo.es/files/image_990_v3/uploads/imagenes/2022/09/14/24h.jpeg" group-title="TDT" tvg-id="24h", 24h Canarias 
+http://192.168.66.2:6878/ace/getstream?id=12b6039cba09cee2e6b87e69623ed30462e65edc
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="M+ Ellas #V HD", Ellas #V
 http://192.168.66.2:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png" group-title="TDT" tvg-id="TV3 HD", TV3 CAT
 http://192.168.66.2:6878/ace/getstream?id=8494a9c2e755292fefe4eea78acd8dc29ed1d3ab
+
+#EXTINF:-1 tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fwww.pericos.es%2Fwp-content%2Fuploads%2F2023%2F06%2FEsport3.jpg" group-title="TDT" tvg-id="Esport 3", Esport3
+http://192.168.66.2:6878/ace/getstream?id=915c04130796e3e6246919261b89660377f60ad8
 
 #EXTINF:-1 group-title="TDT" tvg-id="Cuatro HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO 1080
 acestream://e8eec35f4662be1af96963245bfa88fb7d0242c4
@@ -1638,14 +1653,14 @@ http://192.168.66.2:6878/ace/getstream?id=7cac3131958133ab8d363ebd3d15265ef46cbb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 10-09
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtAEarlTFfleIVoMVC17I56feyUeCRQ6a-Q59dKvSBuGhzh5k0SoOlwENctsWH0BCibdljkq88zVyse9nHgoA74e1RKHyKoEymtS6DwkwOft5oPbTICSwxUfNiKfHTmef9vkBsXzLRC-2KkUrQ6VWp-7Z5YzSRIP-z74HgVZz-FNKxSz3aNiNLfS6DOqrG7YdskK0eagvmmwFFukYMK9OkIlDrsvlmq94sD9vtqXh8ejJaVksGj2RRMK62vQZ233LqbwQNP0_uuhULXpey-UhfbXySAnWKyd6wvuF0-k-NylFbIlTCv1KoGpvUHuQFl0KQfcWdysa4M35hbRXB7Grt8zzFbW0qZbgwrCZwHaK8h5VxUzQtyk4rGoi6lFbiNvd8SEZW4sg1ViGI8z6eIRzAxBqG4th0jyZdRAQPeR1q8gCGVKp6iWhPAWA5_tTksnPBr1-5Yx19r-mQPJQflpKXQW2uXtlanDhU4g-C036XDvjpV40UsaSX8otS_-k9ej2gEQP_IqTG8mSWzRRUeGXxafO7Z7MbxeqNjFmrqCqCbEDGlOOF4AsEeE1FnZFqnlXHx8q38v8_MEDlOngFm6yguj60ljj-ZNLv0aTAuQ5jGyHHouKx3ZrfoO8zrMeVzhksXERjBTi7QDBI3R1pWfLtb1rHlSDTkO-YyMT8KWabYHHVTaac88ni9vQoSz2sNwVvnwQfMIHscTruzrEr8YA0jtnf6xLWMS-FKkEEtSHYiIGM1GCoS4U-pJhCtlstESIbZFs1UTu47cl7ZTc9RA3SwlEhoMNleb9V-gdjRgSgN3IAEqCWV1LXdlc3QtMjC_Bw.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 12-09
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Ct0E64aGJ55_ECE3AyiiJmjiKqvwOzk_oP5I_KW_mgs6wl8wgeqUZOY5zBGXeWWwRTpwF7I7wnPYQ6gJbBs8TsOB-MStgboORHZIA-Lue2dS_BfI9FOZ8OWfvP_4QxXcQ2yHaNNWW4yWwdEHT58OWILYyDYlsLfAF-rk8cIwZXwS6qbNi-AYFNzSMSu3ucvjE3N9jqLD5H5OlPhnWMQ1vpD-Wd6vyv7yTVejYlQ6Ff1FlM5EYnhrmg8kE_630SZKiEdmzub4Vr8LDMSze10iGHJ6yEphofNDtnxnPAlY-ao9aVbnj8wXo1m7WtHbZOlsZF10NbL2ZPFvNWm64yd_DNTUNjxJZ5S2-3J8SjPI394NeAZG8aqxEMIEFhIaDVsp0Rs9_9_wCnQd-072yTKjNkUJpmVKRv115qO0wB05bSvEmbDVpMCJSDKidxoCnxk2l1N8WebV3tUDzTAOE2aKQL9aUctrtX344ylPdNnRD50xy6364WSXwbwoPrJhfJ8k7FdO5kYw2IMcc1af7aN4R9cikab06btrjAuCsPwiKKcAjgT8AaNYcE3sRSIoCpVKtvuhsmDBG9Ye0tMd1kta88J6fnXoSYYBKGq4cicLynwoMqoEeQO_BUpst8lR9Pyvndwt_YYCcNRmaf1y9LQHH1Unz8YzRsWGWiBlvnW6e9p5ovZ8zD1GPndzm7CIeB3SxT2nz3C4A9ArjGDLa8UumYlJsl0qE_GqKekPLz6t-JTAZFfhghrU-WOHZLCzk1SrCK7rxoWdi2F6yOqB0FlmF84Kx3xBGSsyPutpOTYufx4aDLD9Ougf6ooA_bJYNSABKglldS13ZXN0LTIwwQc.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 14-09
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Ct4EDqEMSoSkAiotA-bXNE16w849iMoEOGy-KwS75dkiTQ5K2IB7c5u3K95Dat40ykHC_xL6HFkjzGhrfI-u5gD1EV0U6XaIZNsFxpCiThZ4Pl_t3s8m0CTj9ZuYl3cH2-oqSdtecyPbG5F-22PxawIJVfDhO0CbC0uZullb6JflyHlp78IEDgW7t-pwUBQlgyvF2yZY_YxlWHtUYGcleSaSgxFnis8wYQRJZvrb6_q9Rh4J7zNmA4N5_Tvib2ia_GVs0w2AMt6ePCMtT1BflpmF2-m2ItiWge0WTHZZXc8YZy44_O8drGRLPuWDiIixc1XWvf3SAe5N98eOwIMB37k3PJl1cfjtJbIRo4xcl06zIVA0VQdxJgUe1pp_bSI9b1GcoJPBNbsi0RSgonOhjSsrn_f57GfYlJyhGdzglhrinVUeNYDf8RyRRsJRDtkSFtbkU_ISNp4Ekme179x24YXchv4b81qqJFK0OIkdlmC7tIPazbhL49gPERxyhoYAtz7nqrj5j63OEuUwuEw-x34MH10cc4_Wv2_KwlK3hTMi3v8F-2BZJ13trZhJO33pYbgrTomxSE-rquAHKRPtpGf_e2PJ3vdXZiQ_gYcM1jm9-ihFqBo8dvoSV_1yDSLl6obIfnSm2q46D6MS-sZc7l0bXvj0Ul2A1Y5qOWVkg7NPf-KZM4UQSmvOTQMEaZnakePa_0Q3HxKv7DOGTm2pfk_bHtLfCPobCq1_aJSsQLc_wOmrMgeaneSEwHqzv_28aYR_eZQk3CGoBDZ3K5wVrcyBg0dszW60TxRUXJ_60-SHGgzlH1xl854ML81F68cgASoJZXUtd2VzdC0xMLkD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 12-09
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrgEEiGEhh9CfggW1RNk1tnuf53IHJqB0Jxwcz1TZ7bP1qlwwoge1XGbbABh6O8hJ6zx2spT2sE67lDxF4ChDpZLgdH26WOfHdbWI7VsCJp5GthEq5-ymFhF1IAuNLo1lC6Zp8CcePbml4RnHi_EdkF5uPDHMYDy-dkFBQSdR6Dqo9hrztzpzMr2v0S5IjTmxDo-4sM6aGEO4z8UQSED-l20wB0i05AZWKwElPSIgot4IuU6HZN-2E1i58k2ozcrOtF1cClQLeRFCTiXGTgSBowlLOGgrtJZ0wKdPLiiobv82ET7NcdmAyJQiccYxFJLos9Dnr35EEA7VvKUb41U2rN9nm7Kjk_5TLMwJvbEIjJYQxzSnBdmMpCYUF30BL3mX2RA2tCLYJSJB48qlAvdiNNf_sQW8d0a0zP-eq1oKntweWKdrGD7kF9Dt0gkrN8PJifUIHdRvWjajLWovQS6al_4ACm6LiehZA--cgcsiTu4aHkPjsbXfg-v9OFYVXSIPpiwWsH6GpxwlWEEGnuKwN9paD6xxHirElRQAm-cupBErBARPm-LgAPtEAsxjmjOurZRMPlxUlTITJ21McyjpV9u2HbxMllOAtK7G7-a9sp7lEhOGlBbybeAA8E9gVFZQ5zyvlRV_I_3FV5K1oOVn0kY4nHW8rdpZkm-CosaSzaVOUwyOatlkIveKknh0zv_5k0me3HOIh89BwlC92GxFNX-3xISmzg1xZCDyhiLyCpIFhVPN12r8VGcbBoMboXMa2VGQvC53vnRIAEqCXVzLXdlc3QtMjDBBw.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", AuronPlay 12-09
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CswEEUXymVsJQwNyIqae8f8iPFnCCQbi6hHiCo-9gykf__GbwUPtJ-mar3b1gEFJRs5LsIu6D5pdpgS9soCVv834ZYZAhUUlWUSrjVSjQYcmWSAX6om6KQmw0ReJzIvZCHNAIpGTJamzJqmC6qXDuAE0p68wUSr2UkI6UR2DqMCsSXIBjVy9MGU5OUP9nHAUNk7wXFDD0Ev45xcqusn4qZEJpVB6Ob5VNq4cn-nkUt0KK5Le7H2L3_HWsP74sMlyjsd783E2yzFMwC40Eghpuihqiat1Csf8ckGTGBCjBCCblOViwOqESpOto7RLvtQvbt1p2WhPnn_WL3gewjMox3WeSgKI2pv8aEGX7UEMrnWXfyRoGdKyVBuRBAVX4_iD_F-33XszKaJdayn4mnCStX06M7mkcZ6435nWAjKvfqpHEHtMbZQM-j_low4ra5bbkL9Tb7WF09wWBU2AaN8_g3MLOJ59_UKwpQgm559_qfNGHe26c9xeNgjbbywwme_STX6A6-qA6FXdbhtMRucGnZkmlMsFnbVdsoznRxzHMocMGKlwnLEsTl1hKvzCBnBKEhMr47My2_-8mrn-SUI1klRof2wC_lSpAKKdp1GEYhryMu7hq_LURM7ub60is31l9-Dd3jEflsXzw51YwzRm3_2aCzUnnRr9ccHQoBRq7aPofIYLYI2UBhzTqUyuPJgE3kw7Zwni2jZC8dxB3yIY42OBq3Hp1JnkWPJn3KAxUoYKKCeYKDRLIzUDQc-6zC6fv5zmC-3GazDH14v8SpOnGgxMOXaFNHaASheTwkcgASoJZXUtd2VzdC0xMLcD.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", x6FlipiN 12-09
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CsUEZ-YfhUwK3jJtSs5cSyq5vr74EQ5_oCaXQ-92Q7o0x_NjiNMqz6vMc3RahkXpkxZmXC2WqI04JYqZnnYM1I2X-NRvV2UDAQgc9njDrUUuiKb9joB9lvRDja-DwLLPD4Y5Ws0_R7WkIPtdLR8ZgpJKKNiMmvnIGtplsF136rOXLivfHlkU7MgB7TlpQocgyr_43FeNf25l0UNoQO8_5M230iODAMSaEUWksjg8bdKDHyUDoB2YzMMB-G0w7UhYMNKHIrRV8jEVHCDWPBKpfHBh_R11Kui_ONbq5qhrJJl37d0M8arVPOpW7hGzlNm1vSdGh_vSWcxt85UnYNYPnn5zYBG5uFx9DVTWwUdJIlPbLPdp8Nvz3uHqiMOTApbfpKpGOWJxum9J36QNAaXj4RwkhuTYGGl2aTRO2xR3MRlGU3NbPJBpE6O62J3tAI49JGE_tlE7BIHLOhVWR4PbmDkzMrvD3wI-jJ7uQQ9YDkWoeMdUmXNSb8_kWLeGp_PXcWWhrXmavdLNy7UA9m6Odq6EHupgEmsWnJpqgL5NEh4dlP9tCgfEV4HrVrO8IcChesapPdD_wxnNSUc6dC-agV1oxl1_o2qC78toB27IyPNzns2d6rRmz8LRFQ9HW0jwWx4b8WG-yb8v_oAGonVHRtH5wpOy0rWhtjUbI_pSnGfsdiLsA2U7j59vfPEiSUm_k8kFHnLkNqHYHPLpBTMy1ms10X4GfHB6g2EOjLwQCD-JJcFSCZXcVlS4Di4qkFmVvL4OF_awpFwaDODu0IfaSNAQ4T4eECABKglldS13ZXN0LTIwwwc.m3u8
 
 
 #EXTINF:0 tvg-id="FEF TV 1 Grupo 1" group-title="ES FEFTV",FEFTV 1
