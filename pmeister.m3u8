@@ -412,9 +412,9 @@ http://31.43.191.49:25461/EXCHfamous/4SceG2qsZkHV/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV Español(Solo evento)
 http://192.168.66.2:6878/ace/getstream?id=255422e3ba3e2030ac0d97d2fafd3e7eeec675f9
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=2ce71f25114cf5fbf04816bcb1be980fb6676064
+http://192.168.66.2:6878/ace/getstream?id=b211402ab4128e70364a4baaed0ee009e56db4da
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento) (02)
-http://192.168.66.2:6878/ace/getstream?id=f9e42b1a9efb4604749dbf56e77080e1c50d2864
+http://192.168.66.2:6878/ace/getstream?id=3829f1b4590354c54db44d663710ab711eaff024
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (01)
 http://23.227.140.78:8080/JsnCdcSSe8/CWvQ6KPTQR/405789
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (02)
@@ -422,7 +422,7 @@ http://62.182.86.121:80/live/laquitaevans3@gmail.com/laquitaevans3/769457.ts
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportF1Germany.de" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 1080 [DE]
 http://192.168.66.2:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=73e1b2a3329a2544199042f84a14541597c5629d
+http://192.168.66.2:6878/ace/getstream?id=1f62b9cadf788311ed8b6888e414d771cbc975fe
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 IPTV
 http://37.49.230.42:8080/stadnik/6a627b52a9/265
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 IPTV (01)
