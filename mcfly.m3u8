@@ -14971,6 +14971,10 @@ http://776662753850616746.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616746.ts
 http://776662753850616747.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616747.ts
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Ninja_Turtles_Caos_mutante-120425984-large.jpg",Tortugas Ninja caos mutante (2023)
+http://192.168.66.2:6878/ace/getstream?id=7934601042e00bfccaedb8e9c8778217ee5afc76
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/A_un_millaon_de_millas-108890613-large.jpg",A un millon de millas (2023)
+http://192.168.66.2:6878/ace/getstream?id=e68d6498fad6775113be5923376f105934fe440b
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Todo_sobre_mi_padre-328101088-large.jpg",Todo sobre mi padre (2023)
 http://192.168.66.2:6878/ace/getstream?id=114b1056da23ca3a25b23b3e11266e359fad5518
 #EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Freestyle-320151079-mmed.jpg",Freestyle (2023)
