@@ -98,6 +98,9 @@ http://31.42.184.159:2082/dsnrrcn/87djD6Sk7hWOy7d/135972
 http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/165365.ts
 
 
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080p
+http://192.168.66.2:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
@@ -130,9 +133,6 @@ http://192.168.66.2:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b5
 
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/LaLiga_por_Movistar_Plus%2B?file=Movistar_LaLiga_6.png" group-title="LIGA" tvg-id="M+ LaLiga TV 7", M.Liga 7 1080
 http://192.168.66.2:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b  
-
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="LaLiga TV BAR HD", M.LigaTv Bar 1080
-http://192.168.66.2:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi By Alex
 http://192.168.66.2:6878/ace/getstream?id=95b2238dec35cf00dfdf8fba18e9920bc2c56256
@@ -210,14 +210,8 @@ http://192.168.66.2:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd
 http://192.168.66.2:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 UHD Electro
-http://192.168.66.2:6878/ace/getstream?id=76d4087a189f847d2edbfb3979ee0e19b5b28899
-
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K Alex
-http://192.168.66.2:6878/ace/getstream?id=5fe18260bf2e180ee16e32b9162afb7ac18be9ad
-
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 by Jonathan
-http://192.168.66.2:6878/ace/getstream?id=37b382c9f9b1c55191f35ac90949457618f94060
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 UHD
+http://192.168.66.2:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080
 http://192.168.66.2:6878/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
@@ -236,6 +230,9 @@ http://192.168.66.2:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 720
 http://192.168.66.2:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 UHD Electro
+http://192.168.66.2:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Multicamara
 http://192.168.66.2:6878/ace/getstream?id=2429005c1005ab2e9750252039587781384782ca
@@ -1650,11 +1647,11 @@ http://192.168.66.2:6878/ace/getstream?id=24a3ed773b328c1e81a8b5a9d68938aa0b238d
 http://192.168.66.2:6878/ace/getstream?id=7cac3131958133ab8d363ebd3d15265ef46cbba9
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 10-09
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtAEarlTFfleIVoMVC17I56feyUeCRQ6a-Q59dKvSBuGhzh5k0SoOlwENctsWH0BCibdljkq88zVyse9nHgoA74e1RKHyKoEymtS6DwkwOft5oPbTICSwxUfNiKfHTmef9vkBsXzLRC-2KkUrQ6VWp-7Z5YzSRIP-z74HgVZz-FNKxSz3aNiNLfS6DOqrG7YdskK0eagvmmwFFukYMK9OkIlDrsvlmq94sD9vtqXh8ejJaVksGj2RRMK62vQZ233LqbwQNP0_uuhULXpey-UhfbXySAnWKyd6wvuF0-k-NylFbIlTCv1KoGpvUHuQFl0KQfcWdysa4M35hbRXB7Grt8zzFbW0qZbgwrCZwHaK8h5VxUzQtyk4rGoi6lFbiNvd8SEZW4sg1ViGI8z6eIRzAxBqG4th0jyZdRAQPeR1q8gCGVKp6iWhPAWA5_tTksnPBr1-5Yx19r-mQPJQflpKXQW2uXtlanDhU4g-C036XDvjpV40UsaSX8otS_-k9ej2gEQP_IqTG8mSWzRRUeGXxafO7Z7MbxeqNjFmrqCqCbEDGlOOF4AsEeE1FnZFqnlXHx8q38v8_MEDlOngFm6yguj60ljj-ZNLv0aTAuQ5jGyHHouKx3ZrfoO8zrMeVzhksXERjBTi7QDBI3R1pWfLtb1rHlSDTkO-YyMT8KWabYHHVTaac88ni9vQoSz2sNwVvnwQfMIHscTruzrEr8YA0jtnf6xLWMS-FKkEEtSHYiIGM1GCoS4U-pJhCtlstESIbZFs1UTu47cl7ZTc9RA3SwlEhoMNleb9V-gdjRgSgN3IAEqCWV1LXdlc3QtMjC_Bw.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 16-09
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtIE7XBw2flwqkIlwjZhKPoqJjTjQALVDoNErPxkI072iFdglOYaMCV1hjO0KL1iaEE1p-9jYcxk5fgbGdZ19_RqwypfPqMwldBr72sBS6ZQuW5_FihRIEysOfQWz7CuCrnlKd-rl2MQlYwzCcSzyxW6oe8zKif_g-yyJBeQqA71M_p3n7w6Vo3uD6NmPIX-SOk1Ico9t8wWZxYRmHu2QVrx9jN6_VZpDS2LzIHb0n1FWF3kup8dB9z1mKsgvTK8ZLUWjRLKbMV2PRg4FlY_hiW9rc4jfk9KLWtwvLWTaUeoC-LVTKlWIE3wlXE3xvBfv_TBLzbHmYr31DmTxe-x7Aj0ofEQnSjLslROolyLSgSDLnSsw29E-n6SUCFk-gJSUGiWvvh3O0c3CcDSSLXAfZRgCLZdoSfz-E4xCI4gJCnGayzTdH86cucv7XIBFBjjXBAtXYC-Fa1yy-SH0itzoHvaDfIBE1lU0qJAFUeFQt1N8hLuLclkqMlQO9rX8MDjEpHHiW0-B9jvtK7IFiui2lEiWvpxUke0ISoGUZ5RzW_PeAVP0aNArMdW8t_60FQKH4ojN_Rv7ihy2Pbl4q9nhShGNMCXBaZHINtbbyI94k2eRLGB5Ja61g0JHxvCmkqFi763JdOtLxL865AxlIq3ua3lK68vDNeKOT8Bbi7MMsdTRtqmG1-Q5DMvNwEYV2WyZai7LQBjS3VOqLcXBkRHsa__JgUvepnUvWJsZ-GeCo2e7aSU9LsYeFSVlpXManxuhCvoIO9R_yOw8FcwA3WQMMl9fmWbGgzS500SwJp20C9UIiEgASoJZXUtd2VzdC0xMLsD.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 14-09
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Ct4EDqEMSoSkAiotA-bXNE16w849iMoEOGy-KwS75dkiTQ5K2IB7c5u3K95Dat40ykHC_xL6HFkjzGhrfI-u5gD1EV0U6XaIZNsFxpCiThZ4Pl_t3s8m0CTj9ZuYl3cH2-oqSdtecyPbG5F-22PxawIJVfDhO0CbC0uZullb6JflyHlp78IEDgW7t-pwUBQlgyvF2yZY_YxlWHtUYGcleSaSgxFnis8wYQRJZvrb6_q9Rh4J7zNmA4N5_Tvib2ia_GVs0w2AMt6ePCMtT1BflpmF2-m2ItiWge0WTHZZXc8YZy44_O8drGRLPuWDiIixc1XWvf3SAe5N98eOwIMB37k3PJl1cfjtJbIRo4xcl06zIVA0VQdxJgUe1pp_bSI9b1GcoJPBNbsi0RSgonOhjSsrn_f57GfYlJyhGdzglhrinVUeNYDf8RyRRsJRDtkSFtbkU_ISNp4Ekme179x24YXchv4b81qqJFK0OIkdlmC7tIPazbhL49gPERxyhoYAtz7nqrj5j63OEuUwuEw-x34MH10cc4_Wv2_KwlK3hTMi3v8F-2BZJ13trZhJO33pYbgrTomxSE-rquAHKRPtpGf_e2PJ3vdXZiQ_gYcM1jm9-ihFqBo8dvoSV_1yDSLl6obIfnSm2q46D6MS-sZc7l0bXvj0Ul2A1Y5qOWVkg7NPf-KZM4UQSmvOTQMEaZnakePa_0Q3HxKv7DOGTm2pfk_bHtLfCPobCq1_aJSsQLc_wOmrMgeaneSEwHqzv_28aYR_eZQk3CGoBDZ3K5wVrcyBg0dszW60TxRUXJ_60-SHGgzlH1xl854ML81F68cgASoJZXUtd2VzdC0xMLkD.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 16-09
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtoEdGu86XcuAaLZOk7HiHJsxc_kpj2pw21zhWAP_gvITz67DVaQrEbBjoZZXgbfDc11KnGML9IEAodvXqPmBpSTMpTbrag2KKlOh1hf5BY9MRri2Oo_J9uZ3UYKcZ83VQCRwTd3xYvcYRPQr5T-yC3fbupBb6ybkEk3vGQ_kOcatiikTQ8RkZUjKq7DaS1ugc0x_p5-SUlHn6Srz24rjffI8fnNinY-rKJD20O4j6aJmyjdeBTPSxfJNyxLVxqz13f5a3nL1FCOzmR-0M0kdr2YwD8SbPY4v6fzujq0neAiuFhCPUios3D7xlRlkJAm0OjfW48nXn4TqBwILPfrsFz0tPTepgXS1C1KZXfTiVjK7ByTJ97p-8Z7vDVke22tr-8bTdU-0tb3r0CevE95jGQnwvkbBEMbdGV9HaIkL93bd3hbK2SwfmrKLBg4oFZYJnoeO7nU1IJnHlqopAO4qGEzz_HhQ72-Qf_xXiVYTomw3ZubbXWzFXjsx8kmu22cPkrYrDYYBH2HXpb1eUtj1xtQZcpGRu1lLwwqGXDB847rdUQOLDvs-s3YvQgOtMVxbtyYazQANjcYsvdVQbHB1rc_MHPv2FAXVzH31ufvhvAXGXr5pyb9EGdBAk_ExVip8Zdhqh2j9AgEYpBWqIiBGXyWr_3vLZOtm_qN6VF2QzyOSy_usejylQbL9Iv-4MAu-Z8E2NuA9Y0wenpzoYLYF20q8p3Z3lhpCqlZ0D6kOGrAPqhBuf9uZvh0d8XsusWJWbNXFwNyPVXEtC_2KkbBRrEfqFIQx8avu5985PQaDEbXlx6IFIX-mAGMpCABKglldS13ZXN0LTEwuwM.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 12-09
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrgEEiGEhh9CfggW1RNk1tnuf53IHJqB0Jxwcz1TZ7bP1qlwwoge1XGbbABh6O8hJ6zx2spT2sE67lDxF4ChDpZLgdH26WOfHdbWI7VsCJp5GthEq5-ymFhF1IAuNLo1lC6Zp8CcePbml4RnHi_EdkF5uPDHMYDy-dkFBQSdR6Dqo9hrztzpzMr2v0S5IjTmxDo-4sM6aGEO4z8UQSED-l20wB0i05AZWKwElPSIgot4IuU6HZN-2E1i58k2ozcrOtF1cClQLeRFCTiXGTgSBowlLOGgrtJZ0wKdPLiiobv82ET7NcdmAyJQiccYxFJLos9Dnr35EEA7VvKUb41U2rN9nm7Kjk_5TLMwJvbEIjJYQxzSnBdmMpCYUF30BL3mX2RA2tCLYJSJB48qlAvdiNNf_sQW8d0a0zP-eq1oKntweWKdrGD7kF9Dt0gkrN8PJifUIHdRvWjajLWovQS6al_4ACm6LiehZA--cgcsiTu4aHkPjsbXfg-v9OFYVXSIPpiwWsH6GpxwlWEEGnuKwN9paD6xxHirElRQAm-cupBErBARPm-LgAPtEAsxjmjOurZRMPlxUlTITJ21McyjpV9u2HbxMllOAtK7G7-a9sp7lEhOGlBbybeAA8E9gVFZQ5zyvlRV_I_3FV5K1oOVn0kY4nHW8rdpZkm-CosaSzaVOUwyOatlkIveKknh0zv_5k0me3HOIh89BwlC92GxFNX-3xISmzg1xZCDyhiLyCpIFhVPN12r8VGcbBoMboXMa2VGQvC53vnRIAEqCXVzLXdlc3QtMjDBBw.m3u8
@@ -14970,6 +14967,16 @@ http://776662753850616746.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616746.ts
 http://776662753850616747.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616747.ts
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Todo_sobre_mi_padre-328101088-large.jpg",Todo sobre mi padre (2023)
+http://192.168.66.2:6878/ace/getstream?id=114b1056da23ca3a25b23b3e11266e359fad5518
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Freestyle-320151079-mmed.jpg",Freestyle (2023)
+http://192.168.66.2:6878/ace/getstream?id=4fba20308229e49ad4aaff59ed05f0715503f171
+#EXTINF:-1,tvg-logo="https://estatico.emisiondof6.com/recorte/n/dispficha/F4116808?od[]=Z1V:MM3_V",La Espia (2023)
+http://192.168.66.2:6878/ace/getstream?id=aec5fa71fd30538bc82061b247b929e41f2395e5
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Padre_y_soldado-527381416-large.jpg",Padre y Soldado (2022)
+http://192.168.66.2:6878/ace/getstream?id=176be3688c5703c2367845170ef1e41421542693
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Reality-341974907-large.jpg",Reality (2023)
+http://192.168.66.2:6878/ace/getstream?id=b2684ac47cafda0c043e9b66939cea12342b7a4a
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",Barbie (2023)
 http://192.168.66.2:6878/ace/getstream?id=bb34a8a08c2305375a65d4019c4e471af7433347
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/23/07/20/11/29/5479684.jpg",Barbie (2023) Bluray
