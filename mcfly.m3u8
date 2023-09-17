@@ -82,7 +82,7 @@ http://31.42.184.159:2082/dsnrrcn/87djD6Sk7hWOy7d/135972
 http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/165365.ts
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M+ LaLiga TV UHD", M.Liga 1440P
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M+ LaLiga TV UHD", M.Liga 4K
 http://192.168.66.2:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080p
@@ -214,7 +214,7 @@ http://192.168.66.2:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd
 http://192.168.66.2:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
 
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 UHD
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K
 http://192.168.66.2:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080
@@ -239,7 +239,7 @@ http://192.168.66.2:6878/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720
 http://192.168.66.2:6878/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
 
 #EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Multicamara
-http://192.168.66.2:6878/ace/getstream?id=2429005c1005ab2e9750252039587781384782ca
+http://192.168.66.2:6878/ace/getstream?id=de204a1aa0908f17529ee7e20df516a5a16352f7
 
 #EXTINF:-1 tvg-logo="https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/1366_2000.jpeg" group-title="F1" tvg-id="DAZN F1 HD", F1 TV [ES]
 http://192.168.66.2:6878/ace/getstream?id=7053fc8ab4d763d331ce66dc577d42fccc860481
@@ -1651,11 +1651,11 @@ http://192.168.66.2:6878/ace/getstream?id=24a3ed773b328c1e81a8b5a9d68938aa0b238d
 http://192.168.66.2:6878/ace/getstream?id=7cac3131958133ab8d363ebd3d15265ef46cbba9
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 16-09
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtIE7XBw2flwqkIlwjZhKPoqJjTjQALVDoNErPxkI072iFdglOYaMCV1hjO0KL1iaEE1p-9jYcxk5fgbGdZ19_RqwypfPqMwldBr72sBS6ZQuW5_FihRIEysOfQWz7CuCrnlKd-rl2MQlYwzCcSzyxW6oe8zKif_g-yyJBeQqA71M_p3n7w6Vo3uD6NmPIX-SOk1Ico9t8wWZxYRmHu2QVrx9jN6_VZpDS2LzIHb0n1FWF3kup8dB9z1mKsgvTK8ZLUWjRLKbMV2PRg4FlY_hiW9rc4jfk9KLWtwvLWTaUeoC-LVTKlWIE3wlXE3xvBfv_TBLzbHmYr31DmTxe-x7Aj0ofEQnSjLslROolyLSgSDLnSsw29E-n6SUCFk-gJSUGiWvvh3O0c3CcDSSLXAfZRgCLZdoSfz-E4xCI4gJCnGayzTdH86cucv7XIBFBjjXBAtXYC-Fa1yy-SH0itzoHvaDfIBE1lU0qJAFUeFQt1N8hLuLclkqMlQO9rX8MDjEpHHiW0-B9jvtK7IFiui2lEiWvpxUke0ISoGUZ5RzW_PeAVP0aNArMdW8t_60FQKH4ojN_Rv7ihy2Pbl4q9nhShGNMCXBaZHINtbbyI94k2eRLGB5Ja61g0JHxvCmkqFi763JdOtLxL865AxlIq3ua3lK68vDNeKOT8Bbi7MMsdTRtqmG1-Q5DMvNwEYV2WyZai7LQBjS3VOqLcXBkRHsa__JgUvepnUvWJsZ-GeCo2e7aSU9LsYeFSVlpXManxuhCvoIO9R_yOw8FcwA3WQMMl9fmWbGgzS500SwJp20C9UIiEgASoJZXUtd2VzdC0xMLsD.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 17-09
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Cs8Em4GlHMDt0jIrOztYdbVDLf_mye9ybmJvGH5Qa0dBuCuzGCnB2ZTbe0hLgTrbArfiK7MoMSlognYcXvhtOez8wznB0Qk7wygcwO_9oMjpnsawMGnUNRoRhoQ6rB0_GJnyAut-VQkvg5MyP-xuf-3SuHzKmdMuNNJb8ZpGBMxZe8PNmAOfh2g5rpfBy-zQnzKBab3vZYkNBqU1lbF6mUstdou8wiel2qCVZ1eU_izz4zCAz1dN6N7zv7elt0WFKumFAff6as6-hFj72aQKsXx7nx3WgWOppc_8tLGO6lXKRM0UONFqJFqTP4eFYhj2pg3cyXbqSzARsYBJOkiLAPikk-qmUce8PPyXUE9hOzalBnT2j1E8Yj6hIdW_CuJzEfs4BWVFcoQoWPeGonf7oYm6UTet6FGWEJaMy5XibjAut4IPInd9XoaDJxrBii2gvXx9aFw9ZNsaBmbMIRg6FHkzblpUf-UF88KXyglOhQb9r20U5OEM1M7csdq2rxs0XlHrI47CbD3IO2WUInce1PiIqoJCSP6UpV1D2Wyiny6uNZJhOGQWmnaayjE4ZR0cMV0KfU-pBMyW3DHRACBmGwVF8jbVLLjqJcKjzs5v-dZfCUoysf9dYOJ6yIxLiP_ITmbf553_uiB7_ekNW9b9NcMgBu875fk3trsQ9jV4su9A8hMBB7DVHhnHSaOlD6EsGzW1IaYAFyiyJtwWaxkmkZGscGYM9YaHPX2dXok7bIp6VabbWX7MVzX0uw8PqlbbmZVUH1dV2mRRW5zVTSYeXmYPGgxCYg6dsshY2a6a4AYgASoJZXUtd2VzdC0yMMYH.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 16-09
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtoEdGu86XcuAaLZOk7HiHJsxc_kpj2pw21zhWAP_gvITz67DVaQrEbBjoZZXgbfDc11KnGML9IEAodvXqPmBpSTMpTbrag2KKlOh1hf5BY9MRri2Oo_J9uZ3UYKcZ83VQCRwTd3xYvcYRPQr5T-yC3fbupBb6ybkEk3vGQ_kOcatiikTQ8RkZUjKq7DaS1ugc0x_p5-SUlHn6Srz24rjffI8fnNinY-rKJD20O4j6aJmyjdeBTPSxfJNyxLVxqz13f5a3nL1FCOzmR-0M0kdr2YwD8SbPY4v6fzujq0neAiuFhCPUios3D7xlRlkJAm0OjfW48nXn4TqBwILPfrsFz0tPTepgXS1C1KZXfTiVjK7ByTJ97p-8Z7vDVke22tr-8bTdU-0tb3r0CevE95jGQnwvkbBEMbdGV9HaIkL93bd3hbK2SwfmrKLBg4oFZYJnoeO7nU1IJnHlqopAO4qGEzz_HhQ72-Qf_xXiVYTomw3ZubbXWzFXjsx8kmu22cPkrYrDYYBH2HXpb1eUtj1xtQZcpGRu1lLwwqGXDB847rdUQOLDvs-s3YvQgOtMVxbtyYazQANjcYsvdVQbHB1rc_MHPv2FAXVzH31ufvhvAXGXr5pyb9EGdBAk_ExVip8Zdhqh2j9AgEYpBWqIiBGXyWr_3vLZOtm_qN6VF2QzyOSy_usejylQbL9Iv-4MAu-Z8E2NuA9Y0wenpzoYLYF20q8p3Z3lhpCqlZ0D6kOGrAPqhBuf9uZvh0d8XsusWJWbNXFwNyPVXEtC_2KkbBRrEfqFIQx8avu5985PQaDEbXlx6IFIX-mAGMpCABKglldS13ZXN0LTEwuwM.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 17-09
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtwEYO20gI4vJglJGzxhTYICMv8XQME9dfjPsMlSJqffPrFTDddW6In7Aaxx5f_7J9KR8i7xQytsINiA2GrZSBiaenZII57wwz9VZmo4BPPKH8jz8L1Y0Hg7yRkFMcZsNeNkNW8yqV8HXNKEya0a97s4YqevbEij2wCw3K4eorQDNyvPOrkmFhgAaiDwA0CCqiSMqVyOOOC0lL8nwZ_ox_RVYlK2T7dlZP9i6oDjSTWMrJeTyfmoXW_rBg0U9BmLHKiiN--tcm6jPNC1MKbTyKiJRwR4wXzQ8VL5OX2EJvFJOmwvvhFenfMm-S5ExEHdD-ayhUvH6IHMLLG8epigjurV2XuT4_QFW6OT0X5tJcLY75h5VPN7JXq4Mu98X_xlRlUuwoLXCmEAehZqlvC-ZIo6hdRAq-j5pJG6JXj-rIOLC4YNdJ1rffwMZbf0S5sdaQC0CAhJuq8eT0BswKPNAhttd3q2NjWzrSqUG1g6g6sRHeSmHYqEGRpaHCJin0s1LP00cFwheVCB4J4Qsk7gDSMrXHnTubLxn3-X-X0RZLZRWbAGS7XGxyu4pNlR0t7SepjUOyGMpTjovmOq4BUbj_1bhVztk7_vAVQ-nsl6rJSeCYrvJjEOKCNgB8PSVXAMdIjR04pcxYYLHCSbbT09Kg8V531tyZbP3so59LyKkCYIzReLgb_KOUG5wPRYe8klPBKrsesnLRsfuTV9Xh1644r3f0c1sGJfmLXqs4D0dd9PSN0k8WGkvK5C22sE98x9S5AjOhHG0uNjZxryt0QVIRc2dZoP3nWmj6uJ12P3jxoMFsT8PIXHnvlZb_TaIAEqCWV1LXdlc3QtMTC8Aw.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 12-09
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrgEEiGEhh9CfggW1RNk1tnuf53IHJqB0Jxwcz1TZ7bP1qlwwoge1XGbbABh6O8hJ6zx2spT2sE67lDxF4ChDpZLgdH26WOfHdbWI7VsCJp5GthEq5-ymFhF1IAuNLo1lC6Zp8CcePbml4RnHi_EdkF5uPDHMYDy-dkFBQSdR6Dqo9hrztzpzMr2v0S5IjTmxDo-4sM6aGEO4z8UQSED-l20wB0i05AZWKwElPSIgot4IuU6HZN-2E1i58k2ozcrOtF1cClQLeRFCTiXGTgSBowlLOGgrtJZ0wKdPLiiobv82ET7NcdmAyJQiccYxFJLos9Dnr35EEA7VvKUb41U2rN9nm7Kjk_5TLMwJvbEIjJYQxzSnBdmMpCYUF30BL3mX2RA2tCLYJSJB48qlAvdiNNf_sQW8d0a0zP-eq1oKntweWKdrGD7kF9Dt0gkrN8PJifUIHdRvWjajLWovQS6al_4ACm6LiehZA--cgcsiTu4aHkPjsbXfg-v9OFYVXSIPpiwWsH6GpxwlWEEGnuKwN9paD6xxHirElRQAm-cupBErBARPm-LgAPtEAsxjmjOurZRMPlxUlTITJ21McyjpV9u2HbxMllOAtK7G7-a9sp7lEhOGlBbybeAA8E9gVFZQ5zyvlRV_I_3FV5K1oOVn0kY4nHW8rdpZkm-CosaSzaVOUwyOatlkIveKknh0zv_5k0me3HOIh89BwlC92GxFNX-3xISmzg1xZCDyhiLyCpIFhVPN12r8VGcbBoMboXMa2VGQvC53vnRIAEqCXVzLXdlc3QtMjDBBw.m3u8
