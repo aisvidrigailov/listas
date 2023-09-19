@@ -11,6 +11,9 @@ http://192.168.66.2:6878/ace/getstream?id=acestream://931b1984badcb821df7b47a66a
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi
+http://192.168.66.2:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 720
 http://192.168.66.2:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
 
@@ -291,10 +294,10 @@ http://192.168.66.2:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a4034520
 http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV UHD", M Laliga UHD
-http://192.168.66.2:6878/ace/getstream?id=be071f7a5977de40f8f024a8ae582e799a6c4b8c
-#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV UHD", M Laliga 4K
-http://192.168.66.2:6878/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ Liga de Campeones HD", Evento del momento
+http://192.168.66.2:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ Liga de Campeones HD", Evento del momento
+http://192.168.66.2:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 
 #EXTINF:-1 group-title="Movistar Plus" tvg-id="Movistar Plus+ HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png" ,Movistar Plus+ 1080
