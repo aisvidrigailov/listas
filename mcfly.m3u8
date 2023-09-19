@@ -5,11 +5,11 @@ https://t.me/barcoproxy
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="ESTO ES GRATIS", ESTO ES GRATIS
 https://t.me/barcoproxy
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 
 http://192.168.66.2:6878/ace/getstream?id=acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi
-http://192.168.66.2:6878/ace/getstream?id=045718bad2ddb4f03b1a420754a97a23ad8b493b
+http://192.168.66.2:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 720
 http://192.168.66.2:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
@@ -26,17 +26,17 @@ http://192.168.66.2:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136b
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD", M.Liga De Campeones 3 720
 http://192.168.66.2:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 4", M.Liga De Campeones 4
-http://192.168.66.2:6878/ace/getstream?id=1a1b528109edead1904e3dbff575637a452dd1fa
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 4", M.Liga De Campeones 4 1080
+http://192.168.66.2:6878/ace/getstream?id=1b48d5881337c87b89e1edefff6688fe2271d222
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 5", M.Liga De Campeones 5
-http://192.168.66.2:6878/ace/getstream?id=4b4a77f005ea45e57276ff9d90c3830b3c59010d
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 5", M.Liga De Campeones 5 1080
+http://192.168.66.2:6878/ace/getstream?id=5c21c181156f200d5e628ef2c62cd06bf5f97eb7
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 6", M.Liga De Campeones 6
-http://192.168.66.2:6878/ace/getstream?id=e9950ec551124c490ecbc2526a83d2c5a4516293
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 6", M.Liga De Campeones 6 1080
+http://192.168.66.2:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 7", M.Liga De Campeones 7
-http://192.168.66.2:6878/ace/getstream?id=8ab70e161ad1d9a3ed76db91b84b2ae55e16103f
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 7", M.Liga De Campeones 7 1080
+http://192.168.66.2:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 8", M.Liga De Campeones 8
 http://192.168.66.2:6878/ace/getstream?id=fdd9e3660059051660dbd7857443c2b807f258d0
@@ -92,7 +92,7 @@ http://192.168.66.2:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d422
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi
-http://192.168.66.2:6878/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+http://192.168.66.2:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 #EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080
 http://192.168.66.2:6878/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
