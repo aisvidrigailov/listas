@@ -1353,13 +1353,13 @@ http://37.49.230.42:8080/stadnik/6a627b52a9/197711
 http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/197711
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 Multi
-http://192.168.66.2:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 Multi (02)
 http://192.168.66.2:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080
+http://192.168.66.2:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 Multi(temp)
 http://192.168.66.2:6878/ace/getstream?id=b41cca7b8f2cddfd2fd59a73ac4ff8c44a98f2dd
-#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 Multi(temp)
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 Multi(temp)(02)
 http://192.168.66.2:6878/ace/getstream?id=c728e2ee1ef6e33fd1b60bd7cbc5af22518d1028
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 1080 IPTV Multiaudio
 http://104.243.47.161:8080/patriciosonncalderon/4ZC4SsdD4/157420
@@ -1492,15 +1492,27 @@ http://185.71.66.13:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151383
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 7" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-7-1552.png" ,M+ Liga de Campeones 7 IPTV (04)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/282464.ts
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" ,M+ Liga de Campeones 8
-http://192.168.66.2:6878/ace/getstream?id=fdd9e3660059051660dbd7857443c2b807f258d0
+http://192.168.66.2:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 8" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-8-1602.png" ,M+ Liga de Campeones 8 IPTV
+http://185.71.66.13:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151386
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 9" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 9
 http://192.168.66.2:6878/ace/getstream?id=69c95dc47b35dde559a6ef025c1b91c89646a17f
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 9" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 9 IPTV
+http://185.71.66.13:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151389
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 10" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 10
 http://192.168.66.2:6878/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e676
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 10" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 10 IPTV
+http://185.71.66.13:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151392
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 11" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 11
 http://192.168.66.2:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 11" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 11 IPTV
+http://185.71.66.13:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151395
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 12" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 12
 http://192.168.66.2:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 12" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 12 IPTV
+http://185.71.66.13:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151398
+#EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+ Liga de Campeones 13" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga de Campeones 13 IPTV
+http://185.71.66.13:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151401
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="" tvg-logo="https://i.postimg.cc/3NkZfXbZ/rt-es.png" ,RT en español 1080 IPTV (01)
 http://37.49.230.42:8080/stadnik/6a627b52a9/166663
 #EXTINF:-1 group-title="Otros contenidos" tvg-id="" tvg-logo="https://i.postimg.cc/3NkZfXbZ/rt-es.png" ,RT en español 1080 IPTV (02)
