@@ -5,14 +5,14 @@ https://t.me/barcoproxy
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="ESTO ES GRATIS", ESTO ES GRATIS
 https://t.me/barcoproxy
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 
-http://192.168.66.2:6878/ace/getstream?id=acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi
 http://192.168.66.2:6878/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080p 
+http://192.168.66.2:6878/ace/getstream?id=acestream://931b1984badcb821df7b47a66ac0835ac871b51c
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 720
 http://192.168.66.2:6878/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
@@ -41,8 +41,8 @@ http://192.168.66.2:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab5
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 7", M.Liga De Campeones 7 1080
 http://192.168.66.2:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 8", M.Liga De Campeones 8
-http://192.168.66.2:6878/ace/getstream?id=fdd9e3660059051660dbd7857443c2b807f258d0
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 8", M.Liga De Campeones 8 1080
+http://192.168.66.2:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 9", M.Liga De Campeones 9
 http://192.168.66.2:6878/ace/getstream?id=69c95dc47b35dde559a6ef025c1b91c89646a17f
