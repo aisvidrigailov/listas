@@ -45,16 +45,20 @@ http://192.168.66.2:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01c
 http://192.168.66.2:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 9", M.Liga De Campeones 9
-http://192.168.66.2:6878/ace/getstream?id=69c95dc47b35dde559a6ef025c1b91c89646a17f
+http://192.168.66.2:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc10.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 10", M.Liga De Campeones 10
-http://192.168.66.2:6878/ace/getstream?id=df67afe5c5f5e82a3ae629d126727b006b65e676
+http://192.168.66.2:6878/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc11.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 11", M.Liga De Campeones 11
-http://192.168.66.2:6878/ace/getstream?id=57e284a3c13100baeff7a88dc50949585c9f1277
+http://192.168.66.2:6878/ace/getstream?id=e737c681a92a4328703761c6ed9d8a951655f3e4
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 12", M.Liga De Campeones 12
-http://192.168.66.2:6878/ace/getstream?id=33369549c635dabdb78b95c478c21fcc9e4ee854
+http://192.168.66.2:6878/ace/getstream?id=bb50397b3f49167eed95264005fae851baa7e3ee
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc13.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 13", M.Liga De Campeones 13
+http://192.168.66.2:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
+
 
 
 #EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV
