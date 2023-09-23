@@ -1813,700 +1813,370 @@ http://fireott.biz:2052/802411455218374/802497856238254/96443
 #EXTINF:-1 tvg-id="ext" tvg-name="CMM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/125px-CMMedia.svg.png" group-title="Movistar TDT", CMM TV
 https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PELICULAS Y ENTRETENIMIENTO
-http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255182
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321068.ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321069.ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321070.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 101 TV MALAGA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321075.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 24H SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321076.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 24H FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321077.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: A PUNT SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321083.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: A3 SERIES FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321086.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: A3 SERIES HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321087.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALACANTI TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321089.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALCARRIA TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321090.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALTERNATIVA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321099.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: AMC BREAK SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321100.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: AMC CRIME SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321101.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321102.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321103.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321104.ts
-#EXTINF:0 tvg-id="Antena3.es" group-title="ES   MOVISTAR+",ES: ANTENA 3 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321105.ts
-#EXTINF:0 tvg-id="Antena3.es" group-title="ES   MOVISTAR+",ES: ANTENA 3 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321107.ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES   MOVISTAR+",ES: AXN WHITE FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321115.ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES   MOVISTAR+",ES: AXN WHITE SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321117.ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="ES   MOVISTAR+",ES: AXN FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321118.ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="ES   MOVISTAR+",ES: AXN SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321120.ts
-#EXTINF:0 tvg-id="BabyTV.es" group-title="ES   MOVISTAR+",ES: BABY TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321122.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BE MAD HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321126.ts
-#EXTINF:0 tvg-id="BEMAD.es" group-title="ES   MOVISTAR+",ES: BE MAD SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321127.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BLAZE HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321130.ts
-#EXTINF:0 tvg-id="Boing.es" group-title="ES   MOVISTAR+",ES: BOING SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321135.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321138.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321139.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321140.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL COCINA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321147.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL COCINA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321148.ts
-#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321149.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL DARK SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321152.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL DECASA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321153.ts
-#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="ES   MOVISTAR+",ES: CANAL EXTREMADURA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321155.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL HISTORIA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321156.ts
-#EXTINF:0 tvg-id="Historia.es" group-title="ES   MOVISTAR+",ES: CANAL HISTORIA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321158.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL PANDA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321162.ts
-#EXTINF:0 tvg-id="Panda.es" group-title="ES   MOVISTAR+",ES: CANAL PANDA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321163.ts
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321168.ts
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321169.ts
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321170.ts
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA
-http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255264
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321172.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CLAN HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321175.ts
-#EXTINF:0 tvg-id="ClassicaHD.es" group-title="ES   MOVISTAR+",ES: CLASSICA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321181.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES   MOVISTAR+",ES: COMEDY CENTRAL FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321183.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES   MOVISTAR+",ES: COMEDY CENTRAL HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321184.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES   MOVISTAR+",ES: COMEDY CENTRAL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321185.ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES   MOVISTAR+",ES: COSMO FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321187.ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES   MOVISTAR+",ES: COSMO SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321189.ts
-#EXTINF:0 tvg-id="CrimenyInvestigacion.es" group-title="ES   MOVISTAR+",ES: CRIMEN & INVESTIGACION SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321194.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CRIMEN INVESTIGACION SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321195.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CRIMEN INVESTIGACION
-http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255137
-#EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321196.ts
-#EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321197.ts
-#EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321198.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DARK RED SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321202.ts
-#EXTINF:0 tvg-id="Dark.es" group-title="ES   MOVISTAR+",ES: DARK SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321203.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DECASA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321205.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DECASA TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321206.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DECASA TV
-http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255142
-#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNEL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321209.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNELS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321212.ts
-#EXTINF:0 tvg-id="DisneyChannel.es" group-title="ES   MOVISTAR+",ES: DISNEY CHANNEL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321216.ts
-#EXTINF:0 tvg-id="DisneyJr.es" group-title="ES   MOVISTAR+",ES: DISNEY JUNIOR SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321218.ts
-#EXTINF:0 tvg-id="Divinity.es" group-title="ES   MOVISTAR+",ES: DIVINITY SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321223.ts
-#EXTINF:0 tvg-id="DKISS.es" group-title="ES   MOVISTAR+",ES: DKISS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321224.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DMAX HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321226.ts
-#EXTINF:0 tvg-id="DMAX.es" group-title="ES   MOVISTAR+",ES: DMAX SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321227.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DREAMWORKS HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321229.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DREAMWORKS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321230.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: EL TORO TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321232.ts
-#EXTINF:0 tvg-id="Energy.es" group-title="ES   MOVISTAR+",ES: ENERGY SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321238.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ETB 1 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321242.ts
-#EXTINF:0 tvg-id="FDF.es" group-title="ES   MOVISTAR+",ES: FACTORIA DE FICCION SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321246.ts
-#EXTINF:0 tvg-id="FDF.es" group-title="ES   MOVISTAR+",ES: FDF SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321249.ts
-#EXTINF:0 tvg-id="Fox.es" group-title="ES   MOVISTAR+",ES: FOX HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321252.ts
-#EXTINF:0 tvg-id="Fox.es" group-title="ES   MOVISTAR+",ES: FOX SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321253.ts
-#EXTINF:0 tvg-id="GOL.es" group-title="ES   MOVISTAR+",ES: GOL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321261.ts
-#EXTINF:0 tvg-id="Historia.es" group-title="ES   MOVISTAR+",ES: HISTORIA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321262.ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="ES   MOVISTAR+",ES: HOLLYWOOD HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321266.ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="ES   MOVISTAR+",ES: HOLLYWOOD SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321267.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IMAS TV FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321273.ts
-#EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321277.ts
-#EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321278.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA 2 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321280.ts
-#EXTINF:0 tvg-id="LA2.es" group-title="ES   MOVISTAR+",ES: LA 2 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321281.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA RESISTENCIA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321286.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA RESISTENCIA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321287.ts
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES   MOVISTAR+",ES: LA SEXTA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321289.ts
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES   MOVISTAR+",ES: LA SEXTA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321290.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LANCELOT TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321292.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LOGOS TV FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321294.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MEGA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321300.ts
-#EXTINF:0 tvg-id="Mega.es" group-title="ES   MOVISTAR+",ES: MEGA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321301.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ACCION HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321306.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ACCION SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321307.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE ESPAÑOL FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321312.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CLASICOS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321316.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ COMEDIA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321318.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ COMEDIA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321319.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DRAMA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321332.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DRAMA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321333.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS 2 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321335.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS 2 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321336.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321338.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321339.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ FEST FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321340.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ FEST HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321341.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ FEST SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321342.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321344.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321345.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321346.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321347.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321348.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321349.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIESMANIA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321350.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV BASE SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321353.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV ESPA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321355.ts
-#EXTINF:0 tvg-id="MTVEsp.es" group-title="ES   MOVISTAR+",ES: MTV ESPANA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321356.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV EUROPE HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321358.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV HITS EUROPE SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321359.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV HITS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321360.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV MUSIC 24 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321362.ts
-#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO WILD FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321364.ts
-#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO WILD HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321365.ts
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NAT GEO SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321366.ts
-#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321368.ts
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321371.ts
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321372.ts
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321373.ts
-#EXTINF:0 tvg-id="Neox.es" group-title="ES   MOVISTAR+",ES: NEOX FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321374.ts
-#EXTINF:0 tvg-id="Neox.es" group-title="ES   MOVISTAR+",ES: NEOX HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321375.ts
-#EXTINF:0 tvg-id="Neox.es" group-title="ES   MOVISTAR+",ES: NEOX SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321376.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NICK JUNIOR HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321377.ts
-#EXTINF:0 tvg-id="NickJunior.es" group-title="ES   MOVISTAR+",ES: NICK JUNIOR SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321379.ts
-#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES   MOVISTAR+",ES: NICKELODEON HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321381.ts
-#EXTINF:0 tvg-id="Nova.es" group-title="ES   MOVISTAR+",ES: NOVA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321383.ts
-#EXTINF:0 tvg-id="Nova.es" group-title="ES   MOVISTAR+",ES: NOVA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321384.ts
-#EXTINF:0 tvg-id="Odisea.es" group-title="ES   MOVISTAR+",ES: ODISEA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321390.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PARAMOUNT NETWORK SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321392.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SOLIDARIA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321410.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SOMOS FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321412.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SOMOS HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321413.ts
-#EXTINF:0 tvg-id="Somos.es" group-title="ES   MOVISTAR+",ES: SOMOS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321414.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SUNDANCE FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321418.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SUNDANCE HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321419.ts
-#EXTINF:0 tvg-id="Sundance.es" group-title="ES   MOVISTAR+",ES: SUNDANCE SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321420.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="ES   MOVISTAR+",ES: SYFY FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321422.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="ES   MOVISTAR+",ES: SYFY HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321423.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="ES   MOVISTAR+",ES: SYFY SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321424.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="ES   MOVISTAR+",ES: TCM FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321425.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="ES   MOVISTAR+",ES: TCM HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321426.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="ES   MOVISTAR+",ES: TCM SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321427.ts
-#EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321429.ts
-#EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321430.ts
-#EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321431.ts
-#EXTINF:0 tvg-id="Ten.es" group-title="ES   MOVISTAR+",ES: TEN SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321440.ts
-#EXTINF:0 tvg-id="TNT.es" group-title="ES   MOVISTAR+",ES: TNT FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321442.ts
-#EXTINF:0 tvg-id="TNT.es" group-title="ES   MOVISTAR+",ES: TNT HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES   MOVISTAR+",ES: TOROS FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321445.ts
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES   MOVISTAR+",ES: TOROS HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321446.ts
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES   MOVISTAR+",ES: TOROS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321449.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TRECE HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321451.ts
-#EXTINF:0 tvg-id="TVGalicia.sp" group-title="ES   MOVISTAR+",ES: TV GALICIA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321454.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG CULTURAL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321466.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG INFANTIL HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321467.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG MUSIGAL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321468.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: XTRM HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321477.ts
-#EXTINF:0 tvg-id="XTRM.es" group-title="ES   MOVISTAR+",ES: XTRM SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321478.ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321068.ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321069.ts
-#EXTINF:0 tvg-id="Hashtag0.es" group-title="ES   MOVISTAR+",ES: #0 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321070.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 101 TV MALAGA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321075.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 24H SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321076.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: 24H FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321077.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: A PUNT SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321083.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: A3 SERIES FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321086.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: A3 SERIES HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321087.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALACANTI TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321089.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALCARRIA TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321090.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ALTERNATIVA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321099.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: AMC BREAK SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321100.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: AMC CRIME SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321101.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321102.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321103.ts
-#EXTINF:0 tvg-id="AMC.es" group-title="ES   MOVISTAR+",ES: AMC SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321104.ts
-#EXTINF:0 tvg-id="Antena3.es" group-title="ES   MOVISTAR+",ES: ANTENA 3 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321105.ts
-#EXTINF:0 tvg-id="Antena3.es" group-title="ES   MOVISTAR+",ES: ANTENA 3 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321107.ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES   MOVISTAR+",ES: AXN WHITE FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321115.ts
-#EXTINF:0 tvg-id="AXNWhite.es" group-title="ES   MOVISTAR+",ES: AXN WHITE SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321117.ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="ES   MOVISTAR+",ES: AXN FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321118.ts
-#EXTINF:0 tvg-id="AXNhd.es" group-title="ES   MOVISTAR+",ES: AXN SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321120.ts
-#EXTINF:0 tvg-id="BabyTV.es" group-title="ES   MOVISTAR+",ES: BABY TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321122.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BE MAD HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321126.ts
-#EXTINF:0 tvg-id="BEMAD.es" group-title="ES   MOVISTAR+",ES: BE MAD SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321127.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BLAZE HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321130.ts
-#EXTINF:0 tvg-id="Boing.es" group-title="ES   MOVISTAR+",ES: BOING SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321135.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321138.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321139.ts
-#EXTINF:0 tvg-id="Calle13.es" group-title="ES   MOVISTAR+",ES: CALLE 13 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321140.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL COCINA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321147.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL COCINA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321148.ts
-#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321149.ts
-#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA
-http://vitrex.digital:8080/RURGM3tPNuT4/paXnhXSbRjLE/255143
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL DARK SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321152.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL DECASA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321153.ts
-#EXTINF:0 tvg-id="CanalExtremadura.es" group-title="ES   MOVISTAR+",ES: CANAL EXTREMADURA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321155.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL HISTORIA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321156.ts
-#EXTINF:0 tvg-id="Historia.es" group-title="ES   MOVISTAR+",ES: CANAL HISTORIA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321158.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CANAL PANDA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321162.ts
-#EXTINF:0 tvg-id="Panda.es" group-title="ES   MOVISTAR+",ES: CANAL PANDA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321163.ts
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321168.ts
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321169.ts
-#EXTINF:0 tvg-id="CazayPesca.es" group-title="ES   MOVISTAR+",ES: CAZA Y PESCA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321170.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD 1
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321172.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD 2
-http://833041393163321172.go30818.xyz:80/play/ja1112257/x$D7fYG@$UW/321172.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CAZAVISION FHD 3
-http://849077177644321172.go30818.xyz:80/play/ja629662/nJKKvC7yRjeK/321172.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CLAN HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321175.ts
-#EXTINF:0 tvg-id="ClassicaHD.es" group-title="ES   MOVISTAR+",ES: CLASSICA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321181.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES   MOVISTAR+",ES: COMEDY CENTRAL FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321183.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES   MOVISTAR+",ES: COMEDY CENTRAL HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321184.ts
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="ES   MOVISTAR+",ES: COMEDY CENTRAL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321185.ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES   MOVISTAR+",ES: COSMO FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321187.ts
-#EXTINF:0 tvg-id="CosmopolitanHD.es" group-title="ES   MOVISTAR+",ES: COSMO SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321189.ts
-#EXTINF:0 tvg-id="CrimenyInvestigacion.es" group-title="ES   MOVISTAR+",ES: CRIMEN & INVESTIGACION SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321194.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: CRIMEN INVESTIGACION SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321195.ts
-#EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321196.ts
-#EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321197.ts
-#EXTINF:0 tvg-id="Cuatro.es" group-title="ES   MOVISTAR+",ES: CUATRO SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321198.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DARK RED SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321202.ts
-#EXTINF:0 tvg-id="Dark.es" group-title="ES   MOVISTAR+",ES: DARK SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321203.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DECASA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321205.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DECASA TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321206.ts
-#EXTINF:0 tvg-id="DiscoveryChannel.sp" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNEL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321209.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNELS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321212.ts
-#EXTINF:0 tvg-id="DisneyChannel.es" group-title="ES   MOVISTAR+",ES: DISNEY CHANNEL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321216.ts
-#EXTINF:0 tvg-id="DisneyJr.es" group-title="ES   MOVISTAR+",ES: DISNEY JUNIOR SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321218.ts
-#EXTINF:0 tvg-id="Divinity.es" group-title="ES   MOVISTAR+",ES: DIVINITY SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321223.ts
-#EXTINF:0 tvg-id="DKISS.es" group-title="ES   MOVISTAR+",ES: DKISS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321224.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DMAX HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321226.ts
-#EXTINF:0 tvg-id="DMAX.es" group-title="ES   MOVISTAR+",ES: DMAX SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321227.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DREAMWORKS HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321229.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DREAMWORKS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321230.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: EL TORO TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321232.ts
-#EXTINF:0 tvg-id="Energy.es" group-title="ES   MOVISTAR+",ES: ENERGY SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321238.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ETB 1 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321242.ts
-#EXTINF:0 tvg-id="FDF.es" group-title="ES   MOVISTAR+",ES: FACTORIA DE FICCION SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321246.ts
-#EXTINF:0 tvg-id="FDF.es" group-title="ES   MOVISTAR+",ES: FDF SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321249.ts
-#EXTINF:0 tvg-id="Fox.es" group-title="ES   MOVISTAR+",ES: FOX HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321252.ts
-#EXTINF:0 tvg-id="Fox.es" group-title="ES   MOVISTAR+",ES: FOX SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321253.ts
-#EXTINF:0 tvg-id="GOL.es" group-title="ES   MOVISTAR+",ES: GOL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321261.ts
-#EXTINF:0 tvg-id="Historia.es" group-title="ES   MOVISTAR+",ES: HISTORIA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321262.ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="ES   MOVISTAR+",ES: HOLLYWOOD HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321266.ts
-#EXTINF:0 tvg-id="Hollywood.es" group-title="ES   MOVISTAR+",ES: HOLLYWOOD SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321267.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: IMAS TV FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321273.ts
-#EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321277.ts
-#EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321278.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA 2 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321280.ts
-#EXTINF:0 tvg-id="LA2.es" group-title="ES   MOVISTAR+",ES: LA 2 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321281.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA RESISTENCIA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321286.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LA RESISTENCIA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321287.ts
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES   MOVISTAR+",ES: LA SEXTA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321289.ts
-#EXTINF:0 tvg-id="LaSexta.sp" group-title="ES   MOVISTAR+",ES: LA SEXTA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321290.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LANCELOT TV SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321292.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: LOGOS TV FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321294.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MEGA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321300.ts
-#EXTINF:0 tvg-id="Mega.es" group-title="ES   MOVISTAR+",ES: MEGA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321301.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ACCION HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321306.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ACCION SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321307.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CINE ESPAÑOL FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321312.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CLASICOS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321316.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ COMEDIA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321318.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ COMEDIA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321319.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DRAMA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321332.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ DRAMA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321333.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS 2 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321335.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS 2 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321336.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321338.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321339.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ FEST FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321340.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ FEST HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321341.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ FEST SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321342.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321344.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321345.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321346.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321347.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321348.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321349.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIESMANIA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321350.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV BASE SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321353.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV ESPA FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321355.ts
-#EXTINF:0 tvg-id="MTVEsp.es" group-title="ES   MOVISTAR+",ES: MTV ESPANA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321356.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV EUROPE HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321358.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV HITS EUROPE SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321359.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV HITS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321360.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: MTV MUSIC 24 HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321362.ts
-#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO WILD FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321364.ts
-#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NAT GEO WILD HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321365.ts
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NAT GEO SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321366.ts
-#EXTINF:0 tvg-id="NatGeoWild.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC WILD FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321368.ts
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321371.ts
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321372.ts
-#EXTINF:0 tvg-id="NationalGeographic.es" group-title="ES   MOVISTAR+",ES: NATIONAL GEOGRAPHIC SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321373.ts
-#EXTINF:0 tvg-id="Neox.es" group-title="ES   MOVISTAR+",ES: NEOX FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321374.ts
-#EXTINF:0 tvg-id="Neox.es" group-title="ES   MOVISTAR+",ES: NEOX HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321375.ts
-#EXTINF:0 tvg-id="Neox.es" group-title="ES   MOVISTAR+",ES: NEOX SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321376.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: NICK JUNIOR HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321377.ts
-#EXTINF:0 tvg-id="NickJunior.es" group-title="ES   MOVISTAR+",ES: NICK JUNIOR SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321379.ts
-#EXTINF:0 tvg-id="Nickelodeon.es" group-title="ES   MOVISTAR+",ES: NICKELODEON HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321381.ts
-#EXTINF:0 tvg-id="Nova.es" group-title="ES   MOVISTAR+",ES: NOVA HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321383.ts
-#EXTINF:0 tvg-id="Nova.es" group-title="ES   MOVISTAR+",ES: NOVA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321384.ts
-#EXTINF:0 tvg-id="Odisea.es" group-title="ES   MOVISTAR+",ES: ODISEA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321390.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: PARAMOUNT NETWORK SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321392.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SOLIDARIA TV HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321410.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SOMOS FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321412.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SOMOS HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321413.ts
-#EXTINF:0 tvg-id="Somos.es" group-title="ES   MOVISTAR+",ES: SOMOS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321414.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SUNDANCE FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321418.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: SUNDANCE HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321419.ts
-#EXTINF:0 tvg-id="Sundance.es" group-title="ES   MOVISTAR+",ES: SUNDANCE SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321420.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="ES   MOVISTAR+",ES: SYFY FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321422.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="ES   MOVISTAR+",ES: SYFY HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321423.ts
-#EXTINF:0 tvg-id="Scifi.es" group-title="ES   MOVISTAR+",ES: SYFY SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321424.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="ES   MOVISTAR+",ES: TCM FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321425.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="ES   MOVISTAR+",ES: TCM HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321426.ts
-#EXTINF:0 tvg-id="TCM.es" group-title="ES   MOVISTAR+",ES: TCM SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321427.ts
-#EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321429.ts
-#EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321430.ts
-#EXTINF:0 tvg-id="Telecinco.es" group-title="ES   MOVISTAR+",ES: TELECINCO SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321431.ts
-#EXTINF:0 tvg-id="Ten.es" group-title="ES   MOVISTAR+",ES: TEN SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321440.ts
-#EXTINF:0 tvg-id="TNT.es" group-title="ES   MOVISTAR+",ES: TNT FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321442.ts
-#EXTINF:0 tvg-id="TNT.es" group-title="ES   MOVISTAR+",ES: TNT HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321443.ts
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES   MOVISTAR+",ES: TOROS FHD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321445.ts
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES   MOVISTAR+",ES: TOROS HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321446.ts
-#EXTINF:0 tvg-id="CanalPlusToros.es" group-title="ES   MOVISTAR+",ES: TOROS SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321449.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TRECE HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321451.ts
-#EXTINF:0 tvg-id="TVGalicia.sp" group-title="ES   MOVISTAR+",ES: TV GALICIA SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321454.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG CULTURAL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321466.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG INFANTIL HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321467.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: TVG MUSIGAL SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321468.ts
-#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: XTRM HD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321477.ts
-#EXTINF:0 tvg-id="XTRM.es" group-title="ES   MOVISTAR+",ES: XTRM SD
-http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321478.ts
+#EXTINF:0 tvg-id="AMC.es" group-title="SPAIN",||ES|| AMC FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1909
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| AXN FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1910
+#EXTINF:0 tvg-id="Calle13.es" group-title="SPAIN",||ES|| CALLE 13 FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1911
+#EXTINF:0 tvg-id="Viajar.es" group-title="SPAIN",||ES|| VIAJAR FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1912
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1913
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="SPAIN",||ES|| COMEDY CENTRAL FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1914
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| COSMO FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1915
+#EXTINF:0 tvg-id="Cuatro.es" group-title="SPAIN",||ES|| CUATRO  FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1916
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| DISNEY CHANNEL FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1917
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="SPAIN",||ES|| EUROSPORT 1 FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1918
+#EXTINF:0 tvg-id="Fox.es" group-title="SPAIN",||ES|| FOX FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1919
+#EXTINF:0 tvg-id="Historia.es" group-title="SPAIN",||ES|| HISTORIA FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1920
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| HOLLYWOOD FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1921
+#EXTINF:0 tvg-id="LA1.es" group-title="SPAIN",||ES|| LA 1 FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1922
+#EXTINF:0 tvg-id="LaLigaTVBar.es" group-title="SPAIN",||ES|| LA LIGA TV BAR FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1923
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| M+ LALIGA FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1924
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ACCION FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1925
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR CINEDOC&ROLL FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1926
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR COMEDIA FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1927
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR DEPORTES FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1928
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR DRAMA FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1929
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ESTRENOS FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1930
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR FORMULA 1 FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1931
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR GOLF FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1932
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR LIGA DE CAMPEONES FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1933
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR SERIES FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1934
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR SERIESMANIA FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1935
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MEGA FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1936
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| NAT GEO WILD FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1937
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="SPAIN",||ES|| NICKELODEON FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1938
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| REAL MADRID TV FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1939
+#EXTINF:0 tvg-id="TCM.es" group-title="SPAIN",||ES|| TCM FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1940
+#EXTINF:0 tvg-id="Telecinco.es" group-title="SPAIN",||ES|| TELECINCO FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1941
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPAIN",||ES|| TELEDEPORTE FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1942
+#EXTINF:0 tvg-id="TNT.es" group-title="SPAIN",||ES|| TNT FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1943
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| #0 FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3569
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| 7RM FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3570
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| A3 SERIES FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3572
+#EXTINF:0 tvg-id="Antena3.es" group-title="SPAIN",||ES|| ANTENA 3 FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3574
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="SPAIN",||ES|| AXN WHITE FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3575
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| BEIN LALIGA FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3578
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| BEIN SPORTS LA LIGA FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3582
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| BE MAD FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3584
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR DCINE FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3610
+#EXTINF:0 tvg-id="Vamos.es" group-title="SPAIN",||ES|| MOVISTAR VAMOS FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3619
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR XTRA FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3620
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| NATIONAL GEO FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3622
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| SYFY FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3625
+#EXTINF:0 tvg-id="LA2.es" group-title="SPAIN",||ES|| LA 2 FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5340
+#EXTINF:0 tvg-id="FoxLife.es" group-title="SPAIN",||ES|| FOX LIFE FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5347
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| LIGA123 FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5353
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| DISCOVERY CHANNEL FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5357
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| SOMOS FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5359
+#EXTINF:0 tvg-id="FoxLife.es" group-title="SPAIN",||ES|| FOX LIFE FHD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5370
+#EXTINF:0 tvg-id="LA1.es" group-title="SPAIN",||ES|| LA 1 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1509
+#EXTINF:0 tvg-id="LA2.es" group-title="SPAIN",||ES|| LA 2 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1510
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| COSMO HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1511
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| FDF HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1512
+#EXTINF:0 tvg-id="Cuatro.es" group-title="SPAIN",||ES|| CUATRO HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1513
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| LA SEXTA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1514
+#EXTINF:0 tvg-id="Fox.es" group-title="SPAIN",||ES|| FOX HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1515
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| SYFY HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1516
+#EXTINF:0 tvg-id="CazayPesca.es" group-title="SPAIN",||ES|| CAZA Y PESCA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1517
+#EXTINF:0 tvg-id="Calle13.es" group-title="SPAIN",||ES|| CALLE 13 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1519
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| AXN HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1520
+#EXTINF:0 tvg-id="AXNWhite.es" group-title="SPAIN",||ES|| AXN WHITE HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1521
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CANAL DRAMA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1523
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR  ESTRENOS HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1526
+#EXTINF:0 tvg-id="Nickelodeon.es" group-title="SPAIN",||ES|| NICKELODEON HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1527
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| DISNEY CHANNEL HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1529
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| DISNEY JUNIOR HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1530
+#EXTINF:0 tvg-id="BabyTV.es" group-title="SPAIN",||ES|| BABY TV HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1533
+#EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="SPAIN",||ES|| CRIME & INVESTIGATION HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1534
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| DISCOVERY CHANNEL HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1535
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| NATIONAL GEOGRAPHICS HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1536
+#EXTINF:0 tvg-id="NatGeoWild.es" group-title="SPAIN",||ES|| NAT GEO WILD HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1537
+#EXTINF:0 tvg-id="Historia.es" group-title="SPAIN",||ES|| HISTORIA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1538
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| BLAZE HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1757
+#EXTINF:0 tvg-id="ComedyCentral.es" group-title="SPAIN",||ES|| COMEDY CENTRAL HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1761
+#EXTINF:0 tvg-id="Eurosport1.es" group-title="SPAIN",||ES|| EUROSPORT 1 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1833
+#EXTINF:0 tvg-id="Eurosport2.es" group-title="SPAIN",||ES|| EUROSPORT 2 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1834
+#EXTINF:0 tvg-id="Energy.es" group-title="SPAIN",||ES|| ENERGY HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1835
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| GOL TV HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1838
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| HOLLYWOOD HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1841
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MEGA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1856
+#EXTINF:0 tvg-id="Nova.es" group-title="SPAIN",||ES|| NOVA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1861
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| REAL MADRID TV HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1862
+#EXTINF:0 tvg-id="Telecinco.es" group-title="SPAIN",||ES|| TELECINCO HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1865
+#EXTINF:0 tvg-id="TNT.es" group-title="SPAIN",||ES|| TNT HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1870
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| ANDALUCIA TV HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3557
+#EXTINF:0 tvg-id="Antena3.es" group-title="SPAIN",||ES|| ANTENA 3 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3558
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CANAL 24 HORAS HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3559
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CANAL ORBE21 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3560
+#EXTINF:0 tvg-id="TCM.es" group-title="SPAIN",||ES|| MOVISTAR ACCION HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3561
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR DCINE HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3563
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR XTRA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3564
+#EXTINF:0 tvg-id="TCM.es" group-title="SPAIN",||ES|| TCM HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3565
+#EXTINF:0 tvg-id="Teledeporte.es" group-title="SPAIN",||ES|| TELEDEPORTE HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3566
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TV GALICIA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3567
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TV3 CATALONIA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3568
+#EXTINF:0 tvg-id="AandE.es" group-title="SPAIN",||ES|| A&E HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3571
+#EXTINF:0 tvg-id="AMC.es" group-title="SPAIN",||ES|| AMC HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3573
+#EXTINF:0 tvg-id="BarcaTV.es" group-title="SPAIN",||ES|| BARCA TV HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3576
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| BEIN LIGA 2 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3579
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| BEIN LIGA 3 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3580
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| BEIN SPORTS SPAIN HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3583
+#EXTINF:0 tvg-id="Boing.es" group-title="SPAIN",||ES|| BOING HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3585
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CANAL DELCASA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3587
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CANAL PANDA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3589
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CANAL+ COCINA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3590
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CANAL+ TOROS HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3591
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="SPAIN",||ES|| CLAN TVE HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3592
+#EXTINF:0 tvg-id="Divinity.es" group-title="SPAIN",||ES|| DIVINITY HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3594
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| DMAX HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3595
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| ESPN HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3596
+#EXTINF:0 tvg-id="LaLigaTVBar.es" group-title="SPAIN",||ES|| LA LIGA TV BAR HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3597
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MEZZO LIVE HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3598
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ALQUILER 1 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3599
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ALQUILER 2 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3600
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ALQUILER 3 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3601
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ALQUILER 4 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3602
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ALQUILER 5 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3603
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ALQUILER 6 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3604
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ALQUILER 7 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3605
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ALQUILER 8 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3606
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR ALQUILER 9 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3607
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR CINE N HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3608
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR CINEDOC&ROLL HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3609
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR DRAMA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3611
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR F1 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3612
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR FUTBOL HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3613
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR GOLF HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3614
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR LIGA CAMPEONES HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3615
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR MOTO GP HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3616
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR SERIES HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3617
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR SERIESMANIA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3618
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MTV ESPANA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3621
+#EXTINF:0 tvg-id="Neox.es" group-title="SPAIN",||ES|| NEOX TV HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3623
+#EXTINF:0 tvg-id="Sundance.es" group-title="SPAIN",||ES|| SUNDANCE HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3624
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TRECE HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3626
+#EXTINF:0 tvg-id="Viajar.es" group-title="SPAIN",||ES|| VIAJAR HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3627
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| 13 TV HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5341
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CANAL COSTA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5342
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| DKISS HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5344
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TEN HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5345
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| FOX NEWS HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5350
+#EXTINF:0 tvg-id="Odisea.es" group-title="SPAIN",||ES|| ODISEA HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5355
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| MOVISTAR DISNEY HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5356
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| SOMOS HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5358
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| A3 SERIES HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5368
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| FOX NEWS CHANNEL HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5371
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| HIT TV HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5373
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| HOLA TV HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5374
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| NON STOP PEOPLE HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5376
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TVE INTERNACIONAL HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/5377
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| BE MAD HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6670
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| #0 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6748
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| XTRM HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6945
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| M. DEPORTE 1 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6947
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| M. DEPORTE 2 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6948
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| DARK HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6952
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| LIGA DE CAMPEONES 2 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6953
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| LIGA DE CAMPEONES 1 HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6960
+#EXTINF:0 tvg-id="CrimeAndInvestigation.es" group-title="SPAIN",||ES|| CRIMEN  INVESTIGACION HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6961
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| PANDA
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1528
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TAQUILLA 2
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1540
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TAQUILLA 1
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1539
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TAQUILLA 3
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1541
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TAQUILLA 4
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1542
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TAQUILLA 5
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1543
+#EXTINF:0 tvg-id="Paramount.es" group-title="SPAIN",||ES|| PARAMOUNT CHANNEL
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1789
+#EXTINF:0 tvg-id="FoxLife.es" group-title="SPAIN",||ES|| FOX LIFE
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1837
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TAQUILLA 6
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/4801
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TAQUILLA 7
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/4802
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TAQUILLA 8
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/4803
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| ARAGON TV
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/4805
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CINE+ SERIES XTRA
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6944
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CLASSICA
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6950
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CANAL SUR A.
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/6951
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TAQUILLA 9
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/7529
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| TAQUILLA10
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/7530
+#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| Mundotoro HD
+http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/83555
 
 #EXTINF:0 tvg-id="LA1.es" group-title="ES   MOVISTAR+",ES: LA 1 FHD
 http://907341120796321276.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321276.ts
