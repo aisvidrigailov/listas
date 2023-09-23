@@ -152,17 +152,17 @@ http://62.197.129.85:8080/0003/yaz6PY6SXEFx/188150
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (15)
 http://62.197.129.85:8080/firesp11/2023C/188150
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (16)
-http://62.197.129.85:8080/1128221512/yUFEAr88Lv/188150
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/245751
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (17)
-http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/245745
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/213714
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (18)
-http://62.197.129.85:8080/HernandezJoel/202022/245745
+http://62.197.129.85:8080/HernandezJoel/202022/213714
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (19)
-http://62.197.129.85:8080/0003/yaz6PY6SXEFx/245745
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/213714
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (20)
-http://62.197.129.85:8080/firesp11/2023C/245745
+http://62.197.129.85:8080/firesp11/2023C/213714
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 1080 IPTV (21)
-http://62.197.129.85:8080/1128221512/yUFEAr88Lv/245745
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/213714
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
 http://192.168.66.2:6878/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080
@@ -181,6 +181,26 @@ http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/64712
 http://62.182.83.91:80/marticdiscord@1/qXUWmrn2Ub@1/88485
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (12)
 http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/228389.ts
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (13)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/245745
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (14)
+http://62.197.129.85:8080/HernandezJoel/202022/245745
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (15)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/245745
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (16)
+http://62.197.129.85:8080/firesp11/2023C/245745
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (17)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/245745
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (18)
+http://62.197.129.85:8080/digitalbox/aJ4rpws3a0/245752
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (19)
+http://62.197.129.85:8080/HernandezJoel/202022/245752
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (20)
+http://62.197.129.85:8080/0003/yaz6PY6SXEFx/245752
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (21)
+http://62.197.129.85:8080/firesp11/2023C/245752
+#EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 1080 IPTV (22)
+http://62.197.129.85:8080/1128221512/yUFEAr88Lv/245752
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2 720
 http://192.168.66.2:6878/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3 1080
