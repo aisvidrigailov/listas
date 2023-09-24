@@ -299,7 +299,7 @@ http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9b
 
 
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", Evento del momento
-http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+https://nes04.quest123.top:8088/live/hjfhj4hngdhj/playlist.m3u8?vidictid=196242765744&id=119648&pk=22fea641c0d740a4bcaf0e0d5192fd7319868cad4ad28758433c7c81731716cfa5c516d941b5a308a545f26a23e5da9b59375332968261fe063e0e9da5bf7473
 #EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", Evento del momento
 http://192.168.66.2:6878/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
 
