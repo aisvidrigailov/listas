@@ -1672,6 +1672,8 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CsUEZ-YfhUwK3jJtSs5cSyq5vr7
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
+http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/74378.ts
+#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20622
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20622
@@ -2317,6 +2319,8 @@ http://907341120796321139.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321139.ts
 http://907341120796321140.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321140.ts
 #EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA FHD
 http://907341120796321147.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321147.ts
+#EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA UHD 4K
+http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/65414.ts
 #EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA HD
 http://907341120796321148.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321148.ts
 #EXTINF:0 tvg-id="Cocina.es" group-title="ES   MOVISTAR+",ES: CANAL COCINA SD
@@ -3988,6 +3992,8 @@ http://259165350116282466.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/282466.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 8 HD (OP1)
 http://259165350116282467.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/282467.ts
 
+#EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTIDEPORTE
+http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/675.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165392.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA FHD
