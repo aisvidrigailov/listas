@@ -2,8 +2,6 @@
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", Encuentranos en @barcoproxy
 https://t.me/barcoproxy
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="ESTO ES GRATIS", ESTO ES GRATIS
-https://t.me/barcoproxy
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi 
 http://192.168.66.2:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
@@ -58,35 +56,6 @@ http://192.168.66.2:6878/ace/getstream?id=bb50397b3f49167eed95264005fae851baa7e3
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc13.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 13", M.Liga De Campeones 13
 http://192.168.66.2:6878/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
-
-
-
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV
-http://37.49.230.42:8080/stadnik/6a627b52a9/81096
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV 
-http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/81096
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV 
-http://185.71.64.28:2052/PREFRECYVISIONkdfskfksklf/t5GVqyDL7bUckjdksjdk/151368
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV 
-http://185.71.64.28:2052/franco/802463478720321/151368
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV 
-http://37.49.230.42:8080/LeCyGodF/thYAg86ShLywX9FL/81096
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV 
-http://37.49.230.42:8080/stadnik/6a627b52a9/81096
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV 
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/157423
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV 
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/157423
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV 
-http://todoen1.xyz:8080/m6hP9j9tXP/r9NJQaGU6eMe/157424
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 1080 IPTV 
-http://todoen1.xyz:8080/patriciosonncalderon/4ZC4SsdD4/157424
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 720 IPTV
-http://31.42.184.159:2082/LiberoLiberov/gGTXsze5D3gD/135972
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 720 IPTV 
-http://31.42.184.159:2082/dsnrrcn/87djD6Sk7hWOy7d/135972
-#EXTINF:-1 group-title="CHAMPIONS TOUR" tvg-id="M+ Champions Tour HD" tvg-logo="https://i.postimg.cc/cJTBLsqy/chtour.png" ,M+ Champions Tour 720 IPTV 
-http://185.233.16.88:80/play/vi1105750/3JxWFxYDUNnU/165365.ts
 
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M+ LaLiga TV UHD", M.Liga 4K
@@ -185,7 +154,7 @@ http://192.168.66.2:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b0
 http://192.168.66.2:6878/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
 
 #EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://telegra.ph/file/860380255e3d72bb46049.jpg", LaLiga Hypermotion 3
-http://192.168.66.2:6878/ace/getstream?id=1104426e14b649eb23fee16698768544285de478
+http://192.168.66.2:6878/ace/getstream?id=b4a076c1f67a5c1f1ba899ac61b9401b1dc30f41
 
 #EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://telegra.ph/file/3f40c767141b23051112b.jpg", LaLiga Hypermotion 4
 http://192.168.66.2:6878/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
