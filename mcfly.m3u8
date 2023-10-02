@@ -1640,6 +1640,9 @@ http://192.168.66.2:6878/ace/getstream?id=7cac3131958133ab8d363ebd3d15265ef46cbb
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 30-09
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEEoLMHKmiaOG5pi9sI-hdpXtItg8BjAKfCoOZMGjeBe80pnT1XjCFjmFDtqlBwRk6s5okVrzi9_k-MviaMwsegavx0qxjmvgZW-B11O6Gu0Pt2iVFE7QVtwCQAwK9EexGuLaKPGK51xeRQR__7NsVzqC5b_2hkqEIc2o2oSJZLilIk5Cv2wvAR2kBABBwAqP2YZVt9ZzpEzV5TDBytyvzmLfc7UfQG7eJS0u6g_lriBgI3jvlW8Uxl6SKb2rhbW8RqUq_88of7ECrY-ofJbKlaLC1mPekx9JAvfG5fen0557HsqpJgsdZvKKTKsUaSUxvLmaJDnp1Fa6z5qz_37RXJlU5TcYrBhgY60-2qSo0AWqn8C4BOFGWdFG5UnurjEu72gVKm3pBzrRofO7p8Z-tQeLVe7CXBl6EEGnctudUU4HZUYCjFGQjxHP2GJDiZmgDIZIUF_SSa02amY7b2PLjCYZs4cI4JHP1hyb7wBFswKEoglvLRJib_lH5s1r3vg7XuXatOu6r8HcK6MsX6Xs0lMWF7TqU1t8m9f6yOup5-Ae3EuJdJ8WGtzle8-l1m1XwVrE3qKmi3PEEk7qUUCgWqNU4cR8NL56JPCCz3HQfLhTZ-xBEtwmKbAqvmJ4gPteUccJoDbpAJKm0culEjvwWUG1_tkmgELXCKte_mw9EZVOvm3ZwLvoGGQaJCGwDscwVCXPObkLInCX6avCsLZw7QxuhcptIR7WyFIOKRwh3WfZVYFu3c61RQMGlXC0zWgEzK0h0d0G0X9uUHsjcQquLRn7IaDMaNcgEEfMr-T503CiABKglldS13ZXN0LTIw0wc.m3u8
 
+#EXTINF:0 tvg-id="ext" group-title="KINGS LEAGUE",Kings League (Sólo Eventos)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/11763
+
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 23-09
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtsE91NpipakugWmr2tSHSdwJhukuD55NKCKkcTjrI4e1HnLHkZoyZVMAOEOLJyuMDoDw45-lK7Tbar93SQH5wUPoe3hvnT_F0pojx59RlDxDtC2-OPOLCu9GRbRcA4CN31VNNGzNWA7bqPh0Sh8mKpv46y8A5eRpdRzKX5jcut2Alapf77MlSIgRocrzyXpNz3wwwKjLcukbeevC_w-PtSeo2oB6BfBuS8hjhCokCJ68Ck6w2KNSzuri0clEqQtXbpkSgZhwTM0c2j1Ear4kw1kAftmr6siLNLpSxUHICg5g0s3MR-aF_e3w6VzrLPxA4m6v_mYUZJWJkYlHnIM1yAgdASEFOh4s7LHtZ2SVK5GbGeslwGHwxVKCLeL2hHJ2O_jdkGKyV9JuLdREJDFtqP7OTccHPC3_9sBoy1Kj3v4XoQ96f9cCr_-uYJu2ISo5DH-bnmQ918r3Uw39EKnIRNI7YMcH1oo1YTG5GMVDLu6ErNtucKE6Elh-03PJ5oeFUKC__z0fd_lt6x5R3LPgBa-cg_080D1Q8wIf6WdjKtHKc8KA4kqfQGqUZoUtkZADweguKJ6qxIpGiu-1FreuPF-JohzyQ58jKjZ5liwtJtGi1YYM99IGvcuwgdFEmTRydLKb0c2pC-a2fWAXxI4LDJu7dN8m4JIEQIXiNcRFrkl2QkEMoVt8ncwUyd6uXld7Ia5FUFwttbq3U8j7mIxdxEQW5rMPNIqgrlU-h0B3FqglaonMUMnlIuV8dIOKqL3eMNoHw5O44oH-SuQjkMVV0mrRZxRSguUepMVyPdVGgxdc_Nu-irTpcsK49QgASoJZXUtd2VzdC0yMMwH.m3u8
 
@@ -1649,13 +1652,23 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrgEEiGEhh9CfggW1RNk1tnuf53
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", x6FlipiN 12-09
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CsUEZ-YfhUwK3jJtSs5cSyq5vr74EQ5_oCaXQ-92Q7o0x_NjiNMqz6vMc3RahkXpkxZmXC2WqI04JYqZnnYM1I2X-NRvV2UDAQgc9njDrUUuiKb9joB9lvRDja-DwLLPD4Y5Ws0_R7WkIPtdLR8ZgpJKKNiMmvnIGtplsF136rOXLivfHlkU7MgB7TlpQocgyr_43FeNf25l0UNoQO8_5M230iODAMSaEUWksjg8bdKDHyUDoB2YzMMB-G0w7UhYMNKHIrRV8jEVHCDWPBKpfHBh_R11Kui_ONbq5qhrJJl37d0M8arVPOpW7hGzlNm1vSdGh_vSWcxt85UnYNYPnn5zYBG5uFx9DVTWwUdJIlPbLPdp8Nvz3uHqiMOTApbfpKpGOWJxum9J36QNAaXj4RwkhuTYGGl2aTRO2xR3MRlGU3NbPJBpE6O62J3tAI49JGE_tlE7BIHLOhVWR4PbmDkzMrvD3wI-jJ7uQQ9YDkWoeMdUmXNSb8_kWLeGp_PXcWWhrXmavdLNy7UA9m6Odq6EHupgEmsWnJpqgL5NEh4dlP9tCgfEV4HrVrO8IcChesapPdD_wxnNSUc6dC-agV1oxl1_o2qC78toB27IyPNzns2d6rRmz8LRFQ9HW0jwWx4b8WG-yb8v_oAGonVHRtH5wpOy0rWhtjUbI_pSnGfsdiLsA2U7j59vfPEiSUm_k8kFHnLkNqHYHPLpBTMy1ms10X4GfHB6g2EOjLwQCD-JJcFSCZXcVlS4Di4qkFmVvL4OF_awpFwaDODu0IfaSNAQ4T4eECABKglldS13ZXN0LTIwwwc.m3u8
 
-
+#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/32132
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/74378.ts
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20622
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20622
+
+#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »1«
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5774
+#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »2«
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5775
+#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »3«
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5776
+#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »4«
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5777
 
 #EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 1
 http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20294
@@ -1738,6 +1751,8 @@ http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20313
 #EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 20
 http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20313
 
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV INFO
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10353
 #EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 1
 http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20347
 #EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 1
@@ -1778,6 +1793,109 @@ http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20355
 http://pinelodo.in:8880/aE5DtjEbYt/rffyAyjpS1/20356
 #EXTINF:0 tvg-id="ext" group-title="FEF TV FUTSAL",Futsal TV 10
 http://pinelodo.in:8880/Charrua12847TV/c4uQHQyF3utvoWf/20356
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10354
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10355
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10356
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 4
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10357
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 5
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10358
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 6
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10359
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 7
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10360
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 8
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10361
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 9
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10362
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 10
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10363
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 11
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10364
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 12
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10365
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 13
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10366
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 14
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10367
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",ES: FEF TV 15
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10368
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 16
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/425
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 17
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/426
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 18
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/427
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 19
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/428
+#EXTINF:0 tvg-id="ext" group-title="FEF TV",FEF TV 20
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/429
+
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 1 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37104
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 2 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37105
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 3 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37106
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 4 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37107
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 5 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37108
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 6 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37109
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 7 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37110
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 8 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37111
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 9 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37112
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 10 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37113
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 11 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37114
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 12 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37115
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 13 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37116
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 14 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37117
+#EXTINF:0 tvg-id="ext" group-title="FEF TV: FootballClub",FootballClub 15 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37118
+
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2ª RFEF TV (EVENTO 1)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37119
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2ª RFEF TV (EVENTO 2)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37120
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 3)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37121
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º REFEF TV (EVENTO 4)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37122
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 5)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37123
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 6)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37124
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 7)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37125
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 8)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37126
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 9)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37127
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 10)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37128
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 11)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37129
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 12)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37130
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 13)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37131
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 14)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37132
+#EXTINF:0 tvg-id="ext" group-title="RFEF TV = 2ª FEDERACION ESPAÑOLA TV",2º RFEF TV (EVENTO 15)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37133
+
 
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="LA 1" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/TVEINTERNACIONAL.png" group-title="Movistar TDT", LA 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
@@ -2439,11 +2557,17 @@ http://907341120796321300.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321300.ts
 #EXTINF:0 tvg-id="Mega.es" group-title="ES   MOVISTAR+",ES: MEGA SD
 http://907341120796321301.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321301.ts
 #EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/81
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION FHD
 http://907341120796321305.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321305.ts
 #EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION HD
 http://907341120796321306.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321306.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/83
 #EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION SD
 http://907341120796321307.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321307.ts
+#EXTINF:0 tvg-id="M.Accion.es" group-title="ES   MOVISTAR+",ES: M+ ACCION SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/82
 #EXTINF:0 tvg-id="M.CineEspanol.es" group-title="ES   MOVISTAR+",ES: M+ CINE ESPAÑOL FHD
 http://907341120796321312.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321312.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ CLASICOS FHD
@@ -2453,9 +2577,15 @@ http://907341120796321315.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321315.ts
 #EXTINF:0 tvg-id="M.Clasicos.es" group-title="ES   MOVISTAR+",ES: M+ CLASICOS SD
 http://907341120796321316.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321316.ts
 #EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/84
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA FHD
 http://907341120796321317.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321317.ts
 #EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/83
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA HD
 http://907341120796321318.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321318.ts
+#EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA SD
+ttp://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/82
 #EXTINF:0 tvg-id="M.Comedia.es" group-title="ES   MOVISTAR+",ES: M+ COMEDIA SD
 http://907341120796321319.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321319.ts
 #EXTINF:0 tvg-id="M.Drama.es" group-title="ES   MOVISTAR+",ES: M+ DRAMA FHD
@@ -2476,6 +2606,24 @@ http://907341120796321337.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321337.ts
 http://907341120796321338.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321338.ts
 #EXTINF:0 tvg-id="M.Estrenos.es" group-title="ES   MOVISTAR+",ES: M+ ESTRENOS SD
 http://907341120796321339.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321339.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",M+  CINE Ñ SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/70
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",M+ CINE Ñ HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/71
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",M+ CINE Ñ FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/72
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",M+ CINE SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/73
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",M+ CINE HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/74
+#EXTINF:0 tvg-id="M+Cine.es" group-title="ES   MOVISTAR+",M+  CINE FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/75
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",M+ INDIE SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/76
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",M+ INDIE HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/77
+#EXTINF:0 tvg-id="M+Indie.es" group-title="ES   MOVISTAR+",M+ INDIE FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/78
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 FHD
 http://907341120796321344.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/321344.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: M+ SERIES 2 HD
@@ -3719,6 +3867,71 @@ http://172.93.111.179:8080/sergioarayacas/SergioWh6/129283
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN F1",DEPORTES F1 | FOX SPORTS PREMIUM
 http://172.93.111.179:8080/sergioarayacas/SergioWh6/162309
 
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="FORMULA 1",DAZN F1 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/283
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="FORMULA 1",DAZN F1 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/284
+#EXTINF:0 tvg-id="DAZN_F1.es" group-title="FORMULA 1",DAZN F1 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/285
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",M+ DAZN F1 HD (50 FPS)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/286
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",DAZN  F1 [Low Conx]
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/287
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",Formula 1 TESTS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/413
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",Formula 1 Clasificacion
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/414
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",Formula 1 Carrera
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/415
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV:  Pit Lane Channel (Events Only)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4405
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 1 | Max Verstappen | Red Bull Racing
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4406
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 3 | Logan Sargeant | Williams
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4407
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 4 | Lando Norris | McLaren
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4408
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 5 | Sebastian Vettel | Aston Martin
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4409
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 6 | Oscar Piastri | Mclaren
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4410
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 10 | Pierre Gasly | Alpine
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4411
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 11 | Sergio Perez | Red Bull Racing
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4412
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 14 | Fernando Alonso | Aston Martin
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4413
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 16 | Charles Leclerc | Ferrari
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4414
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 18 | Lance Stroll | Aston Martin
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4415
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 20 | Kevin Magnussen | Haas F1 Team
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4416
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 22 | Yuki Tsunoda | AlphaTauri
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4417
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 23 | Alexander Albon | Williams
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4418
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 24 | Guanyu Zhou | Alfa Romeo
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4419
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 31 | Esteban Ocon | Alpine
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4420
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 44 | Lewis Hamilton | Mercedes
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4421
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 47 | Nyck de Vries| Alpha Tauri
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4422
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 55 | Carlos Sainz | Ferrari
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4423
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 63 | George Russell | Mercedes
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4424
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",F1TV Cams: | 77 | Valtteri Bottas | Alfa Romeo
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4425
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",DAZN F1 (DULT)
+http://102.129.200.135:8080/JimaraPlus/GApBHqSUvBfc/47175
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",DAZN F1 FHD [SAT]
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27779
+#EXTINF:0 tvg-id="ext" group-title="FORMULA 1",DAZN FORMULA 1 HD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27780
+
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: U-BEAT HD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/165452.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: M+ GOLF FHD
@@ -3971,6 +4184,126 @@ http://259165350116282466.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/282466.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES 8 HD (OP1)
 http://259165350116282467.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/282467.ts
 
+EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES FHD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27747
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",MOVISTAR LIGA DE CAMPEONES HD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27748
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="M+ LIGA DE CAMPEONES",M+ LIGA CAMPEONES SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/213
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="M+ LIGA DE CAMPEONES",M+ LIGA CAMPEONES HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/214
+#EXTINF:0 tvg-id="ext" group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES FHD (RAW)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/216
+#EXTINF:0 tvg-id="M.LigaCampeones.es" group-title="M+ LIGA DE CAMPEONES",M+ LIGA CAMPEONES FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/217
+#EXTINF:0 tvg-id="ext" group-title="LM+ LIGA DE CAMPEONES",M+ LIGA CAMPEONES FHD (FIBRA)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/218
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES FHD (ORANGE)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/219
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES UHD 4K
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/220
+#EXTINF:0 tvg-id="M.LigaCampeones2.es" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/222
+#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/223
+#EXTINF:0 tvg-id="M.LigaCampeones3.es" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/224
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/225
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 3 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/226
+#EXTINF:0 tvg-id="M.LigaCampeones4.es" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 4
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/227
+#EXTINF:0 tvg-id="M.LigaCampeones4.es" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 4 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/228
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 4 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/229
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 4 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/230
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 5
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/231
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 5 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/232
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 5 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/233
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 5 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/234
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 6
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/235
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 6 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/236
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 7 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/237
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 8 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/238
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 13 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/239
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA CAMPEOENS 14 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/240
+#EXTINF:0 tvg-id="ext" group-title="LIGA DE CAMPEONES",M+ LIGA CAMPEONES 15 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/241
+#EXTINF:0 tvg-id="ext" group-title="LIGA DE CAMPEONES",M+ LIGA CAMPEONES 16 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/242
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ Liga De Campeones 2 Fhd
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5772
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",ES : M+ Liga De Campeones 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6170
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 10 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6215
+#EXTINF:0 tvg-id="ext" group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 11 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6216
+#EXTINF:0 tvg-id="ext" group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 12 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6217
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 14 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6218
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA CAMPEONES 15 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6219
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA CAMPEONES 16 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6220
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA CAMPEONES 17 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6221
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 7 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6222
+#EXTINF:0 tvg-id="ext" group-title="LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 8 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6223
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 9 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6224
+#EXTINF:0 tvg-id="ext" group-title="M+ LIGA DE CAMPEONES",M+ LIGA DE CAMPEONES 2 FHD [SAT]
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29735
+
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29736
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29737
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29738
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #4
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29739
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #5
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29740
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #6
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29741
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #7
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29742
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #8
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29743
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #9
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29744
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #10
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29745
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #11
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29746
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #12
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29747
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #13
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29748
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #14
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29749
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #15
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29750
+#EXTINF:0 tvg-id="ext" group-title="CHAMPION LEAGUE REPLAY",CHAMPION REPLAY #16
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/29751
+
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA MULTIDEPORTE
 http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/675.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LALIGA",ES: M LALIGA HD
@@ -4028,6 +4361,112 @@ http://16692914887268042.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/268042.ts
 #EXTINF:0 tvg-id="BarcaTV.es" group-title="ES  M+ LALIGA",ES: LALIGA TV BAR HD
 http://16692914887165407.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/165407.ts
 
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+  LA LIGA SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/169
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+  LA LIGA FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/173
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LA LIGA  FHD (FIBRA)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/174
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LA LIGA FHD  (FIBRA)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/175
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LA LIGA FHD (H.265)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/177
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ESPAÑA LALIGA",DAZN LALIGA  FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/178
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LA LIGA 4K
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/180
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+  LA LIGA 2 FHD (FIBRA)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/183
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LA LIGA 3 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/184
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LALIGA 3 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/185
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LALIGA 3 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/186
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+  LA LIGA 4 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/187
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LALIGA 4 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/188
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+  LA LIGA 5 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/189
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LALIGA 5 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/190
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LALIGA 5 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/191
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LA LIGA 6 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/192
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LALIGA 7 SD-B (EVENTO)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/194
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ESPAÑA LALIGA",DAZN LALIGA SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/195
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ESPAÑA LALIGA",DAZN LALIGA HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/196
+#EXTINF:0 tvg-id="DAZNLaLiga.es" group-title="ESPAÑA LALIGA",DAZN LALIGA FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/197
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",DAZN LALIGA HD (H.265)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/198
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",DAZN LA LIGA UHD 4K
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/199
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LALIGA FHD (ORANGE)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/200
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ESPAÑA LALIGA",DAZN LALIGA 2 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/201
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ESPAÑA LALIGA",DAZN LALIGA 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/202
+#EXTINF:0 tvg-id="DAZNLaLiga2.es" group-title="ESPAÑA LALIGA",DAZN LALIGA 2 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/203
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",DAZN LA LIGA 3 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/204
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",DAZN LA LIGA 4 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/205
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",DAZN LA LIGA 5 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/206
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ Laliga 2 Fhd
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5771
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",ES : 	M+ Laliga 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6169
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LA LIGA 4 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6214
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LALIGA 8 SD (EVENTOS)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9415
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LALIGA 9 SD (EVENTOS)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9416
+#EXTINF:0 tvg-id="M.LaLiga2.es" group-title="ESPAÑA LALIGA",M+ LaLiga 2 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27743
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",M+ LA LIGA HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27744
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",MOVISTAR LA LIGA FHD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27745
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",MOVISTAR LA LIGA HD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27746
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",DAZN LA LIGA FHD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27749
+#EXTINF:0 tvg-id="ext" group-title="ESPAÑA LALIGA",DAZN LA LIGA HD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27750
+
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA 1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9405
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9406
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9407
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA 4
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9408
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA 5
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9409
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA 6
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9410
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA 7
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9411
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA 8
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9412
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA 9
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9413
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA 10
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9414
+#EXTINF:0 tvg-id="ext" group-title="REPLAY LA LIGA",REPLAY LA LIGA INFORMACION
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/13145
+
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 (H265) FHD
 http://259165350116228390.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/228390.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 1 FHD
@@ -4058,6 +4497,18 @@ http://259165350116228397.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/228397.ts
 http://259165350116228398.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/228398.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN",ES: M+ DAZN 4 SD
 http://259165350116228399.of0828.xyz:80/play/Y2D29L38FS/xFUV3chgKJF6/228399.ts
+
+
+#EXTINF:0 tvg-id="ext" group-title="DAZN FEMENINO",Finetwork Dazn 1 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10282
+#EXTINF:0 tvg-id="ext" group-title="DAZN FEMENINO",Finetwork Dazn 2 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10283
+#EXTINF:0 tvg-id="ext" group-title="DAZN FEMENINO",Finetwork Dazn 3 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10284
+#EXTINF:0 tvg-id="ext" group-title="DAZN FEMENINO",Finetwork Dazn 4 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10285
+#EXTINF:0 tvg-id="ext" group-title="DAZN FEMENINO",Finetwork Dazn 5 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10286
 
 
 #EXTINF:0 tvg-id="ext" group-title="LALIGA TV HYPERMOTION",ES: M LALIGA TV HYPERMOTION FHD
@@ -4126,6 +4577,207 @@ http://907341120796501469.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/501469.ts
 #EXTINF:0 tvg-id="ext" group-title="ES  DAZN LALIGA",ES: DAZN LALIGA 5 SD
 http://907341120796501470.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/501470.ts
 
+EXTINF:0 tvg-id="ext" group-title="MOTOS GP",ES : MOTO ADV FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/8662
+#EXTINF:0 tvg-id="MovistarMotoGP.es" group-title="MOTOS GP",Moto GP
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4244
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",Moto GP Carrera
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/417
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",Moto GP Clasificacion
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/416
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",Moto GP Tests.
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/418
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",Moto2 y 3 Carrera
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/421
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",Moto2 y 3 Clasificación
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/420
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",Moto2 y 3 Tests
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/419
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",MotoGP: Atmos (Events Only)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/764
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",MotoGP: Gran Premio| not Comentery
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9464
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",MotoGP: Gran Premio| With Comentery
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/761
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",MotoGP: Helicopter (Events Only)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/763
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",MotoGP: Live Timing (Main Race Only)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/762
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",MotoGP: Live Tracking (Main Race Only)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/765
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",MotoGP: On Board Camera 1 (Events Only)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/766
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",MotoGP: On Board Camera 2 (Events Only)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/767
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",MotoGP: On Board Camera 3 (Events Only)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/768
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",MotoGP: On Board Camera 4 (Events Only)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/769
+#EXTINF:0 tvg-id="SkySportMotoGP.it" group-title="MOTOS GP",SKY MOTO GP
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9496
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",Superbikes Carrera
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/424
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",Superbikes Clasificación
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/423
+#EXTINF:0 tvg-id="ext" group-title="MOTOS GP",Superbikes Tests
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/422
+
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",MULTIDEPORTES INFO
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/168
+#EXTINF:0 tvg-id="GOL.es" group-title="MULTIDEPORTES ESP",GOL PLAY SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/210
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",GOL PLAY HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/211
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",GOL PLAY FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/212
+#EXTINF:0 tvg-id="Vamos.es" group-title="MULTIDEPORTES ESP",VAMOS SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/254
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",VAMOS HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/255
+#EXTINF:0 tvg-id="M+Vamos.es" group-title="MULTIDEPORTES ESP",M+ VAMOS FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/257
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ VAMOS FHD (FIBRA)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/258
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="MULTIDEPORTES ESP",M+ DEPORTES SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/260
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/261
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/262
+#EXTINF:0 tvg-id="M.Deportes.es" group-title="MULTIDEPORTES ESP",M+  DEPORTES 1 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/263
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 1 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/264
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/265
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 2 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/266
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 3 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/267
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 3 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/268
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 4 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/269
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 4 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/270
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES  5 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/271
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 5 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/272
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 6 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/273
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",#ELLAS SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/274
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",#ELLAS HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/275
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",#Ellas FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/276
+#EXTINF:0 tvg-id="Golf.es" group-title="MULTIDEPORTES ESP",M+ GOLF SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/277
+#EXTINF:0 tvg-id="Golf.es" group-title="MULTIDEPORTES ESP",M+ GOLF HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/278
+#EXTINF:0 tvg-id="Golf.es" group-title="MULTIDEPORTES ESP",M+ GOLF FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/279
+#EXTINF:0 tvg-id="M+Golf2.es" group-title="MULTIDEPORTES ESP",M+  GOLF 2 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/280
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ GOLF 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/281
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ GOLF 2 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/282
+#EXTINF:0 tvg-id="esp" group-title="MULTIDEPORTES ESP",EUROSPORT 1 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/299
+#EXTINF:0 tvg-id="esp-hd" group-title="MULTIDEPORTES ESP",EUROSPORT 1 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/300
+#EXTINF:0 tvg-id="esp-hd" group-title="MULTIDEPORTES ESP",EUROSPORT FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/301
+#EXTINF:0 tvg-id="esp2" group-title="MULTIDEPORTES ESP",EUROSPORT 2 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/302
+#EXTINF:0 tvg-id="esp2" group-title="MULTIDEPORTES ESP",EUROSPORT 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/303
+#EXTINF:0 tvg-id="esp2" group-title="MULTIDEPORTES ESP",EUROSPORT 2 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/304
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="MULTIDEPORTES ESP",REAL MADRID TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/308
+#EXTINF:0 tvg-id="RealMadridTV.es" group-title="MULTIDEPORTES ESP",REAL MADRID FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/309
+#EXTINF:0 tvg-id="Barca.pt" group-title="MULTIDEPORTES ESP",BARCA TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/310
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",BARCA TV FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/311
+#EXTINF:0 tvg-id="SFCTV.es" group-title="MULTIDEPORTES ESP",SEVILLA FC TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/312
+#EXTINF:0 tvg-id="BetisTV.es" group-title="MULTIDEPORTES ESP",BETIS TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/313
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",UBEAT SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/314
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",UBEAT HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/315
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",UBEAT FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/316
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",HORSE TV
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/360
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",HORSE TV HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/361
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",NAUTICAL HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/362
+#EXTINF:0 tvg-id="SurfChannel.es" group-title="MULTIDEPORTES ESP",SURF CHANNEL HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/363
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",DBIKE FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/365
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",DBIKE FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/366
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",REKTV GAMER FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/367
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",FIGHT SPORTS MAX HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/368
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",DIRECTV SPORT MOTOR HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/369
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",MY PADEL TV HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4430
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ Deportes 6 Fhd
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/5770
+#EXTINF:0 tvg-id="M.Deportes2.es" group-title="MULTIDEPORTES ESP",M+ DEPORTES 2 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6209
+#EXTINF:0 tvg-id="M.Deportes3.es" group-title="MULTIDEPORTES ESP",M+ DEPORTES 3 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6210
+#EXTINF:0 tvg-id="M.Deportes4.es" group-title="MULTIDEPORTES ESP",M+ DEPORTES 4 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6211
+#EXTINF:0 tvg-id="M.Deportes5.es" group-title="MULTIDEPORTES ESP",M+ DEPORTES 5 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6212
+#EXTINF:0 tvg-id="M.Deportes6.es" group-title="MULTIDEPORTES ESP",M+ DEPORTES 6 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6213
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 5 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/14125
+#EXTINF:0 tvg-id="M.Deportes7.es" group-title="MULTIDEPORTES ESP",M+ DEPORTES 7
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/18729
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",M+ DEPORTES 8
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/18730
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",#VAMOS FHD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27781
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",#VAMOS HD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27782
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",GOL TELEVISION FHD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27783
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",GOL TELEVISION HD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27784
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",MOVISTAR DEPORTES FHD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27791
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",MOVISTAR DEPORTES HD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27792
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",MOVISTAR DEPORTES 2 FHD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27793
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",MOVISTAR GOLF FHD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27794
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",MOVISTAR GOLF HD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27795
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",EUROSPORT 1 FHD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27796
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",EUROSPORT 1 HD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27797
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",EUROSPORT 2 FHD (SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27798
+#EXTINF:0 tvg-id="ext" group-title="MULTIDEPORTES ESP",EUROSPORT 2 HD ( SAT)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27799
 
 #EXTINF:0 tvg-id="Eurosport1.es" group-title="ES EUROSPORT",ES: EUROSPORT 1 FHD
 http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/290348.ts
