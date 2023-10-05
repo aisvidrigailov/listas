@@ -40,7 +40,7 @@ http://192.168.66.2:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab5
 http://192.168.66.2:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 8", M.Liga De Campeones 8 1080
-http://192.168.66.2:6878/ace/getstream?id=1a4b41c02e116ed19a505551a9caa79f54c027f7
+http://192.168.66.2:6878/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 9", M.Liga De Campeones 9
 http://192.168.66.2:6878/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
