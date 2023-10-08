@@ -18,9 +18,9 @@ https://cdn6.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI
 http://104.243.47.161:8080/8zgVUbfGRY/f6XZfaz2rZ/220493
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI FHD (Inglés)
-http://38.91.101.47:8080/live/agame_telegram/DP6DkZYhkVE8/132815.ts
+
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI FHD (Inglés) 02
-http://38.91.101.47:8080/live/banana_discord/FwbGdfy9DQnC/132815.ts
+
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (Inglés)
 http://104.243.47.161:8080/8zgVUbfGRY/f6XZfaz2rZ/220494
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,AppleTV IPTV
@@ -1921,14 +1921,6 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:fc:bb:92&stream=1566261&ext
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:3f:c9:94&stream=1566261&extension=ts&play_token=O7UCJrTP35
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYMjtmQ5/alonso.png" ,ONBOARD ALONSO IPTV (03)
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:ef:2a:ea&stream=1566261&extension=ts&play_token=O7UCJrTP35
-#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYMjtmQ5/alonso.png" ,ONBOARD ALONSO IPTV (04)
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:a6:27:ab&stream=1566261&extension=ts&play_token=O7UCJrTP35
-#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYMjtmQ5/alonso.png" ,ONBOARD ALONSO IPTV (05)
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:17:15:6e&stream=1566261&extension=ts&play_token=O7UCJrTP35
-#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYMjtmQ5/alonso.png" ,ONBOARD ALONSO IPTV (06)
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:97:ec:5a&stream=1566261&extension=ts&play_token=O7UCJrTP35
-#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYMjtmQ5/alonso.png" ,ONBOARD ALONSO IPTV (07)
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566261&extension=ts&play_token=O7UCJrTP35
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/zB4wZRrM/max.png" ,ONBOARD Verstappen IPTV
 http://23.227.140.78:8080/JsnCdcSSe8/CWvQ6KPTQR/405811
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/zB4wZRrM/max.png" ,ONBOARD Verstappen IPTV (03)
