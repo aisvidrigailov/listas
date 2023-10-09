@@ -129,7 +129,7 @@ http://192.168.66.2:6878/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fded
 
 
 #EXTINF:-1 tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg" group-title="LaLiga F" tvg-id="LaLiga F", LaLiga F 1
-http://192.168.66.2:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+http://192.168.66.2:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
 
 #EXTINF:-1 tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg" group-title="LaLiga F" tvg-id="LaLiga F", LaLiga F 2
 http://192.168.66.2:6878/ace/getstream?id=4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
