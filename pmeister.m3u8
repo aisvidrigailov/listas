@@ -1771,11 +1771,27 @@ http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245173
 http://188.82.106.56:3001/play/a010/index.m3u8
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV
 http://188.82.106.56:3001/play/a02o/index.m3u8
-#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (02)
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (01)
 http://192.168.66.2:6878/ace/getstream?id=c300ecb07d854c1730b04ea022c3fb0a184d7801
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (02)
+http://37.49.225.139:8080/4467299f/SMD9Quq2VA2QMufU/1492
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (03)
-http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245177
+http://37.49.225.139:8080/hsiptv/mqAGJHbSYX9AdDQt/1492
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (04)
+http://31.43.191.49:25461/okyanus54/QWBEQwJVLBTh/36982
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (05)
+http://31.43.191.49:25461/EXCHfamous/4SceG2qsZkHV/36982
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (06)
+http://31.43.191.49:25461/haboub.sat/pTdKYchMhh/36982
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (07)
+http://31.43.191.49:25461/okyanus54/QWBEQwJVLBTh/9737
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (08)
+http://31.43.191.49:25461/EXCHfamous/4SceG2qsZkHV/9737
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (09)
+http://31.43.191.49:25461/haboub.sat/pTdKYchMhh/9737
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (10)
+http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245177
+#EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 1080 IPTV (11)
 http://bmpremium.net:8080/bHasc7KEnwfs/6J9nTFCDxKuh/245178
 #EXTINF:-1 group-title="Extranjeros" tvg-id="Sport TV4 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a453.png" ,Sport TV4 720
 http://192.168.66.2:6878/ace/getstream?id=7b910812372dc00639e284ffd342525686a5d43f
