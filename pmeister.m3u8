@@ -396,7 +396,7 @@ http://192.168.66.2:6878/ace/getstream?id=99037a407e0a2563c6dc84259abe6c20111a95
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento)
 http://192.168.66.2:6878/ace/getstream?id=cc18080d7df67a05c7fc98a836500f8749da459d
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento) (02)
-http://192.168.66.2:6878/ace/getstream?id=104d67de2705f30b7fd663e628e91ee387130d16
+http://192.168.66.2:6878/ace/getstream?id=0808654f5a5304fc32181649df7617b2d12c290f
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (01)
 http://23.227.140.78:8080/JsnCdcSSe8/CWvQ6KPTQR/405789
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (02)
@@ -404,7 +404,7 @@ http://62.182.86.121:80/live/laquitaevans3@gmail.com/laquitaevans3/769457.ts
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportF1Germany.de" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 1080 [DE]
 http://192.168.66.2:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=aa0651f348f2b642ee7d52c5dea33bf81243abbd
+http://192.168.66.2:6878/ace/getstream?id=73a8deb17a68b03a1de5fb755d8a6155feb26c59
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 IPTV
 http://37.49.225.139:8080/GenIptvLast/cGW7qTY5txZ3DOfz/265
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 IPTV (01)
