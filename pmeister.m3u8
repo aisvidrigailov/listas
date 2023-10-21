@@ -16,13 +16,13 @@ https://cdn7.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-1 group-title="Series 24h" tvg-logo="https://i.postimg.cc/mgN5QLjs/lqsa.png" ,La que se avecina (Señal #2)
 https://cdn6.lqsa.es/hls/0/stream.m3u8
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI español
-http://todoen1.xyz:8080/saidenvenezuela/77yVppnWfcyZ/221806
+http://todoen1.xyz:8080/saidenvenezuela/77yVppnWfcyZ/222248
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (Inglés)
-
+http://38.91.101.47:8080/live/agame_telegram/DP6DkZYhkVE8/132815.ts
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (Inglés) 02
-
+http://38.91.101.47:8080/live/banana_discord/FwbGdfy9DQnC/132815.ts
 #EXTINF:-1 group-title="MLS / AppleTV / STAR+" tvg-logo="https://i.postimg.cc/hvtTDvxH/appletv.png" ,INTER MIAMI (Inglés)
-
+http://chipidominio.online:8080/saidenvenezuela/77yVppnWfcyZ/222247
 #EXTINF:-1 group-title="4K" tvg-id="ElevenSports1Poland.pl" tvg-name="Eleven Sports 1 Poland" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a631.png" ,Eleven Sports 1 4K
 http://192.168.66.2:6878/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 group-title="4K" tvg-id="SkySportBundesligaUHD.de" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1817.png" ,Sky Sport Bundesliga 4K
@@ -392,11 +392,11 @@ http://31.43.191.49:25461/okyanus54/QWBEQwJVLBTh/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (16)
 http://31.43.191.49:25461/EXCHfamous/4SceG2qsZkHV/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV Español(Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=7d9876f4960728b80659c771e6e476a38357c9e7
+http://192.168.66.2:6878/ace/getstream?id=c6b8718ec7a21a15652642b2c18a94e9ce515eb2
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=100485b974a3038c4d1675e4a3c3261583fb0add
+http://192.168.66.2:6878/ace/getstream?id=5432ecbd59fb94160f61d52a2502124e5c1e36fd
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento) (02)
-http://192.168.66.2:6878/ace/getstream?id=0808654f5a5304fc32181649df7617b2d12c290f
+http://192.168.66.2:6878/ace/getstream?id=27be398c18e4b3e3380bf22fc162ade78a8dfa35
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (01)
 http://23.227.140.78:8080/JsnCdcSSe8/CWvQ6KPTQR/405789
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (02)
