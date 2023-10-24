@@ -1224,7 +1224,7 @@ http://192.168.66.2:6878/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3
 http://192.168.66.2:6878/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/223.png", group-title="RUSIA-РОССИЯ", Nat Geo Wild HD orig
 http://192.168.66.2:6878/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
-#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/920.png", group-title="RUSIA-РОССИЯ", Paramount Comedy HD
+#EXTINF:-1 tvg-rec="true" tvg-logo="http://epg.it999.ru/img/920.png", group-title="RUSIA-РОССИЯ", Paramount Comedy HD
 http://192.168.66.2:6878/ace/getstream?id=5680521f0e507f2c6f55f3de8dd79351615116c5
 #EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2277.png", group-title="RUSIA-РОССИЯ", RU TV
 http://192.168.66.2:6878/ace/getstream?id=2753d5bd0ceb849bcb277ba22b99b407b11768c3
@@ -1547,14 +1547,14 @@ https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEEoLMHKmiaOG5pi9sI-hdpXtI
 #EXTINF:0 tvg-id="ext" group-title="KINGS LEAGUE",Kings League (Sólo Eventos)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/11763
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 21-10
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Ct0EYjEf72VEqCfUoLfV5IoH5s2DDEjDd0qnCY9Hpet7ibBI0ya2aB6ASnXb_vM4WqTB6O82oJx70h-YAjpLtTdaQ7jwknNcW2ZwgGaYwB3Ify30EBYh9DWi1wvfX9Vy5K9frdfTVerkUdz1JzYhgv_i3hAjHrxbHpxbQwDoJQf62hdJKH-gQPLIesIsxiH0yhvHjovFJycd2ZOi3te2h_XvTP1a-Got23LvgJGqoiRcmOtScrqtvlKgY7y00NlfVDBR0vDzos-7OdnaXxgcr1kfgWjtrB7uQe0HJIAtYGQQRLZJWkXcsqPw9KM2S7DgiwnFQpzygux8vOuOppmAJw1trJXjnBaVyPtVi8F9YBfMwVYyFonj0JOgFbbZktVN8xWn55XYApHZRs1ehqce-jEAy9G7MQkN3YAbbILsNONB9uhZS7Zi4qbP1X5DLimmmF9cbCqwpfYWrwNBYHGDNf6LFPV35WkFGL8g8pCvcjMjjVlNsACtcf4Tzgean6VNdHilKBwFREmTnyX-JRuNXJbTfKtLSjVc_rQWCoE-cOn6_yAuw_WQt-b4p4M4zE3PMEXgxUdC6ZvIg4B4FlVSOCQuSiX_xHws2J2DiOURAbrLkn-_ng2jlebVwE3WA5yf1SMX6OyQbStI0Gqou6u41O30DEvjTtsNi5aMjcnvN_gLd0uwnWIAXbmqWNzRBhy-j8NEGtgR87iwx6m3vyUSeaUJyAdcPpaSOe6U3I5xeuXXsrEUAUo1qqmzBET-Br_-rUT214uaJ8EJ8V9LfWVngmsZ2SnDtMmAQGIcu-uaUzkaDPfgEIYZZ9HUXcfliSABKglldS13ZXN0LTEw3gM.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 24-10
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtoExTWJSbrkcEe78ZDf-wxAChBH6EC11A8vCx-oly-8tEziVCVeYSSGAun6O1KkYFatGhDScYGc2ICtnKYE24PZajDiGFKKGZEt3rgGUPTb4KzT6MN7vaYr34JGHRmdno95mCNe5yUlauxr58gl2rqGBy6rQd1CR49EqInTSPQEmrMYdoMh2XoKYq8uJc_I3zmMPYakK5W6c6USO6ogI1uzJryAbrrfm3s_06Ig_LDObYey4TxBc-7W__SsH7rzOhc7KNXsAR4lzWEjmOYR-AAud4rN8b-rATiqAsPLBQJpYm1PynGO5giEkIVD9F5xT9HaGDL7OhVXX1esrttXPivEWswu3RbZplwjt51Hp1Ie13YGVRexjY-jyu1CxnJexlyn-sfcbIVhscXGcpSMqO8CKYEoiWRm5EB8rHPLUaCYYD9CsK80q6vEt6eqCdFGc1dRLGwNkaBa1BUOUazF3I_AdPh3XmqB5iiv9RRTh6FQ0agkxvQLMSQ3UTUU8nJ1xNM5oYoKyb7doHRJFeCLXrvIFuKGnD3l1g8BNTiZbi9KKryzWssJTDv9nVhK5tK3zJay8yLLxt0JqC9PfB_nODTF_fJe1urPMRzzAKAVbBpzqUfxUMZKqtpH9uP9vVLDU438UDwYijMxJAR5QBXMfohVmyRpkGjNiKepVNeI-OatVulmgSHtxf1qgeRFHxvP1YFTtaRCWfWfNyx353jihPyJAmWo2o4rV9CbE_9RewjeNUY_Qa-uXcwTXebINoXGiNns0VVwr8GlVRlj9baaCZdFFJkvdDtg8izk6qcaDH397fcPJkhiHeuITyABKglldS13ZXN0LTIw6wc.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 06-10
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CrcEv3xljYNspAHHwtN4N5ZheEY0RRCu8JADZjLZXHbdXAAqxeFOGX-6xKd66fHrXk08z7O5lmVVG4RbgAdyflZrp70otg3IpMX8HIDHQ0gS6oSnpdim7gP5uYF2e0Y3ig0_cnmMAsVrow4kzBxHzUT8O9AgpJtBOZTzKBNiDdh_3fTV5bp-yI2INcc_FUffmwYNXFEQu-byFPfP4XM7hWC-AQT50gWYhzDAsG9BnDa6wEWrjikfhBOMBjKXosHKKmfO42OfjvoYKIaR8js4YSGz1CKknHewGMv18nrrFkkmkmO6Oivk6laQgu4zmcvMEGvffSqIDfQU7XM7zrYgoAof6SNw6xdMJIb7dhbT1wQY1m-N3d6dD5YLDKsbVHBnzC4ZkGCgu3gEMo3MbQI9XJhY1F0h7BrZzL_7Whd7QMzpKkxY8mslHt9j7Nlfqb_j02XzG_TTb49vAf5iyrmon-nTThxw-CQtwr8dXw8-ADLRcVCTNAAZVxDmnpgtR-_VmQgHae0aSpXL54yVWzJ-ZoPVeaa7BZARnFibyP4-65yDZQjHHHWfVxlifmIAM7NTBcDOlPRikCgYdElLxKfI7ijYXuKvnBt8aZ8NL96dZs4aCVovVrMvlxB-HK9WYQp4qNJyvYQRcl5SsE7gXv-4OwUjd093WB27CmTRE5xfD0-ZgSLiXPKjWD3eyCXVdR41XCEgEfH8IhOFKQO59rIdIBw2Kt4WxfvOe8l-OVQnvb6R627g-Y5jCaqnGgz_KTi6FkmAjR5gLCMgASoJZXUtd2VzdC0yMNkH.m3u8
+EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 06-10
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", PNKFacil 14-10
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CsMEJwk64qbqfyD308-kCT1HpCfscuH_AnXn7sXA1tnXuTnLfqnMRCUJlEq_V6YPCR6WO192jPzi9BDJ1KhSDhOYw49Iqmvo_bsejPH7WOWGsNusOayrtCuNoVQrEgw-N5oY9W-jWTX9gApDmCOGdMq7D2itQZJOQDOMCl-0IzlCsx4N1XLfn5MKN1SisWFy30SsG5zgeHWaME_L-016HYo_eU1n6aG52lhDocmMz8qzVuqr8q7xjYpi77bXomqUyAwTNNtwGg6Lej0O984aaYHAcffGNYAUKwZNFtFFGuALPISgIRrFXY93vt9St0gjA1ZM-BcafWDb-CBSkhCGir6xbfNr3Bhz6lw0ZVpEAdFcn2z9djbccIMfV9CoUHrz89FEUZZZSJ7pHOQUaOn57TdSqhqIxxFTU4iDdIo3VfMECFXj1FJIxPpxJNI0f1x5oKbARPmqxz6AqecS5WBfz_J26VV_tjtBKUSUDyoduwlw0xGsnqZuTlGZuPZUhEjig60HLPLPoint5pQFIQ4WNiScLtKABkezYWRLGHCPv3VWUaXULiohWbVF78ycxOoCXUrwyzhpwGTdOxxLdnHeK1ygNXn_O_PahBxfdvEUelysCCHYpyEBQ4bd-uyfaFldp1rzGoZxgVLM4UediQ-Me4BCb_Qx9-upPCTTeAVFBUs-wrJddSvSqNbOkU2haAIufvGLbxdz8AmfmihoWewULJdZAt8gvgW_aO9u-pEtzdks-O1gJAeqvmnqmXKlAuImbgKqnlGKGgx_FuVjPmEfTJIXJEkgASoJZXUtd2VzdC0yMOEH.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Auronplay 24-10
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CssEoRzGHVXvW-nWlU6S_uuIoffVnwrMAf5xDIhkTWzEUwKSc_6x8T1fbuW9aQQB0xBGmugqM4lLvQ81g4YUJTfqNRVpqF5-Ac8gIqUnXBfRAjTZyYOxJzxkGSBf7fuANIf8odom8VXX-Dkitrl-ZWpnldyiv0MdyRAq2ZxMpZpb1ZZR7N8nL0bo4Kw7KeAIl3TX_XtVa4BEfYwGhPN4ePK5-HNagjb9FhKFeXhewM3NsRh76g9zzooHkPPLR8wQitMIz0umCZwqngfP9FnkmtXjhZxU-PrdcWdSxZJGzUlpsSzeXRQPQ5g99ZYHXaZSohkD09Rfa6MJCKhv8ZepDtnoEG7Z8UE0jVpLjPBp2dXfTFbNu7Ks1cyDmwwUPln6il2PmFoSs0Ag7Kgv-n3XYSNV2F1JazGSnuE8BwBOqOXBjg2k6f3GjgVl5Ia57pVgKCY-bD0QPXdbf60lLOrF0ooBb4_ismKohQEJ5aXb3baIuUnHrGOpCPw302HKIAHUQ_fS5OBRzijUSFXvG8BokHFqdgv45djq8PecD8EZoisivrDC6XixnZzxrzFws_m-45B8IhhJ1_oJqnUeSRh1wZudVY2QC3kvuzpAU-tE9k96b2CGivQx1XwkoBvl6d9_xk_m_a3o9I1iDqF27gw6WM7I4-TKvVqqpYUlXH9POXBQTEuN8wNmgCgioc9up6RRD1dKXOnaUL9W4fsFQXd4Df0mUZlziHySS15O7P0ka_PP3y2G44D4uAvrdPMLZLZLZs4O5l3wqNnyFngkW6MaDGNBwPBuzD1WWjujIiABKglldS13ZXN0LTIw6wc.m3u8
+
 
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/32132
@@ -1640,9 +1640,9 @@ http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1910
 http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1911
 #EXTINF:0 tvg-id="Viajar.es" group-title="SPAIN",||ES|| VIAJAR FHD
 http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1912
-#EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
+#EXTINF:0 tvg-rec="true" tvg-id="ext" group-title="SPAIN",||ES|| CAZA Y PESCA FHD
 http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1913
-#EXTINF:0 tvg-id="ComedyCentral.es" group-title="SPAIN",||ES|| COMEDY CENTRAL FHD
+#EXTINF:0 tvg-rec="true" tvg-id="ComedyCentral.es" group-title="SPAIN",||ES|| COMEDY CENTRAL FHD
 http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1914
 #EXTINF:0 tvg-id="ext" group-title="SPAIN",||ES|| COSMO FHD
 http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/1915
