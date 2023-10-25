@@ -29,7 +29,7 @@
  <h1>Add new site</h1>
  <h2>Please confirm before adding a new site to the client</h2>
  <form action="/add/" method="POST">
-  <input type="hidden" name="add_nonce" value="4e0c916878c7809077c0cfae954bf0dc2c872d966aa93d94546bc681899d3e5a">
+  <input type="hidden" name="add_nonce" value="4a0d40e4634311df447a41faa15c7676c51e1d6c91dff3fe4fa2a8a2aa5fb8b6">
   <input type="hidden" name="address" value="1KcqzADvtoqporMtYbfv6fJRGFKMrXpNNB">
   <input type="hidden" name="url" value="/1KcqzADvtoqporMtYbfv6fJRGFKMrXpNNB/IPTV.m3u">
   <input type="submit" class="button button-submit" id="button" value="Load site"/>
