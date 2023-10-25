@@ -29,7 +29,7 @@
  <h1>Add new site</h1>
  <h2>Please confirm before adding a new site to the client</h2>
  <form action="/add/" method="POST">
-  <input type="hidden" name="add_nonce" value="3019e41eee70c68560a4752e1ca5f65d4664cbcf83896d3c35a89f8caf61cc2f">
+  <input type="hidden" name="add_nonce" value="cf90a8d76505c7e32a590c458889262b9bc17d4acd2f5e70c341bb5cc9900df4">
   <input type="hidden" name="address" value="13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X">
   <input type="hidden" name="url" value="/13aNmBWAkWzaXT1Hva4B9kpJW1nWFjFF4X/Lista acestream.m3u">
   <input type="submit" class="button button-submit" id="button" value="Load site"/>
