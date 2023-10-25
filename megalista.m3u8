@@ -29,7 +29,7 @@
  <h1>Add new site</h1>
  <h2>Please confirm before adding a new site to the client</h2>
  <form action="/add/" method="POST">
-  <input type="hidden" name="add_nonce" value="882e046410481689d783a6e140730ce284fca63eef59146fbfada84a2a59cc1c">
+  <input type="hidden" name="add_nonce" value="d02ceea236ac89f9d733888b12e814a69c258d0180a99fb16ba66d3530f2a18b">
   <input type="hidden" name="address" value="1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG">
   <input type="hidden" name="url" value="/1Anu2b62n6YYBJBVzjrYkYfT6QWXSNx2tG/acestream/get.txt">
   <input type="submit" class="button button-submit" id="button" value="Load site"/>
