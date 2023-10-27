@@ -1251,8 +1251,6 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46635
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46636
 #EXTINF:-1 tvg-id="M+LCAMPEON13" tvg-name="ES : M+ LIGA DE CAMPEONES 13" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAP12.png" group-title="ZAPEANDO MOVISTAR",ES : M+ LIGA DE CAMPEONES 13
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46637
-#EXTINF:-1 tvg-id="LA 1" tvg-name="la 1 demo" tvg-logo="" group-title="ZAPEANDO MOVISTAR",la 1 demo
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/47607
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LA LIGA SD (D.ULT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LA LIGA SD (D.ULT)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37388
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+  LA LIGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+  LA LIGA SD
@@ -2269,6 +2267,42 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6551
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6552
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONETORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",ONETORO SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/12113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 1 FHD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 1 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44643
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 2 FHD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 2 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44644
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 3 FHD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 3 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44645
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 4 FHD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 4 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44646
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 5 FHD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 5 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44647
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 6 FHD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 6 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44648
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 7 FHD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 7 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44649
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 8 FHD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 8 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44650
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 9 FHD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 9 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44651
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 10 FHD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 10 FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44652
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 11 HD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 11 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49002
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 12 HD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 12 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49003
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 13 HD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 13 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49004
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 14 HD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 14 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49005
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 15 HD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 15 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49006
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 16 HD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 16 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49007
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 17 HD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 17 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49008
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| MAGENTA SPORT 18 HD" tvg-logo="" group-title="ALEMANIA : MAGENTA SPORTS",|DE| MAGENTA SPORT 18 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49009
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS N HD Español" tvg-logo="" group-title="BEIN SPORTS LATINO",BEIN SPORTS N HD Español
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10384
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS EN ESPANOL SD" tvg-logo="" group-title="BEIN SPORTS LATINO",BEIN SPORTS EN ESPANOL SD
