@@ -48,6 +48,13 @@ https://tele5-dash-movistarplus.emisiondof6.com/dash/tele5.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="lasexta.es" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/La_Sexta_%28A3M%29.svg/834px-La_Sexta_%28A3M%29.svg.png" group-title="VOMISTAR +", La Sexta HD
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"da34f7ba51495627b5e78a56fe263ce6":"2e984786ede5f201dca69f9322e0e382","14df1a00d89f5d89a24d883de1c6a4c5":"2ad506e0bf9e3344f4df2cc673d728f6","a217bce8fa71550f9ad12cb0827517b6":"85e998af299b4dd66cbe8ab4542f5978"}
+https://tvup-live.secure2.footprint.net/lasexta/lasexta.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="" tvg-logo="https://s1.eestatic.com/2023/04/07/actualidad/754434837_232268045_1706x960.jpg" group-title="VOMISTAR +",M Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -256,6 +263,16 @@ https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.m
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 group-title="LA LIGA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/DAZN_LaLiga_2023_Logo.svg/1024px-DAZN_LaLiga_2023_Logo.svg.png" ,Dazn LaLiga (OPC.2)
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-043/stream.mpd
 
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009896560970170488/unknown.png" group-title="LA LIGA",Dazn LaLiga 2
 http://relectro.xyz:8080/Leafar/fQE5BM66Hc/202
@@ -851,6 +868,9 @@ https://dmax-dash-movistarplus.emisiondof6.com/dash/dmaxor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://cazaypesca-dash-movistarplus.emisiondof6.com/dash/cazaypesca.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="Cazavisión" tvg-name="ext" tvg-logo="https://www.netvoz.eu/wp-content/uploads/2021/11/canal-cazavision-removebg-preview.png" group-title="M DOCUMENTALES", CAZAVISION
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/359
+
 #EXTINF:-1 tvg-id="Decasa" tvg-name="" tvg-logo="https://media.v2.siweb.es/uploaded_thumb_big/b0beadbdb0050b3b98eadea5c84619ef/canal_decasa_y_davanni.jpg" group-title="M ESTILO DE VIDA", Canal Decasa
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1091,7 +1111,7 @@ https://tdt1galicia-dash-movistarplus.emisiondof6.com/dash/tdt1galicia.isml/mani
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tdtapuntvalencia-dash-movistarplus.emisiondof6.com/dash/tdtapuntvalencia.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="M AUTONOMICOS", Telemadrid Int
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="" group-title="M AUTONOMICOS", Telemadrid Int
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={591af0bf8ff84decbe1e2dbec063074f:e7f67c51aba494c9eed4a0865600e15c}
@@ -1099,7 +1119,14 @@ https://tdtapuntvalencia-dash-movistarplus.emisiondof6.com/dash/tdtapuntvalencia
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://inttelemadrid-dash-movistarplus.emisiondof6.com/dash/inttelemadrid.isml/manifest.mpd
 
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/DnlZuB9.png" ,ESPN Deportes
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://i.imgur.com/DnlZuB9.png" ,ESPN Deportes AR
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=49e2aa7ed50fc98b895023c87a32a183&key=57062665c1ef8481911e68e17655c8ec
+https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
+
+#EXTINF:-1 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://i.imgur.com/DnlZuB9.png" ,ESPN Deportes ES
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4587
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport1.ro.png",Prima Sports 1
@@ -1141,22 +1168,6 @@ http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3583
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-040/stream.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1641867970_logo-bein-sports-3.png" group-title="SPORTS",beIN Sports 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-041/stream.mpd
-
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1641867970_logo-bein-sports-3.png" group-title="SPORTS",beIN Sports 3
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-042/stream.mpd
-
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://image-service.goldbach.com/01lOtJONnQFGQPuccNoBQueklFI=/1920x0/filters:quality(90)/https://cdn.goldbach.com/uploads/production//5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png" group-title="SPORTS",Sport Digital | Fussball (DE)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -1196,14 +1207,6 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-025/stream.mpd
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-033/stream.mpd
-
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://static.skyassets.com/contentstack/assets/blt292fe19f56d1a1a8/blt914435f46e5f317f/60f97c0ced7a525fcd55cb19/MicrosoftTeams-image_(13).png" group-title="SPORTS",Liverpool TV
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-034/stream.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://img.netzwelt.de/dw1600_dh900_sw208_sh117_sx6_sy51_sr16x9_nu2/picture/original/2020/05/eurosport-1-hd-sender-logo-275710.png" group-title="SPORTS",Eurosport 1 (DE)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1736,13 +1739,13 @@ https://stitcher.pluto.tv/stitch/hls/channel/622f42b831233300078658cc/master.m3u
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",ElChiringuito TV (Sólo Eventos)
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtwEuRaubRD8JC6lVqoyEUpWxG-sQlmi0EpqpK6mnbfqvo0LcR1sUveM7ZMQ7KVcCYCUaDnQ7bO7dw5lLX6XAfHXtCbDrhbHyzLi3TcKrbqLZpHF6t9lBNfBJRKo54sOg4LKnQK8NNK3g-T0MM-0UIpmUzM268KY_sjPS0JmCTHZc0PhZ1OXSl_QNXydrXgHkbTgyp1fLXMxVPAc-ZFuQFW2uKDfXN_hJPuS941K3Hu7aUDcMjec4jhUsW_Gv7mjykBYz_F8XIKfQKQWOwcak30tahhUyp_XqtbV8vr4UHR6P7S6NYwAKwoe2Imn_6PflSQ27K6XmHQt1veVYIay4fGmOqTbAeLFhOsF7173GyBoHGfypcRLKGjioJmBGdHjdjc81kDG76qAat6llgV1r142VbZiVBMMrhsYfIPX1C9pxvuIyA6foXPStiExrsFo6TzBoGkL5oPxMV9j20ID2N_uWNyh2c-2aB6ncenrsdYp96SSMGoIXGWku1nkYgwT3Yyia1I675MeJcytBRn_gtusRPSdzMHK27Bz8gXGYCWvZGJTEUhF4xT-yrzJMrwgJmqGJd4ddQ7VZqpNlj_amN0EiQvmIa9sq5kE3pFctS3YGdCpx-TZwwe-N7yvrE6khpO5ARkqxEwbmw42sgPhXVaooxWOt1UECn4--TQUWkeVFdrnsob6Hf8LOXAKN_phwa8-ABA0lwO_kGG0Y9tCaiU7VmSv3uH8EwDmfENd7t2i0wle2rvZLJu2MDzacX93s4OUD6KMQTBu477MvFUsLknwI8_nR9thieWHNhpfHxoM66lhn5-_Hy14PJ6rIAEqCWV1LXdlc3QtMjDtBw.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.cotilleando.com/data/attachments/2761/2761647-a14bfb5d113235aea93666a470975ff5.jpg" group-title="TWITCH",Kingsleague (Sólo Eventos)
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",Auronplay (Sólo Eventos)
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CskElWTymyOFiWNR3ily8h7QrjBBt3TRM5PYv9tpVo_UVAlYKUhjYzuEwR38rLlHkDur-oXivInj4mWcGAhWqE9IjgcuSPsilhcna6H1lD71LQ2ec95P4hBXwJTRe350iYl7IE0RBBKy6Fy9ARe8JfUew-3RA99V-LnEezV7ZmHR1jNHQhsmPl--sgQUAg0caJja0qMfR0pnYLQO1gdXzatZW4gw1D9NzY2b-MtKXIsotHmrWDWDn4NNsWhlghu6NsHMj1Akn9uT40NkO5YIn-gJThf_2vA0D6Ewgg7YrX_RSOwBQ4s67EOtWDFk9lwxHMcsGpfKabVqTt9U2cO4Qi8RPXir1bi2KgBkMouuTWhtm7yX7cEJ5Xsbfv2nWgHvRRFngXMsnzcFAQRLjb7gL6tXvA-4FTlO-EXxgKOBr1icUYTxb7mq3PI3J2WfvT8glpjkyQICvMUkfkuRxNgnt0xA6OvGJhmtc_JKmnOf-lsam5WqJRI0JoX6r_59Yvs9KehCvIgaDl6osx_o9uo9HKY5EdgVDYL2pvER0cBDKDwzSwyiA5kcBpUgGt4HHNDnTO41Zl_SgMdrvCURqn1_7ojJKcI4imYLRIP6o1xU7pR0_rLWP5NS9Mxf_AEWZ1MCXkQBa5qJhMNSFGPCJmRoWoa7b8liUfOv_28UjLxs_7UIjvuOe90YMtZiAyPhxf399Gj0azMNWp_Cj_U7TM_e8bzjVfQUHJkMYdxw85Ocx7YPh92PHv320KSzFv2iZUZ3Sw6clUhLp6hOCumNGgyhKdJzstRbPYtSlbMgASoJZXUtd2VzdC0yMO0H.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",Ibai (Sólo Eventos)
-#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CsoEe5eJ-vfMO4xv2BRIbVC44EmfGus0az_7f7CM5VWdBABo3i3YXA55zTVDhp6OZT59nST9I9uxtf8XtUNA2QQZvdqIZqadj9Ki1LmO07jujMILqS_lBCf0C6c24Uj4xQPKsEbC8ndxuF0shbBkrleX0kpO5pspoRblE_pKYBHRBCD2G21Faw2aYeE7XNZDk-wvBq-ssuXrpHlHilrFO1cg3KrcWSLTyM1y1zqUEq7gZkfydfmPebehGK8-Ku9GpG_wmZAYzcLjEcm__8tMFJlMVwihp8bOdBs3qNLugJ-h8Cp73mzZ9DwDDIPxsEiFdynjuY9xg5DN6KXkkbqNTwPRHtdHyUjM4OA1-emx6PS9UDF2hJV0a5ZDqqbAyXR7-tH-fszTUsLrCroAkx6ctgK413QIysA3tEFVhnI6P13UByIP9byfEhaL2nM2M_GyCRCan1Qy8-FdW40z_FHjjkAs_2Hoks1OrGBs924dlQVVlg4PX-mPLntQIf4e03l35_1STqrcp6hKP2y7g84bHtqcGFluVBJQE1CPufYzcT4oXxiHIg8fpk0VHf66aJ037RpxmrhPMBKPBVuVFadDL5bzXJSy6VqONP-ZMNTMmkSdJ9nrrxk50ojHn5J7xWBm4qFNfXqu9yL14ZRi_oyXJT0QLYIuBR54hpGVfF0-iVrcyheQEjLURqYtj-mp1BVwMWC8vo4l40k930DW8t4260J82B8yPRxDdjMR2gsEr51D1dkFtb1GLSI0Gg2ZV9AEeRpNHkNO9Rr9j4jZqxoMaTeL6tH3DZ980KNzIAEqCWV1LXdlc3QtMjDuBw.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",Belen Jurado Música (Sólo Eventos)
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtAERU9urc8IEylFdoIjOTIflvNSAuBhx5CWW4ckxcTNsoxsCJVFT76qXhLpt4z0dU6wGyt12nuTVRQjRpcOP4-fnZQpu1ECiwib4ytS7JKqRNXiuj4CGuXx3xVioSBcHeRi6K9RA8Pf7ZSWLiGau0kRtHvfYMdV7SYs-8_YCnJjsOKLnhMfnZhS-jWReQxBfL4q_nkMPM30skRwP36unQLYWWP5vs38_R0cOCSAgzf6-1LAhaEcoUVGvsk7h3nFNklP1kXc8S8ulLFL66UTr21kCAFP7cmRRltVj7_qbc379GXFNtKAUW2_4TLAkSXOAvj9c8dczKUaze3OqPWeAGB1scutKU7nzN4L_2AWPkFjgsYs1X_ypHX8OBlhHIqQIjDFK7xRiZOSIDz1Yr9CtLBrhDbo_ZFGPU3eFJVmTZtq3vVAqCFcR9NXrjwp4w15J6rVzuErADsed_MBbweFUUs_C0_wSjiPHjbJWx9C9c0xK6cLVzdUSEwvJvImhWcvnL7DkxmlpbNq6i8GcUDrjgmQPJKtxbCuJG0fNiy0Tfb63gr4W7_hO8mb7PCXvRh0jpgoc4t3WhmIlCTXOK78NOoJylXAa_wl_LQZ-UMuBn-laoV5TXSnzACYYwt4Q2uPXRK_E6kAxqSI5uea69BV31XT2v2fOpJdI4mh_eCgidCHiMjFds31iDI0YOhgqpEfurso7LrsHqyOcNV38GjQAjrXSLrk38XQvDncskmzYShAJt-mAAgb-bi8UPHolNkB6VPQPfTWjV_iD0g1f8eU1HgQmxoMdYIUpvD2i1STMR29IAEqCWV1LXdlc3QtMTDkAw.m3u8#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
 http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
 #EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 2 1080
 http://192.168.66.2:6878/ace/getstream?id=f1c84ec8ea0c0bfff8a24272b66c64354a522110
