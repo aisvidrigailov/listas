@@ -97,8 +97,8 @@ http://192.168.66.2:6878/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070
 #EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/LaLiga_por_Movistar_Plus%2B?file=Movistar_LaLiga_6.png" group-title="LIGA" tvg-id="M+ LaLiga TV 6", M.Liga 6 1080 Aces
 http://192.168.66.2:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/LaLiga_por_Movistar_Plus%2B?file=Movistar_LaLiga_6.png" group-title="LIGA" tvg-id="M+ LaLiga TV 7", M.Liga 7 1080 Aces
-http://192.168.66.2:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b  
+#EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="LIGA" tvg-id="LaLiga TV BAR HD", M.Liga BAR Aces
+http://192.168.66.2:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi By Alex Aces
 http://192.168.66.2:6878/ace/getstream?id=95b2238dec35cf00dfdf8fba18e9920bc2c56256
@@ -1542,19 +1542,19 @@ http://192.168.66.2:6878/ace/getstream?id=24a3ed773b328c1e81a8b5a9d68938aa0b238d
 http://192.168.66.2:6878/ace/getstream?id=7cac3131958133ab8d363ebd3d15265ef46cbba9
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 30-09
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 30-09
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtEEoLMHKmiaOG5pi9sI-hdpXtItg8BjAKfCoOZMGjeBe80pnT1XjCFjmFDtqlBwRk6s5okVrzi9_k-MviaMwsegavx0qxjmvgZW-B11O6Gu0Pt2iVFE7QVtwCQAwK9EexGuLaKPGK51xeRQR__7NsVzqC5b_2hkqEIc2o2oSJZLilIk5Cv2wvAR2kBABBwAqP2YZVt9ZzpEzV5TDBytyvzmLfc7UfQG7eJS0u6g_lriBgI3jvlW8Uxl6SKb2rhbW8RqUq_88of7ECrY-ofJbKlaLC1mPekx9JAvfG5fen0557HsqpJgsdZvKKTKsUaSUxvLmaJDnp1Fa6z5qz_37RXJlU5TcYrBhgY60-2qSo0AWqn8C4BOFGWdFG5UnurjEu72gVKm3pBzrRofO7p8Z-tQeLVe7CXBl6EEGnctudUU4HZUYCjFGQjxHP2GJDiZmgDIZIUF_SSa02amY7b2PLjCYZs4cI4JHP1hyb7wBFswKEoglvLRJib_lH5s1r3vg7XuXatOu6r8HcK6MsX6Xs0lMWF7TqU1t8m9f6yOup5-Ae3EuJdJ8WGtzle8-l1m1XwVrE3qKmi3PEEk7qUUCgWqNU4cR8NL56JPCCz3HQfLhTZ-xBEtwmKbAqvmJ4gPteUccJoDbpAJKm0culEjvwWUG1_tkmgELXCKte_mw9EZVOvm3ZwLvoGGQaJCGwDscwVCXPObkLInCX6avCsLZw7QxuhcptIR7WyFIOKRwh3WfZVYFu3c61RQMGlXC0zWgEzK0h0d0G0X9uUHsjcQquLRn7IaDMaNcgEEfMr-T503CiABKglldS13ZXN0LTIw0wc.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="KINGS LEAGUE",Kings League (Sólo Eventos)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/11763
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 26-10
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtwEuRaubRD8JC6lVqoyEUpWxG-sQlmi0EpqpK6mnbfqvo0LcR1sUveM7ZMQ7KVcCYCUaDnQ7bO7dw5lLX6XAfHXtCbDrhbHyzLi3TcKrbqLZpHF6t9lBNfBJRKo54sOg4LKnQK8NNK3g-T0MM-0UIpmUzM268KY_sjPS0JmCTHZc0PhZ1OXSl_QNXydrXgHkbTgyp1fLXMxVPAc-ZFuQFW2uKDfXN_hJPuS941K3Hu7aUDcMjec4jhUsW_Gv7mjykBYz_F8XIKfQKQWOwcak30tahhUyp_XqtbV8vr4UHR6P7S6NYwAKwoe2Imn_6PflSQ27K6XmHQt1veVYIay4fGmOqTbAeLFhOsF7173GyBoHGfypcRLKGjioJmBGdHjdjc81kDG76qAat6llgV1r142VbZiVBMMrhsYfIPX1C9pxvuIyA6foXPStiExrsFo6TzBoGkL5oPxMV9j20ID2N_uWNyh2c-2aB6ncenrsdYp96SSMGoIXGWku1nkYgwT3Yyia1I675MeJcytBRn_gtusRPSdzMHK27Bz8gXGYCWvZGJTEUhF4xT-yrzJMrwgJmqGJd4ddQ7VZqpNlj_amN0EiQvmIa9sq5kE3pFctS3YGdCpx-TZwwe-N7yvrE6khpO5ARkqxEwbmw42sgPhXVaooxWOt1UECn4--TQUWkeVFdrnsob6Hf8LOXAKN_phwa8-ABA0lwO_kGG0Y9tCaiU7VmSv3uH8EwDmfENd7t2i0wle2rvZLJu2MDzacX93s4OUD6KMQTBu477MvFUsLknwI8_nR9thieWHNhpfHxoM66lhn5-_Hy14PJ6rIAEqCWV1LXdlc3QtMjDtBw.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 28-10
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Cr4EsCz4M8h6Rg49WnvplrsgiGjgxScLWEDJtcB6pceH3fESOWsEjaBvSplSexbWYr5vY9JwrSYLfUm4DHls30vPi9vuzy6WNtCfFbFVHXSzX3Pv6_oPCsRqCb993UCNj_DOsiwmX8EsmGOPAbpAEPUg_k9i1POcsBzdnVuMLtvfpW-PpMcVz1OAE9kA49RKBpd6OozQvVe6bV31xpGT2yD7ZTmcMPG_zpSIikfHXdacbI16Q08t-WO_j-Wl4OAhiC_UhgRxmfkOkrftERzQghmR4QwGcjia8lPf88Po8gD5LdwQ5mqfxJl014SWIt8_GBCDfaRa0h06QEnLwWoRvdj2tvwC_9nGwJke3FBP_5dpTEwktG7-MDm_1NwefUfVoQJ-UbOhfF741eYY1OY8LTctRi_AYcZ6X7ykqacBgPYM52c3v9-a5B-hMtC3r9HnWlvbrwX3x4_5RO6U0OP5-WEfVa38pXtZysLWb3e3D6Rt9S0CsAEOrvMU0saQlXgyeXM7MCqfj2zJEl85k_u954QjUq3Xvk0Ee7zMtuGgCt8e-CUBPxssCs4G9i2VsVbAAIoYWY-_vUaP5TQDdi7q9Elj9DKhIgI-d4Pnec4bG9zQ6fU3doYnr8hU-_ZVRMyr6eE55gX5snc6joPWgWM0UgcaghtAcuyNs9Xvy3q72vCCLiYBqnTwcuDWhMpN6rQUU8BooO3gr0RjAQ4oCQ_ZOHS9UshOrd-C7073hG6I_QP3vC1DvCurf2Ht-2HWTFlNCRoMBQT0pSYbYsqOxJkxIAEqCWV1LXdlc3QtMTDlAw.m3u8
 
 EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 06-10
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Auronplay 24-10
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CskElWTymyOFiWNR3ily8h7QrjBBt3TRM5PYv9tpVo_UVAlYKUhjYzuEwR38rLlHkDur-oXivInj4mWcGAhWqE9IjgcuSPsilhcna6H1lD71LQ2ec95P4hBXwJTRe350iYl7IE0RBBKy6Fy9ARe8JfUew-3RA99V-LnEezV7ZmHR1jNHQhsmPl--sgQUAg0caJja0qMfR0pnYLQO1gdXzatZW4gw1D9NzY2b-MtKXIsotHmrWDWDn4NNsWhlghu6NsHMj1Akn9uT40NkO5YIn-gJThf_2vA0D6Ewgg7YrX_RSOwBQ4s67EOtWDFk9lwxHMcsGpfKabVqTt9U2cO4Qi8RPXir1bi2KgBkMouuTWhtm7yX7cEJ5Xsbfv2nWgHvRRFngXMsnzcFAQRLjb7gL6tXvA-4FTlO-EXxgKOBr1icUYTxb7mq3PI3J2WfvT8glpjkyQICvMUkfkuRxNgnt0xA6OvGJhmtc_JKmnOf-lsam5WqJRI0JoX6r_59Yvs9KehCvIgaDl6osx_o9uo9HKY5EdgVDYL2pvER0cBDKDwzSwyiA5kcBpUgGt4HHNDnTO41Zl_SgMdrvCURqn1_7ojJKcI4imYLRIP6o1xU7pR0_rLWP5NS9Mxf_AEWZ1MCXkQBa5qJhMNSFGPCJmRoWoa7b8liUfOv_28UjLxs_7UIjvuOe90YMtZiAyPhxf399Gj0azMNWp_Cj_U7TM_e8bzjVfQUHJkMYdxw85Ocx7YPh92PHv320KSzFv2iZUZ3Sw6clUhLp6hOCumNGgyhKdJzstRbPYtSlbMgASoJZXUtd2VzdC0yMO0H.m3u8
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Agorafutbol 28-10
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtIEac6a5y8kAc9h1z2YDp8YYEJ71vRhck2dYoZG4F2tcmZMvsDXqNSbnh0ytvlJlWNTPtRQ7yZVwO91qNw9W_5pSIBYLVjBRjqABC9-tWpG_fYcrd42jvEJ0ZjBVJSUqw2KEAfl1O73r4PAjA9CuPZhd-Y2GaPiKhrwGw_4tG27m91WgFtvPXLlPqaJif1sGtF_osF1EeVoiY4pkpul9O-Zg0YYys2twgTQz_cK9PVAtRvVnh71Lt37mhXeJmFLw0fRx2oGsP1BsuP3iXmCyhbXvV4v5Ktc2EgOqVU9nvk7Ohqzl_V3dfUAxHnTi_U7oSnw1VoPoZgaHKL6FBSuatVrO5asBnpJIbz3n3yY-MFKq8_Pk6OH1Hq8EHWrm-8xUA1jX4PL2vxXKM1paDw6hgPk86oV62UBrqWnveQeW6vVM7SlCEfx1CM1rCn6pWwHkHJ-xyfSyMUc8DnUS3z7hcPIo_akJjsyskg0pwwAsFMhymnsz0rzchhTpFRBMWjS1CqoupyHFLHPSQbgu8FufVptmBs8TQIMIehwPRMihSd1cSiwnvgeym0q9qrChdPQVd1HLzOML9rRT6QFBrCn-O6rE3pIj4sGxPMBWBF2DEuD3JwhyqTgTKfR8ZTUkpOan8h4U7coCtE_mIotWlSMcvLqkw21nUvBF95ivIpTqyojptA0OsYe32tr67R-aoK9iATnikn1bWAss_NvCu3d1UilRax4BB3kw8X2Wpb_VoHY6YK6Aj8LU4Y6VUWtRtV2KiY5Dj8TTx3ZFHvl7qhCaonfcF_tGgzs2-qO9Eivj8zcWsAgASoJZXUtd2VzdC0xMOUD.m3u8
 
 
 #EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
