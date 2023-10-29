@@ -10,8 +10,6 @@
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV UHD", M. LaLiga 4K by Electroperra
 acestream://8286183314d367940409b760bbf887f3fb923f60
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1080P
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1080 Multiaudio
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1080 MultiAudio
@@ -22,6 +20,8 @@ acestream://f031f5728b32f6089dda28edebe990cf198108d8
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 2 HD", M. LaLiga 2 720
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR", La Liga BAR 1080
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
 
 
@@ -40,9 +40,6 @@ acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="LaLiga BAR" tvg-id="LaLiga TV BAR", La Liga BAR 1080
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 
  
  
@@ -116,7 +113,7 @@ acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GtKncC/camp04.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 4", M.L. Campeones 4 1080
 acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2m99sr/camp05.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 5", M.L. Campeones 5 1080
-acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K01vG2M/camp06.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 6", M.L. Campeones 6 1080
 acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2sbYJhj/camp07.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 7", M.L. Campeones 7 1080
