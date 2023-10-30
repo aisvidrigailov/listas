@@ -2591,6 +2591,8 @@ acestream://600222a4f98df80a2c0df2d60cb5ff3df9620710
 acestream://8286183314d367940409b760bbf887f3fb923f60
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga UHD  dce1" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="LaLiga(elcano)",M+ LaLiga UHD  dce1
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-name="La Liga BAR 1080  aa82" tvg-logo="https://telegra.ph/file/92a3edd207bb0781e868b.jpg" group-title="LaLiga(elcano)",La Liga BAR 1080  aa82
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 1080 MultiAudio  7d8c" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="LaLiga(elcano)",M+ LaLiga 1080 MultiAudio  7d8c
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M+ LaLiga 1080 MultiAudio  1969" tvg-logo="https://telegra.ph/file/ede750e0a9de6e726a3f7.jpg" group-title="LaLiga(elcano)",M+ LaLiga 1080 MultiAudio  1969
@@ -2723,8 +2725,6 @@ acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
 #EXTINF:-1 tvg-id="ZiggoSportRacing.nl" tvg-name="Ziggo Sport Racing NL  7780" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="Otros deportes(elcano)",Ziggo Sport Racing NL  7780
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
-#EXTINF:-1 tvg-id="nil" tvg-name="La Liga BAR 1080  aa82" tvg-logo="https://telegra.ph/file/d4d9a410917c5c13f9c5a.png" group-title="Otros deportes(elcano)",La Liga BAR 1080  aa82
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-name="Eurosport 1 1080  5e4c" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" group-title="Otros deportes(elcano)",Eurosport 1 1080  5e4c
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2 1080  c373" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" group-title="Otros deportes(elcano)",Eurosport 2 1080  c373
