@@ -5,7 +5,8 @@
 
 
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV UHD", M. LaLiga 4K
 acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV UHD", M. LaLiga 4K by Electroperra
@@ -20,8 +21,7 @@ acestream://f031f5728b32f6089dda28edebe990cf198108d8
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 2 HD", M. LaLiga 2 720
 acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR", La Liga BAR 1080
-acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
 
 
 
