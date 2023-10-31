@@ -569,23 +569,23 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49474
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49472
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="720" tvg-logo="" group-title="ZAPEANDO MOVISTAR",720
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/49463
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENFAMILIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="AMC SELEKT ESPAÑA",ENFAMILIA HD
+#EXTINF:-1 tvg-id="ENFAMILIA" tvg-name="ENFAMILIA HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="AMC SELEKT ESPAÑA",ENFAMILIA HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/60
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ENFAMILIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="AMC SELEKT ESPAÑA",ENFAMILIA FHD
+#EXTINF:-1 tvg-id="ENFAMILIA" tvg-name="ENFAMILIA FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="AMC SELEKT ESPAÑA",ENFAMILIA FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/61
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BUEN VIAJE! SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="AMC SELEKT ESPAÑA",BUEN VIAJE! SD
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUEN VIAJE! SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="AMC SELEKT ESPAÑA",BUEN VIAJE! SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/62
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BUEN VIAJE! HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="AMC SELEKT ESPAÑA",BUEN VIAJE! HD
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUEN VIAJE! HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="AMC SELEKT ESPAÑA",BUEN VIAJE! HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/63
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BUEN VIAJE! FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="AMC SELEKT ESPAÑA",BUEN VIAJE! FHD
+#EXTINF:-1 tvg-id="BuenViaje" tvg-name="BUEN VIAJE! FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BUENV.png" group-title="AMC SELEKT ESPAÑA",BUEN VIAJE! FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/64
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SELEKT FHD" tvg-logo="https://selekt.in/img/selekt_black.png" group-title="AMC SELEKT ESPAÑA",SELEKT FHD
+#EXTINF:-1 tvg-id="SELEKT" tvg-name="SELEKT FHD" tvg-logo="https://selekt.in/img/selekt_black.png" group-title="AMC SELEKT ESPAÑA",SELEKT FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/102
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOLLYWOOD SD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD SD
+#EXTINF:-1 tvg-id="HOLLYWOOD" tvg-name="HOLLYWOOD SD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/131
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOLLYWOOD HD" tvg-logo="http://xtitan.xyz:2082/images/4709ead2b0079d2d9ae797c94baf3e2a.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD HD
+#EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-name="HOLLYWOOD HD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HOLLYWOOD FHD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD FHD
+#EXTINF:-1 tvg-id="HOLLYWOODHD" tvg-name="HOLLYWOOD FHD" tvg-logo="https://www.atelevisao.com/wp-content/uploads/2017/05/canal.png" group-title="AMC SELEKT ESPAÑA",HOLLYWOOD FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/133
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC SD" tvg-logo="https://logodownload.org/wp-content/uploads/2020/01/amc-logo-1.png" group-title="AMC SELEKT ESPAÑA",AMC SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/145
@@ -665,7 +665,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6167
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6229
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC CRIME HD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",AMC CRIME HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/11773
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="family" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="AMC SELEKT ESPAÑA",family
+#EXTINF:-1 tvg-id="ENFAMILIA" tvg-name="family" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="AMC SELEKT ESPAÑA",family
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/59
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUNDANCE TV FHD (FIBRA)" tvg-logo="" group-title="AMC SELEKT ESPAÑA",SUNDANCE TV FHD (FIBRA)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/703
@@ -789,18 +789,28 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/12151
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/JimaraDirecto/uVaEYpQRJdUw/60355
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN ESP",DAZN 1 SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/288
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 BAR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN ESP",DAZN 1 BAR SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51632
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN ESP",DAZN 1 HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/289
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 BAR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN ESP",DAZN 1 BAR HD 720P
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51633
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD (PV)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN ESP",DAZN 1 FHD (PV)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/290
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 BAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN ESP",DAZN 1 BAR FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46409
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="M+ DAZN 1 FHD (FIBRA)" tvg-logo="" group-title="DAZN ESP",M+ DAZN 1 FHD (FIBRA)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/677
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-name="DAZN 1 FHD  (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN ESP",DAZN 1 FHD  (SAT)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27789
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN ESP",DAZN 2 SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/291
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 BAR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="DAZN ESP",DAZN 2 BAR SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51634
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN ESP",DAZN 2 HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/292
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 BAR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="DAZN ESP",DAZN 2 BAR HD 720P
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51635
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 FHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" group-title="DAZN ESP",DAZN 2 FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/293
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ DAZN 2 FHD (FIBRA)" tvg-logo="" group-title="DAZN ESP",M+ DAZN 2 FHD (FIBRA)
@@ -823,10 +833,10 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/297
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/298
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ DAZN 4 FHD (FIBRA)" tvg-logo="" group-title="DAZN ESP",M+ DAZN 4 FHD (FIBRA)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/676
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 BAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN ESP",DAZN 1 BAR FHD
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46409
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 2 BAR FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" group-title="DAZN ESP",DAZN 2 BAR FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46410
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN COMBAT [ENGLISH]" tvg-logo="https://images.daznservices.com/di/library/DAZN_News/23/a2/dazn-combat-poster_9t52rjpt6dlp16lr1mfxg8vt6.jpg" group-title="DAZN ESP",DAZN COMBAT [ENGLISH]
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50510
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Finetwork Dazn 1 FHD" tvg-logo="https://www.linkpicture.com/q/e_29.png" group-title="DAZN FEMENINO",Finetwork Dazn 1 FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10282
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Finetwork Dazn 2 FHD" tvg-logo="https://www.linkpicture.com/q/e-copia.png" group-title="DAZN FEMENINO",Finetwork Dazn 2 FHD
@@ -1357,12 +1367,26 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/194
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9415
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA 9 SD (EVENTOS)" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LALIGA 9 SD (EVENTOS)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/9416
+#EXTINF:-1 tvg-id="LALIGATV BAR" tvg-name="LaLiga BAR SD" tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar-601x445.png" group-title="ESPAÑA LALIGA",LaLiga BAR SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51631
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LA LIGA TV BAR HD" tvg-logo="" group-title="ESPAÑA LALIGA",LA LIGA TV BAR HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46406
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA TV BAR 2 HD" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WUQQe4cMSvDXfMhN-W_rSiA.png" group-title="ESPAÑA LALIGA",LALIGA TV BAR 2 HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46407
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA TV BAR 3 FHD" tvg-logo="http://kongking.shop:80/images/yMw8GwmSrAeQN8xySGwsVcgB1cfKKVBGGTTrW2ajooBObA0b21u9j3jHmTJAq9_WbCXBBze5YlpEGSXM1w263g.png" group-title="ESPAÑA LALIGA",LALIGA TV BAR 3 FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46408
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA PLUS SD" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="LALIGA+",LALIGA PLUS SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51620
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA PLUS HD 720P" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="LALIGA+",LALIGA PLUS HD 720P
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51621
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA PLUS FHD 1080P" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="LALIGA+",LALIGA PLUS FHD 1080P
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51622
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA PLUS 2 SD" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="LALIGA+",LALIGA PLUS 2 SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51623
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA PLUS 2 HD 720P" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="LALIGA+",LALIGA PLUS 2 HD 720P
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51624
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA PLUS 2 FHD 1080P" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="LALIGA+",LALIGA PLUS 2 FHD 1080P
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51625
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV INFO" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSbuwQ-YsH2JmM15PM5Cxk7qbgO-2KLRcViEqvm1PDdbPQ.png" group-title="FEF TV",ES: FEF TV INFO
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10353
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 1" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 1
@@ -2299,6 +2323,302 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6551
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6552
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONETORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",ONETORO SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/12113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Krımı ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Krımı ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44062
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Action ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Action ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44063
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Drama ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Drama ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44064
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Horror ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Horror ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44065
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Thriller ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Thriller ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44066
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix Familie ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix Familie ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44067
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Komodie ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Komodie ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44068
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Animation ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Animation ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44069
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Fantasy ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Fantasy ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44070
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Romantısch ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Romantısch ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44071
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Abenteuer ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Abenteuer ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44072
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Scıence-Fıctıon ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Scıence-Fıctıon ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44073
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix  Dokumentarfilm ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix  Dokumentarfilm ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44074
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix 1 ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix 1 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44075
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix 2 ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix 2 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44076
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix 3 ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix 3 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44077
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix 4 ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix 4 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44078
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: Netflix 5 ʜᴅ" tvg-logo="http://assets.stickpng.com/images/580b57fcd9996e24bc43c529.png" group-title="ALEMANIA SKY",DE: Netflix 5 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44079
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K ACTION" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K ACTION
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44080
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K DRAMA" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K DRAMA
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44081
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K HORROR" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K HORROR
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44082
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K KOMÖDIE" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K KOMÖDIE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44083
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K ROMANTISCH" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K ROMANTISCH
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44084
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K SCI-FI" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K SCI-FI
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44085
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K THRILLER" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K THRILLER
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44086
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K FANTASY" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K FANTASY
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44087
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K ABENTEUER" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K ABENTEUER
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44088
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K MYSTERY" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K MYSTERY
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44089
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K FAMILIE" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K FAMILIE
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44090
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K BOLLYWOOD" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K BOLLYWOOD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44091
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV 4K KRIMI" tvg-logo="https://i.ibb.co/GpxY002/4k-1080.png" group-title="ALEMANIA SKY",DE: BlueTV 4K KRIMI
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44092
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: United Animation" tvg-logo="" group-title="ALEMANIA SKY",DE: United Animation
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44093
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: United Action" tvg-logo="" group-title="ALEMANIA SKY",DE: United Action
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44094
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: United Thriller" tvg-logo="" group-title="ALEMANIA SKY",DE: United Thriller
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44095
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: United Horror" tvg-logo="" group-title="ALEMANIA SKY",DE: United Horror
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44096
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: United Bollywood" tvg-logo="" group-title="ALEMANIA SKY",DE: United Bollywood
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44097
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: United Drama" tvg-logo="" group-title="ALEMANIA SKY",DE: United Drama
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44098
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: United Familie" tvg-logo="" group-title="ALEMANIA SKY",DE: United Familie
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44099
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX ABENTEUER HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX ABENTEUER HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44100
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX ACTION HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX ACTION HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44101
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX BOLLYWOOD HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX BOLLYWOOD HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44102
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX DRAMA HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX DRAMA HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44103
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX DOCU HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX DOCU HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44104
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX FAMILIE HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX FAMILIE HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44105
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX FANTASY HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX FANTASY HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44106
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX HISTORIE HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX HISTORIE HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44107
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX HORROR HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX HORROR HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44108
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX KARATE HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX KARATE HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44109
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX KOMODIE HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX KOMODIE HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44110
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX KRIEGSFILM HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX KRIEGSFILM HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44111
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX KRIMI HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX KRIMI HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44112
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX LIEBESFILM HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX LIEBESFILM HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44113
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX MYSTERY HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX MYSTERY HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44114
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX SCI-FI HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX SCI-FI HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44115
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX THRILLER HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX THRILLER HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44116
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX WESTERN HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX WESTERN HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44117
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX PREMIEREN 1 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX PREMIEREN 1 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44118
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX PREMIEREN 2 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX PREMIEREN 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44119
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX PREMIEREN 3 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX PREMIEREN 3 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44120
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX PREMIEREN 4 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX PREMIEREN 4 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44121
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX PREMIEREN 5 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX PREMIEREN 5 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44122
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX PREMIEREN 6 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX PREMIEREN 6 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44123
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: SKY BOX PREMIEREN 7 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: SKY BOX PREMIEREN 7 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44124
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV KRIMI ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KRIMI.png" group-title="ALEMANIA SKY",DE: BlueTV KRIMI ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44125
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV ACTION 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/ACTION.png" group-title="ALEMANIA SKY",DE: BlueTV ACTION 1 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV FAMILIE 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/FAMILIE.png" group-title="ALEMANIA SKY",DE: BlueTV FAMILIE 1 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44127
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV DRAMA ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/DRAMA.png" group-title="ALEMANIA SKY",DE: BlueTV DRAMA ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44128
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV MARVEL ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MARVEL.png" group-title="ALEMANIA SKY",DE: BlueTV MARVEL ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44129
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV HORROR 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/HORROR.png" group-title="ALEMANIA SKY",DE: BlueTV HORROR 1 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44130
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV FANTASY ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/FANTASY.png" group-title="ALEMANIA SKY",DE: BlueTV FANTASY ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44131
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV THRILLER ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/THRILLER.png" group-title="ALEMANIA SKY",DE: BlueTV THRILLER ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44132
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV HISTORIE ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/HISTORIE.png" group-title="ALEMANIA SKY",DE: BlueTV HISTORIE ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44133
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV MYSTERY ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MYSTERY.png" group-title="ALEMANIA SKY",DE: BlueTV MYSTERY ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44134
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV KOMODIE ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KOMODIE.png" group-title="ALEMANIA SKY",DE: BlueTV KOMODIE ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44135
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV ABENTEUER ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/ABENTEUER.png" group-title="ALEMANIA SKY",DE: BlueTV ABENTEUER ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44136
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV BOLLYWOOD ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/BOLLYWOOD.png" group-title="ALEMANIA SKY",DE: BlueTV BOLLYWOOD ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44137
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV LIEBESFILM 1 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/ROMANTISCH.png" group-title="ALEMANIA SKY",DE: BlueTV LIEBESFILM 1 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44138
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV SCIENCE-FICTION ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SCI.FI.png" group-title="ALEMANIA SKY",DE: BlueTV SCIENCE-FICTION ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44139
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV DOKU ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/DOKU.png" group-title="ALEMANIA SKY",DE: BlueTV DOKU ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44140
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV FAMILIE 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/CINEMA.1.png" group-title="ALEMANIA SKY",DE: BlueTV FAMILIE 2 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44141
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV KRIEGSFILM ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/CINEMA.2.png" group-title="ALEMANIA SKY",DE: BlueTV KRIEGSFILM ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44142
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV ACTION 2 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/CINEMA.3.png" group-title="ALEMANIA SKY",DE: BlueTV ACTION 2 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44143
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV ACTION 3 ʜᴅ" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/CINEMA.4.png" group-title="ALEMANIA SKY",DE: BlueTV ACTION 3 ʜᴅ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44144
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX KINO COLLECTION" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.COLLECTION.png" group-title="ALEMANIA SKY",DE: MAX KINO COLLECTION
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44145
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT HD 1" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.1.png" group-title="ALEMANIA SKY",DE: MAX SELECT HD 1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44146
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT HD 2" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.2.png" group-title="ALEMANIA SKY",DE: MAX SELECT HD 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44147
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT HD 3" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.3.png" group-title="ALEMANIA SKY",DE: MAX SELECT HD 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44148
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT HD 4" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.4.png" group-title="ALEMANIA SKY",DE: MAX SELECT HD 4
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44149
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT HD 5" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.5.png" group-title="ALEMANIA SKY",DE: MAX SELECT HD 5
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44150
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT HD 6" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.6.png" group-title="ALEMANIA SKY",DE: MAX SELECT HD 6
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44151
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT HD 7" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/SELECT.7.png" group-title="ALEMANIA SKY",DE: MAX SELECT HD 7
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44152
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX KINO" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.1.png" group-title="ALEMANIA SKY",DE: MAX KINO
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44153
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX KINO 2" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.2.png" group-title="ALEMANIA SKY",DE: MAX KINO 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44154
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX KINO 3" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.3.png" group-title="ALEMANIA SKY",DE: MAX KINO 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44155
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX KINO 4 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.4.png" group-title="ALEMANIA SKY",DE: MAX KINO 4 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44156
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX KINO 5 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/KINO.5.png" group-title="ALEMANIA SKY",DE: MAX KINO 5 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44157
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX 007 HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/007.png" group-title="ALEMANIA SKY",DE: MAX 007 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44158
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX STAR WARS HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/STAR.WARS.png" group-title="ALEMANIA SKY",DE: MAX STAR WARS HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44159
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT  1 4K" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MAX.SELECT.1.png" group-title="ALEMANIA SKY",DE: MAX SELECT  1 4K
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44160
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT  2 4K" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MAX.SELECT.2.png" group-title="ALEMANIA SKY",DE: MAX SELECT  2 4K
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44161
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT  3 4K" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MAX.SELECT.3.png" group-title="ALEMANIA SKY",DE: MAX SELECT  3 4K
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44162
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX SELECT 4  4K" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MAX.SELECT.4.png" group-title="ALEMANIA SKY",DE: MAX SELECT 4  4K
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44163
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX PLUS HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/MAX.PLUS.png" group-title="ALEMANIA SKY",DE: MAX PLUS HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44164
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: MAX Premiere HD" tvg-logo="http://logo.uixtreamreseller.com:8080/logo/DE/CINEMA.BOX/PREMIERE.png" group-title="ALEMANIA SKY",DE: MAX Premiere HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44165
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV DRAMA 2 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV DRAMA 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44166
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV DRAMA 3 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV DRAMA 3 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44167
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV KOMODIE 3 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV KOMODIE 3 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44168
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV KRIMI 2 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV KRIMI 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44169
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV HORROR 3 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV HORROR 3 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44170
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV LIEBESFILM 2 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV LIEBESFILM 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44171
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV MYSTERY 2 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV MYSTERY 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44172
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV THRILLER 2 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV THRILLER 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44173
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV THRILLER 3 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV THRILLER 3 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44174
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV KARATE 1 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV KARATE 1 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44175
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV KARATE 2 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV KARATE 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44176
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV WESTERN HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV WESTERN HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44177
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV HORROR  2 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV HORROR  2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44178
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV KOMODIE 2 HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV KOMODIE 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44179
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV X-MEN HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV X-MEN HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44180
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: BlueTV SPIDER-MAN HD" tvg-logo="noimage.png" group-title="ALEMANIA SKY",DE: BlueTV SPIDER-MAN HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44181
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: On7 Aktion" tvg-logo="" group-title="ALEMANIA SKY",DE: On7 Aktion
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44182
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: On7 Animation" tvg-logo="" group-title="ALEMANIA SKY",DE: On7 Animation
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44183
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: On7 Comedy" tvg-logo="" group-title="ALEMANIA SKY",DE: On7 Comedy
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44184
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: On7 Drama" tvg-logo="" group-title="ALEMANIA SKY",DE: On7 Drama
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44185
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: On7 Harry Potter" tvg-logo="" group-title="ALEMANIA SKY",DE: On7 Harry Potter
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44186
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: On7 Horror" tvg-logo="" group-title="ALEMANIA SKY",DE: On7 Horror
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44187
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: On7 Familie" tvg-logo="" group-title="ALEMANIA SKY",DE: On7 Familie
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44188
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: On7 Sci-Fİ" tvg-logo="" group-title="ALEMANIA SKY",DE: On7 Sci-Fİ
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44189
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: On7 James Bond" tvg-logo="" group-title="ALEMANIA SKY",DE: On7 James Bond
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44190
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: On7 Stars Wars" tvg-logo="" group-title="ALEMANIA SKY",DE: On7 Stars Wars
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44191
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DE: QVC" tvg-logo="http://udashboard.xyz/picon/DEQVC.png" group-title="ALEMANIA SKY",DE: QVC
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/44192
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY CRIME HD+" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY CRIME HD+
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50498
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY ATLANTIC HD+" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY ATLANTIC HD+
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50499
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY one HD+" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY one HD+
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50500
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY Sky Showcase FHD" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY Sky Showcase FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50501
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY Sky Showcase HD" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY Sky Showcase HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50502
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY Sky Showcase HD+" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY Sky Showcase HD+
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50503
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY REPLAY HD+" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY REPLAY HD+
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50504
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY SPORT F1 HD+" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY SPORT F1 HD+
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50505
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY SPORT MIX HD+" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY SPORT MIX HD+
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50506
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY SPORT TENNIS HD+" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY SPORT TENNIS HD+
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50507
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY NATURE HD" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY NATURE HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50508
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| SKY NATURE HD+" tvg-logo="" group-title="ALEMANIA SKY",|DE| SKY NATURE HD+
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50509
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| DAZN EUROSPORT 1 HD" tvg-logo="" group-title="ALEMANIA - DAZN",|DE| DAZN EUROSPORT 1 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51626
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| DAZN EUROSPORT 2 HD" tvg-logo="" group-title="ALEMANIA - DAZN",|DE| DAZN EUROSPORT 2 HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51627
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| DAZN MBL HD" tvg-logo="" group-title="ALEMANIA - DAZN",|DE| DAZN MBL HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51628
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| DAZN NFL NETWORK HD" tvg-logo="" group-title="ALEMANIA - DAZN",|DE| DAZN NFL NETWORK HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51629
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|DE| DAZN NBA HD" tvg-logo="" group-title="ALEMANIA - DAZN",|DE| DAZN NBA HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51630
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS N HD Español" tvg-logo="" group-title="BEIN SPORTS LATINO",BEIN SPORTS N HD Español
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10384
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS EN ESPANOL SD" tvg-logo="" group-title="BEIN SPORTS LATINO",BEIN SPORTS EN ESPANOL SD
@@ -2461,6 +2781,18 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/47246
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/47247
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN GENERAL 19" tvg-logo="https://www.dazn.com/icons/android-chrome-512x512.png" group-title="DAZN NFL",DAZN GENERAL 19
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/47248
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="PANAM SPORTS" tvg-logo="https://cdn.santiago2023.org/20231020/public/images/fiu-header.png" group-title="JUEGOS PANAMERICANOS",PANAM SPORTS
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50492
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JUEGOS PANAMERICANOS OPC 1" tvg-logo="https://cdn.santiago2023.org/20231020/public/images/fiu-header.png" group-title="JUEGOS PANAMERICANOS",JUEGOS PANAMERICANOS OPC 1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50493
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JUEGOS PANAMERICANOS OPC 2" tvg-logo="https://cdn.santiago2023.org/20231020/public/images/fiu-header.png" group-title="JUEGOS PANAMERICANOS",JUEGOS PANAMERICANOS OPC 2
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50494
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JUEGOS PANAMERICANOS OPC 3" tvg-logo="https://cdn.santiago2023.org/20231020/public/images/fiu-header.png" group-title="JUEGOS PANAMERICANOS",JUEGOS PANAMERICANOS OPC 3
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50495
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JUEGOS PANAMERICANOS OPC 4" tvg-logo="https://cdn.santiago2023.org/20231020/public/images/fiu-header.png" group-title="JUEGOS PANAMERICANOS",JUEGOS PANAMERICANOS OPC 4
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50496
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="JUEGOS PANAMERICANOS OPC 5" tvg-logo="https://cdn.santiago2023.org/20231020/public/images/fiu-header.png" group-title="JUEGOS PANAMERICANOS",JUEGOS PANAMERICANOS OPC 5
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/50497
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Europa League 01 SAT" tvg-logo="http://live.detodotvplay.com:8080/images/6da21c32e8f26d0648a7f3f797cdca8a.png" group-title="UEFA Europa League",UEFA Europa League 01 SAT
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/23786
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UEFA Europa League 02 SAT" tvg-logo="http://live.detodotvplay.com:8080/images/6da21c32e8f26d0648a7f3f797cdca8a.png" group-title="UEFA Europa League",UEFA Europa League 02 SAT
