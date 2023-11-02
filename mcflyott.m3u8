@@ -331,6 +331,14 @@ https://uhd1formula-dash-movistarplus.emisiondof6.com/uhddash/uhd1formula.isml/m
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://linear001-gb-dash1-prd-ak.cdn.skycdp.com/100e/Content/DASH_003_sm/Live/channel(skysportsf1)/manifest_hd.mpd
 
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-sports-f1-uk.svg" group-title="DAZN F1",Canal + Formula 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"83A5lln1SVSoCg5Tx6h7QA","k":"yU/YwwPbyfZBWsJ0TtkhEw"},{"kty":"oct","kid":"k8KJNVWiQFmKSgrkDrQH1Q","k":"rHAAoGyMfsCzOIHXBRrcVg"},{"kty":"oct","kid":"Kz7KkJPoTrOUGuw5YS3IFA","k":"l+LT4AN7A5Sz1SrSOTA40Q"},{"kty":"oct","kid":"SCAy5NVMSGmIFNGZWj9FLA","k":"aS/xMB111sb3VvwxGX//mg"}]}
+#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
+#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
+https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusf1-hd/dash-fhddvr/canalplusf1-hd.mpd
+
 #EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-name="M Laliga" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-movistar-laliga-udh-1840.png" group-title="LA LIGA",M+ Laliga UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -672,14 +680,6 @@ https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="M+ San Sebastián" tvg-name="" tvg-logo="https://o.remove.bg/downloads/79f7d4d3-f071-466b-8ac0-9f5d767613f5/image-removebg-preview.png" group-title="VOMISTAR +",M+ Festival de San Sebastián
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"T0RVhmTj78GBG3zoi+tZeg", "kid":"4+CwRxYwSX64H8F/OaUiGA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/640px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="M CINE",M+ Clásicos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1173,6 +1173,39 @@ https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&
 #KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=c68ec2e525d8406b6c3cedbac72debae&key=a0f28f93fb9834d331df3ddedeb8a565
 https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01dOEJurUXqZ1LzpmGi8arvuUNT0d1uVAOw&usqp=CAU" group-title="SPORTS" tvg-id="ext" tvg-name="", Billiard TV
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png",MU TV
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_1/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT00pE-r-j-g_OMotnWvlzQL1feG-gmjwBnMw&usqp=CAU" group-title="SPORTS" tvg-id="" tvg-name="", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="SPORTS" tvg-id="TennisChannel.us" tvg-name="TennisChannel.us", Tennis Channel (UK)
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://icdb.tv/images/9b4cb7623350cb7e92537f675304931a.jpg",S SPORT 1 HD 🇹🇷
+http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://epg.ovh/logo/Premier+Sports.png", Premier sport 1 🇸🇰
+http://185.188.188.235/live/premiersport/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-premier-sport-2-sk-2735.png", Premier sport 2 🇸🇰
+http://185.188.188.235/live/premiersport2/playlist.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/uk/0/09/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%B5%D1%82%D0%B0%D0%BD%D1%82%D0%B0_%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D1%81.png", Setanta Sports 1 HD
+http://95.216.6.244:8000/play/a001/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://upload.wikimedia.org/wikipedia/uk/0/09/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A1%D0%B5%D1%82%D0%B0%D0%BD%D1%82%D0%B0_%D0%A1%D0%BF%D0%BE%D1%80%D1%82%D1%81.png", Setanta Sports 1 HD 🇷🇺
+https://tv.movielab.pro/942/video.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F0%2F438%2Fsetanta-sports-2-2.png", Setanta Sports 2 HD
+http://95.216.6.244:8000/play/a003/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F0%2F438%2Fsetanta-sports-2-2.png", Setanta Sports 2 HD 🇷🇺
+https://tv.movielab.pro/943/video.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/135/52/png-transparent-bein-sports-1-bein-sports-2-television-channel-bein-sport-purple-television-violet-thumbnail.png" group-title="SPORTS",beIN Sports
 http://31.43.191.49:25461/Exchopenatv/SxhzUQvA8cR4/3583
 
@@ -1379,7 +1412,7 @@ https://ssc-extra2-on-prem-ak.akamaized.net/out/v1/a525c44d152f4d238aa21af75945e
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.monpetitforfait.com/comparateur-box-internet/wp-content/uploads/2021/04/la-chaine-tv-canal-plus-premiere-league.png" group-title="SPORTS",Canal+ Premier League
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VO1/xwiBVgxsFW1VLUSblg,BGP3Qkv84e/XvG04p11/Sg,o+Cyb0Ocy8EbaLyMPDFAzw,SY/JiB5rVYxSUVAMhtZvig", "kid":"FSPw24h3TYWKVGfggW4uzQ,c9cIHr6ZQHC+mxxMzMzBvw,zxRISkhWRku/s4OErn8c8g,OeOfss+DRNCBW6uvmNoSSQ" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"FSPw24h3TYWKVGfggW4uzQ","k":"VO1/xwiBVgxsFW1VLUSblg"},{"kty":"oct","kid":"c9cIHr6ZQHC+mxxMzMzBvw","k":"BGP3Qkv84e/XvG04p11/Sg"},{"kty":"oct","kid":"zxRISkhWRku/s4OErn8c8g","k":"o+Cyb0Ocy8EbaLyMPDFAzw"},{"kty":"oct","kid":"OeOfss+DRNCBW6uvmNoSSQ","k":"SY/JiB5rVYxSUVAMhtZvig"}]}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalpluspremierleague-hd/dash-fhddvr/canalpluspremierleague-hd.mpd
@@ -1387,7 +1420,7 @@ https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalpluspremierleag
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pics.filmaffinity.com/viaplay-229658134066454-nm_200.jpg" group-title="SPORTS",Viaplay
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2NBQZSPZX8CC1srvYOhJeQ", "kid":"aZkv0te5IR1B7MIkOAPofA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"aZkv0te5IR1B7MIkOAPofA", "kid":"2NBQZSPZX8CC1srvYOhJeQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
@@ -1395,7 +1428,7 @@ https://live-dash-cdn7-vp.cdn.viaplay.tv/vp/vssp/vssp.isml/index.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pbs.twimg.com/media/ESXJiCWWsAElnka.jpg" group-title="MOTO GP",Canal+ MotoGP
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ULcqn0gVehZRR4Uor6E4MA,7NJma2TsF2zQXsEeKyVISQ,DCOgSVYSnNWolxSK7dPsOg,Ae2PAvRQL47PXZvizr1BsA", "kid":"G08viW+5SSONxh5MTL7MoA,VvnidLoDQ7WccJeHalCJNA,DaxVli4CRLemVAjPjlw8Gg,V10ZSYewS0GRnWdOQ8+lmw" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"G08viW+5SSONxh5MTL7MoA","k":"ULcqn0gVehZRR4Uor6E4MA"},{"kty":"oct","kid":"VvnidLoDQ7WccJeHalCJNA","k":"7NJma2TsF2zQXsEeKyVISQ"},{"kty":"oct","kid":"DaxVli4CRLemVAjPjlw8Gg","k":"DCOgSVYSnNWolxSK7dPsOg"},{"kty":"oct","kid":"V10ZSYewS0GRnWdOQ8+lmw","k":"Ae2PAvRQL47PXZvizr1BsA"}]}
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dsh-m006-live-aka-canalplus.akamaized.net/live/disk/canalplusmotogp-hd/dash-fhddvr/canalplusmotogp-hd.mpd
