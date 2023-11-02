@@ -659,11 +659,11 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/406
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/720
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUNDANCE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6c/SundanceTV.svg/1280px-SundanceTV.svg.png" group-title="AMC SELEKT ESPAÑA",SUNDANCE FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/407
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES : AMC HD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",ES : AMC HD
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="ES : AMC HD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",ES : AMC HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6167
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XTRM SD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",XTRM SD
+#EXTINF:-1 tvg-id="XTRM" tvg-name="XTRM SD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",XTRM SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6229
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMC CRIME HD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",AMC CRIME HD
+#EXTINF:-1 tvg-id="AMC CRIME" tvg-name="AMC CRIME HD" tvg-logo="" group-title="AMC SELEKT ESPAÑA",AMC CRIME HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/11773
 #EXTINF:-1 tvg-id="ENFAMILIA" tvg-name="family" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="AMC SELEKT ESPAÑA",family
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/59
@@ -2315,13 +2315,13 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/347
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/344
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MUNDOTORO FHD" tvg-logo="" group-title="TOROS ESP",MUNDOTORO FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/348
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TOROLÉ T.V." tvg-logo="" group-title="TOROS ESP",TOROLÉ T.V.
+#EXTINF:-1 tvg-id="Torole TV" tvg-name="TOROLÉ T.V." tvg-logo="" group-title="TOROS ESP",TOROLÉ T.V.
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/349
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL TORO TV SD" tvg-logo="" group-title="TOROS ESP",EL TORO TV SD
+#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="EL TORO TV SD" tvg-logo="" group-title="TOROS ESP",EL TORO TV SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6551
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EL TORO TV HD" tvg-logo="" group-title="TOROS ESP",EL TORO TV HD
+#EXTINF:-1 tvg-id="El Toro TV" tvg-name="EL TORO TV HD" tvg-logo="" group-title="TOROS ESP",EL TORO TV HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6552
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ONETORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",ONETORO SD
+#EXTINF:-1 tvg-id="Onetoro TV" tvg-name="ONETORO SD" tvg-logo="https://www.mundotoro.com/wp-content/uploads/2019/10/logo-mundotoro-797.png" group-title="TOROS ESP",ONETORO SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/12113
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="BEIN SPORTS N HD Español" tvg-logo="" group-title="BEIN SPORTS LATINO",BEIN SPORTS N HD Español
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10384
