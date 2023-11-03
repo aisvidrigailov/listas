@@ -379,7 +379,7 @@ https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009898444644687994/unknown.png?width=1440&height=540" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones UHD
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CHAUHD.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones UHD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"tbM0jC5T6vOYHcy4y24/yA", "kid":"aRsJX7r+QpGA40t1hysy7A" } ], "type":"temporary" }
@@ -387,7 +387,7 @@ https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009898444644687994/unknown.png?width=1440&height=540" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Movistar_Liga_de_Campeones.svg/2560px-Movistar_Liga_de_Campeones.svg.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2mrloEalbuaE+oNZ2+DB/Q", "kid":"wGfLjXNXSZ+UWZpge4X50w" } ], "type":"temporary" }
@@ -395,7 +395,7 @@ https://uhdmcampeones-dash-movistarplus.emisiondof6.com/uhddash/uhdmcampeones.is
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009899147056381953/unknown.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP1" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"0yF1hkDFREYwbGKFrAYH8A", "kid":"wIkGN+KvRtSXtWIMyIkZqw" } ], "type":"temporary" }
@@ -403,7 +403,7 @@ https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.ism
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009899164253040721/unknown.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP2" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"d34qh0OcGyjJAV/KW/+iZA", "kid":"mHhYO0NxTaaLTBu/x2Qu4w" } ], "type":"temporary" }
@@ -411,7 +411,7 @@ https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/mani
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://03campeones-dash-movistarplus.emisiondof6.com/dash/03campeones.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009899176915636254/unknown.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 4
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP3" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GyJwBdTD79FIeAKWv011/g", "kid":"aM230crWSXelq9lKIUs+MQ" } ], "type":"temporary" }
@@ -419,7 +419,7 @@ https://03campeones-dash-movistarplus.emisiondof6.com/dash/03campeones.isml/mani
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://04campeones-dash-movistarplus.emisiondof6.com/dash/04campeones.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009899193395060856/unknown.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 5
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP4" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 5
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"dYubJzsXyalAdBCrA3gOsw", "kid":"Aup9/nLQSeicj44dea6/uA" } ], "type":"temporary" }
@@ -427,7 +427,7 @@ https://04campeones-dash-movistarplus.emisiondof6.com/dash/04campeones.isml/mani
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://05campeones-dash-movistarplus.emisiondof6.com/dash/05campeones.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_6.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 6
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP5" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 6
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MM1FrWSjddvAq+cpqvTtCQ", "kid":"qIBoG/dfRVKUrTKxF3sdUA" } ], "type":"temporary" }
@@ -435,7 +435,7 @@ https://05campeones-dash-movistarplus.emisiondof6.com/dash/05campeones.isml/mani
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://06campeones-dash-movistarplus.emisiondof6.com/dash/06campeonesor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_7.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 7
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP6" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 7
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6lCy+57dMY64jGQPmNDEeA", "kid":"JRB5Tp+sRxm6X9z9QLsr2A" } ], "type":"temporary" }
@@ -443,7 +443,7 @@ https://06campeones-dash-movistarplus.emisiondof6.com/dash/06campeonesor.isml/ma
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://07campeones-dash-movistarplus.emisiondof6.com/dash/07campeonesor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Movistar_Liga_de_Campeones_8.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 8
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP7" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 8
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"kJNcLxu0tgjicVfq7Z4w3w", "kid":"sL9MC/9tTqmtXqcqbU3J7g" } ], "type":"temporary" }
@@ -451,7 +451,7 @@ https://07campeones-dash-movistarplus.emisiondof6.com/dash/07campeonesor.isml/ma
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://08campeones-dash-movistarplus.emisiondof6.com/dash/08campeonesor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=b65ff5&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc9.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 9
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP8" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 9
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"1RLCKR6mKLEu+eIiq/Ot+w", "kid":"Lh79oSpsTOGg5U1NvUWv/A" } ], "type":"temporary" }
@@ -459,7 +459,7 @@ https://08campeones-dash-movistarplus.emisiondof6.com/dash/08campeonesor.isml/ma
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://09campeones-dash-movistarplus.emisiondof6.com/dash/09campeonesor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=3c2c9b&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc10.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 10
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 10" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP9" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 10
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Fqc5BT8GibM3pQXRfpszug", "kid":"3bD2FeAnTwSfsMzIuuk/Ow" } ], "type":"temporary" }
@@ -467,7 +467,7 @@ https://09campeones-dash-movistarplus.emisiondof6.com/dash/09campeonesor.isml/ma
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://10campeones-dash-movistarplus.emisiondof6.com/dash/10campeonesor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=509395&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc11.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 11
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 11" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP10" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 11
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Ig6msudl9U4o+9R0RQSWWQ", "kid":"3iJCjNAsQnGX4q/KYQUWFQ" } ], "type":"temporary" }
@@ -475,7 +475,7 @@ https://10campeones-dash-movistarplus.emisiondof6.com/dash/10campeonesor.isml/ma
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://11campeones-dash-movistarplus.emisiondof6.com/dash/11campeonesor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=2bd606&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc12.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 12
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 12" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP11" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 12
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VM5hllvLZmUsqH0fSo8tjA", "kid":"o+JywRQ6TGeBHMSeeiQI4g" } ], "type":"temporary" }
@@ -483,13 +483,41 @@ https://11campeones-dash-movistarplus.emisiondof6.com/dash/11campeonesor.isml/ma
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://12campeones-dash-movistarplus.emisiondof6.com/dash/12campeonesor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=63&h=47&tok=94d134&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fmlc13.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 13
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13" tvg-name="" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP12" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 13
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"LFBw374S84efBXfE6rE+Vg", "kid":"QIgb6o0nTZSOEoBr/w1LHg" } ], "type":"temporary" }
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://13campeones-dash-movistarplus.emisiondof6.com/dash/13campeonesor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 14" group-title="LIGA DE CAMPEONES" ch-number="189" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP13",M+ Liga de Campeones 14
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=599f4a42681e47dbae61f8787b6937ee:cc4e347800cc407acfb4c5b4a193edff
+https://14campeones-dash-movistarplus.emisiondof6.com/dash/14campeonesor.isml/manifest.mpd 
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 15" group-title="LIGA DE CAMPEONES" ch-number="189" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP14",M+ Liga de Campeones 15
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=219886d081b641c3a7ff629285a8f424:26df42847064f44e4136cc34d60988d6
+https://15campeones-dash-movistarplus.emisiondof6.com/dash/15campeonesor.isml/manifest.mpd 
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 16" group-title="LIGA DE CAMPEONES" ch-number="190" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP15",M+ Liga de Campeones 16
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb73c76ad5e94594b7c21873e69ed861:8c6168b7b3be97fb73e03ddb11c19f3c
+https://16campeones-dash-movistarplus.emisiondof6.com/dash/16campeonesor.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 17" group-title="LIGA DE CAMPEONES" ch-number="190" tvg-logo="http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/CHAP16",M+ Liga de Campeones 17
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a269d28686f451db913ccadef58e9ac:8f72a76b699a2a5ff35058f36c14b421
+https://17campeones-dash-movistarplus.emisiondof6.com/dash/17campeonesor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Deportes HD" tvg-name="" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009900738400489502/unknown.png" group-title="DEPORTES",M+ Deportes
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1145,32 +1173,32 @@ https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=E
 #EXTINF:-1 tvg-id="ext" group-title="DEPORTES" tvg-logo="https://i.imgur.com/DnlZuB9.png" ,ESPN Deportes ES
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4587
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport1.ro.png",Prima Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport1.ro.png",Prima Sports 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=49e2aa7ed50fc98b895023c87a32a183&key=57062665c1ef8481911e68e17655c8ec
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"VwYmZcHvhIGRHmjhdlXI7A", "kid":"SeKqftUPyYuJUCPIejKhgw" } ], "type":"temporary" }
 https://ott.cyberhost.ro/sdash/LIVE$LookPlus/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport2.ro.png",Prima Sports 2
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport2.ro.png",Prima Sports 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=96c311676c08545ea6aae37668e4a0df&key=64fca4a48c14d2b32afcd53971cfa62c
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ZPykpIwU0rMq/NU5cc+mLA", "kid":"lsMRZ2wIVF6mquN2aOSg3w" } ], "type":"temporary" }
 https://ott.cyberhost.ro/sdash/LIVE$LookTVHD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport3.ro.png",Prima Sports 3
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport3.ro.png",Prima Sports 3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=9404e7ae27dce22d69d41ffc29197cef&key=a6177128238fe775d5c74803e15ac175
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"phdxKCOP53XVx0gD4VrBdQ", "kid":"lATnrifc4i1p1B/8KRl87w" } ], "type":"temporary" }
 https://ott1.cyberhost.ro/sdash/LIVE$LookSport3HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport4.ro.png",Prima Sports 4
+#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://iptvboss.xyz/logos/Romania/PrimaSport4.ro.png",Prima Sports 4
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://ezzdecode.webcindario.com/results.php?keyid=c68ec2e525d8406b6c3cedbac72debae&key=a0f28f93fb9834d331df3ddedeb8a565
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"oPKPk/uYNNMx3z3e3rilZQ", "kid":"xo7C5SXYQGtsPO26xy3rrg" } ], "type":"temporary" }
 https://ott.cyberhost.ro/sdash/LIVE$LookSport2HD/index.mpd/Manifest?start=LIVE&end=END&device=MPD-LIVE-PC-Widevine-HD-ENC
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS01dOEJurUXqZ1LzpmGi8arvuUNT0d1uVAOw&usqp=CAU" group-title="SPORTS" tvg-id="ext" tvg-name="", Billiard TV
@@ -1184,9 +1212,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/1200px-Tennis_Channel_logo.svg.png" group-title="SPORTS" tvg-id="TennisChannel.us" tvg-name="TennisChannel.us", Tennis Channel (UK)
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://icdb.tv/images/9b4cb7623350cb7e92537f675304931a.jpg",S SPORT 1 HD 🇹🇷
-http://smartsistem.xyz:8080/emreaydin/YxTAxcdvC2/24
 
 #EXTINF:-1 group-title="SPORTS" tvg-id="ext" tvg-logo="https://epg.ovh/logo/Premier+Sports.png", Premier sport 1 🇸🇰
 http://185.188.188.235/live/premiersport/playlist.m3u8
@@ -1224,6 +1249,72 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-040/stream.mpd
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="SPORTS" tvg-id="MNCSports.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",SPORTSTARS 1
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="SPORTS" tvg-id="MNCSports2.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",SPORTSTARS 2
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="SPORTS" tvg-id="MNCSports3.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",SPORTSTARS 3 LIVE LIGA 1
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 group-title="SPORTS" tvg-id="MNCSports3.id"" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_88.png",SPORTSTARS 4 LIVE LIGA 1
+https://nyanv-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="SPORTS",SPOTV
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="SPOTV2.id"tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg" group-title="SPORTS",SPOTV 2
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="SoccerChannel.id" tvg-url="https://raw.githubusercontent.com/hendroagung2904/JejeVisionEpg/main/JejeVisionEpg.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png" group-title="SPORTS",SOCCER CHANNEL HD
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/hSnE2EaQogchrhnjzN1ZD/d01682186249f64a7b1cc113f4dd6a99/VSport_Premium_new_Hori_RGB_pos.svg?fm=webp&w=450", V Sports Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"1byekvIU13Ugq3+qHsrRCw","kid":"y9E7eog+U+mNXH800AE76A"}],"type":"temporary"}
+https://director.streaming.telia.com/tvm-packager-prod/group1/60896c3647a23d7f115cd57a/manifest.mpd
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.ctfassets.net/989y85n5kcxs/QqWUMoMVRdPCaKrU3NlqT/0cca0957b0f512c861beb810f1ca47ad/V_Sport1_new_Hori_CMYK_pos.svg?fm=webp&w=450", V Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"BMXq9izXXy2UerTWIfOSVg","k":"dpZ1mJYuenMUorJR6QcHJQ"}]}
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd
+
+#EXTINF:-1 tvg-id="ext" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Eredivisie_nieuw_logo_2017-.svg/400px-Eredivisie_nieuw_logo_2017-.svg.png" ,EREDIVISIE 🇱🇺
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-022/stream.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://cdn.cookielaw.org/logos/46acd508-0e8d-40cd-af22-1a8bdfa6da60/e9c29623-f807-422e-9944-964ce7fff1e0/a67792a1-43d4-44d0-8d5e-99ce69b835d9/National_Football_League_logo.svg.png" group-title="SPORTS",NFL Network (USA)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -1562,175 +1653,175 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-059/stream.mpd
 https://dcnvoddazn-a.akamaized.net/featsea/n1mx53frrqo1vqsyzw9egr96/1/web/dash/stream.mpd
 
 
-#EXTINF:-1 tvg-id="La 1 HD" tvg-name="" tvg-logo="https://www.chillglobal.com/images/channels/la1-1432656871.jpg" group-title="TDTCHANNELS",La 1
+#EXTINF:-1 tvg-id="La 1 HD" tvg-name="" tvg-logo="https://www.chillglobal.com/images/channels/la1-1432656871.jpg" group-title="TDT",La 1
 https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
-#EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png" group-title="TDTCHANNELS",La 2 
+#EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/1200px-Logo_TVE-2.svg.png" group-title="TDT",La 2 
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
-#EXTINF:-1 tvg-id="TRECE" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="TDTCHANNELS",Trece
+#EXTINF:-1 tvg-id="TRECE" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/Logo_Canal_13_200_8.png" group-title="TDT",Trece
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="TDTCHANNELS",24h
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/2084px-Logo_TVE-24h.svg.png" group-title="TDT",24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8
 
-#EXTINF:-1 tvg-id="EuroNews" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="TDTCHANNELS",Euronews
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Euronews._2016_alternative_logo.png/600px-Euronews._2016_alternative_logo.png" group-title="TDT",Euronews
 https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.prisanoticias.com/uploads/imagenes/noticias/principal/201302/principal-el-pais-tv-es_med.png" group-title="TDTCHANNELS",El Pais TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.prisanoticias.com/uploads/imagenes/noticias/principal/201302/principal-el-pais-tv-es_med.png" group-title="TDT",El Pais TV
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.negocios.com/wp-content/uploads/2021/05/td_696x0.png" group-title="TDTCHANNELS",Negocios TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.negocios.com/wp-content/uploads/2021/05/td_696x0.png" group-title="TDT",Negocios TV
 https://streaming013.gestec-video.com/hls/negociostv.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.newlinecenter.es/wp-content/uploads/2020/02/elconfidencial-logo.jpg" group-title="TDTCHANNELS",El Confidencial
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.newlinecenter.es/wp-content/uploads/2020/02/elconfidencial-logo.jpg" group-title="TDT",El Confidencial
 https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8
 
-#EXTINF:-1 tvg-id="Teledeporte" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="TDTCHANNELS",Teledeporte
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="TDT",Teledeporte
 https://ztnr.rtve.es/ztnr/1712295.m3u8
 
-#EXTINF:-1 tvg-id="Esport3 CAT" tvg-name="" tvg-logo="https://www.pericos.es/wp-content/uploads/2023/06/Esport3.jpg" group-title="TDTCHANNELS",Esport 3
+#EXTINF:-1 tvg-id="Esport3 CAT" tvg-name="" tvg-logo="https://www.pericos.es/wp-content/uploads/2023/06/Esport3.jpg" group-title="TDT",Esport 3
 https://directes-tv-cat.ccma.cat/live-origin/esport3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="ETB 3" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logotipo_ETB1.svg/1200px-Logotipo_ETB1.svg.png" group-title="TDTCHANNELS",ETB Deportes
+#EXTINF:-1 tvg-id="ETB 3" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Logotipo_ETB1.svg/1200px-Logotipo_ETB1.svg.png" group-title="TDT",ETB Deportes
 https://multimedia.eitb.eus/live-content/oka1hd-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://i.ytimg.com/vi/OIBDp9YHKQY/hqdefault.jpg" group-title="TDTCHANNELS",Vinx TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://i.ytimg.com/vi/OIBDp9YHKQY/hqdefault.jpg" group-title="TDT",Vinx TV
 https://tv.radiocast.es:5443/vinxtv/streams/vinxtvlive.m3u8
 
-#EXTINF:-1 tvg-id="Clan" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="TDTCHANNELS",Clan TV
+#EXTINF:-1 tvg-id="Clan" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="TDT",Clan TV
 https://ztnr.rtve.es/ztnr/5466990.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://toysfromspain.com/wp-content/uploads/2017/12/kidzworld-logo-555x580.jpg" group-title="TDTCHANNELS",Kidz
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://toysfromspain.com/wp-content/uploads/2017/12/kidzworld-logo-555x580.jpg" group-title="TDT",Kidz
 https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61/2.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="TDTCHANNELS",Pequeradio TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://static.wixstatic.com/media/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png/v1/fit/w_2500,h_1330,al_c/76b12f_b725806aac4c416da697ccf6a5c6dd83~mv2.png" group-title="TDT",Pequeradio TV
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="TDTCHANNELS",Cartoon Network
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/640px-Cartoon_Network_2010_logo.svg.png" group-title="TDT",Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.elespectador.com/resizer/YhqD0jszP01sUsfbr6qiIlW940s=/1200x675/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" group-title="TDTCHANNELS",Cartoonito
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.elespectador.com/resizer/YhqD0jszP01sUsfbr6qiIlW940s=/1200x675/filters:quality(60):format(jpeg)/cloudfront-us-east-1.images.arcpublishing.com/elespectador/Q5GZ2WZL6VHNVCFVJK72P7UIHA.jpg" group-title="TDT",Cartoonito
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://cdn2.rtva.interactvty.com/content_cards/159b550fc1b045afb6c6a442f1e38a2f.jpg" group-title="TDTCHANNELS",Canal Sur Andalucia
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://cdn2.rtva.interactvty.com/content_cards/159b550fc1b045afb6c6a442f1e38a2f.jpg" group-title="TDT",Canal Sur Andalucia
 https://cdnlive.codev8.net/rtvalive/smil:channel1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.101tv.es/wp-content/uploads/2021/11/Directo-Malaga.jpg" group-title="TDTCHANNELS",101 TV Malaga
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.101tv.es/wp-content/uploads/2021/11/Directo-Malaga.jpg" group-title="TDT",101 TV Malaga
 https://limited38.todostreaming.es/live/101tv-web101tv.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://fape.es/wp-content/uploads/2015/04/OndaCadiz-Logo_editado-1.jpg" group-title="TDTCHANNELS",Onda Cadiz TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://fape.es/wp-content/uploads/2015/04/OndaCadiz-Logo_editado-1.jpg" group-title="TDT",Onda Cadiz TV
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/m95-marbella-tv-en-directo.png" group-title="TDTCHANNELS",M95 Marbella
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://diretele.com/wp-content/uploads/2019/03/m95-marbella-tv-en-directo.png" group-title="TDT",M95 Marbella
 https://limited2.todostreaming.es/live/m95-livestream.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://alacarta.huelvatv.com/wp-content/uploads/2016/03/logo2.png" group-title="TDTCHANNELS",Huelva TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://alacarta.huelvatv.com/wp-content/uploads/2016/03/logo2.png" group-title="TDT",Huelva TV
 https://5d8d85cf2c308.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FGg_v_MFY98/XdWRjg20X4I/AAAAAAAAFxM/pTesnyPafIYbGWDWkYYdOhk9bHIUMGJrACLcBGAsYHQ/s1600/13995401_856003991203939_6509610775311953960_o.jpg" group-title="TDTCHANNELS",Canal Sierra de Cadiz
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-FGg_v_MFY98/XdWRjg20X4I/AAAAAAAAFxM/pTesnyPafIYbGWDWkYYdOhk9bHIUMGJrACLcBGAsYHQ/s1600/13995401_856003991203939_6509610775311953960_o.jpg" group-title="TDT",Canal Sierra de Cadiz
 https://s.emisoras.tv:8081/sierradecadiz/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Canal-45-Ja%C3%A9n.png" group-title="TDTCHANNELS",Canal 45 TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2016/02/Canal-45-Ja%C3%A9n.png" group-title="TDT",Canal 45 TV
 https://nlb1-live.emitstream.com/hls/625csn5et2iszm9oze65/master.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=5dabd6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fptvmalaga.png" group-title="TDTCHANNELS",PTV Malaga
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=5dabd6&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fptvmalaga.png" group-title="TDT",PTV Malaga
 https://streamer.zapitv.com/PTV-malaga/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.101tv.es/wp-content/uploads/2023/06/101tv-sevilla-icono.jpg" group-title="TDTCHANNELS",101 TV Sevilla
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.101tv.es/wp-content/uploads/2023/06/101tv-sevilla-icono.jpg" group-title="TDT",101 TV Sevilla
 https://streaming101tv.es/hls/websevilla.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://costanoroestetv.net/wp-content/uploads/2022/03/cropped-logo_costa_noroeste_4web-1.png" group-title="TDTCHANNELS",Costa Noroeste TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://costanoroestetv.net/wp-content/uploads/2022/03/cropped-logo_costa_noroeste_4web-1.png" group-title="TDT",Costa Noroeste TV
 https://limited31.todostreaming.es/live/noroestetv-livestream.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://teleonuba.es/wp-content/uploads/2022/02/imagendefaultteleonubafb.png" group-title="TDTCHANNELS",Teleonuba TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://teleonuba.es/wp-content/uploads/2022/02/imagendefaultteleonubafb.png" group-title="TDT",Teleonuba TV
 https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/endirecto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.condavision.es/imagenes/logo_condavision_fb.png" group-title="TDTCHANNELS",Condavision TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.condavision.es/imagenes/logo_condavision_fb.png" group-title="TDT",Condavision TV
 https://5d8d85cf2c308.streamlock.net:1936/Condavision/endirecto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://canalcostatv.es/imagenes/logo_canalcosta_fb.png" group-title="TDTCHANNELS",Canal Costa TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://canalcostatv.es/imagenes/logo_canalcosta_fb.png" group-title="TDT",Canal Costa TV
 https://5d8d85cf2c308.streamlock.net:1936/CanalcostaTV/endirecto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=2e3bf8&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Finteralmeria.png" group-title="TDTCHANNELS",InterAlmeria TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=2e3bf8&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Finteralmeria.png" group-title="TDT",InterAlmeria TV
 https://interalmeria.tv/directo/live.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2021/04/Tuya-TV-La-Janda-en-directo-Online.png" group-title="TDTCHANNELS",Tuya La Janda TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2021/04/Tuya-TV-La-Janda-en-directo-Online.png" group-title="TDT",Tuya La Janda TV
 https://cloudvideo.servers10.com:8081/8232/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://iteleflix.com/archivos/Logo-Onda-Algeciras-TV.png" group-title="TDTCHANNELS",Onda Algeciras TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://iteleflix.com/archivos/Logo-Onda-Algeciras-TV.png" group-title="TDT",Onda Algeciras TV
 https://cloudtv.provideo.es/live/algecirastv-livestream.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=425af1&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Festeponatv.png" group-title="TDTCHANNELS",Estepona TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=425af1&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Festeponatv.png" group-title="TDT",Estepona TV
 https://cloudvideo.servers10.com:8081/8022/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/La_Luz_Televisi%C3%B3n.png" group-title="TDTCHANNELS",Canal Luz TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/57/La_Luz_Televisi%C3%B3n.png" group-title="TDT",Canal Luz TV
 https://5d8d85cf2c308.streamlock.net:1936/CanalLuz/enDirecto/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-do%C3%B1ana.png" group-title="TDTCHANNELS",Canal Doñana
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/canal-do%C3%B1ana.png" group-title="TDT",Canal Doñana
 https://secure5.todostreaming.es/live/division-alm.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=05c965&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fptvlinares.png" group-title="TDTCHANNELS",PTV Linares
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=05c965&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fptvlinares.png" group-title="TDT",PTV Linares
 https://streamer.zapitv.com/ptv-linarez/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.torrevisiontelevision.es/wp-content/uploads/2021/06/logo-web.png" group-title="TDTCHANNELS",Torrevision TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.torrevisiontelevision.es/wp-content/uploads/2021/06/logo-web.png" group-title="TDT",Torrevision TV
 https://api.new.livestream.com/accounts/2614936/events/10365077/live.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://telemotril.com/wp-content/uploads/2020/02/logo_telemotril2_alpha2-color.png" group-title="TDTCHANNELS",Telemotril
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://telemotril.com/wp-content/uploads/2020/02/logo_telemotril2_alpha2-color.png" group-title="TDT",Telemotril
 https://5940924978228.streamlock.net/8431/8431/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://iteleflix.com/archivos/Logo-Diez-TV-Ubeda.png" group-title="TDTCHANNELS",Diez TV Ubeda
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://iteleflix.com/archivos/Logo-Diez-TV-Ubeda.png" group-title="TDT",Diez TV Ubeda
 https://streaming.cloud.innovasur.es/mmj/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://iteleflix.com/archivos/Logo-Diez-TV-Ubeda.png" group-title="TDTCHANNELS",Diez TV Las Villas
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://iteleflix.com/archivos/Logo-Diez-TV-Ubeda.png" group-title="TDT",Diez TV Las Villas
 https://streaming.cloud.innovasur.es/mmj2/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://acebbenalmadena.es/wp-content/uploads/74-1-1.jpg" group-title="TDTCHANNELS",Costa del Sol TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://acebbenalmadena.es/wp-content/uploads/74-1-1.jpg" group-title="TDT",Costa del Sol TV
 https://limited11.todostreaming.es/live/benalmadena-livestream.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.101tv.es/wp-content/uploads/2021/11/Directo-Antequera-Boton.jpg" group-title="TDTCHANNELS",101 TV Antequera
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.101tv.es/wp-content/uploads/2021/11/Directo-Antequera-Boton.jpg" group-title="TDT",101 TV Antequera
 https://streaming101tv.es/hls/webantequera.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.101tvcadiz.es/wp-content/uploads/2023/02/cropped-Logo-101-CADIZ-Header-V2.png" group-title="TDTCHANNELS",101 TV Cadiz
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.101tvcadiz.es/wp-content/uploads/2023/02/cropped-Logo-101-CADIZ-Header-V2.png" group-title="TDT",101 TV Cadiz
 https://streaming101tv.es/hls/webcadiz.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.101tv.es/wp-content/uploads/2021/11/Directo-Malaga.jpg" group-title="TDTCHANNELS",101 TV Ronda
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.101tv.es/wp-content/uploads/2021/11/Directo-Malaga.jpg" group-title="TDT",101 TV Ronda
 https://streaming101tv.es/hls/webronda.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.saltv.es/wp-content/uploads/2021/01/logoi-cabecera.png" group-title="TDTCHANNELS",Sal Television
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.saltv.es/wp-content/uploads/2021/01/logoi-cabecera.png" group-title="TDT",Sal Television
 https://cloudvideo.servers10.com:8081/8254/index.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4bf39d&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fondaazulmalaga.png" group-title="TDTCHANNELS",Canal Malaga TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=4bf39d&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fondaazulmalaga.png" group-title="TDT",Canal Malaga TV
 https://canalmalaga-tv-live.flumotion.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://media.fuengirolatv.com/img/patalla%20streaming.png" group-title="TDTCHANNELS",Fuengirola TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://media.fuengirolatv.com/img/patalla%20streaming.png" group-title="TDT",Fuengirola TV
 https://secure.todostreaming.es/live/nerja-livestream.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://oniad.com/wp-content/uploads/aragon-television.jpg" group-title="TDTCHANNELS",Aragon TV
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://oniad.com/wp-content/uploads/aragon-television.jpg" group-title="TDT",Aragon TV
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/529678809671696384/sICxLB-f_400x400.jpeg" group-title="TDTCHANNELS",La 1 Canarias
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/529678809671696384/sICxLB-f_400x400.jpeg" group-title="TDT",La 1 Canarias
 https://ztnr.rtve.es/ztnr/5190066.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/529678809671696384/sICxLB-f_400x400.jpeg" group-title="TDTCHANNELS",La 2 Canarias
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/529678809671696384/sICxLB-f_400x400.jpeg" group-title="TDT",La 2 Canarias
 https://ztnr.rtve.es/ztnr/5468585.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Canal_24_Horas_original.svg/406px-Canal_24_Horas_original.svg.png" group-title="TDTCHANNELS",24h Canarias
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/75/Canal_24_Horas_original.svg/406px-Canal_24_Horas_original.svg.png" group-title="TDT",24h Canarias
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/v/3/xtv3.jpg.pagespeed.ic.QF0_m6mY1F.jpg" group-title="TDTCHANNELS",TV3
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/v/3/xtv3.jpg.pagespeed.ic.QF0_m6mY1F.jpg" group-title="TDT",TV3
 https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/1200px-TV3CAT.svg.png" group-title="TDTCHANNELS",TV3 CAT
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/TV3CAT.svg/1200px-TV3CAT.svg.png" group-title="TDT",TV3 CAT
 https://directes-tv-int.ccma.cat/live-origin/tvi-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_3-24_de_TVC.jpg" group-title="TDTCHANNELS",3/24
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a6/Canal_3-24_de_TVC.jpg" group-title="TDT",3/24
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/800px-33_%28CCMA%29.svg.png" group-title="TDTCHANNELS",33
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/33_%28CCMA%29.svg/800px-33_%28CCMA%29.svg.png" group-title="TDT",33
 https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 
-#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="" tvg-logo="https://imagenes.elpais.com/resizer/yhjqbbbt_bf6kaSdB0sF-vs7xbI=/1960x1470/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7VZ3FVSLIRZGLLEQGJLTLJJFNM.jpg" group-title="TDTCHANNELS",Super 3
+#EXTINF:-1 tvg-id="TV3 CAT" tvg-name="" tvg-logo="https://imagenes.elpais.com/resizer/yhjqbbbt_bf6kaSdB0sF-vs7xbI=/1960x1470/cloudfront-eu-central-1.images.arcpublishing.com/prisa/7VZ3FVSLIRZGLLEQGJLTLJJFNM.jpg" group-title="TDT",Super 3
 https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
 
 
@@ -2018,11 +2109,11 @@ https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA
 #EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",ElChiringuito TV (Sólo Eventos)
 
 #EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://www.cotilleando.com/data/attachments/2761/2761647-a14bfb5d113235aea93666a470975ff5.jpg" group-title="TWITCH",Kingsleague (Sólo Eventos)
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Cs4Ece9d-HaJdrc46f3eaW04-4FxYz_Kh6a4gUzsuFg0eg9y6DBuCPlrH5wLiP_wWCDNJNu-pwPhQk5CVqzd6bmvI4HPmqBQHf93E4GAFjoYU-UvWwgyMibBSd-hp3QEDI4XN3wIuPXlDlavyGQTQBEOgNTpNviVr10-FvonQ9kUtDd97i8cPXG1jAp9dc7IoZr2mbcFfwI5OTPfcKjxd8yAVq-JNUJ4L7PejMLKO8M-HrVcQISTc9uofIMuEoq9IH9214CKoCYnEbhV7QljgNB8STGIsnbkt2797iYWehKbRBj9NVDLygGvesR5WyqmuzZIxDahHKgiY75veEn0GmTRvY6clh5JSljHiO1N0HHEdTXozeA4Cd49u90VvlSGt6FnkcaJZtkWlxaCCxECtlXJHu7N60ppV11qdbFhmaVjY45jNxlByiOeBbPECldDGVtqQTE2t5Zyby0oGoXpYiHvWCm0wllVq88hXKlTc2WQR7KG3nBYbICDsPma8qMS8h_kjxRangZBIFJgdxtiJ3eGQMUMGgaLSFnVDP1Nqustw8Ma09ZSvUHVvZQGNgNbbUGMDV3OHS2OICwOmEfFqJ4yxBxnJRyZXJUfsXmxtBOauZUIbEkS66CHohKrHIO89ntpJnpjKPDbG717oNp7bWSb5jFsYhLjfYMYyAlySgtZtxxbxfn33kLMaLs8PBO9YTUdVg-y941tBR5uUsbnosDJGlXl6lPxAVl4hbL4af-5_6dnMH20d1a8NdeHF45wQFfz3A_3183_Prhzjl_HQb4aDEM2-ht23v0KLwZyVCABKglldS13ZXN0LTIw8Ac.m3u8
-#EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",Agorafutbol (Sólo Eventos)
 
-#EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",Belen Jurado Música (Sólo Eventos)
-#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
+#EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",DjMariio (Sólo Eventos)
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CsMEXrPoi6ag6OAV3Y1y0Vb8RBO5IFgryKBE9ic4mg5E5tEXkLwNREO0kO4LKJ_IL8fIEICNhXAT-xXYe8AO6UBEMMSzjoi891AGG_ag-3TjCh3JUEpmX__jcnGliPYgX3CEhgV0ejdWd-XdrxObgcNXGSoJfT_kKZGcmJHUIgukdRUOSDdjFH7cq984EzyK9q8AUbpLFf-RgZrquewh8W4NR3JP7qXOQAh-EjfU4OKbRaImBa6wQO98HFfyYaOm6LoVHD4Na3zUiulC2TIFbpyq9s43TYvYimZEp8b3127nM7edTCc8ZwQNDpiDO0LGfQKFrSuxEHft2AXoz4lf5dLX2f3YJjF2xbiJFqs02e2rsIOfyFnB79XnB1twc6qtbnJ6hYclQD6e9bC0FGRVCmHPNuUO4hUDn-3Tpkdw8mr3RHUBVS6L9BVGM83QfrXSKitDp5oJAdSKEry4IOHg7iGmXsBqQXqT884E_puvjgKgpl6Yr6glMDjUzLX6wEL5w_bZMhPOMB4glXxHbFAnOVhwG9A7NRcFQvGs8Pahrpwa1nCJ5S9W2eo3rA1iHvJvmPvBKNcF-dIj2I2jjeo2NKFIH_ZDHkYP425K3yNnO3npDyge6NHegus4VTVkd5HGqDxmDJWsW1PtJAZbbEiVGlLBu2bXllWdpopGixlHkla53n1lb60CvkG5M5vyRSUzV25dK1sJvhvCPfvRG5UfqdMbe5lWGsUiy6xiCUU-b3-4ZsaclJuJpQrGO7WQO7sIK-jMIQeNGgwFQgcQ8wZyBwdMgm0gASoJZXUtd2VzdC0xMOsD.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",TheGrefg (Sólo Eventos)
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CsMEXEf6mI-yDR6DqNDffoSVc-OojNPj-DQ2ngE9JxtxXPjcY5NbanJIU2ggJ84OhTZJWGWK0tooGroQHJFWNqpB71VBqiLoK5SVcZlT1VwpGnME1R-aQKBzPjW7igheSa3FlVbys2Dxc5g3yVfznX9THj6XpPmWYaP_tHsnn1Snq2kmEU6BZdq1-mVUm_DRAGHZui0bcvrKfVf0YTOFshjHpSLhzGGExxuR5JdSDXBb0_uwWHKy1kC3TGb7BQLsQIoJoyfyAs-9sHNli03duZVKmm8RXGf56B_UPIkQ6VPwhJRIo2OjBD650IMzbXRYuPSnHFO5jeN9c7pcRKXInxFc7dfGI-Zzi-webmuF5HCCmHqIJcTlkAhT3moYZ1D4NMhOISwocw0yIdhSPAQywt32QMoadkK8hBetZhAqX0A5hUYI0kNy6T4883R0kOCp8vjFrUFaPJpLugyF4s4Zg0R77zpqmOMgERLjhWbIuTyliso9OvRaeMT0z57VYG-eAgvXGL6czXjWx1G3VIH19zU76CVsXAZer5GkSI4gmVksYwq1vsisE49cPoY9He4bXmVnNwDx1f_3h3Y2hXL02ytQPKak6e2Gp_QSwJsANAfn-akzHBDPAMHothWAAF-K3UIQlOHN6sNvueculEU2pRwILWqyxuSoXtT44UxRMyKVUijiRnnLNphBzEW86ZLRPnOiDuzPYoPiLP5bizq5V15AHIqQEc57OzjgN8Nfeh_yEIKKiMSjkBt9JafzZoa1Qxk3vO18Ggx0aFz5IVJc0LvwU6EgASoJZXUtd2VzdC0xMOsD.m3u8#EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
 http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
 #EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 2 1080
 http://192.168.66.2:6878/ace/getstream?id=f1c84ec8ea0c0bfff8a24272b66c64354a522110
