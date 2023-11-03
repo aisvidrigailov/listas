@@ -847,6 +847,94 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10284
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10285
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Finetwork Dazn 5 FHD" tvg-logo="https://www.linkpicture.com/q/eEES.png" group-title="DAZN FEMENINO",Finetwork Dazn 5 FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10286
+#EXTINF:-1 tvg-id="DMAX" tvg-name="DMAX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="DOCUMENTALES ESPAÑA",DMAX SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/53
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DMAX HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="DOCUMENTALES ESPAÑA",DMAX HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/54
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DMAX FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="DOCUMENTALES ESPAÑA",DMAX FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/55
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ NEGOCIOS SD" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="DOCUMENTALES ESPAÑA",M+ NEGOCIOS SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/67
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ NEGOCIOS HD" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="DOCUMENTALES ESPAÑA",M+ NEGOCIOS HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/68
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ NEGOCIOS FHD" tvg-logo="https://pbs.twimg.com/profile_images/1348574671692816384/g-T6kUxu_400x400.png" group-title="DOCUMENTALES ESPAÑA",M+ NEGOCIOS FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/69
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/328
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/329
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/1200px-Natgeologo.svg.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/330
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEOGRAPHIC FHD (FIBRA)" tvg-logo="" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC FHD (FIBRA)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/718
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC WILD SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/331
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC WILD HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/332
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/Nat_Geo_Wild_logo.png" group-title="DOCUMENTALES ESPAÑA",NATIONAL GEOGRAPHIC WILD FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/333
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAT GEO WILD FHD (FIBRA)" tvg-logo="" group-title="DOCUMENTALES ESPAÑA",NAT GEO WILD FHD (FIBRA)
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/719
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fc/Discovery_Channel_logo_2009.svg/1280px-Discovery_Channel_logo_2009.svg.png" group-title="DOCUMENTALES ESPAÑA",DISCOVERY CHANNEL SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/334
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL  HD" tvg-logo="http://xtitan.xyz:2082/images/8170d568dffb2c5ada503ecd57ccbb6b.png" group-title="DOCUMENTALES ESPAÑA",DISCOVERY CHANNEL  HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/335
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DISCOVERY CHANNEL FHD" tvg-logo="http://xtitan.xyz:2082/images/8170d568dffb2c5ada503ecd57ccbb6b.png" group-title="DOCUMENTALES ESPAÑA",DISCOVERY CHANNEL FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/336
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZA Y PESCA SD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/350
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZA Y PESCA HD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/351
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZA Y PESCA FHD" tvg-logo="http://lara.iptvland.nl:80/images/bfae0e729e0df78ae96404c837a5a566.png" group-title="DOCUMENTALES ESPAÑA",CAZA Y PESCA FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/352
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBERALIA 100% PESCA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tF8B1ZxJI5RDIMzBqrnoJg-g.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% PESCA FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/353
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBERALIA TV SD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1MYkCyFxmZAhWBE-HnMP0t0H6ys0Q5qP2eE7mtm-aX_f.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/354
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBERALIA TV HD" tvg-logo="http://line.pinals.xyz:8080/images/rp-uvPH1EY-uILs1wBkb1IU53zZY5cvvqYsWNNAVvFUHV-xKO0xxQJd2ICQPcWXb.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/355
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBERALIA TV FHD" tvg-logo="https://www.socassat.com/wp-content/uploads/2015/07/1medium.jpg" group-title="DOCUMENTALES ESPAÑA",IBERALIA TV FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/356
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="IBERALIA 100% CAZA FHD" tvg-logo="http://line.pinals.xyz:8080/images/H6ycapeujvzt6Ie76n3zM2CeAGhdSh_Cd2y3tm7VLRsvLf9tSAQU6A9eu0O7e5tFuFURkdXMRX2c894GJEzo5w.png" group-title="DOCUMENTALES ESPAÑA",IBERALIA 100% CAZA FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/357
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZAVISION SD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/358
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CAZAVISION HD" tvg-logo="https://tv.cazavision.com/images/logo-whiteES.png" group-title="DOCUMENTALES ESPAÑA",CAZAVISION HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/359
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESCAPA TV FHD" tvg-logo="" group-title="DOCUMENTALES ESPAÑA",ESCAPA TV FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/364
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="CANAL ORBE 21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Canal_Orbe_21_logo.svg/1280px-Canal_Orbe_21_logo.svg.png" group-title="DOCUMENTALES ESPAÑA",CANAL ORBE 21
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/410
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentales Putin/Rusia" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales Putin/Rusia
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4200
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentales Ucrania" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales Ucrania
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4201
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentales de Futbol" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales de Futbol
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4202
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentales de F1" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales de F1
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4203
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentales de MotoGP" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales de MotoGP
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4204
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentales sobre Egipto" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales sobre Egipto
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4205
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentales sobre Redes sociales" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales sobre Redes sociales
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4206
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentales sobre Animales" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales sobre Animales
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4207
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentales de historias" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales de historias
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4208
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Documentales de España" tvg-logo="https://iili.io/H9n5TP4.png" group-title="DOCUMENTALES ESPAÑA",Documentales de España
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4209
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NATURE TIME FHD" tvg-logo="https://images.samsung.com/is/image/samsung/assets/mx/tvs/smart-tv/samsung-tv-plus/2022/NatureTime_Samsung_1000x1000_circle.png" group-title="DOCUMENTALES ESPAÑA",NATURE TIME FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4439
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="NAUTICAL SD" tvg-logo="" group-title="DOCUMENTALES ESPAÑA",NAUTICAL SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/6226
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ Documentales SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="DOCUMENTALES ESPAÑA",M+ Documentales SD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/12107
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ Documentales HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="DOCUMENTALES ESPAÑA",M+ Documentales HD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/14126
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ Documentales FHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" group-title="DOCUMENTALES ESPAÑA",M+ Documentales FHD
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/14131
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marvel Series" tvg-logo="https://iili.io/HBK3AW7.png" group-title="ESPAÑA 24/7",Marvel Series
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/4198
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Marvel Películas" tvg-logo="" group-title="ESPAÑA 24/7",Marvel Películas
@@ -1387,68 +1475,6 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51623
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51624
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LALIGA PLUS 2 FHD 1080P" tvg-logo="https://images2.imgbox.com/e2/aa/JnT4kiAM_o.png" group-title="LALIGA+",LALIGA PLUS 2 FHD 1080P
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51625
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV INFO" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSbuwQ-YsH2JmM15PM5Cxk7qbgO-2KLRcViEqvm1PDdbPQ.png" group-title="FEF TV",ES: FEF TV INFO
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/10353
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 1" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 1
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20294
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 2" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 2
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20295
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 3" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 3
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20296
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 4" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 4
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20297
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 5" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 5
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20298
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 6" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 6
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20299
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 7" tvg-logo="https://rfef.es/sites/default/files/styles/noticias_image_content/public/1754-1241-max.png" group-title="FEF TV",ES: FEF TV 7
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20300
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 8" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSaZ9rdPLKAAerswq9YZOuZfMHJnyawZ3k-veiQaQvPBOQ.png" group-title="FEF TV",ES: FEF TV 8
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20301
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 9" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSbl6papci7rCtzInIMWk9YzImg_Yu6HpGE9EwdTmQCvMw.png" group-title="FEF TV",ES: FEF TV 9
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20302
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 10" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSZQD47prif7fzNKOU74lUe7pX2KBXDLioLIrm_NFp6Q1g.png" group-title="FEF TV",ES: FEF TV 10
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20303
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 11" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSbvgmY_9Ck3HtKZWXO8vSL1XpD8jR-ZghdKxuWEmi6I2g.png" group-title="FEF TV",ES: FEF TV 11
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20304
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 12" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSZ5Lm-_rYn32NfDg_ktwaE1NEX7Un5PLQnV_cfgs1IPAw.png" group-title="FEF TV",ES: FEF TV 12
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20305
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 13" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSaVwReFIJkXmHoAlvgR5k-jaNs4XxLSwpbhAfpu-Q8oVQ.png" group-title="FEF TV",ES: FEF TV 13
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20306
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 14" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSZZrS8-V8TVeps0r-rAhX7j0gTrlkTeN1bzEz6lJHU2-g.png" group-title="FEF TV",ES: FEF TV 14
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20307
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ES: FEF TV 15" tvg-logo="http://kaoztv.com:80/images/mNq_r_kUDKBFpKT3MgSBdsqNYj-w99txzl4Ny2TJfSbpp6E0jpMDNLlmviUP78BdG8sivzMQKB_ZoZE5QWHPNQ.png" group-title="FEF TV",ES: FEF TV 15
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20308
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 16" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV",FEF TV 16
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20309
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 17" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV",FEF TV 17
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20310
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 18" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV",FEF TV 18
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20311
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 19" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV",FEF TV 19
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20312
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="FEF TV 20" tvg-logo="https://media.cdnandroid.com/item_images/1328237/imagen-instat-tv-0ori.jpg" group-title="FEF TV",FEF TV 20
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20313
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futsal TV 1" tvg-logo="" group-title="FEF TV",Futsal TV 1
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20347
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=" Futsal TV 2" tvg-logo="" group-title="FEF TV", Futsal TV 2
- Futsal TV 2
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futsal TV 3" tvg-logo="" group-title="FEF TV",Futsal TV 3
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20349
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futsal TV 4" tvg-logo="" group-title="FEF TV",Futsal TV 4
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20350
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futsal TV 5" tvg-logo="" group-title="FEF TV",Futsal TV 5
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20351
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futsal TV 6" tvg-logo="" group-title="FEF TV",Futsal TV 6
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20352
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futsal TV 7" tvg-logo="" group-title="FEF TV",Futsal TV 7
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20353
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futsal TV 8" tvg-logo="" group-title="FEF TV",Futsal TV 8
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20354
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futsal TV 9" tvg-logo="" group-title="FEF TV",Futsal TV 9
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20355
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Futsal TV 10" tvg-logo="" group-title="FEF TV",Futsal TV 10
-http://the.qualityplus.xyz:8880/frB75kGutM/kJPaQywXjA/20356
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN F1 (DULT)" tvg-logo="" group-title="FORMULA 1",DAZN F1 (DULT)
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/JimaraDirecto/uVaEYpQRJdUw/60353
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN F1 SD" tvg-logo="https://i.imgur.com/iTTOjQz.png" group-title="FORMULA 1",DAZN F1 SD
@@ -11137,36 +11163,6 @@ http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/50
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/50930
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Netflix thriller 2" tvg-logo="https://cdn.neowin.com/news/images/uploaded/2020/02/1580938685_netflix2_story.jpg" group-title="NETFLIX 24/7",Netflix thriller 2
 http://pinkpanther.uk:8080/restreamwellfrank/2NhhmrhTDGaGxVyZX9wpKv4twh9EAZqa/50931
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ FER PALACIOS (REGGAETÓN/CUMBIA/CACHENGUE)" tvg-logo="https://i1.sndcdn.com/avatars-000655079435-uxnr5a-t500x500.jpg" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ FER PALACIOS (REGGAETÓN/CUMBIA/CACHENGUE)
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/148544
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ ALEX (REGGAETÓN - CUMBIA)" tvg-logo="https://i.scdn.co/image/ab67706c0000bebbb404174b0137cd443a285dd2vfe&ved=0CAsQjRxqFwoTCIDVkfPp1vMCFQAAAAAdAAAAABAD" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ ALEX (REGGAETÓN - CUMBIA)
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/148545
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ SOL (CUMBIA Y EXITOS 90)" tvg-logo="https://i.pinimg.com/564x/61/1c/00/611c009fd4ba91b33d151f1d35622f48.jpg" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ SOL (CUMBIA Y EXITOS 90)
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/148546
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | CUMBIA DRIVE MIX 2022 (MARCHA POP Y CUMBIA)" tvg-logo="https://i1.sndcdn.com/avatars-000159046194-vje2hn-t500x500.jpg" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | CUMBIA DRIVE MIX 2022 (MARCHA POP Y CUMBIA)
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/148547
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ DAVID GUETTA (Live Concerts) - ENG" tvg-logo="https://cdns-images.dzcdn.net/images/cover/7d4a24e294bb3c228ad96dd75512e2f0/350x350.jpg" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ DAVID GUETTA (Live Concerts) - ENG
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/148548
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ MALAA + DJ SNAKE (Live Concerts) - ENG" tvg-logo="https://ih1.redbubble.net/image.1203270058.0687/fposter,small,wall_texture,product,750x1000.jpg" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ MALAA + DJ SNAKE (Live Concerts) - ENG
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/148549
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ FROM MARS (Live Mix Music 2022) - ENG" tvg-logo="https://i1.sndcdn.com/avatars-000542005299-zbitmn-t500x500.jpg" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ FROM MARS (Live Mix Music 2022) - ENG
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/148550
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ LINDA (REGGAETÓN - CUMBIA)" tvg-logo="https://direct.rhapsody.com/imageserver/images/alb.381781966/500x500.jpg" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ LINDA (REGGAETÓN - CUMBIA)
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/153631
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ AVICII (Live Concerts) - ENG" tvg-logo="https://i.ibb.co/vhRHH05/image.png" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ AVICII (Live Concerts) - ENG
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/153633
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ CAMILA GUTIERREZ (Live Concerts) - ENG" tvg-logo="https://i1.sndcdn.com/avatars-QhTU33h9XaaiBpOQ-il1DEA-t500x500.jpg" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ CAMILA GUTIERREZ (Live Concerts) - ENG
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/153635
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ KOROLOVA (Live Concerts) - ENG" tvg-logo="https://i1.sndcdn.com/artworks-oHqDKykQ3s0vkoqs-08aLeg-t500x500.jpg" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ KOROLOVA (Live Concerts) - ENG
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/153637
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DJs ʜᴅ | DJ NICO VALLORANI (REGGAETÓN - CUMBIA)" tvg-logo="https://i.scdn.co/image/ab6761610000e5eb080971bbbfad7111930d4d0c" group-title="♫ ♬⭐️Suenan los DJ's en Vivo⭐️♫ ♬",DJs ʜᴅ | DJ NICO VALLORANI (REGGAETÓN - CUMBIA)
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/153639
-#EXTINF:-1 tvg-id="ComedyCentralSpain.es" tvg-name="ESP-2: COMEDY  CENTRAL" tvg-logo="" group-title="España: Series todos los Gustos⭐️",ESP-2: COMEDY  CENTRAL
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/126381
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESP-6: TV FAMILY Rakuten" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/pljunior.png" group-title="Infantiles España: Diversión asegurada!ⓐ ⓑ ⓒ",ESP-6: TV FAMILY Rakuten
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/162367
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ESP-6: CAILLOU FHD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/canalcaillou.png" group-title="Infantiles España: Diversión asegurada!ⓐ ⓑ ⓒ",ESP-6: CAILLOU FHD
-http://00322.xyz:8000/H0Q0F0BYE7/D3HEGRF0IB/162368
 #EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 1 1080
 http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
 #EXTINF:-1 group-title="USA" tvg-logo="https://img.sport-tv-guide.live/images/league-nba-26.png" ,NBA 2 1080
