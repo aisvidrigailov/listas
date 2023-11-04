@@ -106,7 +106,7 @@ https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-rec="true" tvg-logo="https://files.cults3d.com/uploaders/17192897/illustration-file/515951e1-3f6a-42d7-b9d8-a1f98d1ec77c/png-transparent-fox-racing-shox-shock-absorber-car-bicycle-car.png" group-title="VOMISTAR +",FOX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ReQWOaC5RT+bJgy50DJjaQ", "kid":"8DWMaA/8RpBAB95GE4jfKA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8DWMaA/8RpBAB95GE4jfKA", "kid":"ReQWOaC5RT+bJgy50DJjaQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
@@ -305,7 +305,7 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
 http://relectro.xyz:8080/Leafar/fQE5BM66Hc/295
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-rec="true" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846070353866863/unknown.png" group-title="DAZN",Dazn 4
-http://relectro.xyz:8080/Leafar/fQE5BM66Hc/297
+http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/297
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-rec="true" tvg-logo="https://media.discordapp.net/attachments/995354436727738443/1009846110975705128/unknown.png" group-title="DAZN F1",Dazn F1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2049,9 +2049,8 @@ https://stitcher.pluto.tv/stitch/hls/channel/60218baa464ef900073168c1/master.m3u
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://album.mediaset.es/cimg/1000001/2022/05/09/1024x1198_d652.jpg" group-title="PLUTO TV",En el punto de mira
 https://stitcher.pluto.tv/stitch/hls/channel/61922be835f3910007fc58f6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://newciudadmundo.chkmrksrl.com/wp-content/uploads/2022/01/ciudad-mundo-logo-pque.png" group-title="PLUTO TV",Ciudadanos por el mundo
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://newciudadmundo.chkmrksrl.com/wp-content/uploads/2022/01/ciudad-mundo-logo-pque.png" group-title="PLUTO TV",Españoles por el mundo
 https://stitcher.pluto.tv/stitch/hls/channel/622f42b831233300078658cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e486f82f-6f22-11ee-a45b-9e83b02cccee1
-
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7787b527-5f39-4180-98c9-6d093d3215c8-peliculas-top-rakuten-tv-1621956596.png" group-title="RAKUTEN TV",Pelis Top
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_version=&ads.brand_name=&ads.content_classification=16&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=es&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=2902&ads.rtv_content_language=spa&ads.rtvid=271859&ads.streaming_id=1b9d2488-61ef-4b04-b6c3-4ad61687e89c&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=840
