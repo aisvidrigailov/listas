@@ -55,7 +55,7 @@ https://lasexta-dash-movistarplus.emisiondof6.com/dash/lasexta.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key={"da34f7ba51495627b5e78a56fe263ce6":"2e984786ede5f201dca69f9322e0e382","14df1a00d89f5d89a24d883de1c6a4c5":"2ad506e0bf9e3344f4df2cc673d728f6","a217bce8fa71550f9ad12cb0827517b6":"85e998af299b4dd66cbe8ab4542f5978"}
 https://tvup-live.secure2.footprint.net/lasexta/lasexta.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
 
-#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="" tvg-logo="https://s1.eestatic.com/2023/04/07/actualidad/754434837_232268045_1706x960.jpg" group-title="VOMISTAR +",M Plus
+#EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-name="" tvg-logo="https://s1.eestatic.com/2023/04/07/actualidad/754434837_232268045_1706x960.jpg" group-title="VOMISTAR +",M+ Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"AIdIpqy7s0kb9d1JNV2CBw", "kid":"hGjuu5XYQYyoXfaiOB+2TQ" } ], "type":"temporary" }
@@ -63,7 +63,7 @@ https://tvup-live.secure2.footprint.net/lasexta/lasexta.mpd|User-Agent="Mozilla/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://mplus-dash-movistarplus.emisiondof6.com/dash/mplus.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2023/09/movistar-plus-2.jpg" group-title="VOMISTAR +",M Plus 2
+#EXTINF:-1 tvg-id="Movistar Plus+ 2 HD" tvg-name="" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2023/09/movistar-plus-2.jpg" group-title="VOMISTAR +",M+ Plus 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BNmbiXzBaYOVCl9LDHLWmA", "kid":"TU7Z9FsWQJaKlWnUjLaNZA" } ], "type":"temporary" }
@@ -1086,7 +1086,13 @@ https://espanamtv-dash-movistarplus.emisiondof6.com/dash/espanamtv.isml/manifest
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://00smtv-dash-movistarplus.emisiondof6.com/dash/00smtvor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="24 Horas" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="M AUTONOMICOS", 24 Horas
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/SolMusica.png/800px-SolMusica.png" group-title="M MUSICA", Sol Musica
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#EXTINF:-1 tvg-id="MTV 00s" tvg-name="" tvg-logo="https://www.elmurcielago.es/images/demo/gallery/Spektra_TV.png" group-title="M MUSICA", Spektra TV
+https://cloudvideo.servers10.com:8081/8136/index.m3u8
+
+#EXTINF:-1 tvg-id="24 Horas" tvg-rec "true" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" group-title="M AUTONOMICOS", 24 Horas
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={6e73d7c4f4b24a19929cb5e4bfd23524:80cc5ee67dfbdb57e3c3a4308173d48b}
@@ -1094,7 +1100,7 @@ https://00smtv-dash-movistarplus.emisiondof6.com/dash/00smtvor.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://24horas-dash-movistarplus.emisiondof6.com/dash/24horasor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" group-title="M AUTONOMICOS", Canal Sur Andalucía
+#EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" group-title="M AUTONOMICOS", Canal Sur Andalucía
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={23994c0ce4914a38a04e1edde8463d65:6958cd82ff263c2785d84af2d3a2a339}
@@ -1890,7 +1896,7 @@ https://directes-tv-cat.ccma.cat/live-origin/c33-super3-hls/master.m3u8
 https://directes-tv-cat.ccma.cat/live-origin/super3-hls/master.m3u8
 
 
-#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/MTV_EMA_LOGO_2020.png" group-title="PLUTO TV",MTV EMA
+#EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/MTV_EMA_LOGO_2020.png" group-title="M MUSICA",MTV EMA
 https://stitcher.pluto.tv/stitch/hls/channel/64db2c974c5ed80008f68b6d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=2ff20d24-6a9e-11ee-a821-4ea4c460a3db1
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/10/SouthParkHalloween.jpg" group-title="PLUTO TV",South Park Halloween
@@ -2176,11 +2182,14 @@ https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/playlist.m3u8
 #EXTINF:-1 group-title="LATINOAMERICA" tvg-id="730dtv.ar", tvg-logo="https://i.imgur.com/UXCFgqc.png", National Geographic HD
 http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://qvaendirecto.com/wp-content/uploads/2023/10/Sin-titulo-2.jpg" group-title="LATINOAMERICA", CUBAVISION Int
+https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
+
 #EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",ElChiringuito TV (Sólo Eventos)
 
 #EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://www.cotilleando.com/data/attachments/2761/2761647-a14bfb5d113235aea93666a470975ff5.jpg" group-title="TWITCH",Kingsleague (Sólo Eventos)
 
 #EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",DjMariio (Sólo Eventos)
-https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CsMEXrPoi6ag6OAV3Y1y0Vb8RBO5IFgryKBE9ic4mg5E5tEXkLwNREO0kO4LKJ_IL8fIEICNhXAT-xXYe8AO6UBEMMSzjoi891AGG_ag-3TjCh3JUEpmX__jcnGliPYgX3CEhgV0ejdWd-XdrxObgcNXGSoJfT_kKZGcmJHUIgukdRUOSDdjFH7cq984EzyK9q8AUbpLFf-RgZrquewh8W4NR3JP7qXOQAh-EjfU4OKbRaImBa6wQO98HFfyYaOm6LoVHD4Na3zUiulC2TIFbpyq9s43TYvYimZEp8b3127nM7edTCc8ZwQNDpiDO0LGfQKFrSuxEHft2AXoz4lf5dLX2f3YJjF2xbiJFqs02e2rsIOfyFnB79XnB1twc6qtbnJ6hYclQD6e9bC0FGRVCmHPNuUO4hUDn-3Tpkdw8mr3RHUBVS6L9BVGM83QfrXSKitDp5oJAdSKEry4IOHg7iGmXsBqQXqT884E_puvjgKgpl6Yr6glMDjUzLX6wEL5w_bZMhPOMB4glXxHbFAnOVhwG9A7NRcFQvGs8Pahrpwa1nCJ5S9W2eo3rA1iHvJvmPvBKNcF-dIj2I2jjeo2NKFIH_ZDHkYP425K3yNnO3npDyge6NHegus4VTVkd5HGqDxmDJWsW1PtJAZbbEiVGlLBu2bXllWdpopGixlHkla53n1lb60CvkG5M5vyRSUzV25dK1sJvhvCPfvRG5UfqdMbe5lWGsUiy6xiCUU-b3-4ZsaclJuJpQrGO7WQO7sIK-jMIQeNGgwFQgcQ8wZyBwdMgm0gASoJZXUtd2VzdC0xMOsD.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-rec "true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",TheGrefg (Sólo Eventos)
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CsMEXEf6mI-yDR6DqNDffoSVc-OojNPj-DQ2ngE9JxtxXPjcY5NbanJIU2ggJ84OhTZJWGWK0tooGroQHJFWNqpB71VBqiLoK5SVcZlT1VwpGnME1R-aQKBzPjW7igheSa3FlVbys2Dxc5g3yVfznX9THj6XpPmWYaP_tHsnn1Snq2kmEU6BZdq1-mVUm_DRAGHZui0bcvrKfVf0YTOFshjHpSLhzGGExxuR5JdSDXBb0_uwWHKy1kC3TGb7BQLsQIoJoyfyAs-9sHNli03duZVKmm8RXGf56B_UPIkQ6VPwhJRIo2OjBD650IMzbXRYuPSnHFO5jeN9c7pcRKXInxFc7dfGI-Zzi-webmuF5HCCmHqIJcTlkAhT3moYZ1D4NMhOISwocw0yIdhSPAQywt32QMoadkK8hBetZhAqX0A5hUYI0kNy6T4883R0kOCp8vjFrUFaPJpLugyF4s4Zg0R77zpqmOMgERLjhWbIuTyliso9OvRaeMT0z57VYG-eAgvXGL6czXjWx1G3VIH19zU76CVsXAZer5GkSI4gmVksYwq1vsisE49cPoY9He4bXmVnNwDx1f_3h3Y2hXL02ytQPKak6e2Gp_QSwJsANAfn-akzHBDPAMHothWAAF-K3UIQlOHN6sNvueculEU2pRwILWqyxuSoXtT44UxRMyKVUijiRnnLNphBzEW86ZLRPnOiDuzPYoPiLP5bizq5V15AHIqQEc57OzjgN8Nfeh_yEIKKiMSjkBt9JafzZoa1Qxk3vO18Ggx0aFz5IVJc0LvwU6EgASoJZXUtd2VzdC0xMOsD.m3u8
+
