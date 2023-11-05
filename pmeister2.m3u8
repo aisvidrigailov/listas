@@ -1995,6 +1995,8 @@ http://192.168.66.2:6878/ace/getstream?id=51cee9d0b29dbd9104e9a3971fd2569419eab1
 http://192.168.66.2:6878/ace/getstream?id=b7db2c0404f90f99b01a8875713c047cd07595f7
 #EXTINF:-1 group-title="Extranjeros" tvg-id="DigiSport3Romania.ro" tvg-name="" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a882.png", Digi Sport 3 RO
 http://192.168.66.2:6878/ace/getstream?id=b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
+#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYMjtmQ5/alonso.png" ,ONBOARD ALONSO
+http://192.168.66.2:6878/ace/getstream?id=085b241844e6a1f9a8395e861323c0977731de17
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYMjtmQ5/alonso.png" ,ONBOARD ALONSO IPTV
 http://23.227.140.78:8080/JsnCdcSSe8/CWvQ6KPTQR/405793
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/TYMjtmQ5/alonso.png" ,ONBOARD ALONSO IPTV (01)
@@ -2016,6 +2018,8 @@ http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566250&ext
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/NGr78b8w/checo.png" ,ONBOARD CHECO (02)
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:97:ec:5a&stream=1566250&extension=ts&play_token=pfhWcUu3BG
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/nLRY2Pwn/sainz.png" ,ONBOARD SAINZ
+http://192.168.66.2:6878/ace/getstream?id=16277be2fe863ee290cdff73603ed6559aec2513
+#EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/nLRY2Pwn/sainz.png" ,ONBOARD SAINZ (00)
 http://23.227.140.78:8080/JsnCdcSSe8/CWvQ6KPTQR/405808
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/nLRY2Pwn/sainz.png" ,ONBOARD SAINZ (01)
 http://89.45.13.153:25461/play/live.php?mac=00:1A:79:73:a5:2f&stream=1566247&extension=ts&play_token=P5N1amc418
