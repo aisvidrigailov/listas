@@ -222,19 +222,23 @@ acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KrxsSFT/f1.png" group-title="Inglaterra" tvg-id="SkySportsF1.uk", Sky Sports F1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KrxsSFT/f1.png" group-title="Inglaterra" tvg-id="I1099.87578.schedulesdirect.org", Sky Sports F1 HD
 acestream://8afb62049f30ba4fb4a74c0c4165313d40b20ccb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="Inglaterra" tvg-id="SkySportsMainEvent.uk", Sky Sport Main Event
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8r7M1Fy/mainevent.png" group-title="Inglaterra" tvg-id="I1108.49609.schedulesdirect.org", Sky Sport Main Event
 acestream://eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sF0dt/premier.png" group-title="Inglaterra" tvg-id="SkySportsPremierLeague.uk", Sky Sport Premier League
+#EXTINF:-1 tvg-logo="https://i.ibb.co/w4sF0dt/premier.png" group-title="Inglaterra" tvg-id="I1116.116645.schedulesdirect.org", Sky Sport Premier League
 acestream://ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/whnhzMk/skyfootball.png" group-title="Inglaterra" tvg-id="SkySportsFootball.uk", Sky Sport Football
+#EXTINF:-1 tvg-logo="https://i.ibb.co/whnhzMk/skyfootball.png" group-title="Inglaterra" tvg-id="I1103.104327.schedulesdirect.org", Sky Sport Football
 acestream://8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fx1tbCQ/Skyarena.png" group-title="Inglaterra" tvg-id="SkySportsArena.uk", Sky Sport Arena
 acestream://d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xFCfq0D/TNTsports1.png" group-title="Inglaterra" tvg-id="BTSport1.uk", TNT Sport 1 1080
+#EXTINF:-1 tvg-logo="" group-title="Inglaterra" tvg-id="I1097.51204.schedulesdirect.org", Sky Sport Cricket
+acestream://6d95e4b0893e155cc674b84e0763150c445d3ddd
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xFCfq0D/TNTsports1.png" group-title="Inglaterra" tvg-id="I1259.82450.schedulesdirect.org", TNT Sport 1 1080
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QKKyjzv/TNTsports2.png" group-title="Inglaterra" tvg-id="BTSport2.uk", TNT Sport 2 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QKKyjzv/TNTsports2.png" group-title="Inglaterra" tvg-id="I1265.82451.schedulesdirect.org", TNT Sport 2 1080
 acestream://d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TY4MZKy/TNTsports3.png" group-title="Inglaterra" tvg-id="BTSport3.uk", TNT Sport 3 1080
 acestream://5f966c123759de46dff29c379266b7a403452033
