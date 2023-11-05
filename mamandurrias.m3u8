@@ -247,7 +247,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46466
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46467
 #EXTINF:-1 tvg-id="TELECINCO" tvg-name="ES : TELECINCO" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/T5.png" group-title="ZAPEANDO MOVISTAR",ES : TELECINCO
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46468
-#EXTINF:-1 tvg-id="LA SEXTA" tvg-name="ES : LA SEXTA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png" group-title="ZAPEANDO MOVISTAR",ES : LA SEXTA
+#EXTINF:-1 tvg-id="LA SEXTA." tvg-name="ES : LA SEXTA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/SEXTA.png" group-title="ZAPEANDO MOVISTAR",ES : LA SEXTA
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46473
 #EXTINF:-1 tvg-id="Movistar Plus+" tvg-name="ES : M+ PLUS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" group-title="ZAPEANDO MOVISTAR",ES : M+ PLUS
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46474
@@ -263,7 +263,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46478
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46479
 #EXTINF:-1 tvg-id="Canal Sur HD" tvg-name="ES : CANAL SUR" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/CANSUR.png" group-title="ZAPEANDO MOVISTAR",ES : CANAL SUR
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46480
-#EXTINF:-1 tvg-id="ETB 1 HD" tvg-name="ES : ETB 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB1.png" group-title="ZAPEANDO MOVISTAR",ES : ETB 1
+#EXTINF:-1 tvg-id="ETB" tvg-name="ES : ETB 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/ETB1.png" group-title="ZAPEANDO MOVISTAR",ES : ETB 1
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46481
 #EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="ES : CANAL EXTREMADURA" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/EXTRE.png" group-title="ZAPEANDO MOVISTAR",ES : CANAL EXTREMADURA
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46482
@@ -387,7 +387,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46541
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46542
 #EXTINF:-1 tvg-id="M. GOLF 2" tvg-name="ES : M+ GOLF 2" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/GOLF2.png" group-title="ZAPEANDO MOVISTAR",ES : M+ GOLF 2
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46543
-#EXTINF:-1 tvg-id="DAZN F1" tvg-name="ES : DAZN F1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png" group-title="ZAPEANDO MOVISTAR",ES : DAZN F1
+#EXTINF:-1 tvg-id="DAZN F1." tvg-name="ES : DAZN F1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/MVF1.png" group-title="ZAPEANDO MOVISTAR",ES : DAZN F1
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46544
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="ES : DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiapc/M1SD.png" group-title="ZAPEANDO MOVISTAR",ES : DAZN 1
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/46545
@@ -787,7 +787,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/23378
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/12151
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 (D.ULT)" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN ESP",DAZN 1 (D.ULT)
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/JimaraDirecto/uVaEYpQRJdUw/60355
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN 1 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN ESP",DAZN 1 SD
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1 SD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" group-title="DAZN ESP",DAZN 1 SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/288
 #EXTINF:-1 tvg-id="daznbar1" tvg-name="DAZN 1 BAR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" group-title="DAZN ESP",DAZN 1 BAR SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51632
@@ -1363,35 +1363,35 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/14130
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/338
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="GRAN HERMANO VIP 24/7" tvg-logo="https://album.mediaset.es/eimg/2023/08/30/captura-de-pantalla-2023-08-30-224305_0270.png" group-title="ESPAÑA ESENCIAL",GRAN HERMANO VIP 24/7
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/32132
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LA LIGA SD (D.ULT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LA LIGA SD (D.ULT)
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LA LIGA SD (D.ULT)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LA LIGA SD (D.ULT)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37388
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+  LA LIGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+  LA LIGA SD
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+  LA LIGA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+  LA LIGA SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/169
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LaLigaTV (ORANGE)" tvg-logo="http://prox2.gotdns.ch:8080/images/nKwXtk4cKqi_wg8Ca4ZdCvEQ6Gok7cmQ3dwBBny45Enpk_VNBnoBclfnY527FldzcB0EvO-kSGsC9syNuh7tgl-J3-2tc6YdBXSZUxCmuDWjeMUf6HOYU4UsJWHJ6jfhRPfMRjyis7uDjCUyA47qFw.jpg" group-title="ESPAÑA LALIGA",M+ LaLigaTV (ORANGE)
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LaLigaTV (ORANGE)" tvg-logo="http://prox2.gotdns.ch:8080/images/nKwXtk4cKqi_wg8Ca4ZdCvEQ6Gok7cmQ3dwBBny45Enpk_VNBnoBclfnY527FldzcB0EvO-kSGsC9syNuh7tgl-J3-2tc6YdBXSZUxCmuDWjeMUf6HOYU4UsJWHJ6jfhRPfMRjyis7uDjCUyA47qFw.jpg" group-title="ESPAÑA LALIGA",M+ LaLigaTV (ORANGE)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37171
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LA LIGA HD" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LA LIGA HD
+#EXTINF:-1 tvg-id="M+ LALIGA TV HD" tvg-name="M+ LA LIGA HD" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LA LIGA HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27744
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LaLigaTV (ORANGE) (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/nKwXtk4cKqi_wg8Ca4ZdCvEQ6Gok7cmQ3dwBBny45Enpk_VNBnoBclfnY527FldzcB0EvO-kSGsC9syNuh7tgl-J3-2tc6YdBXSZUxCmuDWjeMUf6HOYU4UsJWHJ6jfhRPfMRjyis7uDjCUyA47qFw.jpg" group-title="ESPAÑA LALIGA",M+ LaLigaTV (ORANGE) (720P)
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LaLigaTV (ORANGE) (720P)" tvg-logo="http://prox2.gotdns.ch:8080/images/nKwXtk4cKqi_wg8Ca4ZdCvEQ6Gok7cmQ3dwBBny45Enpk_VNBnoBclfnY527FldzcB0EvO-kSGsC9syNuh7tgl-J3-2tc6YdBXSZUxCmuDWjeMUf6HOYU4UsJWHJ6jfhRPfMRjyis7uDjCUyA47qFw.jpg" group-title="ESPAÑA LALIGA",M+ LaLigaTV (ORANGE) (720P)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37172
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA HD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LALIGA",MOVISTAR LA LIGA HD (SAT)
+#EXTINF:-1 tvg-id="M+ LALIGA TV HD" tvg-name="MOVISTAR LA LIGA HD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LALIGA",MOVISTAR LA LIGA HD (SAT)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27746
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+  LA LIGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+  LA LIGA FHD
+#EXTINF:-1 tvg-id="M+ LALIGA TV HD" tvg-name="M+  LA LIGA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+  LA LIGA FHD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/173
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LALIGA FHD (ORANGE)" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LALIGA FHD (ORANGE)
+#EXTINF:-1 tvg-id="M+ LALIGA TV" tvg-name="M+ LALIGA FHD (ORANGE)" tvg-logo="" group-title="ESPAÑA LALIGA",M+ LALIGA FHD (ORANGE)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/200
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LA LIGA FHD (H.265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LA LIGA FHD (H.265)
+#EXTINF:-1 tvg-id="M+ LALIGA TV HD" tvg-name="M+ LA LIGA FHD (H.265)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Movistar_LaLiga.svg/1200px-Movistar_LaLiga.svg.png" group-title="ESPAÑA LALIGA",M+ LA LIGA FHD (H.265)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/177
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LA LIGA FHD  (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LALIGA",M+ LA LIGA FHD  (FIBRA)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/175
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR LA LIGA FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LALIGA",MOVISTAR LA LIGA FHD (SAT)
+#EXTINF:-1 tvg-id="M+ LALIGA TV HD" tvg-name="MOVISTAR LA LIGA FHD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="ESPAÑA LALIGA",MOVISTAR LA LIGA FHD (SAT)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27745
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ LA LIGA 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" group-title="ESPAÑA LALIGA",M+ LA LIGA 4K
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/180
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN LALIGA SD (D.ULT)" tvg-logo="" group-title="ESPAÑA LALIGA",DAZN LALIGA SD (D.ULT)
+#EXTINF:-1 tvg-id="DAZN LALIGA" tvg-name="DAZN LALIGA SD (D.ULT)" tvg-logo="" group-title="ESPAÑA LALIGA",DAZN LALIGA SD (D.ULT)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/37389
 #EXTINF:-1 tvg-id="DAZN LaLiga" tvg-name="DAZN LALIGA SD" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="ESPAÑA LALIGA",DAZN LALIGA SD
 http://mael-tv.online:8080/live/5MUK2Fhqtq/wqq6nhKF4W/425010.ts
-#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-name="DAZN LALIGA HD (H.265)" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="ESPAÑA LALIGA",DAZN LALIGA HD (H.265)
+#EXTINF:-1 tvg-id="DAZN LALIGA HD" tvg-name="DAZN LALIGA HD (H.265)" tvg-logo="https://i.imgur.com/dh4hkPv.png" group-title="ESPAÑA LALIGA",DAZN LALIGA HD (H.265)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/198
 #EXTINF:-1 tvg-id="DAZN LALIGA HD" tvg-name="DAZN LA LIGA HD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="ESPAÑA LALIGA",DAZN LA LIGA HD (SAT)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27750
@@ -1477,7 +1477,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51624
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/51625
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN F1 (DULT)" tvg-logo="" group-title="FORMULA 1",DAZN F1 (DULT)
 http://queandaisapeandoacasotegusto.ultrapremiumoficial.xyz:8080/JimaraDirecto/uVaEYpQRJdUw/60353
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN F1 SD" tvg-logo="https://i.imgur.com/iTTOjQz.png" group-title="FORMULA 1",DAZN F1 SD
+#EXTINF:-1 tvg-id="DAZN F1." tvg-name="DAZN F1 SD" tvg-logo="https://i.imgur.com/iTTOjQz.png" group-title="FORMULA 1",DAZN F1 SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/283
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DAZN  F1 [Low Conx]" tvg-logo="https://i.imgur.com/iTTOjQz.png" group-title="FORMULA 1",DAZN  F1 [Low Conx]
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/287
@@ -2013,7 +2013,7 @@ http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27781
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/258
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ DEPORTES SD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MULTIDEPORTES ESP",M+ DEPORTES SD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/260
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="M+ DEPORTES HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MULTIDEPORTES ESP",M+ DEPORTES HD
+#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-name="M+ DEPORTES HD" tvg-logo="https://download.logo.wine/logo/Movistar_Deportes/Movistar_Deportes-Logo.wine.png" group-title="MULTIDEPORTES ESP",M+ DEPORTES HD
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/261
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MOVISTAR DEPORTES HD (SAT)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES ESP",MOVISTAR DEPORTES HD (SAT)
 http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/27792
