@@ -1016,7 +1016,7 @@ https://jrdisney-dash-movistarplus.emisiondof6.com/dash/jrdisney.isml/manifest.m
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="M INFANTILES", En Familia
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={5969b9b5d5094e95b285f6f10e47b85d:3bdd76952eb0339cc470f50e1067f5f7}
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"O912lS6wM5zEcPUOEGf19w", "kid":"WWm5tdUJTpWyhfbxDke4XQ" } ], "type":"temporary" }
 #EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://panda-dash-movistarplus.emisiondof6.com/dash/panda.isml/manifest.mpd
@@ -1081,10 +1081,10 @@ https://comedycentral-dash-movistarplus.emisiondof6.com/dash/comedycentral.isml/
 https://stmv1.cnarlatam.com/novakidstv/novakidstv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ext" tvg-logo="https://i.imgur.com/6UTSdAi.png"  group-title="M INFANTILES", TOONCAST
-https://3.ultimate2019.com/stream/hls/95|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725
 
 #EXTINF:-1 group-title="M INFANTILES", tvg-id="ext", tvg-logo="https://i.imgur.com/9JEnv7G.png", Cartoonito
-https://3.ultimate2019.com/stream/hls/11|user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-G960N Build/LMY47I)
+https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MTV España" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" group-title="M MUSICA", MTV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
@@ -2209,10 +2209,12 @@ http://livex.pop-app.live/s4n/poplive/ch509/playlist.m3u8
 https://tvup-live.secure2.footprint.net/cubavision/cubavision.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-rec="true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",ElChiringuito TV (Sólo Eventos)
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Ct4E6OODehBBTyOXrY9JEdTNk8s30znKY63AfQyeBUHHCt8Ex9-PdyQT4WC5mlLnK2U0w7dBAnCZQs2e601ym7Rsrf-9RzGlGXbR-ureLAY5Y8pm7WpOvJqh7KQ6Ww8wRY4AaamOT7F9mjMa27dwRtdGro6uAb93kTRQFnIRAexBVCoCMM1YQwW5POgLJ5cgAjjhr4NKYlluWN_Y-Gv4es3PGs7-1ResjGNNoUACz9at4u5d_-ygCkCx7FnkdTWZ6d7ZxC66kFSzl-3iKGdkC70kG1LD7aE6xFXzqaWY2I670YMZi8pt_-h1sQ3P5-AeSk_NWutujuGGJMoqHH4MHFwFg5zgSUUaYQOkeq3ZJ4mNKJM4fmz6aum19RdswE_FJbwOc4HnrnxA77I5eAEQZgZPRPFNYvR1T2zTA5B4wua6WO2gIn-WMNfHIxwULedHuReYWRRamhpsZLZNL8qJhFmBnIR3JD5vU-bRiKayzYqHKx5sLoMlyN1arjq-dfMRrhG-0og_SNsMjjTIvqtJ0kYu3I5a94kimdPi6BkDm71d5QyHfTh2-EJmXtAknuKZ3vo6yRX4zHNNCEEp4bSTgh2eNF5yx5FFceFLoP9CbVqc05wGOstQzGBlhWnOWwQ4l2K6HcX-3AHF_IpGaaRb6ZYKGMiCM__c9GUYyIYYyaZQwX-8vty61Ikxzr2dRtv8Rp77MSzgEWWY6mqPNv-EPCLKhJJHzWn3sxQDQtcR1Y6oXlCyCHYHQvNHQxQWutakd873VtU4gdB1XjupwI_EaaLJQmkE2HTCeVOgwd5T2ttRGgxASSe6nz4FFqqh2ucgASoJZXUtd2VzdC0xMOwD.m3u8
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtwEPh4xaNqvuUCHkY3DqKPCYLXldY4ql_ZgobgZMw9XS5TTTTTf5BP1bDP6Q5Pwvvx7r-WwMS83RwRhm5kocEuARQ-OMDNlRA26oTpFASVbgrtswUPBPw5AUbAdoE1Jw0AbGOiqUatI8tOCVLQRJ2mBp1QeYEqEFzzaxrIyjj7FjjQlGxDEtPc3LSj_6SgkByNHc2JJvBHUnuFraO7uWCiMs4ZzANtsAuryjb7c7pIoqDVnzRqgRpXmfoBMNtnuCaOYHez_xi7sg2b2dZ1L1mwkF1a6POzFXfoL3S_jE6caOpwIZKBYywthZq4FjhJ3Lb8Y3iwa7uIvusy6t4pdTdwpi7bUmODro6kyv0BqfShcUu-5Fc4owXyz59PlHYxOdqSYGbgd5elRGFujlDvzzhJ_hmp9Ko7mtKnWUDFvXJetrhc7aT_3F5fU98xO3ozC-xM4UaJerNA11w8MXO5cdUiD7auC0x7b2ffMxabJLQp1iMROMPc2U1yfo7z9oirjCG46_ijtJRZBjqVtGRBg7xmhuWsgHhcYWSecDrGDuvvnX9dsjoJGWe-cxPMTgVmy5wFqDZqymna0UmM1VxTRSSaNzTLolNMZDFLrEMoYdg0qRmTfSQ5AwdI4F4Qa1wTHIjyDbcq4FlPeAXG2sIkvI4qR0Sb3qK5kJ7nJTHhaqHRG5xC5nMcJDZESvDPBoDymt99fygN-pEiKzZN0NAeyQ0jcbjxFdxmKt5EfoxbBITqqUDtq4Yrs3bD-pOm_eC0_BkePQrY4uKjq5OSWuJQcIks7TssWyWKOrvPI3xQhjRoMlDkk2tIR-mz_Fbp9IAEqCWV1LXdlc3QtMjD3Bw.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-rec="true"" tvg-name="" tvg-logo="https://www.cotilleando.com/data/attachments/2761/2761647-a14bfb5d113235aea93666a470975ff5.jpg" group-title="TWITCH",Kingsleague (Sólo Eventos)
-
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtIEDaEoRGAEVRXvS3agCxA1xHq7oclucS5NNbNllpcLk17l1T2WvYvpAcMGh4sXX-FFTX9aNszUjDi-ZccznNfHt8RRC_Ies3H0KkZttSqA65kBSgfMf_SvdscdCdrjbyCCT-6XK0_lVmvrol5mfofQ9pWFfzynsfw5Za63yht8kBCyzcIx_zkVsmLAafztx6ZnWdHvMlDwhes4g-zt-w19QGeOVmes9D_DRhi5m0qVKJZY4vGZtS46rw5iskPx7CSaX6ZTVEwKF-VooQB6jomZQgHgYIXug7XaLhrQOuHOawYoCKN9bv0GHzXSYKZx_Z5lyNHzs5ge8CskTZKxKFOzjQP-XYGZPOdSKP2sIFoVciGPrHblD-Y6o4xs6RUfbmkyLK8y-cw4ZD4rFk2UVZQqO3jdhFm15JMIXgCoIcLZD-PUr48MdMrf4DibSAwlWHZgOfcZDbfGrG0bhETm8qRRsYibcAeQK0qAlhgHnvVI_ylaG35ogUEdDRCDp5W89b2vYAetMAFoyjqpWHDnaSSAeBTrhVnDA_Lj_KRrmecSTA2urOS6eipamfaVn4KeEdqKQMuTAd-0ijenBWlzzOf6UvflD4LXQs8hFVmyNXelUb4-dxP1Z9gy6J_os_smbOdPwKIuJ6aEDhDYCkfqqxMXYpoJiAP0GeWtCiNFrQIb79v2-TQm4ezEwekMhI5KbNMDdP3yAcu_mEoGr9YYsXcKwtwI-esfb9KnBQqZmlXhrbKe-m9ZF7AO2phUAGVW2g_gbUvDLDjRCwCDm4id0pNFYDwQGgy-8SPvN1d7l59cfOYgASoJZXUtd2VzdC0xMO0D.m3u8
 #EXTINF:-1 tvg-id="ext" tvg-rec="true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",Agorafutbol (Sólo Eventos)
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtIEkIhPN8TGWi5jzDrbpem-_uCEgeBnpa6N6zNKgAxkI6DbZw-pww0bVJ2rqoCrumU-P8_bsB6StGbcnCMlE5c3QYRWgyZNxo2ybABJxl5KiVuckJVLnBNDsmj7sKdyzN0XWCQ0HCuPwkZm2gRBpzhG0LWdyAXkx55wXRn1LuLVoEVmlXJ8RiEmcvte2NMllsYFdWE1PB8koeqPdE9Emcxxb_DTGjWE5d5RkEr5feu1ukDOpEk8vOc6w0sanydWZVmu62RTjhOj9-4tszY3kKDL9MMWOaIQOlcv4ERVc24oKn16nne6g_p-5_hKhRR5QRwCJpdbQRqUTmUzYk-P9dkJOssQDnXdiXNf1ptG6kyi_B4vwbmNQLJ65_T4X6xmy0-Wc5ASbJIAz-pAuAuklHdzlLVLDDwf5HuROmllv6OfpMJIYU9rWh_glxGKjAA3UByF28S55FOs0df1KY1xPfovnycmU10SxnWVUj_s63L5kQ_5fBzISeE-jEVg1_F7PmWkLGKQokmfuZON22Nxh050uX0xrihU4v7CrNBZXovfiG5XjlDZMGV5A3GH4LO3E6Kx6SyNb8nmNug6-ndH7GmvWsCP3vySNUAzP3t-LHyaMBOQBqEh2WPASrVE68M2d1wcL9t2xuh6wwqeGFKToEHlwjKp_UXGrWsFkt7KhQEZ6My4k5aeY-JajlMjZ8SVRdqMroG0-1ZnXkZYSLB0gKgmylYl2-PO5UBPSCE9MFmlHVHUcp57--rkoMb9wB132asR0AD26LvLmLI-D2T2NK6BrYzuGgx_4m3I64rDrbF1qw8gASoJZXUtd2VzdC0xMOwD.m3u8
+
 #EXTINF:-1 tvg-id="ext" tvg-rec="true" tvg-name="" tvg-logo="https://imborrable.com/wp-content/uploads/2022/10/twitch-logo-2019.png" group-title="TWITCH",TheGrefg (Sólo Eventos)
 
+#EXTINF:-1 group-title="MANUJAZ SPORT" tvg-id="https://i.ibb.co/71RQmYh/MJ-MGP.jpg", Eventos de motor
+https://vkvsd85.mycdn.me/hls/5478361205274.m3u8/sig/4c77Vlpo_OY/expires/1699281529349/srcIp/95.17.168.109/urls/45.136.21.60/clientType/14/srcAg/CHROME_ANDROID/mid/6590506281754/5478361205274_fullhd/index.m3u8
