@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://xmltv.info/de/epg.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/programetv.ro.xml, https://raw.githubusercontent.com/eldepor/epg/main/programtv.onet.pl.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://xmltv.info/de/epg.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/programetv.ro.xml, https://raw.githubusercontent.com/eldepor/epg/main/programtv.onet.pl.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://iptvx.one/EPG"
 
  
 
@@ -360,9 +360,46 @@ acestream://7090ab27689444b127b3cb8707e0334d409e0cc6
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PQb2ttk/viju.png" group-title="Rusía" tvg-id="", Viasat Sport RU
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-tv", MATCH! HD
+acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-tv", MATCH! HD
+acestream://45d300749e85fcbc10a4b8333100d1eb4c96da1b
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-football1", MATCH! Football HD
+acestream://b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-football2", MATCH! Football 2
+acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-football3", MATCH! Football 3
+acestream://b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-premier", MATCH! Prime HD
+acestream://77fd6e894eba1957177c0f8faa48ff851b3ffbd5
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-premier", MATCH! Prime HD
+acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-boets", MATCH! Boets
+acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-arena", MATCH! Arena HD
+acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-nash-sport", MATCH! Nash Sport HD
+acestream://7b4362cb04a3df40bdfa3800af0cc78309a60771
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-igra", MATCH! Igra HD
+acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="match-igra", MATCH! Igra HD
+acestream://69e012e143b7c086f0f15bda9d1b6dd389fd41de
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="fightbox-hd", FightBox HD
+acestream://49b734a5a3365674480089264be00ae28fabb640
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="kxl", KHL
+acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="kxl-hd", KHL Prime [RU]:
+acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PQb2ttk/viju.png" group-title="Rusía" tvg-id="viasat-sport", Viasat Sport RU
 acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="football-ru", Футбол HD
+acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="eurosport1", EuroSport 1 HD
+acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-logo="" group-title="Rusía" tvg-id="eurosport2", EuroSport 2 HD [RU]:
+acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
+
+
 
 
 
