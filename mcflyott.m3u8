@@ -1,20 +1,11 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
   
 #EXTINF:-1 tvg-id="La 1 HD" tvg-name="" tvg-rec="true" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" group-title="VOMISTAR +",TVE La1
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"ccmH3wie2gRvr1kpMehKXA", "kid":"FPwOOySaQ_qlL8aSeed8qw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvela1-dash-movistarplus.emisiondof6.com/dash/tvela1.isml/manifest.mpd
+https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_dvr.m3u8
 
 #EXTINF:-1 tvg-id="La 2" tvg-name="" tvg-rec="true" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" group-title="VOMISTAR +", TVE La2
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"II7mw0YzyTqpq7P9qoOBig", "kid":"hD+Xm2BbTfOu70Wf6nxShw" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://la2-dash-movistarplus.emisiondof6.com/dash/la2.isml/manifest.mpd
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
 
 #EXTINF:-1 tvg-id="Antena 3 HD" tvg-name="" tvg-rec="true" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Antena_3_2017.svg/1200px-Antena_3_2017.svg.png" group-title="VOMISTAR +",Antena 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
