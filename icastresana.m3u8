@@ -314,8 +314,8 @@ acestream://e2044fd44478794ebfe721deb060d149507f1348
 
 
 
-
-
+#EXTINF:-1 tvg-logo="" group-title="Polonia" tvg-id="tvp-sport", TVP Sport HD
+acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tDGGYWq/eleven1.png" group-title="Polonia" tvg-id="ElevenSports1Poland.pl", Eleven Sport 1 
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TRMYk3W/eleven2.png" group-title="Polonia" tvg-id="ElevenSports2Poland.pl", Eleven Sport 2
@@ -362,8 +362,6 @@ acestream://7090ab27689444b127b3cb8707e0334d409e0cc6
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NZQJc5R/MTV.png" group-title="Rusía" tvg-id="match-tv", MATCH! HD
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NZQJc5R/MTV.png" group-title="Rusía" tvg-id="match-tv", MATCH! HD
-acestream://45d300749e85fcbc10a4b8333100d1eb4c96da1b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rZkdQg5/Mfootball1.png" group-title="Rusía" tvg-id="match-football1", MATCH! Football HD
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Wzkyp7j/Mfootball2.png" group-title="Rusía" tvg-id="match-football2", MATCH! Football 2
