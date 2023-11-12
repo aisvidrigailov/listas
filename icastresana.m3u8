@@ -220,9 +220,9 @@ acestream://5c267a00f264736c1d47c1cc3e754447ca8f770c
 acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
 
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="DE: DAZN 1", DAZN 1 DE
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar1.png" group-title="Alemania" tvg-id="DE: DAZN 1", DAZN 1 DE
 acestream://897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="DE: DAZN 2", DAZN 2 DE
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar2.png" group-title="Alemania" tvg-id="DE: DAZN 2", DAZN 2 DE
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvfW6wV/ZDF.png" group-title="Alemania" tvg-id="DE: ZDF", ZDF
 acestream://c71fb593810ce837545e8d8b384e50a42c35a316
@@ -266,9 +266,9 @@ acestream://86495fe134ff065d5217497babe6be33f81d37d1
 acestream://6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-logo="https://i.ibb.co/vwtpZX3/Magenta.webp" group-title="Alemania" tvg-id="DE: Magenta Sport 11", Magenta Sport 11
 acestream://c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="DE: Eurosport 1", Eurosport 1
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport1.png" group-title="Alemania" tvg-id="DE: Eurosport 1", Eurosport 1
 acestream://b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="DE: Eurosport 2", Eurosport 2
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport2.png" group-title="Alemania" tvg-id="DE: Eurosport 2", Eurosport 2
 acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
 
@@ -418,14 +418,23 @@ acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="Turquía" tvg-id="bein-sport-1", Bein Sports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3fPVPLL/Bein1.png" group-title="Turquía" tvg-id="bein-sport-1", Bein Sports 1
 acestream://118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 tvg-logo="" group-title="Turquía" tvg-id="bein-sport-2", Bein Sports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9VMNBsJ/Bein2.png" group-title="Turquía" tvg-id="bein-sport-2", Bein Sports 2
 acestream://48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1 tvg-logo="" group-title="Turquía" tvg-id="bein-sport-3", Bein Sports 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GkX99sd/Bein3.png" group-title="Turquía" tvg-id="bein-sport-3", Bein Sports 3
 acestream://ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-logo="" group-title="Turquía" tvg-id="bein-sport-4", Bein Sports 4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/swxDvMT/Bein4.png" group-title="Turquía" tvg-id="bein-sport-4", Bein Sports 4
 acestream://7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/f2vxWxj/Setanta1.png" group-title="Ukrania" tvg-id="setanta-sports", Setanta Sports 1
+acestream://42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-logo="https://i.ibb.co/P4sWVG3/Setanta2.png" group-title="Ukrania" tvg-id="setanta-sports-plus", Setanta Sports 2
+acestream://f6d68cfa8694f814983f2a5757f4e0c4964b880c
+
 
 
 
