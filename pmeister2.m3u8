@@ -1821,6 +1821,92 @@ http://192.168.66.2:6878/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed
 http://192.168.66.2:6878/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://img.sport-tv-guide.live/images/stations/a75.png" ,NBA USA 2 1080
 http://192.168.66.2:6878/ace/getstream?id=f1c84ec8ea0c0bfff8a24272b66c64354a522110
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 01
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/59761
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 02
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/59762
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 03
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/59763
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 04
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/59764
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 05
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/59765
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 06
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/59766
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 07
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/59767
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 08
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/59768
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 09
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/59769
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 10
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/59770
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 11
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/64619
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 12
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/64620
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 13
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/64621
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 14
+http://185.53.90.34:25461/sltv/PVHDRgW4hH/64622
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 01
+http://679691732897679614.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679614.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 02
+http://679691732897679615.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679615.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 03
+http://679691732897679616.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679616.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 04
+http://679691732897679617.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679617.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 05
+http://679691732897679618.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679618.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 06
+http://679691732897679619.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679619.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 07
+http://679691732897679620.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679620.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 08
+http://679691732897679621.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679621.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 09
+http://679691732897679622.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679622.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 10
+http://679691732897679623.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679623.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 11
+http://679691732897679624.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679624.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 12
+http://679691732897679625.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679625.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 13
+http://679691732897679626.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679626.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 14
+http://679691732897679627.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679627.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 15
+http://679691732897679628.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679628.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Washington Wizards
+http://679691732897679629.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679629.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Utah Jazz
+http://679691732897679630.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679630.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Toronto Raptors
+http://679691732897679631.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679631.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA San Antonio Spurs
+http://679691732897679632.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679632.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Sacramento Kings
+http://679691732897679633.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679633.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Portland Trail Blazers
+http://679691732897679634.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679634.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Phoenix Suns
+http://679691732897679635.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679635.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Philadelphia 76ers
+http://679691732897679636.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679636.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Orlando Magic
+http://679691732897679637.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679637.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Oklahoma City Thunder
+http://679691732897679638.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679638.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA New York Knicks
+http://679691732897679639.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679639.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA New Orleans Pelicans
+http://679691732897679640.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679640.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Minnesota Timberwolves
+http://679691732897679641.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679641.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Milwaukee Bucks
+http://679691732897679642.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679642.ts
 #EXTINF:-1 group-title="NBA" tvg-id="Sport TV NBA POR" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1895.png" ,Sport TV NBA 1080 IPTV
 http://37.189.31.207:9001/play/a06o/index.m3u8
 #EXTINF:-1 group-title="NBA" tvg-id="Sport TV NBA POR" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1895.png" ,Sport TV NBA 1080 IPTV (02)
