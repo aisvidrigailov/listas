@@ -1849,6 +1849,26 @@ http://185.53.90.34:25461/sltv/PVHDRgW4hH/64620
 http://185.53.90.34:25461/sltv/PVHDRgW4hH/64621
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 14
 http://185.53.90.34:25461/sltv/PVHDRgW4hH/64622
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 01
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323752
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 02
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323753
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 03
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323754
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 04
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323755
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 05
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323756
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 06
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323757
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 07
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323758
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 08
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323759
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 09
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323760
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 10
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323761
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 01
 http://679691732897679614.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679614.ts
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 02
@@ -1879,6 +1899,68 @@ http://679691732897679626.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679626.ts
 http://679691732897679627.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679627.ts
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 15
 http://679691732897679628.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679628.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA New York Knicks (NYK) (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319898
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Brooklyn Nets (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319899
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Miami Heat (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319900
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Miami Heat (SD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319901
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Atlanta Hawks (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319902
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Boston Celtics (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319903
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Charlotte Hornets (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319904
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Cleveland Cavaliers (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319905
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Chicago Bulls (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319906
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Dallas Mavericks (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319907
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Denver Nuggets (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319908
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Golden State Warriors (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319909
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Detroit Pistons (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319910
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Houston Rockets (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319911
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Indiana Pacers (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319912
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Los Angeles Clippers (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319913
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Los Angeles Lakers (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319914
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Memphis Grizzlies (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319915
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Milwaukee Bucks (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319916
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Minnesota Timberwolves (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319917
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA New Orleans Pelicans (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319918
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Oklahoma City Thunder (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319919
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Orlando Magic (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319920
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Philadelphia 76ers (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319921
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Phoenix Suns (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319922
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Portland Trail Blazers (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319923
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Sacramento Kings (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319924
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA San Antonio Spurs (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319925
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Toronto Raptors (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319926
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Utah Jazz (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319927
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Washington Wizards (HD)
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319928
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Washington Wizards
 http://679691732897679629.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679629.ts
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Utah Jazz
