@@ -102,6 +102,9 @@ https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
 #EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
 https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-rec="true" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="VOMISTAR +", GH VIP 8
+http://154.16.180.247:8080/live/OculusNet/QvwW2ZWaK2/32132.m3u8?token=HkMOAhVRFVwbUFMAVlsHWlNfAlQJVF8NUAxQVAEPUQVWVVBVXloHU1xGTkMWFkcHVgs+WFwUXAtRCAVRGBVFQAATOQoCGw1EClVXQ0lAQQtaA0MLCBpESApdFFkWBgUEVVBET0RcTxJcFgwACT1RB0EPAlQaDAhND1UaQVtZb1cADAcNAhsNRAhGTkMMEUVADQgUXVQaRFoKTUQCQFISCUdVUlRUGxtEWgsXDxEQTEANRDRiGhpEXRtNUw1HXl9dR1tEDlVMD0QVRgsSOhBQEUMUBFBVUxQaWRsHQRgVXVIdPgUMCFdSBU0NDQ8WQA9ABlZRExQUC1cNUEIMRmhAWgFDXEFXDAFSDkYf
+
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-rec="true" tvg-logo="https://www.canalcosmo.es/img/logorrss.png" group-title="VOMISTAR +",COSMO
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -687,12 +690,9 @@ https://1mcine-dash-movistarplus.emisiondof6.com/dash/1mcine.isml/manifest.mpd
 https://mindie-dash-movistarplus.emisiondof6.com/dash/mindie.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="ext" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="M CINE",Warner TV
+TV#KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"/ckswrp34MEG+YoxQ/pPVw", "kid":"zcyShbmwQnCXepJ4vWsRaA" } ], "type":"temporary" }
-#EXTVLCOPT:http-referer=https://tv.movistar.com.pe/
-#EXTVLCOPT:http-user-agent=Chrome/61.0.3163.100
-https://tvwarner-dash-movistarplus.emisiondof6.com/dash/tvwarner.isml/manifest.mpd
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:69_HD.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="M+ Clásicos HD" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg/640px-Cl%C3%A1sicos_por_Movistar_Plus%2B_2022_logo.svg.png" group-title="M CINE",M+ Clásicos
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
