@@ -3739,6 +3739,8 @@ http://907341120796600709.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/600709.ts
 #EXTINF:0 tvg-id="ext" group-title="ES DEPORTES",ES: FIGHT TIME SD
 http://907341120796605497.of0828.xyz:80/play/vi74353/Ua3A5WNyBY/605497.ts
 
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ES  M+ LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:52_HD.smil/manifest.m3u8
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-name="" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="ES  M+ LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES 
 http://15.235.15.232:8081/SPAIN%7CLIGADECAMPR/SPAIN%7CLIGADECAMPR/playlist.m3u8
 #EXTINF:0 tvg-id="ext" group-title="ES  M+ LIGA DE CAMPEONES",ES: LIGA DE CAMPEONES FHD HEVC
