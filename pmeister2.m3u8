@@ -390,11 +390,11 @@ http://31.43.191.49:25461/@bandookkboss22/FQt78a6zTtBg/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (16)
 http://31.43.191.49:25461/EXCHfamous/4SceG2qsZkHV/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV Español(Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=c3a8a8493400ce1a8dd3a44d71bbed536c69c1b1
+http://192.168.66.2:6878/ace/getstream?id=1a5cb7e786724a470e9a24196796a70a236e2081
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=0953a3a1bca53edfbe973161f7de0cc10147902e
+http://192.168.66.2:6878/ace/getstream?id=c3a8a8493400ce1a8dd3a44d71bbed536c69c1b1
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento) (02)
-http://192.168.66.2:6878/ace/getstream?id=af5d3ec42b0ab662ae8d23aefaa459f7c0ea60f9
+http://192.168.66.2:6878/ace/getstream?id=ebdfa9d3c3c7f73ce1352d47e76c529ed8f9c143
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (01)
 http://23.227.140.78:8080/JsnCdcSSe8/CWvQ6KPTQR/405789
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (02)
@@ -895,6 +895,14 @@ http://31.43.191.49:25461/OBSKYSHARE/j8UEv2aumdCJ/1928
 http://31.43.191.49:25461/@bandookkboss22/FQt78a6zTtBg/1928
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080 IPTV (22)
 http://31.43.191.49:25461/EXCHfamous/4SceG2qsZkHV/1928
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080 IPTV (22)
+http://117.55.202.27:80/0003/yaz6PY6SXEFx/272962.ts
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080 IPTV (23)
+http://117.55.202.27:80/0003/yaz6PY6SXEFx/272975.ts
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 1080 IPTV (24)
+http://117.55.202.27:80/0003/yaz6PY6SXEFx/273552.ts
+#EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 720 IPTV
+http://31.43.191.49:25461/OBSKYSHARE/j8UEv2aumdCJ/6947
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes 720
 http://192.168.66.2:6878/ace/getstream?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1 group-title="M+ Deportes" tvg-id="M+ Deportes 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ Deportes 2 1080
@@ -1869,26 +1877,6 @@ http://185.53.90.34:25461/sltv/PVHDRgW4hH/64620
 http://185.53.90.34:25461/sltv/PVHDRgW4hH/64621
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA 14
 http://185.53.90.34:25461/sltv/PVHDRgW4hH/64622
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 01
-http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323752
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 02
-http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323753
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 03
-http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323754
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 04
-http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323755
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 05
-http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323756
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 06
-http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323757
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 07
-http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323758
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 08
-http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323759
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 09
-http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323760
-#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 10
-http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323761
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 01
 http://679691732897679614.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679614.ts
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 02
@@ -1919,6 +1907,26 @@ http://679691732897679626.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679626.ts
 http://679691732897679627.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679627.ts
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 2) NBA 15
 http://679691732897679628.of1030ok.xyz:80/play/vi0111820/EcQ$PHt4tB/679628.ts
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 01
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323752
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 02
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323753
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 03
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323754
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 04
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323755
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 05
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323756
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 06
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323757
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 07
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323758
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 08
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323759
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 09
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323760
+#EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,(opc. 3) NBA 10
+http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/323761
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA New York Knicks (NYK) (HD)
 http://23.150.248.48:8000/ULTRA10060/c335Vpvh2GJb/319898
 #EXTINF:-1 group-title="NBA" tvg-id="" tvg-logo="https://i.postimg.cc/kgscWw3B/nbapass.png" ,NBA Brooklyn Nets (HD)
