@@ -390,11 +390,11 @@ http://31.43.191.49:25461/@bandookkboss22/FQt78a6zTtBg/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="DAZN F1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-formula-1-366.png" ,DAZN F1 720 IPTV (16)
 http://31.43.191.49:25461/EXCHfamous/4SceG2qsZkHV/1931
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV Español(Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=1a5cb7e786724a470e9a24196796a70a236e2081
+http://192.168.66.2:6878/ace/getstream?id=f18b92ecbbffd6c105df7754fa5a783fd5ff3139
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=c3a8a8493400ce1a8dd3a44d71bbed536c69c1b1
+http://192.168.66.2:6878/ace/getstream?id=c131d3315d3e4fe16b2d23cf9da6e36d1e231519
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV (Solo evento) (02)
-http://192.168.66.2:6878/ace/getstream?id=ebdfa9d3c3c7f73ce1352d47e76c529ed8f9c143
+http://192.168.66.2:6878/ace/getstream?id=2fcf28aec8eb7596d47d1fa6de4b1826e9006984
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (01)
 http://23.227.140.78:8080/JsnCdcSSe8/CWvQ6KPTQR/405789
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="" tvg-logo="https://i.postimg.cc/t4bQRT25/f1tvlogo.png" ,F1TV 1080 IPTV (02)
@@ -402,7 +402,7 @@ http://62.182.86.121:80/live/laquitaevans3@gmail.com/laquitaevans3/769457.ts
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportF1Germany.de" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sport F1 1080 [DE]
 http://192.168.66.2:6878/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 (Solo evento)
-http://192.168.66.2:6878/ace/getstream?id=5181bd6dd3bc7b3dec8526740a3788269ea0c3ea
+http://192.168.66.2:6878/ace/getstream?id=6ff3acf29e0af5998210bb4b4649630979c6b256
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 IPTV
 http://37.49.225.107:8080/14e17190/e84b5c0d6a/265
 #EXTINF:-1 group-title="DAZN F1/ SKY F1 / F1TV" tvg-id="SkySportsF1.uk" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2541.png" ,Sky Sports F1 UK 1080 IPTV (01)
@@ -2035,15 +2035,15 @@ http://192.168.66.2:6878/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd83
 http://192.168.66.2:6878/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 group-title="Extranjeros" tvg-id="FoxSports2.us" tvg-name="Fox Sports 2" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a943.png" ,Fox Sports 2 EEUU 1080
 http://192.168.66.2:6878/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
-#EXTINF:-1 group-title="Extranjeros" tvg-id="BTSport1.uk" tvg-name="TNT Sports 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" ,TNT Sports 1 1080 
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" ,TNT Sports 1 1080 
 http://192.168.66.2:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 group-title="Extranjeros" tvg-id="BTSport1.uk" tvg-name="TNT Sports 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" ,TNT Sports 1 1080* 
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TNTSports1.uk" tvg-name="TNT Sports 1" tvg-logo="https://img.sport-tv-guide.live/images/stations/a97.png" ,TNT Sports 1 1080* 
 http://192.168.66.2:6878/ace/getstream?id=ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
-#EXTINF:-1 group-title="Extranjeros" tvg-id="BTSport2.uk" tvg-name="TNT Sports 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png" ,TNT Sports 2 1080
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TNTSports2.uk" tvg-name="TNT Sports 2" tvg-logo="https://img.sport-tv-guide.live/images/stations/a100.png" ,TNT Sports 2 1080
 http://192.168.66.2:6878/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 group-title="Extranjeros" tvg-id="BTSport3.uk" tvg-name="TNT Sports 3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png" ,TNT Sports 3 1080
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TNTSports3.uk" tvg-name="TNT Sports 3" tvg-logo="https://img.sport-tv-guide.live/images/stations/a108.png" ,TNT Sports 3 1080
 http://192.168.66.2:6878/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 group-title="Extranjeros" tvg-id="BTSport4.uk" tvg-name="TNT Sports 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a98.png" ,TNT Sports 4 1080
+#EXTINF:-1 group-title="Extranjeros" tvg-id="TNTSports4.uk" tvg-name="TNT Sports 4" tvg-logo="https://img.sport-tv-guide.live/images/stations/a98.png" ,TNT Sports 4 1080
 http://192.168.66.2:6878/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 group-title="Extranjeros" tvg-id="SkySportsArena.uk" tvg-logo="https://img.sport-tv-guide.live/images/stations/a92.png" ,Sky Sports Arena
 http://192.168.66.2:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
