@@ -1,6 +1,11 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://www.bevy.be/bevyfiles/francepremium.xml, https://xmltv.info/de/epg.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml, https://iptvx.one/EPG"
 
  
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="", 12:00 Ibiza - Castellón 
+https://feftv-live-pathprotection.secure.footprint.net/restreamer/feftv_client/gpu-c-c0-2/restreamer/rtmp/hls/1eee59ba-193f-453c-9391-626736f538de/manifest.m3u8
 
 
 
@@ -76,7 +81,7 @@ acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M. Deportes 1080
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M. Deportes 720
-acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M Deportes" tvg-id="M+ Deportes 2 HD", M. Deportes 2 1080
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" group-title="M Deportes" tvg-id="M+ Deportes 3", M. Deportes 3 1080
@@ -275,11 +280,11 @@ acestream://ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CQNdqNG/Bein1.png" group-title="Francia" tvg-id="bein-sport-1-fr", Bein Sports 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CQNdqNG/Bein1.png" group-title="Francia" tvg-id="beIN SPORTS 1.fr", Bein Sports 1
 acestream://bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4KdLb6X/Bein2.png" group-title="Francia" tvg-id="bein-sport-2-fr", Bein Sports 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4KdLb6X/Bein2.png" group-title="Francia" tvg-id="beIN SPORTS 2.fr", Bein Sports 2
 acestream://edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2XVS6h/Bein3.png" group-title="Francia" tvg-id="bein-sport-3-fr", Bein Sports 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2XVS6h/Bein3.png" group-title="Francia" tvg-id="beIN SPORTS 3.fr", Bein Sports 3
 acestream://731bd3336ec0986ff9100efe40dbaf1473a22cf8
 
 
@@ -313,19 +318,27 @@ acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gW8k3kM/ziggoselect.png" group-title="PaísesBajos" tvg-id="ZiggoSportSelect.nl", Ziggo Sport Select	
+#EXTINF:-1 tvg-logo="" group-title="PaísesBajos" tvg-id="ESPN 1", ESPN 1	
+acestream://79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-logo="" group-title="PaísesBajos" tvg-id="ESPN 2", ESPN 2	
+acestream://3e0ba6867173f345d482d80c771f1a5dc3b37e63
+#EXTINF:-1 tvg-logo="" group-title="PaísesBajos" tvg-id="ESPN 3", ESPN 3	
+acestream://a97cafedefe189d63e52eadc5c9bbc351b01540a
+#EXTINF:-1 tvg-logo="" group-title="PaísesBajos" tvg-id="ESPN 4", ESPN 4	
+acestream://5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gW8k3kM/ziggoselect.png" group-title="PaísesBajos" tvg-id="Ziggo Sport Select", Ziggo Sport Select	
 acestream://45eab0695ce13265687ace5e5bcef8d8ee8bc69a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yFtsgZv/ziggovoetbal.png" group-title="PaísesBajos" tvg-id="ZiggoSportVoetbal.nl", Ziggo Sport Voetbal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yFtsgZv/ziggovoetbal.png" group-title="PaísesBajos" tvg-id="Ziggo Sport Voetbal", Ziggo Sport Voetbal
 acestream://95769f95c6af45e8ec46526c3be1104d0a0c7b91
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wQ2Z3N1/ziggoracing.png" group-title="PaísesBajos" tvg-id="ZiggoSportRacing.nl", Ziggo Sport Racing
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wQ2Z3N1/ziggoracing.png" group-title="PaísesBajos" tvg-id="Ziggo Sport Racing", Ziggo Sport Racing
 acestream://77800bb07c1d69135024ee2379c97472eb12dd45
+#EXTINF:-1 tvg-logo="" group-title="PaísesBajos" tvg-id="Ziggo Sport Golf", Ziggo Sport Golf	
+acestream://035e34b791335962ca817f42fd14300382af3797
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Gck11Fx/TVPsport.png" group-title="Polonia" tvg-id="tvp-sport", TVP Sport HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Gck11Fx/TVPsport.png" group-title="Polonia" tvg-id="TVPSport.pl", TVP Sport HD
 acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
 #EXTINF:-1 tvg-logo="https://i.ibb.co/105yk9z/Eleven1.png" group-title="Polonia" tvg-id="eleven-sports-1", Eleven Sport 1 
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
@@ -448,9 +461,3 @@ acestream://664eb5fe460b96941aed633959a845b185cd8394
 acestream://c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0cnVCwv/foxsports2.png" group-title="USA" tvg-id="FoxSports2.us", Fox Sports 2
 acestream://cba8d369eac629b577750edb90370cd1c5fb03b7
-
- 
- 
- 
- 
- 
