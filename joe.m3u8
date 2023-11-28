@@ -218,7 +218,7 @@ http://192.168.66.2:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b328
 http://192.168.66.2:6878/ace/getstream?id=1234567890123456789012345678901234567890
 
 "#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylmE9JO6SXxLtQkKlVvw1fJK2Og.jpg",Escuadrón de élite 2 (2023)[6.3]
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylmE9JO6SXxLtQkKlVvw1fJK2Og.jpg",Escuadrón de élite 2 (2023)[6.3]
 acestream://95f1fe212134c2e21455041031d9ef297187e4a6
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xrpgepIdD1yrZQlLR1Ty7XnEQIk.jpg",A pesar de todo (2023)[]
 acestream://b923916917c4a84426918bbcf82e477064401227
