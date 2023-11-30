@@ -4,7 +4,7 @@
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="", 12:00 Ibiza - Castellón 
+#EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="", En espera 
 https://feftv-live-pathprotection.secure.footprint.net/restreamer/feftv_client/gpu-c-c0-2/restreamer/rtmp/hls/1eee59ba-193f-453c-9391-626736f538de/manifest.m3u8
 
 
@@ -12,15 +12,13 @@ https://feftv-live-pathprotection.secure.footprint.net/restreamer/feftv_client/g
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pLPmnGg/liga-TVbar.png" group-title="M LaLiga" tvg-id="LaLiga TV BAR HD", La Liga BAR 1080
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV UHD", M. LaLiga 4K
-acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV UHD", M. LaLiga 4K by Electroperra
-acestream://8286183314d367940409b760bbf887f3fb923f60
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1080 Multiaudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV UHD", M. LaLiga 1 4K
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 1080 Multiaudio
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 1080 MultiAudio
 acestream://1969c27658d4c8333ab2c0670802546121a774a5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV HD", M. LaLiga 1 720
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="M LaLiga" tvg-id="M+ LaLiga TV 2 HD", M. LaLiga 2 1080 Multiaudio
 acestream://26029f72a4ca831d09deefe89534818db1d105bc
@@ -32,11 +30,11 @@ acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1080 Multiaudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1 1080 Multiaudio
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1080 Multiaudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1 1080 Multiaudio
 acestream://75251ba975132ec9a202806ba5bf606e87280c96
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSsZcSP/DaznLiga.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga HD", DAZN LaLiga 1 720
 acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyvJQkp/Daznliga2.png" group-title="DAZN LaLiga" tvg-id="DAZN LaLiga 2 HD", DAZN LaLiga 2 1080 Multiaudio
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
@@ -51,9 +49,9 @@ acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
  
  
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 1080 MultiAudio
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 1 1080 MultiAudio
 acestream://4c46585214b23b1d802ef2168060c7649a3894cf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 1 720
 acestream://06b367c22394a1358c9cefa0cb5d0b64b9b2b3f4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 2", LaLiga Hypermotion 2 1080
 acestream://d81b4f2f3fde433539c097b2edc9b587ca47b087
@@ -78,9 +76,9 @@ acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
  
  
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M. Deportes 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M. Deportes 1 1080
 acestream://d00223931b1854163e24c5c22475015d7d45c112
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M. Deportes 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" group-title="M Deportes" tvg-id="M+ Deportes HD", M. Deportes 1 720
 acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" group-title="M Deportes" tvg-id="M+ Deportes 2 HD", M. Deportes 2 1080
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
@@ -99,13 +97,13 @@ acestream://2448f1d084f440eed2fbe847e24f1c02f5659a78
  
  
  
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones Multiaudio 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1 Multiaudio 1080
 acestream://931b1984badcb821df7b47a66ac0835ac871b51c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones Multiaudio 1080
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1 Multiaudio 1080
 acestream://f096a64dd756a6d549aa7b12ee9acf7eee27e833
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1080P
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1 1080P
 acestream://1d79a7543d691666135669f89f3541f54e2dd0a9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 720
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mTJyHFL/camp01.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones HD", M.L. Campeones 1 720
 acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/187Ky7T/camp02.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 2 HD", M.L. Campeones 2  1080
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
@@ -226,7 +224,7 @@ acestream://bb1982ae8d2d409d4ccd7a9f498042684e3532b5
 
 
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar1.png" group-title="Alemania" tvg-id="DE: DAZN 1", DAZN 1 DE
-acestream://897e73c9d578848f596585314ecb9ae067c0e229
+http://192.168.66.2:6878/ace/manifest.m3u8?id=897e73c9d578848f596585314ecb9ae067c0e229
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar2.png" group-title="Alemania" tvg-id="DE: DAZN 2", DAZN 2 DE
 acestream://12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bvfW6wV/ZDF.png" group-title="Alemania" tvg-id="DE: ZDF", ZDF
@@ -396,37 +394,37 @@ acestream://50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/NZQJc5R/MTV.png" group-title="Rusía" tvg-id="match-tv", MATCH! HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/NZQJc5R/MTV.png" group-title="Rusia" tvg-id="match-tv", MATCH! HD
 acestream://a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rZkdQg5/Mfootball1.png" group-title="Rusía" tvg-id="match-football1", MATCH! Football HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rZkdQg5/Mfootball1.png" group-title="Rusia" tvg-id="match-football1", MATCH! Football HD
 acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wzkyp7j/Mfootball2.png" group-title="Rusía" tvg-id="match-football2", MATCH! Football 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Wzkyp7j/Mfootball2.png" group-title="Rusia" tvg-id="match-football2", MATCH! Football 2
 acestream://ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KmzhVjp/Mfootball3.png" group-title="Rusía" tvg-id="match-football3", MATCH! Football 3
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KmzhVjp/Mfootball3.png" group-title="Rusia" tvg-id="match-football3", MATCH! Football 3
 acestream://b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/xmSHp48/Mprime.png" group-title="Rusía" tvg-id="match-premier", MATCH! Prime HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xmSHp48/Mprime.png" group-title="Rusia" tvg-id="match-premier", MATCH! Prime HD
 acestream://4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-logo="https://i.ibb.co/0YPbfm9/Mboets.png" group-title="Rusía" tvg-id="match-boets", MATCH! Boets
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0YPbfm9/Mboets.png" group-title="Rusia" tvg-id="match-boets", MATCH! Boets
 acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tPBz7KW/Marena.png" group-title="Rusía" tvg-id="match-arena", MATCH! Arena HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tPBz7KW/Marena.png" group-title="Rusia" tvg-id="match-arena", MATCH! Arena HD
 acestream://a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wwRj0sY/Mnash.png" group-title="Rusía" tvg-id="match-nash-sport", MATCH! Nash Sport HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wwRj0sY/Mnash.png" group-title="Rusia" tvg-id="match-nash-sport", MATCH! Nash Sport HD
 acestream://7b4362cb04a3df40bdfa3800af0cc78309a60771
-#EXTINF:-1 tvg-logo="https://i.ibb.co/n3vxk93/Migra.png" group-title="Rusía" tvg-id="match-igra", MATCH! Igra HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/n3vxk93/Migra.png" group-title="Rusia" tvg-id="match-igra", MATCH! Igra HD
 acestream://762e1d11f7d07029f316c6f61b8ef73289c6673c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R085W5P/Fightbox.png" group-title="Rusía" tvg-id="fightbox-hd", FightBox HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R085W5P/Fightbox.png" group-title="Rusia" tvg-id="fightbox-hd", FightBox HD
 acestream://49b734a5a3365674480089264be00ae28fabb640
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KszV7nC/KHL.png" group-title="Rusía" tvg-id="kxl", KHL
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KszV7nC/KHL.png" group-title="Rusia" tvg-id="kxl", KHL
 acestream://aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VjG49Vk/KHLp.png" group-title="Rusía" tvg-id="kxl-hd", KHL Prime
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VjG49Vk/KHLp.png" group-title="Rusia" tvg-id="kxl-hd", KHL Prime
 acestream://dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2jr5k/Viasat.png" group-title="Rusía" tvg-id="viasat-sport", Viasat Sport
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Qp2jr5k/Viasat.png" group-title="Rusia" tvg-id="viasat-sport", Viasat Sport
 acestream://dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nQRnPMY/Football.png" group-title="Rusía" tvg-id="football-ru", Футбол HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nQRnPMY/Football.png" group-title="Rusia" tvg-id="football-ru", Футбол HD
 acestream://fce354f24fe26ca527e2c38b14eb7b0c81f756dd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/s6mjKYH/euro1.png" group-title="Rusía" tvg-id="eurosport1", EuroSport 1 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s6mjKYH/euro1.png" group-title="Rusia" tvg-id="eurosport1", EuroSport 1 HD
 acestream://1b0bc4d4dcd609d3c092712e721392b199f50a62
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" group-title="Rusía" tvg-id="eurosport2", EuroSport 2 HD 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QFndVFJ/euro2.png" group-title="Rusia" tvg-id="eurosport2", EuroSport 2 HD 
 acestream://6176281b9c46a5621a0e88524f8dc621f173b8e0
 
 
