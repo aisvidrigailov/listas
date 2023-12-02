@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/cero.png" group-title="Movistar" tvg-id="M+ #0 HD", [ ESP] #0
-http://192.168.66.2:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
+http://2192.168.66.2:6878/ace/getstream?id=864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/vamos.png" group-title="Varios" tvg-id="M+ #VAMOSHD", [ ESP] #Vamos - 1080 (Opcion 1)
 http://192.168.66.2:6878/ace/getstream?id=069431a1199eb2545a14c0a724095e57bdc58e9c
@@ -1723,8 +1723,8 @@ acestream://b4d85bfdb66e5740fc5d99556fb25a00acd29a19
 acestream://9fab7ee2766af5e435c4c1354ced678c2c0736bc
 #EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0Mjk4Njc4M15BMl5BanBnXkFtZTgwNDExNjg4MjE@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Torrente 5  Operacion Eurovegas(2014)5.3
 acestream://96ee346513b72b444bb979a47dbe9334b4b0fea6
-
-
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/una vida maravillosa/src/una vida maravillosa-c.jpg",una vida maravillosa
+magnet:?xt=urn:btih:2A2C5B5091C54656D81E010E136E6D7E77B1E2E4
 
 
 
