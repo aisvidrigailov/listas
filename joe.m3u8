@@ -206,7 +206,42 @@ http://192.168.66.2:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b328
 http://192.168.66.2:6878/ace/getstream?id=1234567890123456789012345678901234567890
 
 "#EXTM3U
-#EXTINF:-1 group-title="CINE" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylmE9JO6SXxLtQkKlVvw1fJK2Og.jpg",Escuadrón de élite 2 (2023)[6.3]
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg",Galaxy Games (2023)[4.0]
+acestream://84228a3d80c96a716730cfcda5af52d5ca61271c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kT3Zy7kOQERHnpEHT1wMwXEpJsk.jpg",A Tale of Two Guns (2023)[5.3]
+acestream://34f622f631902ed3f63a415e581ded494161644b
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7MVENxKbO925bTm6IUb4xtZ65NZ.jpg",No Name and Dynamite (2023)[5.5]
+acestream://72091ca42b1d51f9db219c8998daf94317551002
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qs0MPcYRZ9HimnO1OoDnl7e89Iv.jpg",Elena sabe (2023)[8.0]
+acestream://89f1c0fd72ed79689c6ae17e3e0b8da81838672d
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9yiNwznQaK8oJRXvYxsm95vsvYC.jpg",Elf Me (2023) BluRay 720pRip [5.9]
+acestream://7a93f3e1252d420239d912cac5977bae86a50999
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xlwt27iWubh6DEiQhc3kyVMjCU5.jpg",El monte (2022)[6.6]
+acestream://d5e80350ed1d765f39dec9777ab0327f5cd7be51
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k7Hd7tYP7FoxI9uIMK4DOuNfCqv.jpg",Hijos de los talibanes (2023)[6.0]
+acestream://b9de4fc8bf9436149c977830d03bdf365339e90b
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hs41WYhEuaq4PaBbtaoCfGFEebi.jpg",Leo (2023) BluRay 720p [7.9*]
+acestream://2e04d1ee1dceab17641a42e358e6aaab4a204afa
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTbaGcKJgpiBpcnIDG2dvhOBBjg.jpg",Holy Shit! (2022)[6.0]
+acestream://2b846c333d24beef370ba0c8e88297c37f296fbc
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uHrWqTVds8MQ9j6iJZZ6IiQXbEi.jpg",Ultima llamada para Estambul (2023)[6.8]
+acestream://a6766704a591d73f1b3291e1607169f2bc07d51e
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1JDimECaoNDvW12wNY2FIuTPUhp.jpg",El colegio de los animales magicos 2 (2022)[6.2]
+acestream://6e86f22520f8abdc08effe7de9b620c868f401cb
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/i2w5JSEPrPOnAXBKnXToCNvgaAg.jpg",El fantastico caso del Golem (2023)[6.0]
+acestream://1eb1d2ee117baa5733ce37c24b3be9dafbb85c1d
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sp9gKDSWOpAiyoWLBddgqfilgQl.jpg",El conejo de terciopelo (2023)[7.3]
+acestream://51ed8eabe128d62095f88d7e2b56064aa22258e3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oZOAe88qvgYBQYVbTdDGEbvm3s4.jpg",No tengas miedo (2023)[6.8]
+acestream://a216ce32097b845aaedc11693641e2aa67744bf0
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sERwJxz0sqsbcUoTm66l9pI6HcH.jpg",Come Out Fighting (2023)[5.0]
+acestream://5d05d4c5c260899474f84080b1167a1ce44aac04
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wQCNCMKVIhNqfRVxvHxz60x42mv.jpg",El cuco (2023)[6.0]
+acestream://c9e298a0a949c0f0240a076f35ec24449533d461
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6shiIHV2XjDK5yErHhoeMphwpwP.jpg",The End of Sex (2023)[6.2]
+acestream://f0e453263f7691ffab4f745daf3396a351a1db04
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k0TjTcPfifQXjpTbE7cueD4XFas.jpg",Tripped Up (2023)[6.0]
+#EXTINF:-1  tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ylmE9JO6SXxLtQkKlVvw1fJK2Og.jpg",Escuadrón de élite 2 (2023)[6.3]
 http://192.168.66.2:6878/ace/getstream?id=95f1fe212134c2e21455041031d9ef297187e4a6
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xrpgepIdD1yrZQlLR1Ty7XnEQIk.jpg",A pesar de todo (2023)[]
 http://192.168.66.2:6878/ace/getstream?id=b923916917c4a84426918bbcf82e477064401227
