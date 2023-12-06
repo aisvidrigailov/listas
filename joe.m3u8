@@ -1727,7 +1727,7 @@ magnet:?xt=urn:btih:2A2C5B5091C54656D81E010E136E6D7E77B1E2E4
 
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="CINE INFANTIL" tvg-id="CINE INFANTIL", Parque magico
-acestream://bb2f61863d72483dbc4bb387d79b80d8f144f8c7
+magnet:?xt=urn:btih:bb2f61863d72483dbc4bb387d79b80d8f144f8c7
 
 #EXTINF:-1,group-title="kinki"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/24/31/19494187.jpg",group-title="kinki",Perros callejeros(1977)6.2
