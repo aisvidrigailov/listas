@@ -1725,8 +1725,8 @@ acestream://f5d6c2b0380654877ef71f2f3533bd07be7dac95
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/una vida maravillosa/src/una vida maravillosa-c.jpg",una vida maravillosa
 magnet:?xt=urn:btih:2A2C5B5091C54656D81E010E136E6D7E77B1E2E4
 
-
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="CINE INFANTIL" tvg-id="CINE INFANTIL", Parque magico
+#EXTINF:-1,group-title="CINE INFANTIL"
+#EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/parque magico/src/parque magico-c.jpg",parque magico
 magnet:?xt=urn:btih:bb2f61863d72483dbc4bb387d79b80d8f144f8c7
 
 #EXTINF:-1,group-title="kinki"
