@@ -222,8 +222,7 @@ http://192.168.66.2:6878/ace/getstream?id=12345678901234567890123456789012345678
 
 
 #EXTM3U
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9UapULHfWK4tmx9JN5v9ZjxQOLr.jpg",Pequenos grandes amigos(2023)[6.1]
+#EXTINF:-1 group-title="CINE" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9UapULHfWK4tmx9JN5v9ZjxQOLr.jpg",Pequenos grandes amigos(2023)[6.1]
 acestream://c104f4859b7ab912a8b777a309b4c77518fac0b3
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Hk4dsEw19QaGiII6uHKiJQ3lCH.jpg",Nuestro verano(2023)[5.3]
 acestream://9f210615784ff28e8fffc46f0090b59d1ce1588c
