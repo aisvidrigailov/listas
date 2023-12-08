@@ -220,7 +220,35 @@ http://192.168.66.2:6878/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b328
 #EXTINF:-1 group-title="Otro contenido" tvg-id="OTROS" tvg-logo="https://i.imgur.com/U4w7Bgy.png" ,CONTROL 17-11-23 23:25
 http://192.168.66.2:6878/ace/getstream?id=1234567890123456789012345678901234567890
 
-"#EXTM3U
+
+#EXTM3U
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9UapULHfWK4tmx9JN5v9ZjxQOLr.jpg",Pequenos grandes amigos(2023)[6.1]
+acestream://c104f4859b7ab912a8b777a309b4c77518fac0b3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Hk4dsEw19QaGiII6uHKiJQ3lCH.jpg",Nuestro verano(2023)[5.3]
+acestream://9f210615784ff28e8fffc46f0090b59d1ce1588c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ePwZs1oOh4pg8UZP8DuVZZeIn89.jpg",Un hombre de razon(2023)[6.5]
+acestream://48754357108f0ba04680aecffd779e57901ac88a
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qQLC8iFicw1vVVbGMyyZzeghC4w.jpg",Navidad en Candy Cane Lane(2023)[6.8]
+acestream://28824accbb1d27f10adec94b684964d21fcbca83
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/s0cWPhzpKJ4kspaleMcOduHBFBw.jpg",Godland(2023)[7.0]
+acestream://616a3f8713ffda629cef48650af63fbb982a64bb
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tea2gDZPxw0wfKC2S2VRWHagtt4.jpg",WifeLike(2023)[7.1]
+acestream://3c37dfa13840f7d00cf8a04517dc84a410b3c95f
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uNzgeMetu9l4q9NDw7gtiUFwPOJ.jpg",Margaux(2023)[6.6]
+acestream://d23aadb4d9456cb4e4ec9e7d437e7e9572634ff6
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h0AKLEk4XCajdav1hSHIR71cU66.jpg",Corre y dispara(2023)[5.4]
+acestream://79a726ef0e3db5e3aa14d19eca78b118d7f244cb
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cnXvfZrj1azU5Rvbb8D7Fz0wkyt.jpg",Paisaje con Mano Invisible(2023)[6.6]
+acestream://3029586bb9927099802d8583a7d58f10b4001ec9
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yrr7wjjbG56RbZvJoRZtSqkOMlQ.jpg",Me quiere No me quiere(2023)[5.0]
+acestream://817518900e4f65760f3e9b43e5b09c7ea4f0e4fe
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/3zOCE9uyOHeMT7VVcQ1QXZDSTGr.jpg",Hard Days(2023)[7.0]
+acestream://2f91741836c53c572b71d1af277057967f7dae21
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xUJJXVugggonJ0hpWtj9Qsxode1.jpg",Familia revuelta(2023)[5.5]
+acestream://8d08033bb5722ee95961fa5cc8f92f024f47d3a0
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iqShlRPeXZwpVQ7s3j4MMIUMVos.jpg",Aquello que me contaste(2023)[5.0
+acestream://287899a683a953ccd52e30b9d763b82a7d867772
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8aoIMYZUu8DRrJFkDvz13rehSFL.jpg",Galaxy Games (2023)[4.0]
 acestream://84228a3d80c96a716730cfcda5af52d5ca61271c
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kT3Zy7kOQERHnpEHT1wMwXEpJsk.jpg",A Tale of Two Guns (2023)[5.3]
