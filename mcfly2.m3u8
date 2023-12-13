@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", Encuentranos en @barcoproxy
 https://t.me/barcoproxy
@@ -34,7 +36,7 @@ http://192.168.66.2:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af56
 http://192.168.66.2:6878/ace/getstream?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 6", M.Liga De Campeones 6 1080 Aces
-http://192.168.66.2:6878/ace/getstream?id=a0978a100de9a307c12d395d9b2f4142db6ab52d
+http://192.168.66.2:6878/ace/getstream?id=64a9353032efa2acb093d0bb86481f20f482d47e
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 7", M.Liga De Campeones 7 1080 Aces
 http://192.168.66.2:6878/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
@@ -1993,6 +1995,8 @@ http://578397554410336284.ofip231209.xyz:80/play/4TP36SRKAD/sTW75gKaGc/336284.ts
 http://578397554410336285.ofip231209.xyz:80/play/4TP36SRKAD/sTW75gKaGc/336285.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: ARAGON HD
 http://578397554410336286.ofip231209.xyz:80/play/4TP36SRKAD/sTW75gKaGc/336286.ts
+#EXTINF:0 tvg-id="BomCine.es" group-title="ES   MOVISTAR+",ES: BOM CINE HD
+http://37.49.225.197:8080/linuxapp2023/THKDLbhZj5XFvf6R/75926
 #EXTINF:0 tvg-id="BomCine.es" group-title="ES   MOVISTAR+",ES: BOM CINE SD
 http://578397554410336287.ofip231209.xyz:80/play/4TP36SRKAD/sTW75gKaGc/336287.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: BON DIA TV HD
@@ -2779,6 +2783,8 @@ http://578397554410706532.ofip231209.xyz:80/play/4TP36SRKAD/sTW75gKaGc/706532.ts
 http://578397554410706533.ofip231209.xyz:80/play/4TP36SRKAD/sTW75gKaGc/706533.ts
 #EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: DISCOVERY CHANNELS HD
 http://578397554410708582.ofip231209.xyz:80/play/4TP36SRKAD/sTW75gKaGc/708582.ts
+#EXTINF:0 tvg-id="ext" group-title="ES   MOVISTAR+",ES: EURONEWS EN ESPAÑOL
+http://37.49.225.197:8080/linuxapp2023/THKDLbhZj5XFvf6R/282292
 
 
 #EXTINF:0 tvg-id="ETB3.es" group-title="ES AUTONOMICOS",ES: ETB 3 SD
