@@ -1847,9 +1847,10 @@ acestream://8fc640d6643b0807ab9d57d13ae8061554e66f7f
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/champions-46866/src/champions-46866-c.jpg",Campeones 
 acestream://11771d7b23eb571056451f0ac720c1fcf77226ff
 
+
 #EXTINF:-1,group-title="CINE INFANTIL"
 #EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/parque magico/src/parque magico-c.jpg",parque magico
-magnet:?xt=urn:btih:bb2f61863d72483dbc4bb387d79b80d8f144f8c7
+acestream://bb2f61863d72483dbc4bb387d79b80d8f144f8c7
 
 #EXTINF:-1,group-title="kinki"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/24/31/19494187.jpg",group-title="kinki",Perros callejeros(1977)6.2
