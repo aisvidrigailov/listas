@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Liga" tvg-id="M+ #MOVISTAR LIGA", [ ESP] #Movistar liga - 1080
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Liga" tvg-id="M+ #MOVISTAR LIGA2", [ ESP] #Movistar liga - 1080
 http://192.168.66.2:6878/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mll.png" group-title="Movistar Liga" tvg-id="M+ #MOVISTAR LIGA", [ ESP] #Movistar liga - 1080
@@ -1844,7 +1844,7 @@ acestream://df419348b665315b8dc57e1f276126a568926d3b
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/2025_blood_white_blue-840823943-large.jpg",2025 La Purga Anual  (2023)[6.0]
 acestream://8fc640d6643b0807ab9d57d13ae8061554e66f7f
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Campeones.jpg",Campeones  (2023)
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/champions-46866/src/champions-46866-c.jpg",Campeones 
 acestream://11771d7b23eb571056451f0ac720c1fcf77226ff
 
 #EXTINF:-1,group-title="CINE INFANTIL"
