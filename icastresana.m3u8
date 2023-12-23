@@ -336,6 +336,8 @@ acestream://035e34b791335962ca817f42fd14300382af3797
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Gck11Fx/TVPsport.png" group-title="Polonia" tvg-id="TVPSport.pl", TVP Sport HD
 acestream://d6f0a6377c31f68b1c1c071e0a8f9f105a455867
+#EXTINF:-1 tvg-logo="https://i.ibb.co/105yk9z/Eleven1.png" group-title="Polonia" tvg-id="eleven-sports-1", Eleven Sport 1 4k 
+acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-logo="https://i.ibb.co/105yk9z/Eleven1.png" group-title="Polonia" tvg-id="eleven-sports-1", Eleven Sport 1 
 acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Hd5r2GW/Eleven2.png" group-title="Polonia" tvg-id="eleven-sports-2", Eleven Sport 2
