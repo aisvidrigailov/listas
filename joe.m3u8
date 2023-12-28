@@ -1846,6 +1846,9 @@ acestream://11771d7b23eb571056451f0ac720c1fcf77226ff
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/fast-x-46429/src/fast-x-46429-c.jpg",Fast And Furious 
 acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761
 
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/fast-x-46429/src/fast-x-46429-c.jpg",Wind River
+acestream://64aec301bd39a3e8f0c64bf2d281a4265619a71a
+
 #EXTINF:-1,group-title="CINE INFANTIL"
 #EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/parque magico/src/parque magico-c.jpg",parque magico
 acestream://bb2f61863d72483dbc4bb387d79b80d8f144f8c7
