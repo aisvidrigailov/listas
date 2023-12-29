@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://iptvx.one/EPG"
 
  
-#EXTINF:-1 tvg-logo="" group-title="Prueba" tvg-id="", United Cup TENIS
-acestream://add571c7325f625878e495ccd13c37c38d534a55
+#EXTINF:-1 tvg-logo="" group-title="Prueba" tvg-id="", Future
+acestream://df215599a3d931d7af839c633b8ce1f502ce60b8
 
 
 
