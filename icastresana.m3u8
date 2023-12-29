@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://iptvx.one/EPG"
 
  
-#EXTINF:-1 tvg-logo="" group-title="Prueba" tvg-id="", Future
-acestream://627658f047f06505ba31e11e1eafe966c52900a4
+#EXTINF:-1 tvg-logo="" group-title="Prueba" tvg-id="", Campeones
+acestream://b4643f78f35becfe43813dc42bd4464363292376
 
 
 
