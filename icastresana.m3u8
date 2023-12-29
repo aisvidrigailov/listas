@@ -1,8 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://iptvx.one/EPG"
 
  
-#EXTINF:-1 tvg-logo="" group-title="Prueba" tvg-id="", ARsenal West Ham
-acestream://8ed280676de3800aca885b18f61d8357eac10315
+#EXTINF:-1 tvg-logo="" group-title="Prueba" tvg-id="", United Cup TENIS
+acestream://840702eba2e5eab2723091a8c8b32b7eb3a3e092
 
 
 
