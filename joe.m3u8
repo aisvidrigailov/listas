@@ -131,7 +131,7 @@ http://192.168.66.2:6878/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e68546
 http://192.168.66.2:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d754
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 8
 http://192.168.66.2:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
-#EXTINF:-1 group-title="M+ BARRA TV LaLiga" tvg-id="BARRA LALIGATV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv- bar-2505.png" ,La Liga BAR 1080
+#EXTINF:-1 group-title="M+ BAR TV LaLiga" tvg-id="BAR LALIGATV" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-laligatv- bar-2505.png" ,La Liga BAR 1080
 http://192.168.66.2:6878/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1 group-title="M+ Liga de Campeones" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar -liga-de-campeones-1459.png" ,ML Campeones 1080 MultiAudio
 http://192.168.66.2:6878/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
@@ -1852,56 +1852,56 @@ acestream://64aec301bd89a3e8f0c64bf2d281a4265619a71a
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wonder-park-38016/src/wonder-park-38016-c.jpg",parque magico
 acestream://215b4323bdac33ec7c1c2d0173028decb1cf0d5a
 
-#EXTINF:-1,group-title="kinki"
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/24/31/19494187.jpg",group-title="kinki",Perros callejeros(1977)6.2
+#EXTINF:-1,group-title="CINE CLASSIC"
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/24/31/19494187.jpg",Perros callejeros(1977)6.2
 acestream://9ea5952f5cb78001b2ee35c099a28300e3daceb4
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZkNTNiMjUtNTI3Ny00ZTc3LWJiZWYtYjg5MGUxZDliNzdhXkEyXkFqcGdeQXVyMTQ5ODY1ODc@._V1_.jpg",group-title="kinki",Perros callejeros 2(1979)5.4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWZkNTNiMjUtNTI3Ny00ZTc3LWJiZWYtYjg5MGUxZDliNzdhXkEyXkFqcGdeQXVyMTQ5ODY1ODc@._V1_.jpg",Perros callejeros 2(1979)5.4
 acestream://13950b174b1da8b72e92c7de811c2f0166539205
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDljNWE2YTMtZDNhNC00OGIyLTlmNGUtYTBlN2YzNGY5ZTM5XkEyXkFqcGdeQXVyMTQ5ODY1ODc@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Los ultimos golpes del torete(1980)4.9
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDljNWE2YTMtZDNhNC00OGIyLTlmNGUtYTBlN2YzNGY5ZTM5XkEyXkFqcGdeQXVyMTQ5ODY1ODc@._V1_FMjpg_UX1000_.jpg",Los ultimos golpes del torete(1980)4.9
 acestream://d88ece10fb2e0583d5cc9cfcd1e33db2456c75b1
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1MDVjZTAtZjFiZC00ZThhLTgzODUtZDJlMmJjMWQ2MDlmXkEyXkFqcGdeQXVyODcwNzMxNg@@._V1_.jpg",group-title="kinki",Yo El Vaquilla(1985)5.2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjk1MDVjZTAtZjFiZC00ZThhLTgzODUtZDJlMmJjMWQ2MDlmXkEyXkFqcGdeQXVyODcwNzMxNg@@._V1_.jpg",Yo El Vaquilla(1985)5.2
 acestream://bef103fca5f1b3fdc26af5f6ae361437490132d2
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg4ZTA3ZWUtNWJkMy00M2I1LTkxZjMtMDRmYzY2ZTc3MjExXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",El Pico(1983)6.8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZDg4ZTA3ZWUtNWJkMy00M2I1LTkxZjMtMDRmYzY2ZTc3MjExXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",El Pico(1983)6.8
 acestream://0d614bfbdd5ec62566b83b2497f7d4b4e20ab30c
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4MzU2YzQtNGE0OS00NjI0LTk1YmEtODUwMDQ4YzE2ZmJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Pico 2(1984)6.3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg4MzU2YzQtNGE0OS00NjI0LTk1YmEtODUwMDQ4YzE2ZmJjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",El Pico 2(1984)6.3
 acestream://3e33f625798c8dfccd1d712de337a258b636e1c9
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlMTFlMmMtMzY2MC00MjRkLWFhYTctYTJhZWU5N2Y0ODJkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Deprisa Deprisa(1981)6.9
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMzZlMTFlMmMtMzY2MC00MjRkLWFhYTctYTJhZWU5N2Y0ODJkXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",Deprisa Deprisa(1981)6.9
 acestream://d934e59de6ef939bc0a3c829e7783a33ffaa971b
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJmMDAzOTItNWM1Yi00MjJjLWI1YzQtZjVmMDk3NzVmZjA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",La Estanquera De Vallecas(1987)6.2
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDJmMDAzOTItNWM1Yi00MjJjLWI1YzQtZjVmMDk3NzVmZjA1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",La Estanquera De Vallecas(1987)6.2
 acestream://d7e96b2ecc0201d9ab84ae171833de6aaf91e057
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkNTFmNmEtZGE0Yy00ZmY0LThmYWUtZWRhNzVkNjU0NjUyXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_.jpg",group-title="kinki",Navajeros(1980)6.5
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNTFkNTFmNmEtZGE0Yy00ZmY0LThmYWUtZWRhNzVkNjU0NjUyXkEyXkFqcGdeQXVyMTAxMDQ0ODk@._V1_.jpg",Navajeros(1980)6.5
 acestream://483bd46eb25265bdfdcc6360c25cb74092351d9f
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1OTU2M2UtYjczZS00YThmLWJhMGMtMDY4ODQwMmI5MjY1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Matar al Nani(1988)5.8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDU1OTU2M2UtYjczZS00YThmLWJhMGMtMDY4ODQwMmI5MjY1XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Matar al Nani(1988)5.8
 acestream://4ef34e37e35d021f5eb1e9131b8b43e9b46d15ab
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNlOTFiYjctNTJjYi00ZWIxLWIyYzQtMzA3Zjc1N2FlY2VlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",El Lute (camina o revienta)(1987)6.6
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNzNlOTFiYjctNTJjYi00ZWIxLWIyYzQtMzA3Zjc1N2FlY2VlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",El Lute (camina o revienta)(1987)6.6
 acestream://b8bcff9ed628ca3872572af52d36b3bc57e982a7
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMDc3ZjUtZTkxNC00NTQxLWE2YTgtNmMwYTdlOTE0Mjk0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Colegas(1982)6.4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNWJiMDc3ZjUtZTkxNC00NTQxLWE2YTgtNmMwYTdlOTE0Mjk0XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",Colegas(1982)6.4
 acestream://65487f262ed0cb80bd1e106139b1a1eca6947fd9
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJkZTliYjYtMjg3ZC00MDEwLWI3MmItMTM2NDdhN2UyNTU4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Makinavaja El Ultimo Choriso(1992)5.7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNDJkZTliYjYtMjg3ZC00MDEwLWI3MmItMTM2NDdhN2UyNTU4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Makinavaja El Ultimo Choriso(1992)5.7
 acestream://689d9b57511286d9aae2ddfdd157c7ac73f7af08
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEyZmVlYzItZTUxYi00ZjIxLThiNzEtOWVhMzhhZTdjNDNlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Semos Peligrosos(1993)5.1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNGEyZmVlYzItZTUxYi00ZjIxLThiNzEtOWVhMzhhZTdjNDNlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Semos Peligrosos(1993)5.1
 acestream://17e012d49c0416fc7be9745aa5362c0b47289ac8 
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmZDIxNWYtNTc2OC00ODAxLThhODYtMTMzYWYwM2NkNjMyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",group-title="kinki",Sufre Mamon(1987)4.7
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWRmZDIxNWYtNTc2OC00ODAxLThhODYtMTMzYWYwM2NkNjMyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",Sufre Mamon(1987)4.7
 acestream://d06d89024a8f69369342226d7901436c1b143690
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQxZDdiYmQtNmFjMi00MTZlLTlhYTMtZDk1YjM3ZjM1Mzc5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Barrio(1998)7.1
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMjQxZDdiYmQtNmFjMi00MTZlLTlhYTMtZDk1YjM3ZjM1Mzc5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Barrio(1998)7.1
 acestream://df5cdb0feded7fc6a845a4611a12e53f1a69e8af
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ1MmJhZWQtNDFiMi00OGRkLWE2OWYtMzMyNTFjYzYxZTRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Volando Voy(2006)6.3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZTQ1MmJhZWQtNDFiMi00OGRkLWE2OWYtMzMyNTFjYzYxZTRlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",Volando Voy(2006)6.3
 acestream://782b0cf6a71928cdd50b55b0cdfb2d0a6bd53926
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM0MzcyZmQtZDI0OC00ZWQ1LWI3YmEtNmZhYjNlZmRiZTk4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Criando.Ratas(2016)6.4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BOGM0MzcyZmQtZDI0OC00ZWQ1LWI3YmEtNmZhYjNlZmRiZTk4XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Criando.Ratas(2016)6.4
 acestream://b95c27df37bc36ec61d10310629ed9be279966e8
-#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/28/11/29/4024483.jpg",group-title="kinki",Las leyes de la frontera(2021)
+#EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/pictures/21/07/28/11/29/4024483.jpg",Las leyes de la frontera(2021)
 acestream://1e3378ba0b148c6a8a08393c7f0e4e727e1e6c7f
-#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/28/10/16/1434930.jpg",group-title="kinki",Hombre muerto no sabe vivir (2021)
+#EXTINF:-1,tvg-logo="https://es.web.img3.acsta.net/pictures/21/05/28/10/16/1434930.jpg",Hombre muerto no sabe vivir (2021)
 acestream://ef341711b414c8014123872dc1bb6e787325a42d
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIyNmZmNWItZmExNS00MzA5LTk1ZTgtY2EyOTVlNWMzN2UwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Torrente el brazo tonto de la ley (1998)6.8
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BZWIyNmZmNWItZmExNS00MzA5LTk1ZTgtY2EyOTVlNWMzN2UwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_FMjpg_UX1000_.jpg",Torrente el brazo tonto de la ley (1998)6.8
 acestream://96e97be6c053f0e5e5cef2d44aeeae1c3824b04f
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODlmNGFlMDctYmE3Yy00YzA2LWEwZmUtMWM0NTI1ZWE2NDAyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",group-title="kinki",Torrente 2 mision en marbella (2001)6.4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BODlmNGFlMDctYmE3Yy00YzA2LWEwZmUtMWM0NTI1ZWE2NDAyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",Torrente 2 mision en marbella (2001)6.4
 acestream://b0fda5ffc1a12ac29353a6eeeaab9e5652b2198f
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwNTNhYmItMWEyYi00Zjk0LTk1YTgtNjQ5MzFjODExMWYyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",group-title="kinki",Torrente 3 El Protector (2005)5.5
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BNjgwNTNhYmItMWEyYi00Zjk0LTk1YTgtNjQ5MzFjODExMWYyXkEyXkFqcGdeQXVyMjc4MjcxNzI@._V1_.jpg",Torrente 3 El Protector (2005)5.5
 acestream://b4d85bfdb66e5740fc5d99556fb25a00acd29a19
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4YzE5NDgtMDAyNy00NjUwLTlmMjMtZGNhODRkMmE2MDMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",group-title="kinki",Torrente 4 Lethal Crisis (Crisis letal)(2011)5.4
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMDU4YzE5NDgtMDAyNy00NjUwLTlmMjMtZGNhODRkMmE2MDMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_.jpg",Torrente 4 Lethal Crisis (Crisis letal)(2011)5.4
 acestream://9fab7ee2766af5e435c4c1354ced678c2c0736bc
-#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0Mjk4Njc4M15BMl5BanBnXkFtZTgwNDExNjg4MjE@._V1_FMjpg_UX1000_.jpg",group-title="kinki",Torrente 5  Operacion Eurovegas(2014)5.3
+#EXTINF:-1,tvg-logo="https://m.media-amazon.com/images/M/MV5BMTk0Mjk4Njc4M15BMl5BanBnXkFtZTgwNDExNjg4MjE@._V1_FMjpg_UX1000_.jpg",Torrente 5  Operacion Eurovegas(2014)5.3
 acestream://96ee346513b72b444bb979a47dbe9334b4b0fea6
 
 
