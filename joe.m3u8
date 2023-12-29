@@ -1849,8 +1849,8 @@ acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761
 acestream://64aec301bd89a3e8f0c64bf2d281a4265619a71a
 
 #EXTINF:-1,group-title="CINE INFANTIL"
-#EXTINF:-1 tvg-logo="https://decine21.com/img/upload/obras/parque magico/src/parque magico-c.jpg",parque magico
-acestream://bb2f61863d72483dbc4bb387d79b80d8f144f8c7
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wonder-park-38016/src/wonder-park-38016-c.jpg",parque magico
+acestream://215b4323bdac33ec7c1c2d0173028decb1cf0d5a
 
 #EXTINF:-1,group-title="kinki"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/24/31/19494187.jpg",group-title="kinki",Perros callejeros(1977)6.2
