@@ -118,6 +118,9 @@ http://192.168.66.2:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="Dazn" tvg-id="Dazn 4 - 1080", [ ESP] Dazn 4 - 1080
 http://192.168.66.2:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/nba.png" group-title="Nba" tvg-id="Nba - 1080", [ ESP] Nba - 1080
+acestream://e72d03fb9694164317260f684470be9ab781ed95
+
 #EXTINF:-1 tvg-id="exit" tvg-name="ufc(uk)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",ufc(uk)
 acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",ufc2(ru)
