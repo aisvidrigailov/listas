@@ -118,7 +118,16 @@ http://192.168.66.2:6878/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/dazn04.png" group-title="Dazn" tvg-id="Dazn 4 - 1080", [ ESP] Dazn 4 - 1080
 http://192.168.66.2:6878/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
 
-
+#EXTINF:-1 tvg-id="exit" tvg-name="ufc(uk)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",ufc(uk)
+acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",ufc2(ru)
+acestream://822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1 tvg-id="exit" tvg-name="ufc2(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",ufc2(ru)
+acestream://d2374e2375a4275738e0dbed2f47d0114ad1cb64
+#EXTINF:-1 tvg-id="exit" tvg-name="Fightbox(ru)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",Fightbox(ru)
+acestream://49b734a5a3365674480089264be00ae28fabb640
+#EXTINF:-1 tvg-id="exit" tvg-name="Boxeo euro_1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcR2zLqHGnOUDq3hh4aq-azFuuHp73qnzDThOpLzcQboIS9vmotBgRR5CIhGhT6uBZ4bc&usqp=CAU" group-title="UFC/BOXEO ACESTREAM",Boxeo euro_1
+acestream://626fc7cf70680d1d77b4b5293be94f63c910ee92
 
 
 #EXTINF:-1 group-title="M+ LaLiga Smartbank" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.postimg.cc/Njyrk4sJ/ligasmartbank.png" ,LaLiga Smartbank 1080
