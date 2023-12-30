@@ -1960,8 +1960,15 @@ acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761
 acestream://64aec301bd89a3e8f0c64bf2d281a4265619a71a
 
 #EXTINF:-1,group-title="CINE INFANTIL"
-#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wonder-park-38016/src/wonder-park-38016-c.jpg",parque magico
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wonder-park-38016/src/wonder-park-38016-c.jpg",Parque magico
 acestream://1bed87a997dda5797415dc022d17ee76013e28b2
+
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/titina-47333/src/titina-47333-c.jpg",Titina
+acestream://a1d58500d954f72614c6c84a44bc8594b2ec00ad
+
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/me-he-tragado-un-extraterrestre-47386/src/me-he-tragado-un-extraterrestre-47386-c.jpg",Me He Tragado Un Extraterrestre
+acestream://59c215ca7a81977748e896d3d6ffdd90ce0b7358
+
 
 #EXTINF:-1,group-title="CINE CLASSIC"
 #EXTINF:-1,tvg-logo="https://es.web.img2.acsta.net/medias/nmedia/18/79/24/31/19494187.jpg",Perros callejeros(1977)6.2
