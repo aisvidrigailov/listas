@@ -1959,6 +1959,9 @@ acestream://9df722ed6f3fe0760981cfb0f027e08bd192c761
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wind-river-36557/src/wind-river-36557-c.jpg",Wind River
 acestream://64aec301bd89a3e8f0c64bf2d281a4265619a71a
 
+#EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/fuga-de-prision-47780/src/fuga-de-prision-47780-c.jpg",Fuga De Prision
+acestream://bd3dac01e1c2fd747b1ea35bc1107a3ce0ff12fb
+
 #EXTINF:-1,group-title="CINE INFANTIL"
 #EXTINF:-1,tvg-logo="https://decine21.com/img/upload/obras/wonder-park-38016/src/wonder-park-38016-c.jpg",Parque magico
 acestream://1bed87a997dda5797415dc022d17ee76013e28b2
