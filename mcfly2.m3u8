@@ -738,162 +738,6 @@ http://www.pandar.plus:25461/02029886660921/2628382643/202837
 #EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 10 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 10 HD (Event Only)
 http://www.pandar.plus:25461/02029886660921/2628382643/202838
 
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 1 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Francia",|FR| AMAZON PRIME LEAGUE 1 HD
-http://192.168.66.2:6878/ace/getstream?id=5323ccadb659f7d3cb5fa2e5835c5af362e144d6
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 2 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Francia",|FR| AMAZON PRIME LEAGUE 2 HD
-http://192.168.66.2:6878/ace/getstream?id=2926e34c63d83764f9c6671da53397d55041b4ea
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 3 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Francia",|FR| AMAZON PRIME LEAGUE 3 HD
-http://192.168.66.2:6878/ace/getstream?id=7b979c38e2565ea0ce4c6ec3c13f6edf05b0c08c
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 4 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Francia",|FR| AMAZON PRIME LEAGUE 4 HD
-http://192.168.66.2:6878/ace/getstream?id=77697d1e2f382196dd156ed384e84c62fc7d32f7
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 5 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Francia",|FR| AMAZON PRIME LEAGUE 5 HD
-http://192.168.66.2:6878/ace/getstream?id=d3634268718c6e52cde4a34d0e75cffef26c1ba9
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 6 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Francia",|FR| AMAZON PRIME LEAGUE 6 HD
-http://192.168.66.2:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 7 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Francia",|FR| AMAZON PRIME LEAGUE 7 HD
-http://192.168.66.2:6878/ace/getstream?id=160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
-#EXTINF:-1 tvg-ID="" tvg-name="|FR| AMAZON PRIME LEAGUE 8 HD" tvg-logo="http://vodkom.com:25461/Logo/FRANCE/SPORT/49078.png" group-title="Francia",|FR| AMAZON PRIME LEAGUE 8 HD
-http://192.168.66.2:6878/ace/getstream?id=3a21b411e9b764efefc0c2166ca07f4655b3d31c
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="Francia" tvg-id="beIN Sports 1", beIN Sports 1
-http://192.168.66.2:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Francia",FR: BEIN SPORTS 1 HD
-http://194539863471501114.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/501114.ts
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Francia",FR: BEIN SPORTS 1 SD
-http://194539863471297318.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/297318.ts
-#EXTINF:0 tvg-id="beINSport2.fr" group-title="Francia",FR: BEIN SPORTS 2 FHD
-http://194539863471297325.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/297325.ts
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Francia",FR: BEIN SPORTS 3 FHD
-http://194539863471554337.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554337.ts
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Francia",FR: BEIN SPORTS 3 HD
-http://194539863471297332.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/297332.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: CANAL+ F1
-http://194539863471551264.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/551264.ts
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="Francia",FR: CANAL+ SD
-http://194539863471551264.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/551264.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: CANAL+ PREMIER LEAGUE FHD
-http://194539863471509493.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/509493.ts
-#EXTINF:0 tvg-id="CANALplus.fr" group-title="Francia",FR: CANAL+ SD
-http://194539863471551264.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/551264.ts
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Francia",FR: CANAL+ SPORT FHD
-http://194539863471312711.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/312711.ts
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Francia",FR: CANAL+ SPORT HD
-http://194539863471552219.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/552219.ts
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Francia",FR: CANAL+ SPORT 360 HD
-http://194539863471547624.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/547624.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: CANAL+ SPORT 2 HD
-http://194539863471547623.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/547623.ts
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Francia",FR: EUROSPORT 1 FHD
-http://194539863471554355.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554355.ts
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Francia",FR: EUROSPORT 2
-http://194539863471312742.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/312742.ts
-#EXTINF:0 tvg-id="Eurosport2.fr" group-title="Francia",FR: EUROSPORT 2 HD
-http://194539863471339033.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/339033.ts
-#EXTINF:0 tvg-id="Infosport.fr" group-title="Francia",FR: INFOSPORT+ HD
-http://194539863471546072.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/546072.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: EUROSPORT 360 1
-http://194539863471547625.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/547625.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: EUROSPORT 360 2
-http://194539863471549795.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/549795.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: EUROSPORT 360 3
-http://194539863471547626.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/547626.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX10 FHD (EVENT ONLY) HD
-http://194539863471549788.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/549788.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: EUROSPORT 360 2 HD
-http://194539863471549795.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/549795.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 2 FHD
-http://194539863471549803.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/549803.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 3 HD
-http://194539863471549805.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/549805.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 7 HD
-http://194539863471549807.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/549807.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX5 (EVENT ONLY) SD
-http://194539863471550439.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/550439.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: MULTISPORTS 5 FHD (EVENT ONLY) HD
-http://194539863471550447.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/550447.ts
-#EXTINF:0 tvg-id="RMCSport3.fr" group-title="Francia",FR: RMC SPORT 3 FHD
-http://194539863471550451.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/550451.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX10 (EVENT ONLY) HD
-http://194539863471552212.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/552212.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX7 FHD (EVENT ONLY) FHD
-http://194539863471552218.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/552218.ts
-#EXTINF:0 tvg-id="CANALplusSPORT.fr" group-title="Francia",FR: CANAL+ SPORT FHD
-http://194539863471552219.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/552219.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: MULTISPORTS 4 HD (EVENT ONLY) HD
-http://194539863471552223.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/552223.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORT 10 HD
-http://194539863471552224.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/552224.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORT 5 HD
-http://194539863471552227.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/552227.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 10 FHD (EVENT ONLY) HD
-http://194539863471552228.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/552228.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 10 HD
-http://194539863471552229.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/552229.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 5 HD
-http://194539863471552231.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/552231.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX 4 HD (EVENT ONLY) HD
-http://194539863471553887.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/553887.ts
-#EXTINF:0 tvg-id="BeInSportMax5.fr" group-title="Francia",FR: BEIN SPORTS MAX 5 HD (EVENT ONLY) SD
-http://194539863471553890.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/553890.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX6 HD (EVENT ONLY) SD
-http://194539863471553897.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/553897.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: MULTISPORTS 1 SD (EVENT ONLY) HD
-http://194539863471553899.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/553899.ts
-#EXTINF:0 tvg-id="beINSport1.fr" group-title="Francia",FR: BEIN SPORTS 1 FHD
-http://194539863471554336.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554336.ts
-#EXTINF:0 tvg-id="beINSport3.fr" group-title="Francia",FR: BEIN SPORTS 3 FHD
-http://194539863471554337.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554337.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX 4 FHD (EVENT ONLY) FHD
-http://194539863471554338.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554338.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX 6 FHD (EVENT ONLY) HD
-http://194539863471554339.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554339.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX 7 HD (EVENT ONLY) FHD
-http://194539863471554340.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554340.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX 7 FHD (EVENT ONLY) HD
-http://194539863471554341.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554341.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX 9 FHD (EVENT ONLY) HD
-http://194539863471554342.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554342.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX10 SD (EVENT ONLY) HD
-http://194539863471554343.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554343.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX4 (EVENT ONLY) FHD
-http://194539863471554344.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554344.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX4 FHD (EVENT ONLY) FHD
-http://194539863471554345.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554345.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX5 FHD (EVENT ONLY) SD
-http://194539863471554346.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554346.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX6 (EVENT ONLY) SD
-http://194539863471554347.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554347.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX6 FHD (EVENT ONLY) SD
-http://194539863471554348.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554348.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX7 (EVENT ONLY) HD
-http://194539863471554349.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554349.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX7 HD (EVENT ONLY) HD
-http://194539863471554350.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554350.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX9 (EVENT ONLY) HD
-http://194539863471554351.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554351.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX9 HD (EVENT ONLY) HD
-http://194539863471554352.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554352.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX9 SD (EVENT ONLY) HD
-http://194539863471554353.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554353.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: BEIN SPORTS MAX9 FHD (EVENT ONLY) HD
-http://194539863471554354.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554354.ts
-#EXTINF:0 tvg-id="Eurosport1.fr" group-title="Francia",FR: EUROSPORT 1 FHD
-http://194539863471554355.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554355.ts
-#EXTINF:0 tvg-id="RMCSport1.fr" group-title="Francia",FR: RMC SPORT 1 FHD
-http://194539863471554356.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554356.ts
-#EXTINF:0 tvg-id="RMCSport2.fr" group-title="Francia",FR: RMC SPORT 2 FHD
-http://194539863471554357.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554357.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORT 8 HD
-http://194539863471554358.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554358.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORT NEWS HD
-http://194539863471554359.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554359.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 2 ACCESS HD
-http://194539863471554360.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554360.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 2 HD
-http://194539863471554361.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554361.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 5 FHD (EVENT ONLY) HD
-http://194539863471554362.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554362.ts
-#EXTINF:0 tvg-id="ext" group-title="Francia",FR: RMC SPORTS 9 HD
-http://194539863471554363.ot0711.xyz:80/play/ja1124874/FDBwhGwKEU/554363.ts
 
 #EXTINF:-1 tvg-logo="https://d-art.ppstatic.pl/kadry/k/r/1/7c/f8/56e4dcfcb1bdb_o_full.jpg" group-title="Polonia" tvg-id="Polsat Sports HD", Polsat Sport Extra  Multicast 
 http://192.168.66.2:6878/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
@@ -1550,9 +1394,6 @@ http://192.168.66.2:6878/ace/getstream?id=7cac3131958133ab8d363ebd3d15265ef46cbb
 EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 18-11
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtAEnBz-k1QQ9zRlK2BcMAPiGRubOpveBhG7OoQqws_deXui0ykDv0vp8ZFTJlFBu_6ggOcKiPOwfsKVv8ftE-7_G9DFwaSjhxbc1TEDXODi0OX4iygPnktII4ln1bdczLZ4kT9BkPGkZBKYuCrOI2SfcCj_CCbnvEp810XbS_6Qia_3QQRb2HFThfCcCsYrqKGMXQzvmEx2Nl3cbwjtVxFy6AVKHi-SKvOdqwcCFqTYVY0tODRyQKeHJLu09Txv9JtAHUeLRmzRaN561Vg7xv21PPWOhrAilcyiJiDQGGTnp45c62_eF6LukfAYLXl79ogzvEZqFKFYEEORhEJtJ1YzvfFzON5zFCbz3TE-iLtsVzYgZwDi7l5ArEV7j1KDfBDkHaqw-JQG7ErmN6N9RTtnmRvVylWS5dvIrSpwkrhorebjcTVquDPMPEEDAdsIJqhjjHXdb21z5H5Mvyte_2EVRUdGjQsO9yPWBB1e7F1K4z7sOTA4Hg22setkybWbwi2wvcy6F0eGkFYxotPTonw4k2EEU3elSI8qUzUnvcm1OEGCgAdWI_1gG3x7614TVjLzF7pYWg9A95w_QFPWbabGNHjYGlO517brSMWMTP9QG7Vs515CC5hPyoYfioTkXTHNj8LTuXTP8djVC8qYDQCZdGGhM5VaO8Q6KgTTtCB-DLArSt86sZhOnce36Cy_02ByOGLgSWp0q5Yh44qvFkV6XtZOGPkaNC1vQKFDba941nOBor41EZM-nGApDXKGa8oW7shQ5cMvsgmAmGE5pAD0SBoMQJ9zkFqqlXxqjNjoIAEqCWV1LXdlc3QtMjCECA.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="KINGS LEAGUE",Kings League (Sólo Eventos)
-http://relectro.xyz:8080/JoseWeib-TV/A5wjQDud0T/11763
-
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 26-11
 https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Ct0EYmkfLF6r6b0yA6uGtaxLZ6TRVsQfanaBDw_d5qdTGs3aMAAom5XfOAe5you6x6lYKn6FiRZFaoSaD0MLPNcEc82IGrbod8ElG2kHQBDJIhA2bu1k3dTaBWtkMyXoHEP1J17ZJFd9UtTZvpK1nLvRRVuYDU2MCK9lmdcsSRJlx1ck5oIT82Q5-KZXkHnVib-mrViS_nMraDs08ejbqBqot1-fcyhDzlZ9mDAUEvnVEHTcJ9tLgqiFggccEzFACTy59jXT10Y3yYkOny6fCZlrF8SjJCEz3NtE61_mLJxIRL_Vw4FtCPcYop-Ia7QJVDMAxjuU9FrpHPsg4eNqAXz9qx3r-kzguwC_bv8D32mVso7NXQNFZWcmv2VE4GOr0YwXCjRf3RR9HpqNmRrczhC8ZNMyLOEzmqFcfSDsxyqcrGMgxTXmrzVPczDsudX6FPRXvo28r9P_1wQ0wk8be2DwhMGe6uMVWphu0In8n2hsKyPEkWhkleP2BvmDHaQRmi9koGQNOlt9BqC7xXDG47RVkN7_I5-6An6h19zkxfBiwRwRysdD-r7IGpnN_SGwpXJikDivnM5vod0SGnc1pwMdhSJl6ogb5rW-8DN6E3IbYndqgmxZD7EIiy6cB0c3VGAvTqstbrNAXS2GQsIUD1UhGxdXtRBL5Z1EXryCJ5RzemDW6ede49W_85nyERpff2wGkO74M2qsC0xJNhNeVjlFR92laZf0FMCQXKNoexjfoA_QiFcU9pGx02bhBnbFxB33ybFkoZMe_sYII-ZvZ_u0Iqup6CcK3qTX5QFNW7MaDF8VF_vwKsqVW6KfgyABKgl1cy1lYXN0LTIwigg.m3u8
 
@@ -1561,20 +1402,6 @@ EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.pn
 #EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Agorafutbol 28-10
 https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtIEac6a5y8kAc9h1z2YDp8YYEJ71vRhck2dYoZG4F2tcmZMvsDXqNSbnh0ytvlJlWNTPtRQ7yZVwO91qNw9W_5pSIBYLVjBRjqABC9-tWpG_fYcrd42jvEJ0ZjBVJSUqw2KEAfl1O73r4PAjA9CuPZhd-Y2GaPiKhrwGw_4tG27m91WgFtvPXLlPqaJif1sGtF_osF1EeVoiY4pkpul9O-Zg0YYys2twgTQz_cK9PVAtRvVnh71Lt37mhXeJmFLw0fRx2oGsP1BsuP3iXmCyhbXvV4v5Ktc2EgOqVU9nvk7Ohqzl_V3dfUAxHnTi_U7oSnw1VoPoZgaHKL6FBSuatVrO5asBnpJIbz3n3yY-MFKq8_Pk6OH1Hq8EHWrm-8xUA1jX4PL2vxXKM1paDw6hgPk86oV62UBrqWnveQeW6vVM7SlCEfx1CM1rCn6pWwHkHJ-xyfSyMUc8DnUS3z7hcPIo_akJjsyskg0pwwAsFMhymnsz0rzchhTpFRBMWjS1CqoupyHFLHPSQbgu8FufVptmBs8TQIMIehwPRMihSd1cSiwnvgeym0q9qrChdPQVd1HLzOML9rRT6QFBrCn-O6rE3pIj4sGxPMBWBF2DEuD3JwhyqTgTKfR8ZTUkpOan8h4U7coCtE_mIotWlSMcvLqkw21nUvBF95ivIpTqyojptA0OsYe32tr67R-aoK9iATnikn1bWAss_NvCu3d1UilRax4BB3kw8X2Wpb_VoHY6YK6Aj8LU4Y6VUWtRtV2KiY5Dj8TTx3ZFHvl7qhCaonfcF_tGgzs2-qO9Eivj8zcWsAgASoJZXUtd2VzdC0xMOUD.m3u8
 
-
-#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
-http://newjimara.pinals.xyz:8080/OculusNet/QvwW2ZWaK2/5777
-#EXTINF:-1 tvg-id="ext" tvg-name="GH VIP 8" tvg-logo="https://areajugones.sport.es/wp-content/uploads/2023/08/gh-vip-8-1080x609.jpg" group-title="GRAN HERMANO", GH VIP 8
-http://torofuerte.ddns.net:9966/live/tele-ytrewq_123-teleg/tI097n5P@skV@z0kt/74378.ts
-
-#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »1«
-http://newjimara.pinals.xyz:8080/OculusNet/QvwW2ZWaK2/5774
-#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »2«
-http://newjimara.pinals.xyz:8080/OculusNet/QvwW2ZWaK2/5775
-#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »3«
-http://newjimara.pinals.xyz:8080/OculusNet/QvwW2ZWaK2/5776
-#EXTINF:0 tvg-id="ext" group-title="GRAN HERMANO",Chile• GRAN HERMANO (HD) »4«
-http://newjimara.pinals.xyz:8080/OculusNet/QvwW2ZWaK2/5777
 
 
 #EXTINF:-1 tvg-id="La1.es" tvg-name="TVE1" tvg-logo="https://www.gratistodo.com/wp-content/uploads/2021/12/La-1.png" group-title="Movistar TDT", TVE1
@@ -8699,76 +8526,768 @@ http://194539863471505586.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505586.mkv
 #EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2022 Plus",Re/Member (2022)
 http://194539863471505587.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505587.mkv
 
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",John Wick 4 (2023)
-http://pinelodo.in:8880/movie/aE5DtjEbYt/rffyAyjpS1/16962.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Spider-Man: Cruzando el Multiverso (2023)
-http://907341120796600988.of0828.xyz:80/movie/vi74353/Ua3A5WNyBY/600988.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Spider-Man: No Way Home (2021)
-http://907341120796600989.of0828.xyz:80/movie/vi74353/Ua3A5WNyBY/600989.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",10 días de un buen hombre (2023)
-http://194539863471505675.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505675.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Air (2023)
-http://194539863471505676.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505676.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Camino de la venganza (2023)
-http://194539863471505677.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505677.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Detective Knight: Última misión (2023)
-http://194539863471505678.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505678.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",El estrangulador de Boston (2023)
-http://194539863471505679.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505679.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",El rey de las sombras (2023)
-http://194539863471505680.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505680.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",El último baile de Magic Mike (2023)
-http://194539863471505681.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505681.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Eres tú (2023)
-http://194539863471505682.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505682.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Ghosting (2023)
-http://194539863471505683.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505683.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Hasta el fondo: La historia de Pornhub (2023)
-http://194539863471505684.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505684.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",House Party (2023)
-http://194539863471505685.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505685.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Infiesto (2023)
-http://194539863471505686.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505686.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",La elefanta del mago (2023)
-http://194539863471505687.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505687.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",La gente como vosotros (2023)
-http://194539863471505688.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505688.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",La integridad de Joseph Chambers (2023)
-http://194539863471505689.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505689.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Mansión encantada (Haunted Mansion) (2023)
-http://194539863471505690.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505690.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",La novia de América (2023)
-http://194539863471505691.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505691.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Llaman a la puerta (2023)
-http://194539863471505692.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505692.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Llaman a la puerta (2023)
-http://194539863471505693.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505693.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Lobo Feroz (2023)
-http://194539863471505694.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505694.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Los extraños (2023)
-http://194539863471505695.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505695.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Luther: Cae la noche (2023)
-http://194539863471505696.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505696.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Hart (2023)
-http://194539863471505697.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505697.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Muy lejos de aquí (2023)
-http://194539863471505698.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505698.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Operation Fortune: Ruse de Guerre (2023)
-http://194539863471505699.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505699.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Peter Pan & Wendy 4K (2023)
-http://194539863471505700.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505700.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Sayen (2023)
-http://194539863471505701.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505701.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Tetris (2023)
-http://194539863471505702.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505702.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Un fantasma anda suelto por casa (2023)
-http://194539863471505703.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505703.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",Ya era hora (2023)
-http://194539863471505704.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505704.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",¡Shazam! La furia de los dioses (2023)
-http://194539863471505705.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505705.mkv
-#EXTINF:0 tvg-id="avi" group-title=" VOD ESPAÑOL 2023",¿Encontró lo que buscaba? (2023)
-http://194539863471505706.ot0711.xyz:80/movie/ja1124874/FDBwhGwKEU/505706.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",65 (2023)
+http://427151471438505707.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505707.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Ant-Man and the Wasp: Quantumania [MULTI-SUB]
+http://427151471438505708.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505708.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Assassin (2023)
+http://427151471438505709.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505709.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Big George Foreman (2023)
+http://427151471438505710.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505710.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",The Boston Strangler (2006)
+http://427151471438505711.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505711.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Chang Can Dunk [MULTI-SUB]
+http://427151471438505712.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505712.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Clock (2023)
+http://427151471438505713.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505713.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Cocaine Bear: The True Story (2023)
+http://427151471438505714.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505714.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Crater (2022)
+http://427151471438505715.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505715.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Creed III (2023)
+http://427151471438505716.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505716.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Die Hart the Movie [MULTI-SUB]
+http://427151471438505717.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505717.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Evil Dead Rise [MULTI-SUB]
+http://427151471438505718.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505718.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Gangs of Lagos (2023)
+http://427151471438505719.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505719.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Hypnotic (2023)
+http://427151471438505720.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505720.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Inside (2023)
+http://427151471438505721.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505721.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",John Wick: Chapter 4 [MULTI-SUB]
+http://427151471438505722.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505722.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Knock at the Cabin [MULTI-SUB]
+http://427151471438505723.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505723.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Little Dixie (2023)
+http://427151471438505724.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505724.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Magic Mike's Last Dance [MULTI-SUB]
+http://427151471438505725.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505725.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Marlowe (2007)
+http://427151471438505726.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505726.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Missing (2023)
+http://427151471438505727.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505727.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Momias (2023)
+http://427151471438505728.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505728.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",On a Wing and a Prayer
+http://427151471438505729.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505729.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Operation Fortune: Ruse de Guerre [MULTI-SUB]
+http://427151471438505730.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505730.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Pathaan (2023)
+http://427151471438505731.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505731.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Peter Pan & Wendy (2023)
+http://427151471438505732.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505732.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Prom Pact [MULTI-SUB]
+http://427151471438505733.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505733.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Amor en Rye Lane (2023)
+http://427151471438505734.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505734.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Sayen (2023)
+http://427151471438505735.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505735.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Scream VI (2023)
+http://427151471438505736.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505736.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Shazam! Fury of the Gods [MULTI-SUB]
+http://427151471438505737.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505737.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Sisu (2023)
+http://427151471438505738.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505738.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Tetris (2023)
+http://427151471438505739.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505739.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Хара Бэкир (2017)
+http://427151471438505740.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505740.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",The Pope's Exorcist [MULTI-SUB]
+http://427151471438505741.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505741.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",La Puerta Mágica (2023)
+http://427151471438505742.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505742.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",The Ritual Killer (2023)
+http://427151471438505743.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505743.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Súper Mario Bros. La película (2023)
+http://427151471438505744.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505744.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",The Swan Princess: A Fairytale Is Born [MULTI-SUB]
+http://427151471438505745.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505745.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",The Unheard (2023)
+http://427151471438505746.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505746.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Wait With Me (2023)
+http://427151471438505747.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505747.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",White Men Can't Jump (2023)
+http://427151471438505748.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505748.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD MUL-SUBT 2023",Winnie the Pooh: Blood and Honey (2023)
+http://427151471438505749.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/505749.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",10 días de un buen hombre (2023)
+http://427151471438679643.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679643.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",20.000 especies de abejas (2023)
+http://427151471438679644.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679644.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",65 (2023)
+http://427151471438679645.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679645.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Perfect Addiction (2023)
+http://427151471438679647.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679647.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Agente Stone (2023)
+http://427151471438679648.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679648.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Air (2023)
+http://427151471438679649.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679649.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Air (2023)
+http://427151471438679650.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679650.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ajuste de cuentas (2023)
+http://427151471438679651.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679651.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Alguien que cuide de mí (2023)
+http://427151471438679652.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679652.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Alias (2023)
+http://427151471438679653.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679653.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Al servicio del Reich (Filip) (2023)
+http://427151471438679654.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679654.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Amar es madurar (2023)
+http://427151471438679655.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679655.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Amigos hasta la muerte (2023)
+http://427151471438679656.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679656.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Amigos pasajeros 2 (2023)
+http://427151471438679657.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679657.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",A Million Miles Away (2023)
+http://427151471438679658.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679658.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Amor al cuadrado por siempre (2023)
+http://427151471438679659.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679659.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Amor en Rye Lane (2023)
+http://427151471438679660.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679660.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Pope: Answers (2023)
+http://427151471438679661.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679661.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ant-Man y la Avispa: Quantumanía (2023)
+http://427151471438679662.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679662.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Asedio (2023)
+http://427151471438679663.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679663.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Assassin (2023)
+http://427151471438679664.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679664.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Asteroid City (2023)
+http://427151471438679665.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679665.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Astérix y Obélix y el reino medio (2023)
+http://427151471438679666.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679666.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Soulcatcher (2023)
+http://427151471438679667.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679667.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",A través del mar (2023)
+http://427151471438679668.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679668.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Awareness la realidad es una ilusión - 2023
+http://427151471438679669.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679669.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Bailarina (2023)
+http://427151471438679670.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679670.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Bajo terapia (2023)
+http://427151471438679671.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679671.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Barbie (2023)
+http://427151471438679672.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679672.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Barbie 4K (2023)
+http://427151471438679673.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679673.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Beau tiene miedo (2023)
+http://427151471438679674.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679674.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Big George Foreman (2023)
+http://427151471438679675.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679675.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Bird Box Barcelona (2023)
+http://427151471438679676.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679676.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Bisbal - El Documental - 2023
+http://427151471438679677.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679677.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Black Clover: La espada del rey mago (2023)
+http://427151471438679678.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679678.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Blondi (2023)
+http://427151471438679679.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679679.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Blue Beetle (2023)
+http://427151471438679680.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679680.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Blue Jean (2023)
+http://427151471438679681.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679681.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Boksoon debe morir (2023)
+http://427151471438679682.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679682.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Old Way (2023)
+http://427151471438679684.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679684.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Carga máxima (2023)
+http://427151471438679685.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679685.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Cash (2023)
+http://427151471438679686.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679686.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Cassandro (2023)
+http://427151471438679687.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679687.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ashes in the Sky (2023)
+http://427151471438679688.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679688.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Chevalier (2023)
+http://427151471438679689.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679689.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Chupa (2023)
+http://427151471438679690.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679690.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Cincuenta tartas para Jane (2023)
+http://427151471438679691.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679691.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Clock (2023)
+http://427151471438679692.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679692.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",How to Be a Modern Man (2023)
+http://427151471438679693.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679693.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Cosecha oscura (Dark Harvest) (2023)
+http://427151471438679694.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679694.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Creed III (2023)
+http://427151471438679695.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679695.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Criminales a la vista (2023)
+http://427151471438679696.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679696.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Cráter: Un viaje inolvidable (2023)
+http://427151471438679697.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679697.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Cuando termines de salvar el mundo (2023)
+http://427151471438679698.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679698.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Cuiden a Maya (2023)
+http://427151471438679699.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679699.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Culpa mía (2023)
+http://427151471438679700.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679700.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",De Caperucita a loba (2023)
+http://427151471438679701.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679701.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",De perdidos a Río (2023)
+http://427151471438679702.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679702.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Detective Knight: Independence (2023)
+http://427151471438679703.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679703.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Detective Knight: Independence (2023)
+http://427151471438679704.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679704.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Dieciocho otra vez (2023)
+http://427151471438679705.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679705.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Double Speech (2023)
+http://427151471438679706.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679706.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Don Cochecito y los caballeros templarios (2023)
+http://427151471438679707.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679707.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Coffee and Jessica Wongso (2023)
+http://427151471438679708.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679708.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Duell am Abgrund - 2023
+http://427151471438679709.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679709.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Dungeons & Dragons: Honor entre ladrones (2023)
+http://427151471438679710.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679710.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Día de la Madre (2023)
+http://427151471438679711.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679711.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ehrengard: El arte de la seducción (2023)
+http://427151471438679712.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679712.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El amor está en el aire (2023)
+http://427151471438679713.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679713.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El arte de matar (2023)
+http://427151471438679714.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679714.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El banco de Dave (2023)
+http://427151471438679715.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679715.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El caftán azul (2023)
+http://427151471438679716.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679716.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Swan (2023)
+http://427151471438679717.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679717.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",They Cloned Tyrone (2023)
+http://427151471438679718.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679718.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El club de los asesinos - 2023
+http://427151471438679719.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679719.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El club de los lectores criminales (2023)
+http://427151471438679720.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679720.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El Conde (2023)
+http://427151471438679721.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679721.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El curandero (2023)
+http://427151471438679722.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679722.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El desratizador (2023)
+http://427151471438679723.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679723.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Elemental (2023)
+http://427151471438679724.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679724.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El estrangulador de Boston (2023)
+http://427151471438679725.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679725.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Pope's Exorcist (2023)
+http://427151471438679726.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679726.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El hombre del saco (2023)
+http://427151471438679727.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679727.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El hotel de los líos: García y García 2 (2023)
+http://427151471438679728.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679728.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El lado dulce de la traición (2023)
+http://427151471438679729.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679729.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Master Gardener (2023)
+http://427151471438679730.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679730.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El mejor del mundo (2023)
+http://427151471438679731.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679731.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Hatchet Wielding Hitchhiker (2023)
+http://427151471438679732.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679732.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El monstruo dentro de mí - 2023
+http://427151471438679733.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679733.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El pacto (The Covenant) (2023)
+http://427151471438679734.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679734.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El piloto (2023)
+http://427151471438679735.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679735.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El reino secreto (2023)
+http://427151471438679736.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679736.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El rey de las sombras (2023)
+http://427151471438679737.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679737.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El rey mono (2023)
+http://427151471438679738.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679738.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El sabor de las cosas simples (2023)
+http://427151471438679739.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679739.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El último baile de Magic Mike (2023)
+http://427151471438679740.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679740.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Retirement Plan (2023)
+http://427151471438679741.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679741.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",El último vagón (2023)
+http://427151471438679742.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679742.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",En el Corazón de La Decimocuarta (2023)
+http://427151471438679743.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679743.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",En lo bueno y en lo malo (2023)
+http://427151471438679744.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679744.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",En tus sueños (2023)
+http://427151471438679745.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679745.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Eres tú (2023)
+http://427151471438679746.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679746.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Esta noche duermes conmigo (2023)
+http://427151471438679747.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679747.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Fanfik (2023)
+http://427151471438679748.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679748.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Fast X (2023)
+http://427151471438679749.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679749.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Fate (2023)
+http://427151471438679751.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679751.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Fenómenas (2023)
+http://427151471438679752.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679752.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Happy Ending (2023)
+http://427151471438679753.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679753.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Flamin'Hot: La historia de los Cheetos picantes (2023)
+http://427151471438679754.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679754.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Flash (2023)
+http://427151471438679755.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679755.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Flashback (2023)
+http://427151471438679756.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679756.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Flora y su hijo Max (2023)
+http://427151471438679757.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679757.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Folie à Famille (2023)
+http://427151471438679758.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679758.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Freestyle (2023)
+http://427151471438679759.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679759.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Frente a frente (2023)
+http://427151471438679760.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679760.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Fuga de Reinas (2023)
+http://427151471438679761.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679761.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ganándose el cielo (2023)
+http://427151471438679762.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679762.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ghosting (2023)
+http://427151471438679763.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679763.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Gran Turismo (2023)
+http://427151471438679764.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679764.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Guardianes de la Galaxia: Volumen 3 (2023)
+http://427151471438679766.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679766.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Guardianes de la Galaxia: Volumen 3 (2023)
+http://427151471438679767.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679767.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Guerra de diamantes (2023)
+http://427151471438679768.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679768.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Guía de viaje hacia el amor (2023)
+http://427151471438679769.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679769.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Hasta el fondo: La historia de Pornhub (2023)
+http://427151471438679770.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679770.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Hasta el fondo: La historia de Pornhub (2023)
+http://427151471438679771.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679771.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Hidden Strike (2023)
+http://427151471438679772.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679772.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",House Party (2023)
+http://427151471438679773.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679773.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Huesera (2023)
+http://427151471438679774.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679774.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",huye (2023)
+http://427151471438679775.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679775.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Identidad desbloqueada (2023)
+http://427151471438679776.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679776.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Indiana Jones y el dial del destino (2023)
+http://427151471438679777.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679777.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Indiana Jones y el dial del destino 4K - 2023
+http://427151471438679778.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679778.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Infiesto (2023)
+http://427151471438679779.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679779.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Insidious: La puerta roja (2023)
+http://427151471438679780.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679780.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",A Deadly Invitation (2023)
+http://427151471438679781.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679781.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Irati (2023)
+http://427151471438679782.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679782.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Isósceles (2023)
+http://427151471438679783.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679783.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Jagun Jagun (2023)
+http://427151471438679784.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679784.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",John Wick 4 (2023)
+http://427151471438679786.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679786.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",John Wick 4 (2023)
+http://427151471438679787.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679787.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Juego limpio (2023)
+http://427151471438679788.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679788.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Juicio al diablo (2023)
+http://427151471438679789.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679789.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Kepler Sexto B (2023)
+http://427151471438679790.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679790.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La cita de Carl (2023)
+http://427151471438679791.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679791.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La clave del corazón (2023)
+http://427151471438679792.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679792.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Perfect Find (2023)
+http://427151471438679793.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679793.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La Conspiración del Diablo (2023)
+http://427151471438679794.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679794.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La Corriente (Ibiza Blue) (2023)
+http://427151471438679795.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679795.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La desconocida (2023)
+http://427151471438679796.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679796.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La elefanta del mago (2023)
+http://427151471438679797.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679797.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ambush (2023)
+http://427151471438679798.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679798.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La extorsión (2023)
+http://427151471438679799.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679799.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La fiebre de los peluches Beanie (2023)
+http://427151471438679800.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679800.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La Fortaleza (2023)
+http://427151471438679801.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679801.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Captain Volkonogov Escaped (2023)
+http://427151471438679802.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679802.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La gente como vosotros (2023)
+http://427151471438679803.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679803.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La gran seducción (2023)
+http://427151471438679804.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679804.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",War of the Worlds : The Attack (2023)
+http://427151471438679805.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679805.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La inspiración más profunda (2023)
+http://427151471438679806.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679806.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La integridad de Joseph Chambers (2023)
+http://427151471438679807.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679807.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La madre (2023)
+http://427151471438679808.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679808.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Mansión encantada (Haunted Mansion) (2023)
+http://427151471438679809.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679809.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La maravillosa historia de Henry Sugar (2023)
+http://427151471438679810.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679810.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La monja II (2023)
+http://427151471438679811.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679811.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La niña de la comunión (2023)
+http://427151471438679812.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679812.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La novia de América (2023)
+http://427151471438679813.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679813.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La oscuridad de la Luz del Mundo (2023)
+http://427151471438679814.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679814.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La otra Zoey (2023)
+http://427151471438679815.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679815.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La Paradoja de Antares (2023)
+http://427151471438679816.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679816.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La Piedad (2023)
+http://427151471438679817.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679817.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La probabilidad estadística del amor a primera vista (2023)
+http://427151471438679818.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679818.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La Puerta Mágica (2023)
+http://427151471438679819.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679819.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La Puerta Mágica (2023)
+http://427151471438679820.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679820.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Rosa Peral's Tapes (2023)
+http://427151471438679821.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679821.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La semilla (2023)
+http://427151471438679822.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679822.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La sirenita (2023)
+http://427151471438679823.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679823.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Las pequeñas victorias (2023)
+http://427151471438679824.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679824.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Legado de sangre (2023)
+http://427151471438679825.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679825.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",LEGO Disney Princess: Misión castillo (2023)
+http://427151471438679826.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679826.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",León por un día (2023)
+http://427151471438679827.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679827.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Linoleum (2023)
+http://427151471438679828.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679828.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Liuben (2023)
+http://427151471438679829.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679829.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Llaman a la puerta (2023)
+http://427151471438679830.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679830.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Llaman a la puerta (2023)
+http://427151471438679831.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679831.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ferocious Wolf (2023)
+http://427151471438679832.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679832.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Lo desconocido La cueva de los huesos (2023)
+http://427151471438679833.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679833.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Lo desconocido: La máquina del tiempo cósmica (2023)
+http://427151471438679834.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679834.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Lo desconocido: La pirámide perdida (2023)
+http://427151471438679835.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679835.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Lo Desconocido: Los Robots Asesinos (2023)
+http://427151471438679836.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679836.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Loli Tormenta (2023)
+http://427151471438679837.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679837.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Los (casi) ídolos de Bahía Colorada (2023)
+http://427151471438679838.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679838.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Los buenos modales (2023)
+http://427151471438679839.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679839.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Los Caballeros del Zodíaco (2023)
+http://427151471438679840.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679840.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Los Caballeros del Zodíaco 4K (2023)
+http://427151471438679841.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679841.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Los encantados (2023)
+http://427151471438679842.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679842.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Los extraños (2023)
+http://427151471438679843.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679843.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Los hermanos Venture: Radiante es la sangre del corazón del babuino (2023)
+http://427151471438679844.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679844.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Los iniciados (2023)
+http://427151471438679845.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679845.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Return of the White Shark (2023)
+http://427151471438679846.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679846.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Three Musketeers (2023)
+http://427151471438679847.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679847.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Los tres mosqueteros: D'Artagnan (2023)
+http://427151471438679848.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679848.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Love Again (2023)
+http://427151471438679849.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679849.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Luther: Cae la noche (2023)
+http://427151471438679850.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679850.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Luther: Cae la noche (2023)
+http://427151471438679851.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679851.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Maestro (2023)
+http://427151471438679852.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679852.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Mansión encantada (Haunted Mansion) (2023)
+http://427151471438679853.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679853.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Manuel Carrasco. Hay noches que duran toda la vida (2023)
+http://427151471438679854.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679854.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Maquíllame otra vez (2023)
+http://427151471438679855.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679855.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Maravilloso desastre (2023)
+http://427151471438679856.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679856.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Co-Husbands (2023)
+http://427151471438679857.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679857.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Mark Cavendish: Imparable (2023)
+http://427151471438679858.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679858.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Marlowe (2023)
+http://427151471438679859.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679859.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Matar Cangrejos (2023)
+http://427151471438679860.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679860.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Matria (2023)
+http://427151471438679861.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679861.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Mavka: Guardiana del bosque (2023)
+http://427151471438679862.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679862.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Medellín (2023)
+http://427151471438679863.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679863.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Megalodón 2: La fosa (2023)
+http://427151471438679864.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679864.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",I Like Movies (2023)
+http://427151471438679865.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679865.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Me Vuelves Loca (2023)
+http://427151471438679866.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679866.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Mi crimen (2023)
+http://427151471438679867.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679867.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",hoy y siempre (2023)
+http://427151471438679868.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679868.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Mil Uno (2023)
+http://427151471438679869.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679869.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Mi maestra se comio a mi amigo (2023)
+http://427151471438679870.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679870.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Misión Imposible - Sentencia mortal parte uno - 2023
+http://427151471438679871.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679871.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Mi soledad tiene alas (2023)
+http://427151471438679872.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679872.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Missing (2023)
+http://427151471438679873.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679873.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Mixed by Erry (2023)
+http://427151471438679874.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679874.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Mob Land (2023)
+http://427151471438679875.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679875.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Momias (2023)
+http://427151471438679876.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679876.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Muchas mas hormigas entre las piernas (2023)
+http://427151471438679878.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679878.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Hart (2023)
+http://427151471438679879.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679879.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Muy lejos de aquí (2023)
+http://427151471438679880.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679880.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Nadie te salvará (2023)
+http://427151471438679881.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679881.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Nato 0. El origen del mal (2023)
+http://427151471438679882.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679882.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ni de coña estás invitada a mi bat mitsvá (2023)
+http://427151471438679883.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679883.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Nightmare Radio: The Night Stalker (2023)
+http://427151471438679884.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679884.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Nimona (2023)
+http://427151471438679885.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679885.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",No se admiten perros ni italianos (2023)
+http://427151471438679886.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679886.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Nowhere (2023)
+http://427151471438679887.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679887.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Nowhere (2023)
+http://427151471438679888.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679888.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Palm Trees and Power Lines (2023)
+http://427151471438679889.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679889.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Operación Fortune: El gran engaño (2023)
+http://427151471438679890.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679890.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Operación Kandahar (2023)
+http://427151471438679891.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679891.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Operation Fortune: Ruse de Guerre (2023)
+http://427151471438679892.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679892.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Operation Fortune Ruse de Guerre (2023)
+http://427151471438679893.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679893.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Oppenheimer: el dilema de la bomba atómica (2023)
+http://427151471438679894.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679894.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Pacto de graduación (2023)
+http://427151471438679896.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679896.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Padre y soldado (2023)
+http://427151471438679897.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679897.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Lulú Club (2023)
+http://427151471438679899.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679899.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Papás a la antigua (2023)
+http://427151471438679900.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679900.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Paradise (2023)
+http://427151471438679901.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679901.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Peter Pan & Wendy (2023)
+http://427151471438679902.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679902.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Peter Pan & Wendy 4K (2023)
+http://427151471438679903.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679903.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Piscina infinita (2023)
+http://427151471438679904.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679904.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Posesión infernal: El despertar (2023)
+http://427151471438679905.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679905.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Prodigiosa: Las aventuras de Ladybug: La película (2023)
+http://427151471438679906.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679906.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Quasi (2023)
+http://427151471438679907.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679907.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Reality (2023)
+http://427151471438679908.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679908.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Simulant (2023)
+http://427151471438679910.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679910.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Repostero y Chef (2023)
+http://427151471438679911.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679911.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Resident Evil: Death Island (2023)
+http://427151471438679912.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679912.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ricos de Amor 2 (2023)
+http://427151471438679913.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679913.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Robots (2023)
+http://427151471438679914.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679914.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",blanco y sangre azul (2023)
+http://427151471438679915.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679915.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Blood & Gold (2023)
+http://427151471438679917.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679917.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Totally Killer (2023)
+http://427151471438679918.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679918.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Sayen (2023)
+http://427151471438679919.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679919.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Scouts Honor: Los archivos secretos de los Boy Scouts de EE. UU. (2023)
+http://427151471438679920.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679920.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Scream VI (2023)
+http://427151471438679921.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679921.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Secaderos (2023)
+http://427151471438679922.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679922.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Silent Night (2023)
+http://427151471438679923.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679923.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Sin malos rollos (2023)
+http://427151471438679924.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679924.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Sisu (2023)
+http://427151471438679925.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679925.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Si todas las puertas se cierran (2023)
+http://427151471438679926.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679926.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Skinford Sentencia de muerte - 2023
+http://427151471438679927.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679927.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Sniper G.R.I.T. - Global Response & Intelligence Team - 2023
+http://427151471438679928.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679928.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Somewhere in Queens (2023)
+http://427151471438679929.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679929.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Sospechoso X (2023)
+http://427151471438679930.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679930.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Spider-Man: Cruzando el Multiverso (2023)
+http://427151471438679931.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679931.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Spider-Man: No Way Home (2021)
+http://427151471438679932.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679932.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Spider-Man Cruzando el Multiverso - 2023
+http://427151471438679933.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679933.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Spy Kids: El armagedón (2023)
+http://427151471438679934.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679934.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Stephen Curry: Un jugador subestimado (2023)
+http://427151471438679935.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679935.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Street Flow 2 (2023)
+http://427151471438679936.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679936.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Sueños y pan (2023)
+http://427151471438679937.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679937.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Supercell (2023)
+http://427151471438679938.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679938.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Surrounded - 2023
+http://427151471438679939.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679939.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Syd Barrett y el origen de Pink Floyd (2023)
+http://427151471438679940.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679940.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",quiero... o no (2023)
+http://427151471438679941.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679941.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",TAYLOR SWIFT | THE ERAS TOUR (2023)
+http://427151471438679944.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679944.mp4
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Tengo sueños eléctricos (2023)
+http://427151471438679945.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679945.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Tetris (2023)
+http://427151471438679946.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679946.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Best Man (2023)
+http://427151471438679947.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679947.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Black Book (2023)
+http://427151471438679948.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679948.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Boogeyman (2023)
+http://427151471438679950.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679950.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Burial (2023)
+http://427151471438679951.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679951.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Equalizer 3 (2023)
+http://427151471438679952.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679952.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Last Kingdom: Seven Kings Must Die (2023)
+http://427151471438679953.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679953.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",La lista: Rienda suelta (2023)
+http://427151471438679954.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679954.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",The Machine (2023)
+http://427151471438679955.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679955.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Tiburón negro (2023)
+http://427151471438679956.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679956.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Tin y Tina - 2023
+http://427151471438679957.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679957.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Transformers: El despertar de las bestias (2023)
+http://427151471438679958.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679958.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Transformers: El despertar de las bestias (2023)
+http://427151471438679959.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679959.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Tyler Rake 2 (2023)
+http://427151471438679960.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679960.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Tácticas en el amor 2 (2023)
+http://427151471438679961.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679961.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Una buena persona (2023)
+http://427151471438679962.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679962.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Una imagen para creer (2023)
+http://427151471438679963.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679963.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Una vida demasiado corta: El caso de Isabella Nardoni (2023)
+http://427151471438679964.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679964.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Una vida maravillosa (2023)
+http://427151471438679965.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679965.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Not Such An Easy Life (2023)
+http://427151471438679966.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679966.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",A Day and a Half (2023)
+http://427151471438679967.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679967.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Un fantasma anda suelto por casa (2023)
+http://427151471438679968.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679968.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Un fin de semana estupendo (2023)
+http://427151471438679969.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679969.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Un lugar por el que luchar (2023)
+http://427151471438679970.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679970.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Unos suegros de armas tomar (2023)
+http://427151471438679971.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679971.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Unwelcome (2023)
+http://427151471438679972.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679972.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Upon Entry (2023)
+http://427151471438679973.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679973.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Veneno (2023)
+http://427151471438679974.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679974.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Venus (2023)
+http://427151471438679975.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679975.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Vida perra (2023)
+http://427151471438679976.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679976.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Viejos (2023)
+http://427151471438679977.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679977.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",On a Wing and a Prayer (2023)
+http://427151471438679978.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679978.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",White Men Can't Jump - 2023
+http://427151471438679979.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679979.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Wildflower (2023)
+http://427151471438679980.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679980.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Ya era hora (2023)
+http://427151471438679982.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679982.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",aventuras en el desierto (2023)
+http://427151471438679983.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679983.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Zom 100: Cien cosas que quiero hacer antes de convertirme en zombi (2023)
+http://427151471438679984.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679984.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",¡Bukraken! (2023)
+http://427151471438679985.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679985.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",¡Shazam! La furia de los dioses (2023)
+http://427151471438679987.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679987.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",¡Vaya vacaciones! (2023)
+http://427151471438679988.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679988.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",¿Encontró lo que buscaba? (2023)
+http://427151471438679989.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679989.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",¿Encontró lo que buscaba? (2023)
+http://427151471438679990.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679990.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",¿Y qué tendrá que ver el amor? (2023)
+http://427151471438679992.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679992.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Érase una vez un asesinato (2023)
+http://427151471438679993.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679993.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Érase una vez un estudio (2023)
+http://427151471438679994.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/679994.mkv
+#EXTINF:0 tvg-id="avi" group-title="VOD ESPAÑOL 2023 Plus",Five Nights at Freddy's (2023)
+http://427151471438680001.ofip231209.xyz:80/movie/SaraguillermoCaspe/Dh9BCCJJTf/680001.mkv
+
 
 #EXTINF:0 tvg-id="avi" group-title="SER Spanish",Mujer S01 E01
 http://194539863471226573.ot0711.xyz:80/series/ja1124874/FDBwhGwKEU/226573.mkv
@@ -13199,6 +13718,8 @@ http://776662753850616746.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616746.ts
 http://776662753850616747.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616747.ts
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-exorcist-believer/images/regions/pe/tt_mobile.png",El Exorcista Creyentes (2023)
+http://192.168.66.2:6878/ace/getstream?id=530e07d2ce73aaab2fb5200a2c09f3fe487389da
 #EXTINF:-1 tvg-logo="https://www.youplanetpictures.com/wp-content/uploads/2023/04/AMAZON-1200x1600-4.jpg",Boon El protector (2022)
 http://192.168.66.2:6878/ace/getstream?id=b12cc9ed9ce9cd7cc9f981ce0b1fea127e4d1632
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",Campeonex (2023)
