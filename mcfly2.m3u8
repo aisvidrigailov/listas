@@ -13199,6 +13199,10 @@ http://776662753850616746.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616746.ts
 http://776662753850616747.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616747.ts
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1 tvg-logo="https://www.youplanetpictures.com/wp-content/uploads/2023/04/AMAZON-1200x1600-4.jpg",Boon El protector (2022)
+http://192.168.66.2:6878/ace/getstream?id=b12cc9ed9ce9cd7cc9f981ce0b1fea127e4d1632
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",Campeonex (2023)
+http://192.168.66.2:6878/ace/getstream?id=11771d7b23eb571056451f0ac720c1fcf77226ff
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/aUltima_noche_en_Milaan-505179490-large.jpg",Última noche en Milán (2023)
 http://192.168.66.2:6878/ace/getstream?id=e3f235c02150fdc9bd615a1061e0d2260b021b91
 #EXTINF:-1 tvg-logo="https://www.compraentradas.com/img/Carteles/laprincesacisne.jpg",La princesa cisne (2023)
