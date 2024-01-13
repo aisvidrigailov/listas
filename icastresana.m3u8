@@ -2,9 +2,9 @@
 
  
 #EXTINF:-1 tvg-logo="" group-title="Eventos" tvg-id="Canal 1", Canal 1
-acestream://8552d0ab6ca31e07a2de46f2d7ff1c546212dc2b
+acestream://db42b6826943198e4b51b70955df598eb7342b35
 #EXTINF:-1 tvg-logo="" group-title="Eventos" tvg-id="Canal 2", Canal 2
-acestream://9a6aaee457d88eccdef6f0c0a40523dda0e64c2a
+acestream://fb13a548c427d104d618d61b87cc66c47805a325
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bRWf26g/supercopa.png" group-title="Supercopa" tvg-id="M+ Supercopa de España", Supercopa 1080
