@@ -372,6 +372,65 @@ http://192.168.66.2:6878/ace/getstream?id=12345678901234567890123456789012345678
 #EXTM3U
 #EXTINF:-1 group-title="CINE" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9UapULHfWK4tmx9JN5v9ZjxQOLr.jpg",Pequenos grandes amigos(2023)[6.1]
 acestream://c104f4859b7ab912a8b777a309b4c77518fac0b3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nAZEJuVix2GozKLIdaupLw45PkU.jpg",Alma Mahler la pasion (2023)[6.5]
+acestream://329eaae0939f426ec94d1dfb37cff1eedb2b13a0
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qx5zfDcKIxZKsktM0WXp4SyDBwJ.jpg",Fumar provoca tos (2023)[6.2]
+acestream://bd0bd4592de34c12dcc0ae6aaa7f55c5e7156e42
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sNIHZpKv3RKTgP5m7Vdfxk8XtFT.jpg",El nuevo juguete (2023)[6.0]
+acestream://a0e33bcd1a01ba5b3f9677d37e8cfe70efe1869f
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lRe2Fqg9TfsQgNPC9mDn4TJAhTm.jpg",Que bello es morir (2023)[5.3]
+acestream://9a27bbacc98e50412fa1e71df9574c068da7a247
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RxaE0Ahi8ss8456die2Rw1jJNy.jpg",El nuevo juguete (2022)[6.0]
+acestream://463f702bd37d31051c77a1d418e6c59ef5f226cf
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gQgNvjmFlFFXHv82pIcVhaAPrNK.jpg",Perder Es Ganar un Poco (2023)[9.3]
+acestream://622e7c0b4b0443cdef718c5819b5c1edaa122e0d
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nIJqakFZbzLoi81wNlWIrUQNgCZ.jpg",La hija del pantano (2023)[6.6]
+acestream://315f995ab7bf6e12210eee378a2b787082e78932
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mDPTMieQoFusRgBXZBmW7wq3HBY.jpg",Astonishing Tales of Terror Rocktapussy (2023)[6.0]
+acestream://a6d318bf7dd5127f8af13788c23fdb4de8c95efc
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/Afqdxxh8LsTlA5Bz9fWcXyWP5Y.jpg",Napoleon (2023)[6.5]
+acestream://9a6a0bf17dd15aea190f509599dd92bf4cd68ddd
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1TLDHFYSIb2zTIcezJjQPxEotNl.jpg",Zillion (2023)[7.5]
+acestream://997e73cc18ae052468c8f8beb9661b3be6261230
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/brtFFtT4IhZta2bH1vn1qWsMY9V.jpg",Beau tiene miedo (2023)[6.8]
+acestream://44ef9a9ec0bdcdaa995b2859ffc2be15c1fd6fe8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vZtteptwaNpZmdB1YwlyXOmUVw9.jpg",Yannick (2023)[7.5]
+acestream://ce7eab7eb614f4af67e6d4d00b681dcd26863a50
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ptJWIUOm3aA15rjz5SJJwS6WJU4.jpg",Las dos caras de la justicia  (2023)[8.1]
+acestream://793d6686d0db6512ade8d9f0ac24c2c8ff6a0e81
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4gEGY23iNhWoBd7BzlwTN6vr1ip.jpg",Una noche con Adela (2023)[5,0]
+acestream://8bc35fa4f340ecb1b4b172383d67eba2e05755f5
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qGz5rffXhegQH5PGUDiObqoOt06.jpg",The OctoGames (2023)[3.0]
+acestream://594e4bc470f5ce813b50118b8a5ff3f642d89a87
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zYP2Scxw0PQSuTUZqBWIfxgHHCP.jpg",Margrete Reina del Norte (2023)[6.3]
+acestream://d5e42baf47718439352622b4f5b997fae0779187
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wJFHUglmh7xlY7g9Ql85QAJBZ6n.jpg",La vida sigue  (2023)[7.0]
+acestream://9525272c0785ae256b5a6fd30224e9e8968b6cef
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j5B6TQSYgssYdXjA7kYdTJR0tt2.jpg",Intruso (2023)[5.8]
+acestream://4a65e436f3f5b24d428be32fa49be1d042755678
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iFeyjpo8VyfqLuzjK8yI51DellS.jpg",Dancing Queen (2023)[7.5]
+acestream://3c4b13a44271c08b2895baa1c470f73f7c288a08
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k7rEpZfNPB35FFHB00ZhXHKTL7X.jpg",La sociedad de la nieve (2023)[8.5]
+acestream://9efac12d7405d676fadcce7cde842b27dd339fbe
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dFcvY2tVKz9hfsopbZhTxvDbjkh.jpg",The Creeping (2023)[4.7]
+acestream://07ec27c83ebca7313a4cc82d7cb3c017e5a8997b
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kdPMUMJzyYAc4roD52qavX0nLIC.jpg",Hablame (Talk to Me)(2023)[7.2]
+acestream://498b620718439a82dab65ee2b8b50d9ebbd06325
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vCwm7Iy8ZpfCf0aFmyJR9xeWhTq.jpg",La guerra de los Lulus (2023)[6.0]
+acestream://e20fc0438fc61b2897bb8988273f3e882121b81e
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gLmCakHPJKNukeBLYYh9qroWgdO.jpg",Saben Aquell (2023)[7.8]
+acestream://51b06abb8c287941fb07f1cd76345a42b9826585
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2ahZgaFAbWoKMfJHhmhZDrdStgD.jpg",Ultima entrega (2023)[6.0]
+acestream://9bc81ca7467b006fbec6c4f5bba95a4f7e9c5ddb
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qVKirUdmoex8SdfUk8WDDWwrcCh.jpg",El exorcista Creyente (2023)[6.2]
+acestream://d469517dbd5322bba7278e2af66c4ceac4c79d7c
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ruujFw7J0Nd3BSjbN3QODym82Qs.jpg",Miedo profundo (2023)[5.0]
+acestream://010eda2fb4613ed376462dd0f7587afc8c5ba77a
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iCsH8iUUOh8PSVNwUWVljqW4NCG.jpg",La manzana de oro (2023)[4.0]
+acestream://d5a1dd018f06cc15f3d9ccc95f8ade97deacd35d
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uQxjZGU6rxSPSMeAJPJQlmfV3ys.jpg",After Aqui acaba todo (2023)[7.0]
+acestream://94d9feb035d4e796aeafd9bda46574e03f895492
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5Hk4dsEw19QaGiII6uHKiJQ3lCH.jpg",Nuestro verano(2023)[5.3]
 acestream://9f210615784ff28e8fffc46f0090b59d1ce1588c
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ePwZs1oOh4pg8UZP8DuVZZeIn89.jpg",Un hombre de razon(2023)[6.5]
