@@ -173,6 +173,20 @@ http://192.168.66.2:6878/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d7
 #EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://telegra.ph/file/fd25f9a86fc18baa055fa.jpg", LaLiga Hypermotion 8 Aces
 http://192.168.66.2:6878/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa 1080
+http://192.168.66.2:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa 1080 plus
+http://192.168.66.2:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa 1080 MultiAudio
+http://192.168.66.2:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa el rey 1080
+http://192.168.66.2:6878/ace/getstream?id=7d70685696722c2b1b48a5ae1a7f92c445d9443d
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa el rey 720
+http://192.168.66.2:6878/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 1080 Aces
 http://192.168.66.2:6878/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
