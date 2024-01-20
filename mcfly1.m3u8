@@ -13732,6 +13732,10 @@ http://776662753850616746.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616746.ts
 http://776662753850616747.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616747.ts
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/The_Marvels_poster.jpg",The Marvels (2023)
+http://192.168.66.2:6878/ace/getstream?id=b617628df78aeed530d684be28d2206176b85501
+#EXTINF:-1 tvg-logo="https://media.pathe.nl/nocropthumb/620x955/gfx_content//api/filmdepot/v1/movie/download/35071/35071_170489_ps_sd-high.jpg",Trols 3 (2023)
+http://192.168.66.2:6878/ace/getstream?id=ef81372243eacf4d4c263da676afcf58ef1a73ed
 #EXTINF:-1 tvg-logo="https://cdnb.20m.es/sites/165/2023/07/trailer-napoleon-2023-joaquin-phoenix.jpg",Napoleón (2023)
 http://192.168.66.2:6878/ace/getstream?id=9a6a0bf17dd15aea190f509599dd92bf4cd68ddd
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Saben_aquell-806417535-mmed.jpg",Saben Aquell (2023)
