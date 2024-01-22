@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/romania.xml, https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/romania.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://iptvx.one/EPG"
 
  
 #EXTINF:-1 tvg-logo="" group-title="Eventos" tvg-id="Canal 1", Canal 1
@@ -353,6 +353,25 @@ acestream://fc5089d8e1519872fdf951779ccbca913acc9bce
 acestream://75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cbMRYqK/Premier2.png" group-title="Inglaterra" tvg-id="Viaplay Sports 2 HD", Premier Sports 2 
 acestream://4903ca695edb64bc72ae29eb85a5333ba0139537
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Italia" tvg-id="Sky Sport Tennis.it", Sky Sport Tennis HD
+acestream://89e380332cc52ae3b7774607fbf54813fb7f4dd7
+#EXTINF:-1 tvg-logo="" group-title="Italia" tvg-id="Sky Sport Uno.it", Sky Sport Uno HD 
+acestream://56de175b8323194667424e587414abb9fde5798a
+#EXTINF:-1 tvg-logo="" group-title="Italia" tvg-id="Sky Sport24.it", Sky Sport24 HD
+acestream://0286f071fee7bdf534c1602a371deb1f2b1b78e2
+#EXTINF:-1 tvg-logo="" group-title="Italia" tvg-id="Sky Sport Arena.it", Sky Sport Arena HD 
+acestream://b98fc0522f0442429f8c1f4216b2b06b593b33ae
+#EXTINF:-1 tvg-logo="" group-title="Italia" tvg-id="Sky Sport Golf.it", Sky Sport Golf HD
+acestream://a5597a324630eb1b15cb48cf3d34238e732b04e2
+#EXTINF:-1 tvg-logo="" group-title="Italia" tvg-id="Sky Sport NBA.it", Sky Sport NBA HD
+acestream://ee197f7428f5d4cc88f5e2c936b2f0d38a88e6b5
+#EXTINF:-1 tvg-logo="" group-title="Italia" tvg-id="Sky Sport F1.it", Sky Sport F1 HD
+acestream://db71c3bbdf37d6382a45ff59b85da3c5426ff982
 
 
 
