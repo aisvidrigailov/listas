@@ -13732,6 +13732,10 @@ http://776662753850616746.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616746.ts
 http://776662753850616747.of090823.xyz:80/play/NK3WSHK362/AfrDMDshjwWm/616747.ts
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Johnny_Z-925391147-large.jpg",Johnny Z (2023)
+http://192.168.66.2:6878/ace/getstream?id=32f825b0f88f832bc2c9706ca61a713520c414ec
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Luces_fuera-136321744-large.jpg",Luces Fuera (2024)
+http://192.168.66.2:6878/ace/getstream?id=38f1a225ac98205b451e6f3533b10616c2fc214c
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Noche_de_paz-154154009-large.jpg",Noche de paz (2023)
 http://192.168.66.2:6878/ace/getstream?id=d6dd4a0b811fcbd22eac72a640012a08ed5a6027
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/The_Marvels_poster.jpg",The Marvels (2023)
