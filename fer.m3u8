@@ -2,30 +2,16 @@
 <html>
 <head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Dropbox - 404</title>
+<title>Dropbox - 503</title>
 <link href="https://cfl.dropboxstatic.com/static/metaserver/static/css/error.css" rel="stylesheet" type="text/css"/>
 <link rel="shortcut icon" href="https://cfl.dropboxstatic.com/static/images/favicon.ico"/>
 </head>
 <body>
 <div class="figure">
-<img src="https://assets.dropbox.com/www/en-us/illustrations/spot/look-magnifying-glass.svg" alt="Error: 404"/>
+<img src="https://assets.dropbox.com/www/en-us/illustrations/spot/target-miss.svg" alt="Error: 503"/>
 </div>
 <div id="errorbox">
-<div class="not-found">
-                <h1>Error (404)</h1>
-                We can't find the page you're looking for.
-                <div class="not-found--links">
-                    Here are a few links that may be helpful:
-                    <ul>
-                        <li><a href="https://www.dropbox.com/home?_tk=fof">Home</a></li>
-                        <li><a href="https://www.dropbox.com/help?_tk=fof">Help center</a></li>
-                        <li><a href="https://www.dropbox.com/login?_tk=fof">Sign in</a></li>
-                        <li><a href="https://www.dropbox.com/register?_tk=fof">Get a free account</a></li>
-                        <li><a href="https://www.dropbox.com/plus?_tk=fof">Dropbox Plus</a></li>
-                        <li><a href="https://www.dropbox.com/business?_tk=fof">Dropbox Business</a></li>
-                    </ul>
-                </div>
-            </div>
+<h1>Error (503)</h1>Something went wrong. Don't worry, your files are still safe and the Dropbox team has been notified. Check out our <a href="https://status.dropbox.com">Status Page</a> to see if there is a known incident, our <a href="https://www.dropbox.com/help">Help Center</a> and <a href="https://forums.dropbox.com">forums</a> for help, or head back to <a href="https://www.dropbox.com/home">home</a>.
 </div>
 
 </body>
