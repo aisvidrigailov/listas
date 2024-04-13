@@ -312,7 +312,7 @@ http://192.168.66.2:6878/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e
 http://192.168.66.2:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios Acestream" tvg-id="M+ Golf HD", M. Golf
-http://192.168.66.2:6878/ace/getstream?id=4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
+http://192.168.66.2:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/188px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="Varios Acestream" tvg-id="M+ Golf 2 HD", M. Golf 2
 http://192.168.66.2:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
@@ -1429,6 +1429,13 @@ https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4yc
 
 
 #EXTINF:-1,group-title="Peliculas Acestream"
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ferrari-253622060-large.jpg",Ferrari (2023)
+http://192.168.66.2:6878/ace/getstream?id=dc6d33ac4e45dcc7d0c960a99c86f8a7bd77bd62
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Anatomaia_de_una_caaida-928329893-large.jpg",Anatomia de una caida (2023)
+http://192.168.66.2:6878/ace/getstream?id=7875854eda6d1765b8aa15b27c3fe4e34724576e
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Vidas_pasadas-924615368-large.jpg",Vidas pasadas (2023)
+http://192.168.66.2:6878/ace/getstream?id=5f22dff6ad46c8fc843c7b91f24efb25b18fecfc
 #EXTINF:-1 tvg-logo="https://podermigrante.es/storage/2023/12/ocho-apellidos-marroquis-racismo.jpeg",Ocho apellidos marroquís (2023)
 http://192.168.66.2:6878/ace/getstream?id=fadd2db4e1fcec19278fc520dd5f5b45668e84fc
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Mi_otro_Jon-578375141-large.jpg",Mi otro Jon (2023)
