@@ -2,7 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
 
-#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", Encuentranos en @barcoproxy
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", Encuentranos en @barcopro
 https://t.me/barcoproxy
 
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi Aces
