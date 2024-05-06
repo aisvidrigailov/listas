@@ -1,10 +1,10 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml, https://www.bevy.be/bevyfiles/turkeypremium1.xml, https://www.bevy.be/bevyfiles/poland.xml, https://xmltv.info/de/epg.xml, https://www.bevy.be/bevyfiles/unitedstatespremium1.xml, https://www.bevy.be/bevyfiles/unitedkingdom.xml, https://www.bevy.be/bevyfiles/netherlands.xml, https://www.bevy.be/bevyfiles/romania.xml, https://www.bevy.be/bevyfiles/italypremium.xml, https://iptvx.one/EPG"
 
  
-#EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 1", Canal 1
-acestream://a7d47bab1411685434074cc6dd18a73b6ca43607
-#EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 2", Canal 2
-acestream://76f48ddb3066dd67c1f73a1d847a392c8890032d
+#EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 1", Canal 1.
+acestream://4340f8b4726bedadbc2bd0d137cf3b4f6afa40ef
+#EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 2", Canal 2.
+acestream://6af6ef2a1e14b58801a1176f88ea5e323fb0ac20
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 3", Canal 3
 acestream://dbb0c3221cd95382215f6962f8304d8a6d4a3c91
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="", Prueba
