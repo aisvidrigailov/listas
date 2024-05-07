@@ -1430,6 +1430,8 @@ https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4yc
 
 #EXTINF:-1,group-title="Peliculas Acestream"
 
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cazafantasmas_Imperio_helado-183801540-large.jpg",Cazafantasmas Imperio helado (2024)
+http://192.168.66.2:6878/ace/getstream?id=01275f73ae7354316f2904cd92d6dbd791b497fa
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/No_way_up_2024_poster.jpg/220px-No_way_up_2024_poster.jpg",Atrapados en el abismo No Way Up (2024)
 http://192.168.66.2:6878/ace/getstream?id=a528f098e7ac6053f1227890356f796b78e29663
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/rebel_moon_part_two_the_scargiver-347614416-mmed.jpg",Rebel Moon Parte 2 (2024)
