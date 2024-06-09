@@ -1,5 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
+
+
 #EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.postimg.cc/zDn8qwjr/4kuhd.png" group-title="www.elcano.top", F1 [4k] OFF
 http://192.168.66.2:6878/ace/getstream?id=c021e3af42b9cd3743817a2c6258e0986666dd73
 
@@ -210,6 +212,8 @@ http://192.168.66.2:6878/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65
 
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" group-title="www.elcano.top", EuroSport 1 1080
 http://192.168.66.2:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/NpNJvq8/4klogo.jpg" group-title="www.elcano.top", EuroSport 1 [4k]
+http://192.168.66.2:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 tvg-id="Eurosport 2 HD" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" group-title="www.elcano.top", EuroSport 2 1080
 http://192.168.66.2:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg" group-title="www.elcano.top", GOL TV 1080
