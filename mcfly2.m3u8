@@ -315,7 +315,7 @@ http://192.168.66.2:6878/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb79622016
 http://192.168.66.2:6878/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/188px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="Varios Acestream" tvg-id="M+ Golf 2 HD", M. Golf 2
-http://192.168.66.2:6878/ace/getstream?id=9a4f3ae6563668b7709dac509dedc709441b3fd9
+http://192.168.66.2:6878/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
 
 #EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios Acestream" tvg-id="beIN Sport ñ1", beIN SPORT ñ1
 http://192.168.66.2:6878/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
@@ -385,6 +385,9 @@ http://638563156749558672.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/558672.ts
 http://638563156749558673.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/558673.ts
 
 
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2023/01/tenis-eurosport-4k.jpg" group-title="Eurosport" tvg-id="Eurosport 4K", Eurosport 4K - Aces
+http://192.168.66.2:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
+
 #EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Eurosport" tvg-id="Eurosport 1 HD", Eurosport 1 - 1080 Aces
 http://192.168.66.2:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 
@@ -408,7 +411,7 @@ http://192.168.66.2:6878/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd66618
 http://192.168.66.2:6878/ace/getstream?id=3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
 
 #EXTINF:-1 tvg-id="" tvg-name="TVE1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="TDT", TVE1 HD
-http://192.168.66.2:6878/ace/getstream?id=6636a5c1055b5913ddcd0e87a5523f7d935350af
+http://192.168.66.2:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 
 #EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-logo="https://www.unedvalencia.es/wordpress/wp-content/uploads/2021/07/la2.png" group-title="TDT", La 2
 http://192.168.66.2:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
