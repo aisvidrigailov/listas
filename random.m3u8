@@ -805,6 +805,43 @@ http://192.168.66.2:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb866349
 #EXTINF:-1 tvg-logo="https://i.blogs.es/954aa1/1-uhd/450_1000.jpeg" group-title="TDT" tvg-id="La 1 UHD", La 1 UHD
 http://192.168.66.2:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosport1.jpg.pagespeed.ic.rVlzGfT29E.jpg" group-title="Eurosport" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
+http://192.168.66.2:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosport1.jpg.pagespeed.ic.rVlzGfT29E.jpg" group-title="Eurosport" tvg-id="Eurosport 1 FHD", Eurosport 1 FHD
+http://192.168.66.2:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+
+#EXTINF:-1 tvg-logo="https://cdn.avpasion.com/wp-content/uploads/2023/01/eurosport-4k.jpg" group-title="Eurosport" tvg-id="Eurosport 4K", Eurosport 4K
+http://192.168.66.2:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosports2.jpg.pagespeed.ic.IYbeltHOWV.jpg" group-title="Eurosport" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
+http://192.168.66.2:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+
+#EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/e/u/r/xeurosports2.jpg.pagespeed.ic.IYbeltHOWV.jpg" group-title="Eurosport" tvg-id="Eurosport 2 FHD", Eurosport 2 FHD
+http://192.168.66.2:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/49/Eurosport_3_HD.svg/revision/latest?cb=20191222140254" group-title="Eurosport" tvg-id="Eurosport 3 FHD", Eurosport 3 FHD
+http://192.168.66.2:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/Eurosport_4_HD.svg/revision/latest?cb=20191222140539" group-title="Eurosport" tvg-id="Eurosport 4 FHD", Eurosport 4 FHD
+http://192.168.66.2:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/29/Eurosport_5_HD.svg/revision/latest?cb=20191222140710" group-title="Eurosport" tvg-id="Eurosport 5 FHD", Eurosport 5 FHD
+http://192.168.66.2:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/Eurosport_6_HD.svg/revision/latest?cb=20220505150638" group-title="Eurosport" tvg-id="Eurosport 6 FHD", Eurosport 6 FHD
+http://192.168.66.2:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/Eurosport_7_HD.svg/revision/latest?cb=20220505150639" group-title="Eurosport" tvg-id="Eurosport 7 FHD", Eurosport 7 FHD
+http://192.168.66.2:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4b/Eurosport_8_HD.svg/revision/latest?cb=20220505150639" group-title="Eurosport" tvg-id="Eurosport 8 FHD", Eurosport 8 FHD
+http://192.168.66.2:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Eurosport_9_HD.svg/revision/latest?cb=20220505150639" group-title="Eurosport" tvg-id="Eurosport 9 FHD", Eurosport 9 FHD
+http://192.168.66.2:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
+
+
 
 #EXTINF:-1 tvg-logo="" group-title="Alemania" tvg-id="vacio", vacio
 
