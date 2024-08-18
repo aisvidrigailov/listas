@@ -251,9 +251,9 @@ http://192.168.66.2:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d058686
 
 
 
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar1.png" group-title="Alemania" tvg-id="DAZN 1 GER", DAZN 1 DE
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar1.png" group-title="Alemania" tvg-id="DE: DAZN 1", DAZN 1 DE
 http://192.168.66.2:6878/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
-#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar2.png" group-title="Alemania" tvg-id="DAZN 2 GER", DAZN 2 DE
+#EXTINF:-1 tvg-logo="https://picon.pp.ua/daznbar2.png" group-title="Alemania" tvg-id="DE: DAZN 2", DAZN 2 DE
 http://192.168.66.2:6878/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
 #EXTINF:-1 tvg-logo="https://picon.pp.ua/eurosport1.png" group-title="Alemania" tvg-id="Eurosport 1 GER", Eurosport 1
 http://192.168.66.2:6878/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
@@ -347,6 +347,13 @@ http://192.168.66.2:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CQNdqNG/Bein1.png" group-title="Francia" tvg-id="BEIN SPORTS 1 FRA", Bein Sports 1
+http://192.168.66.2:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4KdLb6X/Bein2.png" group-title="Francia" tvg-id="BEIN SPORTS 2 FRA", Bein Sports 2
+http://192.168.66.2:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/k2XVS6h/Bein3.png" group-title="Francia" tvg-id="BEIN SPORTS 3 FRA", Bein Sports 3
+http://192.168.66.2:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/74J7CWB/prime.png" group-title="Francia" tvg-id="amazon prime video 1 FRA", Amazon Prime Video 1
 #http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 tvg-logo="https://i.ibb.co/74J7CWB/prime.png" group-title="Francia" tvg-id="amazon prime video  FRA", Amazon Prime Video 2
@@ -363,13 +370,6 @@ http://192.168.66.2:6878/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da
 http://192.168.66.2:6878/ace/getstream?id=160b4b508a11f8c8b5c6e0e62ac04a437e00bb67
 #EXTINF:-1 tvg-logo="https://i.ibb.co/74J7CWB/prime.png" group-title="Francia" tvg-id="amazon prime video 1 FRA", Amazon Prime Video 8
 http://192.168.66.2:6878/ace/getstream?id=3a21b411e9b764efefc0c2166ca07f4655b3d31c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CQNdqNG/Bein1.png" group-title="Francia" tvg-id="BEIN SPORTS 1 FRA", Bein Sports 1
-http://192.168.66.2:6878/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/4KdLb6X/Bein2.png" group-title="Francia" tvg-id="BEIN SPORTS 2 FRA", Bein Sports 2
-http://192.168.66.2:6878/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/k2XVS6h/Bein3.png" group-title="Francia" tvg-id="BEIN SPORTS 3 FRA", Bein Sports 3
-http://192.168.66.2:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-
 
 
 
