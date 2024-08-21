@@ -152,7 +152,7 @@ http://192.168.66.2:6878/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/pJ5dZBG/camp03.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 3 HD", M.L. Campeones 3 720
 http://192.168.66.2:6878/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9GtKncC/camp04.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 4", M.L. Campeones 4 1080
-#http://192.168.66.2:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+http://192.168.66.2:6878/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/T2m99sr/camp05.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 5", M.L. Campeones 5 1080
 #http://192.168.66.2:6878/ace/getstream?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
 #EXTINF:-1 tvg-logo="https://i.ibb.co/K01vG2M/camp06.png" group-title="M Campeones" tvg-id="M+ Liga de Campeones 6", M.L. Campeones 6 1080
@@ -341,6 +341,10 @@ http://192.168.66.2:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff5
 http://192.168.66.2:6878/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" group-title="España" tvg-id="DAZN 4 HD", DAZN 4 
 http://192.168.66.2:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
+#EXTINF:-1 tvg-logo="" group-title="España" tvg-id="ETB 1", ETB 1
+http://192.168.66.2:6878/ace/getstream?id=2bac673f7fc25abda5f902850ce9f8c04a2b2056
+#EXTINF:-1 tvg-logo="" group-title="España" tvg-id="ETB 2", ETB 2
+http://192.168.66.2:6878/ace/getstream?id=621f7215bb1f5593aa118e8540a1bb3aac11ffe4
 
 
 
