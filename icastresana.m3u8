@@ -3,9 +3,9 @@
 
 
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 1", Canal 1
-http://192.168.66.2:6878/ace/getstream?id=558fb60d1b9574861997d6115e66af305cdd562a
+http://192.168.66.2:6878/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="" group-title="1RFEF" tvg-id="Canal 2", Canal 2
-http://192.168.66.2:6878/ace/getstream?id=b674d9aaa0c4e6534e83879e5c6edd6fec641303
+http://192.168.66.2:6878/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
 
 
 
