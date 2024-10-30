@@ -806,7 +806,7 @@ http://37.49.225.107:8080/streamnet/a8b92bb196/3044
 #EXTINF:-1 group-title="Hispanoamérica" tvg-id="FOX SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a944.png" ,Fox Sports 3 ARG IPTV (02)
 http://37.49.225.107:8080/14e17190/e84b5c0d6a/3044
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 4K" tvg-logo="https://i.postimg.cc/1X9v5mSX/euro4k.png" ,EuroSport 4K
-http://192.168.66.2:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20
+http://192.168.66.2:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080*
 http://192.168.66.2:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Eurosport" tvg-id="Eurosport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-es-eurosport-1-615.png" ,EuroSport 1 1080
@@ -1190,7 +1190,7 @@ http://chipidominio.online:8080/patriciosonncalderon/4ZC4SsdD4/157442
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://i.postimg.cc/Hk59y0C2/liga2.png" ,M+ LaLigaTV 2 720
 http://192.168.66.2:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://i.postimg.cc/pX3BrG3r/liga3.png" ,M+ LaLigaTV 3 1080
-http://192.168.66.2:6878/ace/getstream?id=de52318ab15c921d8d5c036c5f33562382b5ae71
+http://192.168.66.2:6878/ace/getstream?id=ffbfbe31665c5b7f2f687872ba28f5f8717aedfc
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://i.postimg.cc/pX3BrG3r/liga3.png" ,M+ LaLigaTV 3 1080 (02)
 http://192.168.66.2:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://i.postimg.cc/pX3BrG3r/liga3.png" ,M+ LaLigaTV 3 1080 Multi
@@ -1214,7 +1214,7 @@ http://chipidominio.online:8080/patriciosonncalderon/4ZC4SsdD4/157443
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://i.postimg.cc/pX3BrG3r/liga3.png" ,M+ LaLigaTV 3 1080 IPTV (10)
 http://62.182.83.91:80/rap1155!/ueaDJhayehagEEajdhka!!1@!/13966
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.postimg.cc/yYDPV4Q2/liga4.png" ,M+ LaLigaTV 4 1080
-http://192.168.66.2:6878/ace/getstream?id=5c2ee247211b205f64ef1cf90ef5c45408657326
+http://192.168.66.2:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.postimg.cc/yYDPV4Q2/liga4.png" ,M+ LaLigaTV 4 1080 IPTV
 http://37.49.225.107:8080/14e17190/e84b5c0d6a/269466
 #EXTINF:-1 group-title="M+ LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://i.postimg.cc/yYDPV4Q2/liga4.png" ,M+ LaLigaTV 4 1080 IPTV (02)
