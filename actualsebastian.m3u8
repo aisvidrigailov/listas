@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/eldepor/epg/main/ziggogo.tv.xml, https://raw.githubusercontent.com/eldepor/epg/main/sky.de.xml, https://raw.githubusercontent.com/eldepor/epg/main/flixed.io.xml, https://raw.githubusercontent.com/eldepor/epg/main/bt.com.xml"
 
 #EXTINF:-1 tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", elcano by Lucas
-https://elcano.top
+https://www.youtube.com/embed/wQf5Nho1CJI?autoplay=1&fs=1
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MF1UHD", DAZN F1 UHD ep  c021
 http://192.168.66.2:6878/ace/getstream?id=c021e3af42b9cd3743817a2c6258e0986666dd73
 #EXTINF:-1 group-title="DAZN F1" tvg-id="DAZN F1 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MVF1", DAZN F1 Multicámara  9686
@@ -28,8 +28,8 @@ http://192.168.66.2:6878/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108
 http://192.168.66.2:6878/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG1", M+ LaLiga 2 720  8012
 http://192.168.66.2:6878/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0
-#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", M+ LaLiga 3 1080  4c48
-http://192.168.66.2:6878/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929
+#EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG2", M+ LaLiga 3 1080  ffbf
+http://192.168.66.2:6878/ace/getstream?id=ffbfbe31665c5b7f2f687872ba28f5f8717aedfc
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 4" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG3", M+ LaLiga 4 1080  aa8f
 http://192.168.66.2:6878/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 #EXTINF:-1 group-title="LaLiga" tvg-id="M+ LaLiga TV 5" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/MLIG4", M+ LaLiga 5 1080  5353
@@ -200,35 +200,27 @@ http://192.168.66.2:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb
 http://192.168.66.2:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg", Eurosport 2 1080  c373
 http://192.168.66.2:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Euro 4k  6313
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgdqJODqwW6zAFu6rkzH-mNfUvkcdX52R2g&s", Eurosport 4K  6313
 http://192.168.66.2:6878/ace/getstream?id=63135c171f056d1d6028f9ffb1637ed704b88a20
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Euro1 1080P  f233
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 4K" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 1 1080P  f233
 http://192.168.66.2:6878/ace/getstream?id=f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Euro2 1080  3e0d
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 2" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg", Eurosport 2 1080  3e0d
 http://192.168.66.2:6878/ace/getstream?id=3e0df5e0e93cc867022e320afef0aaecda9509fe
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Euro3 1080  a62c
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 3" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 3 1080  a62c
 http://192.168.66.2:6878/ace/getstream?id=a62c010c71bfb76b18188f108c3cc4541c34f45e
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Euro4 1080  76a4
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 4" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 4 1080  76a4
 http://192.168.66.2:6878/ace/getstream?id=76a482a4cb53fc28518187c6b814f136b3db3c95
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Euro5 1080  914c
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 5" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 5 1080  914c
 http://192.168.66.2:6878/ace/getstream?id=914ce366baec9b0fb3523dd7ba762a44b597fc40
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Euro6 1080  1bc6
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 6" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 6 1080  1bc6
 http://192.168.66.2:6878/ace/getstream?id=1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Euro7 1080  e899
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 7" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 7 1080  e899
 http://192.168.66.2:6878/ace/getstream?id=e899a4f1e20f7ce1b39cc529dc237fc29a21855f
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Euro8 1080  721a
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 8" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 8 1080  721a
 http://192.168.66.2:6878/ace/getstream?id=721a78f2076faa584c9c09059ffb4e10159f4665
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Euro9 1080  dd9c
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 9" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport 9 1080  dd9c
 http://192.168.66.2:6878/ace/getstream?id=dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", LaLiga Hypermotion 9  0fd1
-http://192.168.66.2:6878/ace/getstream?id=0fd11e74d20919c25d2c5d96ba6f7fc7532394c1
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", LaLiga Hypermotion 10  6292
-http://192.168.66.2:6878/ace/getstream?id=629222201d6e36cc0f4ab6244362de32bed783b2
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", LaLiga Hypermotion 11  d6ec
-http://192.168.66.2:6878/ace/getstream?id=d6ecda8ad7be7a9a4de3767eb40569b73b738cb4
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", LaLiga Hypermotion 12  7b97
-http://192.168.66.2:6878/ace/getstream?id=7b975804279b0aa421496538ad21397cc06ddfb8
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", Eurosport4k  c525
+#EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 4K" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMgdqJODqwW6zAFu6rkzH-mNfUvkcdX52R2g&s", Eurosport 4K  c525
 http://192.168.66.2:6878/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg", Eurosport 1 1080  5e4c
 http://192.168.66.2:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
@@ -236,11 +228,11 @@ http://192.168.66.2:6878/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b9
 http://192.168.66.2:6878/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
 #EXTINF:-1 group-title="Otros deportes" tvg-id="GOL PLAY" tvg-logo="https://i.ibb.co/5hYsXDR/Gol.jpg", GOL TV 1080  d462
 http://192.168.66.2:6878/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
-#EXTINF:-1 group-title="Otros deportes" tvg-id="Teledeporte" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TDEP", tdp 1080  e239
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", TDP 1080  e239
 http://192.168.66.2:6878/ace/getstream?id=e2395d28ad19423212fd3aa0e81f387db3e8bb9f
 #EXTINF:-1 group-title="Otros deportes" tvg-id="TennisChannel.us" tvg-logo="https://telegra.ph/file/8807aa3ba9ca7f2232492.jpg", Tennis Channel  9292
 http://192.168.66.2:6878/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
-#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", • PPVP 4  5c05
+#EXTINF:-1 group-title="Otros deportes" tvg-id="nil" tvg-logo="https://telegra.ph/file/c96c897856acfd7ed5671.png", TV3 1080  5c05
 http://192.168.66.2:6878/ace/getstream?id=5c05217f1813045f2af2fe4ec77eb27b7f7deb6e
 #EXTINF:-1 group-title="Otros deportes" tvg-id="Sport TV1 POR HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a450.png", Sport TV 1 1080  ce23
 http://192.168.66.2:6878/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
