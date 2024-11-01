@@ -389,6 +389,12 @@ http://192.168.66.2:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b2
 http://192.168.66.2:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/c3B7YKK/Sky-Cricket.png" group-title="Inglaterra" tvg-id="UK | Sky Sport Cricket", Sky Sport Cricket
 http://192.168.66.2:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Inglaterra" tvg-id="UK | Sky Sport F1", Sky Sport F1 4k
+http://192.168.66.2:6878/ace/getstream?id=0aa775518c7d318a50f5495f50cf503bfdf78012
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Inglaterra" tvg-id="UK | Sky Sport F1", Sky Sport F1 1080
+http://192.168.66.2:6878/ace/getstream?id=3cee3d2cf062c4cd970b5a1e697a9d586dd2d7c1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B2gntWh/skysportf1.png" group-title="Inglaterra" tvg-id="UK | Sky Sport F1", Sky Sport F1 1080
+http://192.168.66.2:6878/ace/getstream?id=980472ca73cd87833d8b347f85ff011c07411485
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZN1bxkV/TNT1.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 1", TNT Sport 1 1080
 http://192.168.66.2:6878/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wQ5ChWr/TNT2.png" group-title="Inglaterra" tvg-id="UK | TNT Sports 2", TNT Sport 2 1080
