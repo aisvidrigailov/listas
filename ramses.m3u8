@@ -1,15 +1,12 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml, https://github.com/dracohe/INTERNACIONALES/blob/master/guide.xml?raw=true, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 
 
-
-
 #EXTINF:-1 tvg-id="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="www.elcano.top", LA 1 
 http://192.168.66.2:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1 tvg-id="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="www.elcano.top", LA 1 UHD 
 http://192.168.66.2:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 #EXTINF:-1 tvg-id="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/823px-Logo_TVE-2.svg.png" group-title="www.elcano.top", LA 2 
 http://192.168.66.2:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
-
 
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="www.elcano.top",M. Laliga UHD
@@ -91,7 +88,7 @@ http://192.168.66.2:6878/ace/getstream?id=7b975804279b0aa421496538ad21397cc06ddf
 http://192.168.66.2:6878/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
 
 #EXTINF:-1 tvg-id="Movistar SuperCopa 1080" tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png" group-title="www.elcano.top", Movistar SuperCopa 1080
-http://192.168.66.2:6878/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+http://192.168.66.2:6878/ace/getstream?id=307b6e84ca9620b3f7a13af143c9e4019752756a
 #EXTINF:-1 tvg-id="Movistar SuperCopa 1080" tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png" group-title="www.elcano.top", Movistar SuperCopa 1080 Plus
 http://192.168.66.2:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
 #EXTINF:-1 tvg-id="Movistar SuperCopa 1080" tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png" group-title="www.elcano.top", Movistar SuperCopa 1080 MultiAudio
@@ -99,7 +96,7 @@ http://192.168.66.2:6878/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d2
 #EXTINF:-1 tvg-id="Movistar SuperCopa 1080" tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png" group-title="www.elcano.top", Movistar SuperCopa 1080
 http://192.168.66.2:6878/ace/getstream?id=7d70685696722c2b1b48a5ae1a7f92c445d9443d
 #EXTINF:-1 tvg-id="Movistar SuperCopa 1080" tvg-logo="https://i.ibb.co/R2N3PvH/supercopaespana2022.png" group-title="www.elcano.top", Movistar SuperCopa 720
-http://192.168.66.2:6878/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03
+http://192.168.66.2:6878/ace/getstream?id=b545ed0de344cfb830721fb961fddb208d39d19a
 
 
 #EXTINF:-1 tvg-id="M+ Vamos" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="www.elcano.top", #Vamos 1080
