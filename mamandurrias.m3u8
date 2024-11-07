@@ -1,1 +1,3 @@
-{"StatusCode":500,"Message":"An unexpected error occurred. Contact support: support@m3u4u.com"}
+#EXTM3U url-tvg="http://m3u4u.com/epg/vq2gp42dejar5m1pd4z3"
+#EXTINF:-1 tvg-id="m3u4u" tvg-name="Visit m3u4u.com" group-title="Visit m3u4u.com",Visit m3u4u.com
+https://m3u4u.com
