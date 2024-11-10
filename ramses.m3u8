@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/refs/heads/main/epg.xml"
 
 
+#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://iusport.com/upload/images/01_2023/385_laliga-bar.jpg" group-title="ELCANO", LaLiga TV BAR
+http://192.168.66.2:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
 
 #EXTINF:-1 tvg-id="M+ LaLiga TV UHD" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="ELCANO",M. Laliga 1 UHD
 http://192.168.66.2:6878/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
@@ -23,8 +25,7 @@ http://192.168.66.2:6878/ace/getstream?id=eee6144058d6106c243cbde774b05bff4a704a
 #EXTINF:-1 tvg-id="M+ LaLiga TV 6" tvg-logo="https://i.ibb.co/SK08wdg/laliga.png" group-title="ELCANO", M. LaLiga 6 1080
 #http://192.168.66.2:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
 
-#EXTINF:-1 tvg-id="LaLiga TV BAR HD" tvg-logo="https://iusport.com/upload/images/01_2023/385_laliga-bar.jpg" group-title="ELCANO", LaLiga TV BAR
-http://192.168.66.2:6878/ace/getstream?id=608b0faf7d3d25f6fe5dba13d5e4b4142949990e
+
 
 
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="ELCANO", DAZN LaLiga 1 1080 multiaudio
@@ -72,7 +73,7 @@ http://192.168.66.2:6878/ace/getstream?id=20196007a6697a1f11589fd4c8bab6713c265e
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 11 HD" tvg-logo="https://i.ibb.co/CHv2fdP/hypermotion.png" group-title="ELCANO", LaLiga Hypermotion 11
 #http://192.168.66.2:6878/ace/getstream?id=d6ecda8ad7be7a9a4de3767eb40569b73b738cb4
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion 12 HD" tvg-logo="https://i.ibb.co/CHv2fdP/hypermotion.png" group-title="ELCANO", LaLiga Hypermotion 12
-3http://192.168.66.2:6878/ace/getstream?id=7b975804279b0aa421496538ad21397cc06ddfb8
+#http://192.168.66.2:6878/ace/getstream?id=7b975804279b0aa421496538ad21397cc06ddfb8
 
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://i.ibb.co/cLsK1Tx/movistarplus.png" group-title="ELCANO", Movistar Plus+ HD
