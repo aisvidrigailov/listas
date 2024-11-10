@@ -72,7 +72,7 @@ http://192.168.66.2:6878/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 1 720
 http://192.168.66.2:6878/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 2", LaLiga Hypermotion 2 1080
-http://192.168.66.2:6878/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+http://192.168.66.2:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 2", LaLiga Hypermotion 2 720
 http://192.168.66.2:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" group-title="Segunda" tvg-id="LaLiga TV Hypermotion 3", LaLiga Hypermotion 3 1080
@@ -238,11 +238,11 @@ http://192.168.66.2:6878/ace/getstream?id=7d70685696722c2b1b48a5ae1a7f92c445d944
 
 
 #EXTINF:-1 tvg-logo="" group-title="Eventos (UFC, Boxeo...)" tvg-id="", PVP  1
-http://192.168.66.2:6878/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
+http://192.168.66.2:6878/ace/getstream?id=6994af284ecab2996f9b140ef44b8da8bfee0006
 #EXTINF:-1 tvg-logo="" group-title="Eventos (UFC, Boxeo...)" tvg-id="", PVP  2
-http://192.168.66.2:6878/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+http://192.168.66.2:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
 #EXTINF:-1 tvg-logo="" group-title="Eventos (UFC, Boxeo...)" tvg-id="", PVP  3
-http://192.168.66.2:6878/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
+http://192.168.66.2:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb48
 #EXTINF:-1 tvg-logo="" group-title="Eventos (UFC, Boxeo...)" tvg-id="", PVP  4
 http://192.168.66.2:6878/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
 
