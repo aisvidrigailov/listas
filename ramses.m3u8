@@ -26,8 +26,6 @@ http://192.168.66.2:6878/ace/getstream?id=eee6144058d6106c243cbde774b05bff4a704a
 #http://192.168.66.2:6878/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
 
 
-
-
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="ELCANO", DAZN LaLiga 1 1080 multiaudio
 http://192.168.66.2:6878/ace/getstream?id=110d441ddc9713a7452588770d2bc85504672f47
 #EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://i.ibb.co/d541mDr/DAZN-La-Liga.jpg" group-title="ELCANO", DAZN LaLiga 1 1080 multiaudio
@@ -78,9 +76,6 @@ http://192.168.66.2:6878/ace/getstream?id=20196007a6697a1f11589fd4c8bab6713c265e
 
 #EXTINF:-1 tvg-id="Movistar Plus+ HD" tvg-logo="https://i.ibb.co/cLsK1Tx/movistarplus.png" group-title="ELCANO", Movistar Plus+ HD
 http://192.168.66.2:6878/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
-
-
-
 
 
 #EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://i.ibb.co/dgqH0nP/Vamos.jpg" group-title="ELCANO", #Vamos 1080
@@ -194,9 +189,9 @@ http://192.168.66.2:6878/ace/getstream?id=ad6f4e8e329d6a97c7e7d7b0b8e5d04d8dd0bb
 http://192.168.66.2:6878/ace/getstream?id=7cf437be950f3525e735be57c63f7824cab822c9
 
 #EXTINF:-1 tvg-id="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="ELCANO", LA 1 
-http://192.168.66.2:6878/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+http://192.168.66.2:6878/ace/getstream?id=b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 #EXTINF:-1 tvg-id="LA 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="ELCANO", LA 1 UHD 
-http://192.168.66.2:6878/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+http://192.168.66.2:6878/ace/getstream?id=4a714c436cb67d53cf197f9038239fddab2d8b20
 #EXTINF:-1 tvg-id="LA 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Logo_TVE-2.svg/823px-Logo_TVE-2.svg.png" group-title="ELCANO", LA 2 
 http://192.168.66.2:6878/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
 #EXTINF:-1 tvg-id="TELEDEPORTE" tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" group-title="ELCANO", tdp 1080  (TeleDeporte) 
