@@ -167,9 +167,9 @@ http://192.168.66.2:6878/ace/getstream?id=bdfe9ebe62d690c1b13eef4346d72e618cfbe8
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", M.L. Campeones 17 SD
 http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", M. Golf 1080
-http://192.168.66.2:6878/ace/getstream?id=
+http://192.168.66.2:6878/ace/getstream?id=f41f1096862767289620be5bd85727f946a434db
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", M. Golf2 1080
-http://192.168.66.2:6878/ace/getstream?id=
+http://192.168.66.2:6878/ace/getstream?id=e258e75e0e802afa5fcc53d46b47d8801a254ad5
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", DAZN 1 1080
 http://192.168.66.2:6878/ace/getstream?id=7cf0086fa7d478f51dbba952865c79e66cb9add5
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", DAZN 1 720
