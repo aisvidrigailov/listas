@@ -85,7 +85,7 @@ http://192.168.66.2:6878/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a8745648
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", LaLiga Smartbank 2 720
 http://192.168.66.2:6878/ace/getstream?id=0a335406bad0b658aeddb2d38f8c0614b2e5623a
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", LaLiga Smartbank 3
-http://192.168.66.2:6878/ace/getstream?id=20196007a6697a1f11589fd4c8bab6713c265e64
+http://192.168.66.2:6878/ace/getstream?id=fefd45ed6ff415e05f1341b7d9da2988eacd13ea
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", LaLiga Smartbank 4
 http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", LaLiga Smartbank 5
