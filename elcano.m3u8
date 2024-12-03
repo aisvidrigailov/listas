@@ -51,7 +51,7 @@ http://192.168.66.2:6878/ace/getstream?id=ebe14f1edeb49f2253e3b355a8beeadc9b4f0b
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", M. LaLiga 3 720
 http://192.168.66.2:6878/ace/getstream?id=835639b89db00cc0d94660da3c10b6e38bfbcdc1
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", M. LaLiga 4 1080
-http://192.168.66.2:6878/ace/getstream?id=68697ea4f261289d97bbc3418ad3cbc4180aa32f
+http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", M. LaLiga 5 1080
 http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", La Liga BAR 1080
