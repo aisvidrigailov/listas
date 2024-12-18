@@ -209,7 +209,9 @@ http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", BeMad 1080
 http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", Telecinco 1080
-http://192.168.66.2:6878/ace/getstream?id=
+http://192.168.66.2:6878/ace/getstream?id=66a7e4727bccce8ccc04e54861b06b62d89452fa
+#EXTINF:-1 tvg-logo="" group-title="" tvg-id="", Telecinco 1080
+http://192.168.66.2:6878/ace/getstream?id=47e6dd48dd7c9705d07b13139b80e44683fd5eb1
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", TV3 1080
 http://192.168.66.2:6878/ace/getstream?id=
 #EXTINF:-1 tvg-logo="" group-title="" tvg-id="", Sport TV 1 1080
