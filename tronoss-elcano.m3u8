@@ -9,7 +9,7 @@ http://192.168.66.2:6878/ace/getstream?id=1b16e6969c9170273cf7e08abe0b919db3e935
 http://192.168.66.2:6878/ace/getstream?id=4397faf316e52508dd2f0db6f1d5cbab432f46a3
 #EXTINF:-1, tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS FHD por Adrián
 http://192.168.66.2:6878/ace/getstream?id=472b73d3c63fe53c3a95644f20aab65b31a6e506
-#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", TV BAR FHD por Adrián
+#EXTINF:-1, tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", LaLiga BAR FHD FHD por Adrián
 http://192.168.66.2:6878/ace/getstream?id=eaadbbda22219748f2aa1a3f0153ce0a2eaf3e8f
 #EXTINF:-1, tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LaLiga FHD
 http://192.168.66.2:6878/ace/getstream?id=94d34491106e00394835c8cb68aa94481339b53f
@@ -269,3 +269,5 @@ http://192.168.66.2:6878/ace/getstream?id=906191eed84a42d83939fd150ee3c04834bc05
 http://192.168.66.2:6878/ace/getstream?id=2c5a883ed564be5ff3692705c25556613c395b11
 #EXTINF:-1, tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="TDT", Gol Play FHD por Tronoss
 http://192.168.66.2:6878/ace/getstream?id=f5be5fe6063db01a7587c37acf57fcadabea560a
+#EXTINF:-1, tvg-logo="" tvg-id="" group-title="OTROS", RALLY TV by CERBERUS
+http://192.168.66.2:6878/ace/getstream?id=http://192.168.66.2:6878/ace/getstream?id=1a9085a7b8aa402f317fb86f7243f3736770b325
