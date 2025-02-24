@@ -1,22 +1,18 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml"
 #EXTVLCOPT:network-caching=2000
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA FHD --> NEW ERA II
-http://192.168.66.2:6878/ace/getstream?id=738adb299639088132d0680b168e30c357f28866
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD --> NEW ERA II
-http://192.168.66.2:6878/ace/getstream?id=66a0863d19f7caa2591a36f2bce86b1878a3d0e3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M+ DEPORTES FHD --> NEW ERA II
-http://192.168.66.2:6878/ace/getstream?id=092612609be34a8e9ee61311c5dfc8561c009ccc
+http://192.168.66.2:6878/ace/getstream?id=d59b3e44af69deb11759f1b4016503ef08d7850f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS FHD --> NEW ERA II
-http://192.168.66.2:6878/ace/getstream?id=dccac2d35772b46cf61c20c2318d7c2bd0ac3edc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES FHD --> NEW ERA II
-http://192.168.66.2:6878/ace/getstream?id=9d0e983a628a79ec63ae599d2abc8b787e43aa68
+http://192.168.66.2:6878/ace/getstream?id=915d7ba83810a8039b908b1a2855a1db4d79459d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS ELLAS  FHD --> NEW ERA II
+http://192.168.66.2:6878/ace/getstream?id=bb8a53e9178d49a4a5f4fd1eb32edb1aad2c5c9d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA II
-http://192.168.66.2:6878/ace/getstream?id=d2952671bfd36490c2c51a5efaefb8b263bc7702
+http://192.168.66.2:6878/ace/getstream?id=1168fcb4506c60e1281c2443f4f0c4ad4fc494b6
 #EXTINF:-1 tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", LaLiga TV BAR FHD --> NEW ERA II
-http://192.168.66.2:6878/ace/getstream?id=18d34608187b84b2ef8b5bbaa075305b247bfb5d
+http://192.168.66.2:6878/ace/getstream?id=fb01f81ed1210421def37242d8e1f9cb9cabf5db
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", LALIGA HYPERMOTION TV FHD --> NEW ERA II
-http://192.168.66.2:6878/ace/getstream?id=9d0e983a628a79ec63ae599d2abc8b787e43aa68
+http://192.168.66.2:6878/ace/getstream?id=129fee3a36e9a668b6d7ad3404bfbef3e914bdc1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", M.L. CAMPEONES 2
 http://192.168.66.2:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS
