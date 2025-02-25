@@ -333,8 +333,6 @@ http://192.168.66.2:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c46
 http://192.168.66.2:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN FORMULA 1 FHDÂ©ï¸ --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=073d33a5e5270399154bb251fcc95f99c0741264
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LALIGA©️ --> NEW LOOP
-http://192.168.66.2:6878/ace/getstream?id=a5144874f66a0872fd0b5a484cd426eb7d8eaa26
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN1 --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN2 --> NEW LOOP
@@ -371,3 +369,5 @@ http://192.168.66.2:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730
 http://192.168.66.2:6878/ace/getstream?id=52a526d748e26ff0827635b3932d9f49aee14a25
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Tennis Channel HD --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="OTROS", beIN SPORTS XTRA --> NEW LOOP
+http://192.168.66.2:6878/ace/getstream?id=fd869f34346154ca7cd78d46cbf7a6b8671beab5
