@@ -247,6 +247,8 @@ http://192.168.66.2:6878/ace/getstream?id=335646e7394ea4eda343c95e57852bb70fc417
 http://192.168.66.2:6878/ace/getstream?id=91cf774bfbdc3a7e3b18cffe0e6ca39a957e96b6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD (*) --> NEW ERA
 http://192.168.66.2:6878/ace/getstream?id=751aa1f2429dfb9484b67a3ede00d859c6212994
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD (*) --> NEW ERA
+http://192.168.66.2:6878/ace/getstream?id=71a65780b9c542a8c9e4084ae5aefdd9286da51e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD (*) --> NEW ERA
 http://192.168.66.2:6878/ace/getstream?id=57e38ef7eaab5596559415bdf96926ee4115c5ce
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD (*) --> NEW ERA
@@ -279,6 +281,8 @@ http://192.168.66.2:6878/ace/getstream?id=a8745bd07dc60413a4fc05caf2cabbfb119522
 http://192.168.66.2:6878/ace/getstream?id=fe134ae09f9643ea9bfdd75ff1f121ba8c58e5c1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS FHD (*) --> NEW ERA
 http://192.168.66.2:6878/ace/getstream?id=6f1f82c3cf6bf4b4ccb6d63d687271878e0e908d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", EVENTO UFC 1 —> NEW ERA
+http://192.168.66.2:6878/ace/getstream?id=916888d956caf960cc8456eb46a12775a858124c
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="" group-title="MOTOR", RALLY TV* --> NEW ERA III
 http://192.168.66.2:6878/ace/getstream?id=4cdab0a6554b9e5a5864fa20f8534d5ccfa661fa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN FORMULA 1* --> NEW ERA III
@@ -306,11 +310,7 @@ http://192.168.66.2:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", M+ DAZN 1 HDÂ©ï¸ --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=44c12ecb7b00a961f3c3f80f1edea7f8feedec59
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 HD --> NEW LOOP
-http://192.168.66.2:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 HD --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=f5a5a5bf9903bde0c865e421f126c42e514ff787
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 hd --> NEW LOOP
-http://192.168.66.2:6878/ace/getstream?id=23a4937f1484b435af132dbfb3e8fd3aefc9baad
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="SKYSPORTS", Sky Sports Arena [UK] --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="SKYSPORTS", Sky Sports Cricket [UK] --> NEW LOOP
@@ -319,6 +319,8 @@ http://192.168.66.2:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3d
 http://192.168.66.2:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="SKYSPORTS", Sky Sports Main Event [UK] --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", FORMULA 1 ARAMCO PRE-SEASON TESTING 2025 F1TVPro 1080p --> NEW LOOP
+http://192.168.66.2:6878/ace/getstream?id=0b7bd581b0eae65396b96a4efe4491a2dd1ba088
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="" group-title="MOTOR", AutoMotorSport HD --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=6791a2d1587e8c68eac10815f22aed439b0f6c9f
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", Canal Motor (720p) --> NEW LOOP
