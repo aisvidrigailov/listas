@@ -291,6 +291,8 @@ http://192.168.66.2:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2
 http://192.168.66.2:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M. LaLiga --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M. LaLiga --> NEW LOOP
+http://192.168.66.2:6878/ace/getstream?id=d15a0eaf825b5f8f94259d5209688a7e97e6acde
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M. Liga de Campeones --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN FORMULA 1 FHDÂ©ï¸ --> NEW LOOP
@@ -319,8 +321,6 @@ http://192.168.66.2:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3d
 http://192.168.66.2:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="SKYSPORTS", Sky Sports Main Event [UK] --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="" group-title="MOTOR", AutoMotorSport HD --> NEW LOOP
-http://192.168.66.2:6878/ace/getstream?id=6791a2d1587e8c68eac10815f22aed439b0f6c9f
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", Canal Motor (720p) --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=31ef168d43c7cd04e672475f7ec33b99b9fe5a96
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", Motors TV HD --> NEW LOOP
