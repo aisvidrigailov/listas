@@ -308,6 +308,8 @@ http://192.168.66.2:6878/ace/getstream?id=872608e734992db636eb79426802cd08f4029a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M. LaLiga --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M. Liga de Campeones --> NEW LOOP
+http://192.168.66.2:6878/ace/getstream?id=bb5a8bf7752e978460ee1710e5e8950a5c9e1f99
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M. Liga de Campeones --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN FORMULA 1 FHDÂ©ï¸ --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=073d33a5e5270399154bb251fcc95f99c0741264
@@ -324,7 +326,11 @@ http://192.168.66.2:6878/ace/getstream?id=44c12ecb7b00a961f3c3f80f1edea7f8feedec
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 HD --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 HD --> NEW LOOP
+http://192.168.66.2:6878/ace/getstream?id=fbc82948dd7c19387a702692bc4590157b376459
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 HD --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=f5a5a5bf9903bde0c865e421f126c42e514ff787
+#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 hd --> NEW LOOP
+http://192.168.66.2:6878/ace/getstream?id=23a4937f1484b435af132dbfb3e8fd3aefc9baad
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="SKYSPORTS", Sky Sports Arena [UK] --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="SKYSPORTS", Sky Sports Cricket [UK] --> NEW LOOP
@@ -333,8 +339,6 @@ http://192.168.66.2:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3d
 http://192.168.66.2:6878/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="SKYSPORTS", Sky Sports Main Event [UK] --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", FORMULA 1 ARAMCO PRE-SEASON TESTING 2025 F1TVPro 1080p --> NEW LOOP
-http://192.168.66.2:6878/ace/getstream?id=413cb4d79842a7a2da420e9f59b00728992730b2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", FORMULA 1 ARAMCO PRE-SEASON TESTING 2025 F1TVPro 720p --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=821eb83594bac4da4f2877f88e56d05400bb5d1b
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="" group-title="MOTOR", AutoMotorSport HD --> NEW LOOP
@@ -349,8 +353,6 @@ http://192.168.66.2:6878/ace/getstream?id=fffaa64d41e500250064181762d510d5131374
 http://192.168.66.2:6878/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", Tennis Channel (UK) (720p) --> NEW LOOP
-http://192.168.66.2:6878/ace/getstream?id=52a526d748e26ff0827635b3932d9f49aee14a25
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", Tennis Channel HD --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="OTROS", ESPN HD [US] --> NEW LOOP
