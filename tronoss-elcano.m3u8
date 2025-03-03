@@ -10,7 +10,7 @@ http://192.168.66.2:6878/ace/getstream?id=c2b2603e2aa57db44bd79c4fa7a87e2ed6875c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA II
 http://192.168.66.2:6878/ace/getstream?id=8c006afa7086d845ab106ddb76704230e61b315b
 #EXTINF:-1 tvg-logo="https://comunidad.orange.es/waykc66935/attachments/waykc66935/futbol-series-cine/3971/339/LL_TV_BAR_NEG.png" tvg-id="LaLiga TV BAR HD" group-title="LA LIGA", LaLiga TV BAR FHD --> NEW ERA II
-http://192.168.66.2:6878/ace/getstream?id=db9399427ec0dd2a30208fece043c2afcaef55e3
+http://192.168.66.2:6878/ace/getstream?id=05214e3471c72f22774490996f533617f4db8dc6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", LALIGA HYPERMOTION TV FHD --> NEW ERA II
 http://192.168.66.2:6878/ace/getstream?id=02d56e47fcf403766f2193599dd96221eee35066
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA II
@@ -329,8 +329,6 @@ http://192.168.66.2:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221
 http://192.168.66.2:6878/ace/getstream?id=f5a5a5bf9903bde0c865e421f126c42e514ff787
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 hd --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=23a4937f1484b435af132dbfb3e8fd3aefc9baad
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="SKYSPORTS", Sky Sports Arena [UK] --> NEW LOOP
-http://192.168.66.2:6878/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="SKYSPORTS", Sky Sports Cricket [UK] --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="SKYSPORTS", Sky Sports Football [UK] --> NEW LOOP
