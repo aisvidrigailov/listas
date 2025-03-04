@@ -26,7 +26,7 @@ http://192.168.66.2:6878/ace/getstream?id=98e919510abe481094a68ae135c432998bf8fa
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", WINTER SERIES ARAGON --> NEW ERA II
 http://192.168.66.2:6878/ace/getstream?id=c50d085c6ed12e638913c2b147aecbab71751949
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TWITCH HEIKKI360ES --> NEW ERA II
-http://192.168.66.2:6878/ace/getstream?id=0460d6a12a25b5e851f9b3519d54c3d9eaa6d157
+http://192.168.66.2:6878/ace/getstream?id=da0460eb73a94841fa6f5b9c6c1e47f0c328e2b2
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", M.L. CAMPEONES 2
 http://192.168.66.2:6878/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS
@@ -157,6 +157,8 @@ http://192.168.66.2:6878/ace/getstream?id=d41f974884746560213e68519e5f6b9d51f374
 http://192.168.66.2:6878/ace/getstream?id=28dc545c00d47a620bc7243657de5a85811f1254
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR CLASICOS FHD --> NEW ERA
 http://192.168.66.2:6878/ace/getstream?id=62b6cdc347e9b5f5aff089055365805e4d20d41e
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES FHD (1 opcion) --> NEW ERA
+http://192.168.66.2:6878/ace/getstream?id=ac73acd09d79c46cb818bfd945f20198d1718a85
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES FHD --> NEW ERA
 http://192.168.66.2:6878/ace/getstream?id=f43a021e8fd63334a4bf3fb11ffe58f89039a1d0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", M+ LIGA DE CAMPEONES FHD (SAT) --> NEW ERA
@@ -325,8 +327,6 @@ http://192.168.66.2:6878/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3
 http://192.168.66.2:6878/ace/getstream?id=44c12ecb7b00a961f3c3f80f1edea7f8feedec59
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 HD --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 HD --> NEW LOOP
-http://192.168.66.2:6878/ace/getstream?id=f5a5a5bf9903bde0c865e421f126c42e514ff787
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", Eurosport 1 hd --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=23a4937f1484b435af132dbfb3e8fd3aefc9baad
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="SKYSPORTS", Sky Sports Arena [UK] --> NEW LOOP
