@@ -303,8 +303,8 @@ http://192.168.66.2:6878/ace/getstream?id=916888d956caf960cc8456eb46a12775a85812
 http://192.168.66.2:6878/ace/getstream?id=ba87f528de030aad56576f7cbb9d8bbd7efd62b9
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="" group-title="MOTOR", RALLY TV* --> NEW ERA III
 http://192.168.66.2:6878/ace/getstream?id=6e654ee8b7ffde32a507a2ed27086090b68926e8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN FORMULA 1* --> NEW ERA III
-http://192.168.66.2:6878/ace/getstream?id=ONETORO* --> NEW ERA III
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ONETORO* --> NEW ERA III
+http://192.168.66.2:6878/ace/getstream?id=19940643e22199f378edf30e607ed40257fd4c5c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", M. Deportes HD --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", M. Golf HD --> NEW LOOP
