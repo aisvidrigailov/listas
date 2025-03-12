@@ -369,7 +369,7 @@ http://192.168.66.2:6878/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22c
 http://192.168.66.2:6878/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", beIN SPORTS XTRA --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=fd869f34346154ca7cd78d46cbf7a6b8671beab5
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Premier Sports 1 [UK] --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="FUTBOL INT", Premier Sports 1 [UK] --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-logo="https://archive.org/download/ELEVENSPORTS_201809/ELEVEN-SPORTS%21%21.png" tvg-id="" group-title="FUTBOL INT", Eleven Sports 1 [BE] --> NEW LOOP
 http://192.168.66.2:6878/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
