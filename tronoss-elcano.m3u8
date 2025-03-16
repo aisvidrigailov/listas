@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml, https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz"
+#EXTVLCOPT:network-caching=10000
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", #VAMOS FHD --> NEW ERA II
 http://192.168.66.2:8088/ace/getstream?id=c6b52ffb3b84836d334569204797d88bf15d48fa
@@ -328,14 +329,8 @@ http://192.168.66.2:8088/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b2
 http://192.168.66.2:8088/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="" group-title="MOTOR", AutoMotorSport HD --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", Motors TV HD --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
-#EXTINF:-1 tvg-logo="https://cdn.broadbandtvnews.com/wp-content/uploads/2015/10/14120627/Motorvision-TV.png" tvg-id="" group-title="MOTOR", Motorvision TV --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", Tennis Channel (UK) (720p) --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", Tennis Channel HD --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport / ESPN [UK] --> NEW LOOP
