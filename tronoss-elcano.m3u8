@@ -17,10 +17,6 @@ http://192.168.66.2:8088/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e88
 http://192.168.66.2:8088/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES HD --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES
-http://192.168.66.2:8088/ace/getstream?id=000000000000000000001
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES
-http://192.168.66.2:8088/ace/getstream?id=000000000000000000002
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=d225087e30f6efe4c6d9b5ae3c2f3829368cd637
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 --> ELCANO
