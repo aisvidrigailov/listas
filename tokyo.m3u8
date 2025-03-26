@@ -189,10 +189,14 @@ http://192.168.66.2:8088/ace/getstream?id=f86e821848931eaa55bcb779e74f62d6a59f41
 http://192.168.66.2:8088/ace/getstream?id=c34a6552886fad4627ea36947fdec3e46e4e3b08
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=5c7406bfaf65cc32d3f52b1430b53a37bc4c59bc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=5e5b670d44e4f23a49ebe1770458066ac2cf58e3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=b4b48a6028aa05ca32f583d3019dc2e3e6bd9988
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=9f04b67904bf5ec6782ab34e8105bca264c10b62
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA
