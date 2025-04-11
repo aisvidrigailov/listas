@@ -299,6 +299,8 @@ http://192.168.66.2:8088/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c
 http://192.168.66.2:8088/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="FUTBOL INT", ELEVEN DAZN 4 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="FUTBOL INT", ELEVEN DAZN 5 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="PT | DAZN 6" group-title="FUTBOL INT", ELEVEN DAZN 6 --> NEW LOOP
