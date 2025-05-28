@@ -371,6 +371,8 @@ http://192.168.66.98:8080/ace/getstream?id=cb18d080d81f7fccf26b7723ce6a5d86d3122
 http://192.168.66.98:8080/ace/getstream?id=d4f56cda0a15f47e7820daaac8e37b4d67d9c918
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" tvg-id="" group-title="BUNDESLIGA", BUNDESLIGA 3 FHD --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" tvg-id="Canal Hollywood HD" group-title="OTROS", HOLLYWOOD --> NEW ERA III
+http://192.168.66.98:8080/ace/getstream?id=0efe3e6352b68faf8ba8ea6fe91ad37fac3b1fba
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NBA NETWORK --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=8a0a371e2cda52d162c960400e9f55fffddfd46d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NBA TV --> NEW ERA
@@ -395,3 +397,13 @@ http://192.168.66.98:8080/ace/getstream?id=3f23e772f30c5f127609cbef8aa904219b63c
 http://192.168.66.98:8080/ace/getstream?id=999db87cb68b0a671d61a858da7d79dd97b0c0a4
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC Fight Pass --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=0ce88d9e7273fddbc9b49f578b6b255513697139
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©COMEDIA©️--> NEW ERA III
+http://192.168.66.98:8080/ace/getstream?id=981002ae3adff1f7d994e267cafd71560dd3138b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©DRAMA©️--> NEW ERA III
+http://192.168.66.98:8080/ace/getstream?id=2f30e21bc0b16214998de4c1d7afb395fd39970b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©ESTRENOS©️--> NEW ERA III
+http://192.168.66.98:8080/ace/getstream?id=31db55dba09dc6804a30d016fc1104f2f0076508
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©HITS©️--> NEW ERA III
+http://192.168.66.98:8080/ace/getstream?id=8eeb24559dcf87c074ec62d23ddcf43d5c70abbc
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©INDIE©️--> NEW ERA III
+http://192.168.66.98:8080/ace/getstream?id=490bbb38d3f47c823a35305ee537d141cd8fe426
