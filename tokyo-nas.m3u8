@@ -401,6 +401,8 @@ http://192.168.66.2:8088/ace/getstream?id=999db87cb68b0a671d61a858da7d79dd97b0c0
 http://192.168.66.2:8088/ace/getstream?id=0ce88d9e7273fddbc9b49f578b6b255513697139
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©COMEDIA©️--> NEW ERA III
 http://192.168.66.2:8088/ace/getstream?id=981002ae3adff1f7d994e267cafd71560dd3138b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©DARK©️--> NEW ERA III
+http://192.168.66.2:8088/ace/getstream?id=95c63003b21aca0cf03b09918ae1653327081f1f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©DRAMA©️--> NEW ERA III
 http://192.168.66.2:8088/ace/getstream?id=2f30e21bc0b16214998de4c1d7afb395fd39970b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©ESTRENOS©️--> NEW ERA III
