@@ -193,6 +193,8 @@ http://192.168.66.98:8080/ace/getstream?id=2c6e4c897661e6b0257bfe931b66d20b2ec76
 http://192.168.66.98:8080/ace/getstream?id=71eef80158aa8b37f3dc59f6793c6696df9a2dfa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 SD --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=268289e7a3c5209960b53b4d43c8c65fab294b85
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION FHD --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=fe289ab20d8f9dcb426fc6d56ce9dbbddb66e3b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=0c847d3acd9c4a31a815330ad7f546c30851aa88
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION --> ELCANO
@@ -207,6 +209,8 @@ http://192.168.66.98:8080/ace/getstream?id=ef7f710a5133477237b06ea023a4f20017ea0
 http://192.168.66.98:8080/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION SD --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 HD --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=f416f36cc1be370e3f9ac29cd6a9acc0d766f7ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 FHD --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 SD --> ELCANO
@@ -319,6 +323,12 @@ http://192.168.66.98:8080/ace/getstream?id=9efe41de7f5dcafc9395591feb959832e0968
 http://192.168.66.98:8080/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 2 (1RFEF)" group-title="1RFEF", Canal 2 (1RFEF) (SOLO EVENTOS) --> NEW ERA V
 http://192.168.66.98:8080/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png" tvg-id="" group-title="BUNDESLIGA", BUNDESLIGA 1 FHD --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=cb18d080d81f7fccf26b7723ce6a5d86d31220db
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7b/2._Bundesliga_logo.svg/170px-2._Bundesliga_logo.svg.png" tvg-id="" group-title="BUNDESLIGA", BUNDESLIGA 2 FHD --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=d4f56cda0a15f47e7820daaac8e37b4d67d9c918
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/3._Liga_logo_%282019%29.svg/200px-3._Liga_logo_%282019%29.svg.png" tvg-id="" group-title="BUNDESLIGA", BUNDESLIGA 3 FHD --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESPORT 3 FHD --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Hollywood.png" tvg-id="Canal Hollywood HD" group-title="OTROS", HOLLYWOOD --> NEW ERA III
