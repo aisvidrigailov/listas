@@ -333,6 +333,8 @@ http://192.168.66.2:8088/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfec
 http://192.168.66.2:8088/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: beIN Sports 4 FHD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC Fight Pass --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=0ce88d9e7273fddbc9b49f578b6b255513697139
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©COMEDIA©️--> NEW ERA III
 http://192.168.66.2:8088/ace/getstream?id=981002ae3adff1f7d994e267cafd71560dd3138b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ©DARK©️--> NEW ERA III
