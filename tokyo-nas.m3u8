@@ -197,8 +197,6 @@ http://192.168.66.2:8088/ace/getstream?id=ef7f710a5133477237b06ea023a4f20017ea02
 http://192.168.66.2:8088/ace/getstream?id=b2706a7ffbea236a3b398139a3a606ada664c0eb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION SD --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=121f719ebb94193c6086ef92865cf9b197750980
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 HD --> NEW ERA
-http://192.168.66.2:8088/ace/getstream?id=f416f36cc1be370e3f9ac29cd6a9acc0d766f7ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 FHD --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=0cfdfde1b70623b8c210b0f7301be2a87456481d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 SD --> ELCANO
