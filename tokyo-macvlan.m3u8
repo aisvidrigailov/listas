@@ -351,6 +351,8 @@ http://192.168.66.98:8080/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d
 http://192.168.66.98:8080/ace/getstream?id=5cd66f03a0042d918eea175fdeeaa57052c9308a
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESPORT 3 FHD --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Wimbledon HEVC --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=9f477578fc03960ba77449aa1ecfa290829cae6c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR ESTRENOS FHD --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=cdac68c671cc9157c3fc55d7797d281ff32bedff
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR HITS FHD --> NEW ERA VI
@@ -369,6 +371,8 @@ http://192.168.66.98:8080/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3
 http://192.168.66.98:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", test
+http://192.168.66.98:8080/ace/getstream?id=0bf5e3735884cbf8d883d13de860ac8d8c511404
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: beIN Sports 4 FHD --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC Fight Pass --> NEW ERA
