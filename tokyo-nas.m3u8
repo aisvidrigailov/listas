@@ -381,7 +381,5 @@ http://192.168.66.2:8088/ace/getstream?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf0
 http://192.168.66.2:8088/ace/getstream?id=3f23e772f30c5f127609cbef8aa904219b63caef
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: S SPORT 2 HD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=999db87cb68b0a671d61a858da7d79dd97b0c0a4
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC 317 ESPN --> NEW ERA
-http://192.168.66.2:8088/ace/getstream?id=f3fdef8de18c33683856c1eb9240f696f43f2e28
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC Fight Pass --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=0ce88d9e7273fddbc9b49f578b6b255513697139
