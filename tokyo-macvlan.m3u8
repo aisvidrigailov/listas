@@ -49,6 +49,8 @@ http://192.168.66.98:8080/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025
 http://192.168.66.98:8080/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF FHD --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF HD --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png" tvg-id="M+ Golf 2 HD" group-title="MOVISTAR", MOVISTAR GOLF 2 FHD --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD --> NEW ERA
@@ -217,8 +219,6 @@ http://192.168.66.98:8080/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1
 http://192.168.66.98:8080/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 SD --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=cfa75ade53810dac64411b22d56c3d4582a221d3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD --> NEW ERA
