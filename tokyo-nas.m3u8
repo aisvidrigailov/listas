@@ -99,6 +99,8 @@ http://192.168.66.2:8088/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcb
 http://192.168.66.2:8088/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA FHD --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=7e2f5e27994a90700e6c5b938d5face45577cc45
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA FHD --> NEW ERA VI
+http://192.168.66.2:8088/ace/getstream?id=10e451cb5bef2e34bf52cc48de811893528146b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=00c9bc9c5d7d87680a5a6bed349edfa775a89947
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga TV HD" group-title="LA LIGA", M+ LALIGA FHD --> ELCANO
@@ -195,6 +197,8 @@ http://192.168.66.2:8088/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e57974
 http://192.168.66.2:8088/ace/getstream?id=d27584ebe5128c8033cb6fdc806a994fbd17b790
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=8b55a528c5cf9f1acd11d942472bdd60926db8ae
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> NEW ERA VI
+http://192.168.66.2:8088/ace/getstream?id=eb3e12408fb7463b4fafe354380f2adf483ea924
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD --> ELCANO
@@ -303,8 +307,6 @@ http://192.168.66.2:8088/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf
 http://192.168.66.2:8088/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="" group-title="MOTOR", RALLY TV --> NEW ERA III
 http://192.168.66.2:8088/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", RETROVISION MOTOR --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT", ANTENA 3 FHD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=390b5b0fc49a811c5c5ebd6d195b08a48b1e8496
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD --> NEW ERA
@@ -347,6 +349,10 @@ http://192.168.66.2:8088/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f43
 http://192.168.66.2:8088/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CANAL COCINA FHD --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=db81615f1b2eebaf584edc252ddd73883123fbb3
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CAZA Y PESCA FHD --> NEW ERA VI
+http://192.168.66.2:8088/ace/getstream?id=6f28b1b9eb9f4047a6179b300e65b03c8316e10f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DECASA FHD --> NEW ERA VI
+http://192.168.66.2:8088/ace/getstream?id=4869e4c131cb3478cc375944c7cc68d1bb8e9dc4
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dedporte 2 FHD --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Deporte FHD --> ELCANO
@@ -387,9 +393,9 @@ http://192.168.66.2:8088/ace/getstream?id=60fcd59471ac4268e6cd6448f068a2b518841c
 http://192.168.66.2:8088/ace/getstream?id=a0f71ac4897b2ccdf0114b5b3b7877902376a343
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR WESTERN FHD --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=860dd021db341dbd02979eb8ea650d3f9d846765
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NATIONAL GEOGRAPHIC --> NEW ERA VI
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NATIONAL GEOGRAPHIC FHD --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=55230a7a3cc4e8dfd3cecbfb2d68266aa4e5dfff
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NATIONAL GEOGRAPHIC WILD --> NEW ERA VI
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NATIONAL GEOGRAPHIC WILD FHD --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=51d0b5249e229a07ecc52286f56a67c3d9df6d00
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NBA TV --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=7acefb808a6c67d95e977b452d53070947bd072b
