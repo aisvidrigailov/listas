@@ -3,6 +3,8 @@
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/24%20Horas%20HD.png" tvg-id="24 Horas" group-title="MOVISTAR", 24 HORAS HD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306cca
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Arag%C3%B3n%20TV%20Internacional.png?raw=true" tvg-id="Aragón TV" group-title="MOVISTAR", ARAGON TV HD --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina" group-title="MOVISTAR", CANAL COCINA FHD --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=db81615f1b2eebaf584edc252ddd73883123fbb3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" group-title="MOVISTAR", CAZA Y PESCA FHD --> NEW ERA VI
@@ -177,6 +179,8 @@ http://192.168.66.2:8088/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3
 http://192.168.66.2:8088/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga TV 3 HD" group-title="LA LIGA", M+ LALIGA 3 SD --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/liga-de-campeones-uhd-por-movistar-plus-es.png" tvg-id="M+ Liga de Campeones HDR" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4K --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD --> NEW ERA
@@ -442,11 +446,13 @@ http://192.168.66.2:8088/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfec
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Test --> NEW ERA VII
-http://192.168.66.2:8088/ace/getstream?id=0000000000000000000000000000000000000002
+http://192.168.66.2:8088/ace/getstream?id=0000000000000000000000000000000000000000
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TNT SPORTS HD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: S SPORT 1 HD --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=3f23e772f30c5f127609cbef8aa904219b63caef
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC 317 ESPN --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=f3fdef8de18c33683856c1eb9240f696f43f2e28
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC Fight Pass --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=0ce88d9e7273fddbc9b49f578b6b255513697139
 #EXTINF:-1,ESPN HD [US] --> SPORTTV
