@@ -445,6 +445,8 @@ http://192.168.66.98:8080/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b
 http://192.168.66.98:8080/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Test --> NEW ERA VII
