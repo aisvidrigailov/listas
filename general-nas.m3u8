@@ -1,3 +1,1566 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml, https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv_sincolor.xml.gz"
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=10000000
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/telegram-logo-png-0.png" group-title="TELEGRAM" tvg-id="grupobarco", Encuentranos en @barcopro
+https://t.me/barcoproxy
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi Aces
+http://192.168.66.2:8088/ace/getstream?id=931b1984badcb821df7b47a66ac0835ac871b51c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080 Multi Aces
+http://192.168.66.2:8088/ace/getstream?id=f096a64dd756a6d549aa7b12ee9acf7eee27e833
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 1080p Aces
+http://192.168.66.2:8088/ace/getstream?id=1d79a7543d691666135669f89f3541f54e2dd0a9
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones HD", M.Liga De Campeones 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=e2e2aca792aae5da19995ac516b1d620531bd49c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 UHD", M.Liga De Campeones 2 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc2.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 2 UHD", M.Liga De Campeones 2 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=6753492c1908274c268a1b28e2a054a0ff8f86f9
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD", M.Liga De Campeones 3 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=ad372cba73aa0ece207a79532b3e30b731136bb2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc3.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 3 HD", M.Liga De Campeones 3 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=d59fe9978eed49f256b312a60671b5bce43d3f24
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc4.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 4", M.Liga De Campeones 4 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=f2df4f96b23388b45e75d848a48a510cf8af560f
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc5.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 5", M.Liga De Campeones 5 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=67b353ab1c4c2f6396b3ca5c4b45023bd9927561
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc6.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 6", M.Liga De Campeones 6 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=64a9353032efa2acb093d0bb86481f20f482d47e
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc7.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 7", M.Liga De Campeones 7 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=5932623d2fd7ed16b01787251b418e4f59a01cda
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc8.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 8", M.Liga De Campeones 8 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=6c445141445b06d7b4328d80e2dd936bd0ca52ca
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc9.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 9", M.Liga De Campeones 9 Aces
+http://192.168.66.2:8088/ace/getstream?id=7244379f8f6382d40afec871fb8e4219a803840b
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc10.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 10", M.Liga De Campeones 10 Aces
+http://192.168.66.2:8088/ace/getstream?id=d42e1b592b840ea34394fd3e1b1d3a4d0f399213
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc11.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 11", M.Liga De Campeones 11 Aces
+http://192.168.66.2:8088/ace/getstream?id=e737c681a92a4328703761c6ed9d8a951655f3e4
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc12.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 12", M.Liga De Campeones 12 Aces
+http://192.168.66.2:8088/ace/getstream?id=bb50397b3f49167eed95264005fae851baa7e3ee
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mlc13.png" group-title="LIGA DE CAMPEONES" tvg-id="M+ Liga de Campeones 13", M.Liga De Campeones 13 Aces
+http://192.168.66.2:8088/ace/getstream?id=60296c246e3596f334903fefd48cfaa724a5053b
+
+
+EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M+ LaLiga TV UHD", M.Liga 4K Aces
+http://192.168.66.2:8088/ace/getstream?id=dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BbSxDVxS/sodapdf-converted.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080p Aces
+http://192.168.66.2:8088/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi Aces
+http://192.168.66.2:8088/ace/getstream?id=7d8c87e057be98f00f22e23b23fbf08999e4b02f
+
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Multi Aces
+http://192.168.66.2:8088/ace/getstream?id=1969c27658d4c8333ab2c0670802546121a774a5
+
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=c22bfcc2a70b2a3f447d9b30c52e617946b03888
+
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV HD", M.Liga 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=f031f5728b32f6089dda28edebe990cf198108d8
+
+#EXTINF:-1 tvg-logo="https://nowsat.info/wp-content/uploads/Movistar-La-Liga.png" group-title="LIGA" tvg-id="M+ LaLiga TV UHD", M.Liga UHD Multi Electroperra Aces
+http://192.168.66.2:8088/ace/getstream?id=8286183314d367940409b760bbf887f3fb923f60
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M+ LaLiga TV 2 HD", M.Liga 2 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=26029f72a4ca831d09deefe89534818db1d105bc
+
+#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-laliga-2-1836.png" group-title="LIGA" tvg-id="M+ LaLiga TV 2 HD", M.Liga 2 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=80126b240f3e4e004754fd8f8103e857ab2556a0
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/LaLiga_por_Movistar_Plus%2B?file=Movistar_LaLiga_3.png" group-title="LIGA" tvg-id="M+ LaLiga TV 3 HD", M.Liga 3 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=4c4844564313e39a888f593511f299f5ba3cf929
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/LaLiga_por_Movistar_Plus%2B?file=Movistar_LaLiga_4.png" group-title="LIGA" tvg-id="M+ LaLiga TV 4", M.Liga 4 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=aa8f826da70e27a26b29c7b32402f17e8a67a8b0 
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/LaLiga_por_Movistar_Plus%2B?file=Movistar_LaLiga_5.png" group-title="LIGA" tvg-id="M+ LaLiga TV 5", M.Liga 5 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=535394f62a810bc5aeb25be75ea5ff7d03e070b2 
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/LaLiga_por_Movistar_Plus%2B?file=Movistar_LaLiga_6.png" group-title="LIGA" tvg-id="M+ LaLiga TV 6", M.Liga 6 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=c896d37778f9e43549a788fc22206a655895b51b
+
+#EXTINF:-1 tvg-logo="https://tecnohoreca.com/wp-content/uploads/2021/02/208-laliga-tv-bar.png" group-title="LIGA" tvg-id="LaLiga TV BAR HD", M.Liga BAR Aces
+http://192.168.66.2:8088/ace/getstream?id=aa82e7d4f03061f2144a2f4be22f2e2210d42280
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi By Alex Aces
+http://192.168.66.2:8088/ace/getstream?id=95b2238dec35cf00dfdf8fba18e9920bc2c56256
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi Aces
+http://192.168.66.2:8088/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 1080 Multi Aces
+http://192.168.66.2:8088/ace/getstream?id=75251ba975132ec9a202806ba5bf606e87280c96
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-1.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga HD", Dazn La Liga 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 2 HD", Dazn La Liga 2 1080 Multi Aces
+http://192.168.66.2:8088/ace/getstream?id=e33e666c393ef04ebe99a9b92135d2e0b48c4d10
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-2-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 2 HD", Dazn La Liga 2 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-3-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 3 HD", Dazn La Liga 3 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=8c71f0e0a5476e10950fc827f9d2a507340aba74 
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-4-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 4 HD", Dazn La Liga 4 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=2792a8a5f4a3f53cd72dec377a2639cd12a6973e 
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2022/07/dazn-laliga-5-color.png?fit=440%2C264&ssl=1" group-title="LIGA" tvg-id="DAZN LaLiga 5 HD", Dazn La Liga 5 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=99e544cddbee13798e854c1009ee7d1a93fdedf7
+
+
+#EXTINF:-1 tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg" group-title="LaLiga F" tvg-id="LaLiga F", LaLiga F 1 Aces
+http://192.168.66.2:8088/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
+
+#EXTINF:-1 tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg" group-title="LaLiga F" tvg-id="LaLiga F", LaLiga F 2 Aces
+http://192.168.66.2:8088/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+
+#EXTINF:-1 tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg" group-title="LaLiga F" tvg-id="LaLiga F", LaLiga F 3 Aces
+http://192.168.66.2:8088/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
+
+#EXTINF:-1 tvg-logo="https://stadiumtenerife.es/wp-content/uploads/2022/09/Liga-F-Degradado-FPF-2-scaled.jpg" group-title="LaLiga F" tvg-id="LaLiga F", LaLiga F 4 Aces
+http://192.168.66.2:8088/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
+
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/443838291362ceb3f6962.jpg" group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 1080 Aces 
+http://192.168.66.2:8088/ace/getstream?id=4c46585214b23b1d802ef2168060c7649a3894cf
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/443838291362ceb3f6962.jpg" group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion HD", LaLiga Hypermotion 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=2709d0ab86cb6ce7ba4d3ad188d7fa80668f2924
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/9f02b0dace818a9965fab.jpg" group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 HD", LaLiga Hypermotion 2 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=d81b4f2f3fde433539c097b2edc9b587ca47b087
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/9f02b0dace818a9965fab.jpg" group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 2 HD", LaLiga Hypermotion 2 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=d9cf1776ec4443e88aab3ca4b57647b00b4e439e
+
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 3 HD" tvg-logo="https://telegra.ph/file/860380255e3d72bb46049.jpg", LaLiga Hypermotion 3 Aces
+http://192.168.66.2:8088/ace/getstream?id=424c89c7c0f251051269b578f40d13d192cf2c2d
+
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 4" tvg-logo="https://telegra.ph/file/3f40c767141b23051112b.jpg", LaLiga Hypermotion 4 Aces
+http://192.168.66.2:8088/ace/getstream?id=2cacf21476b036e319bcb7c7e747766e6ccc082e
+
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 5" tvg-logo="https://telegra.ph/file/d5d56b31d671f2112f90a.jpg", LaLiga Hypermotion 5 Aces
+http://192.168.66.2:8088/ace/getstream?id=a1146358aa50c99c887108b17f62f9264186a16a
+
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 6" tvg-logo="https://telegra.ph/file/ef798665258120d7a4c5b.jpg", MLaLiga Hypermotion 6 Aces
+http://192.168.66.2:8088/ace/getstream?id=7a9bb1b9cccb759c44ed84f3c1283922e6854670
+
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 7" tvg-logo="https://telegra.ph/file/1e9c615591ff4d9016e24.jpg", LaLiga Hypermotion 7 Aces
+http://192.168.66.2:8088/ace/getstream?id=446e73a22582921393b020ed08b768ad8e14d75
+
+#EXTINF:-1 group-title="LaLiga Hypermotion" tvg-id="LaLiga TV Hypermotion 8" tvg-logo="https://telegra.ph/file/fd25f9a86fc18baa055fa.jpg", LaLiga Hypermotion 8 Aces
+http://192.168.66.2:8088/ace/getstream?id=4d52fc1994fe927702aeb7bc8778e2f23b1260e2
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa 1080
+http://192.168.66.2:8088/ace/getstream?id=8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa 1080 plus
+http://192.168.66.2:8088/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa 1080 MultiAudio
+http://192.168.66.2:8088/ace/getstream?id=3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa el rey 1080
+http://192.168.66.2:8088/ace/getstream?id=7d70685696722c2b1b48a5ae1a7f92c445d9443d
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" group-title="COPA DEL REY" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DP/wpepg/MLIG2",Copa el rey 720
+http://192.168.66.2:8088/ace/getstream?id=dab7cab5d6d177df36c3b333ca363c2266d91a03
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=8ca07071b39185431f8e940ec98d1add9e561639
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/DAZN_1_Logo.svg/2560px-DAZN_1_Logo.svg.png" group-title="DAZN" tvg-id="DAZN 1 HD", DAZN 1 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=eaff9293c76a324c750ef5094c2a4e2c96518d1f
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN" tvg-id="DAZN 2 HD", DAZN 2 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=60dbeeb299ec04bf02bc7426d827547599d3d9fc 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/2560px-DAZN_2.svg.png" group-title="DAZN" tvg-id="DAZN 2 HD", DAZN 2 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=7aa402bab9fff43258fbcf401881a39475f30aaf
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn3.png?resize=440%2C264&ssl=1" group-title="DAZN" tvg-id="DAZN 3 HD", DAZN 3 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2021/03/dazn4.png?ssl=1" group-title="DAZN" tvg-id="DAZN 4 HD", DAZN 4 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Multicamara Aces
+http://192.168.66.2:8088/ace/getstream?id=968627d24eec1c16b51d88e4a4a6c02211e3346e
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 4K Aces
+http://192.168.66.2:8088/ace/getstream?id=6b94479c24898700089e6b87d28a3ccc72dc4041
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=60cf60019aeef9af6183dd05af1b89e25594ac14
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=5789ca155323664edd293b848606688edf803f4d
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=9dad717d99b29a05672166258a77c25b57713dd5
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=4fc3417ae1f5cfd8c7ab8e4ebdb9ba88d486caf2
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=e1fcad9de0c782c157fde6377805c58297ab65c2
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 720 Aces
+http://192.168.66.2:8088/ace/getstream?id=a52bf7c28df63995ad427c32ebf1e517445720bb
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 1080 UHD Electro Aces
+http://192.168.66.2:8088/ace/getstream?id=eeb0192c25538dbf09c1fd08b0ebca4864a8263a
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2021/03/dazn-f1.jpg" group-title="F1" tvg-id="DAZN F1 HD", DAZN F1 Multicamara Aces
+http://192.168.66.2:8088/ace/getstream?id=de204a1aa0908f17529ee7e20df516a5a16352f7
+
+#EXTINF:-1 tvg-logo="https://i.blogs.es/97fd93/cuanto-cuesta-donde-ver-f1-tv-mexico/1366_2000.jpeg" group-title="F1" tvg-id="DAZN F1 HD", F1 TV [ES] Aces
+http://192.168.66.2:8088/ace/getstream?id=7053fc8ab4d763d331ce66dc577d42fccc860481
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1TV 720 [EN] Aces
+http://192.168.66.2:8088/ace/getstream?id=77f28424b7539c83a7445d33e1f75c95e2d499ab 
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1TV 1080 [EN] Aces
+http://192.168.66.2:8088/ace/getstream?id=410917d68b5325e3cd168c47b0899eb22868da8a
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1 TVPRO Aces
+http://192.168.66.2:8088/ace/getstream?id=65c705d7b387aa9b2a83e66b2fd0b9611e941a02
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Xv2QhWBT/original.png" group-title="F1" tvg-id="DAZN F1 HD", F1TV PRO 50fps Aces
+http://192.168.66.2:8088/ace/getstream?id=bb2976a6e2296ffa562c91d761db5460f325bd1a
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 HD Aces
+http://192.168.66.2:8088/ace/getstream?id=2260011d2520b1a93c8f371e2fb7fda07ace4ee5
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 UHD [DE] Aces
+http://192.168.66.2:8088/ace/getstream?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
+
+#EXTINF:-1 tvg-logo="https://seekvectorlogo.com/wp-content/uploads/2021/12/sky-sports-f1-vector-logo-2021.png" group-title="F1" tvg-id="SkySportF1Germany.de", Sky Sports F1 [DE] Aces
+http://192.168.66.2:8088/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180430/pze/kisspng-nio-formula-e-team-logo-brand-5ae77a4a219680.8868016715251195621376.jpg" group-title="F1" tvg-id="Formula E", Formula E Aces
+http://192.168.66.2:8088/ace/getstream?id=d6622ca93e54e493a6910248f8fe1f03aa85bf01
+
+
+#EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport Aces" tvg-id="BT Sport1", BT Sport1 
+http://192.168.66.2:8088/ace/getstream?id=ab2b69970c0629bf0fa30dd61b0072adb4ac4d9c
+
+#EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport Aces" tvg-id="Sport tv4", Sport tv4 
+http://192.168.66.2:8088/ace/getstream?id=c300ecb07d854c1730b04ea022c3fb0a184d7801
+
+#EXTINF:-1 tvg-logo="https://www.pngwing.com/es/free-png-avpei" group-title="BT Sport Aces" tvg-id="Sport 360", Sport 360 
+http://192.168.66.2:8088/ace/getstream?id=e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/598-5982970_bt-sport-1-1080p-sky-and-bt-sports.png" group-title="BT Sport Aces" tvg-id="I413.1805.tvguide.co.uk", BT Sport1 [UK]
+http://192.168.66.2:8088/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1 tvg-logo="https://seekvectors.com/files/download/BT-sport-2-01.png" group-title="BT Sport Aces" tvg-id="I414.1807.tvguide.co.uk", BT Sport2 [UK]
+http://192.168.66.2:8088/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/BtSport3/bt%20sport%203.png" group-title="BT Sport Aces" tvg-id="BT Sport3", BT Sport3 [UK]
+http://192.168.66.2:8088/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/BtSportExtra4/bt%20sport%20extra%204.png" group-title="BT Sport" tvg-id="BT Sport4", BT Sport4 [UK]
+http://192.168.66.2:8088/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+
+
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="M+ LaLiga TV HD", Evento del momento
+https://nes04.quest123.top:8088/live/hjfhj4hngdhj/playlist.m3u8?vidictid=196242765744&id=119648&pk=22fea641c0d740a4bcaf0e0d5192fd7319868cad4ad28758433c7c81731716cfa5c516d941b5a308a545f26a23e5da9b59375332968261fe063e0e9da5bf7473
+#EXTINF:-1 tvg-logo="https://img.freepik.com/vector-gratis/signo-interrogacion-moderno-pagina-ayuda-soporte_1017-27395.jpg?w=360" group-title="Evento del momento" tvg-id="DAZN LaLiga HD", Evento del momento
+http://192.168.66.2:8088/ace/getstream?id=1960a9be8ae9e8c755330218eac4c5805466290a
+
+
+#EXTINF:-1 group-title="Movistar Plus" tvg-id="Movistar Plus+ HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png" ,Movistar Plus+ 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=5a236fbbe6e5bbfec03db548c244a7c858d675c0
+
+#EXTINF:-1 group-title="Movistar Plus" tvg-id="Movistar Plus+ HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png" ,Movistar Plus+ 1080 IPTV 1
+http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/558669.ts
+
+#EXTINF:-1 group-title="Movistar Plus Aces" tvg-id="Movistar Plus+ HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png" ,Movistar Plus+ 1080 IPTV 2
+http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/559514.ts
+
+#EXTINF:-1 group-title="Movistar Plus" tvg-id="Movistar Plus+ HD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2451.png" ,Movistar Plus+ 1080 IPTV 3
+http://185.233.16.53:80/play/vi1105750/3JxWFxYDUNnU/563577.ts
+
+
+#EXTINF:-1 tvg-logo="" group-title="Varios Acestream" tvg-id="ESPN 3 ARGENTINA", ESPN 3 ARGENTINA
+http://192.168.66.2:8088/ace/getstream?id=b9fdac2069dae003e7a2ea94bc3a069b28fb7e1e
+
+#EXTINF:-1 tvg-logo="" group-title="Varios Acestream" tvg-id="Fox 3 Argentina", FOX 3 Argentina
+http://192.168.66.2:8088/ace/getstream?id=9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mgo.png" group-title="Varios Acestream" tvg-id="M+ Golf HD", M. Golf
+http://192.168.66.2:8088/ace/getstream?id=858b3cf2842ebe394999275e5ebb0435f1af2ae4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Golf_Channel_Latin_America_-_Logo.svg/188px-Golf_Channel_Latin_America_-_Logo.svg.png" group-title="Varios Acestream" tvg-id="M+ Golf 2 HD", M. Golf 2
+http://192.168.66.2:8088/ace/getstream?id=0742f7fabb74715b11c5a5dae24e93a4644697a5
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios Acestream" tvg-id="beIN Sport ñ1", beIN SPORT ñ1
+http://192.168.66.2:8088/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios Acestream" tvg-id="beIN Sport ñ", beIN SPORT ñ
+http://192.168.66.2:8088/ace/getstream?id=41af6926a6010b68ba2540975761436bb077748f
+
+#EXTINF:-1 tvg-logo="https://cdn141.picsart.com/d2212bf5-0999-4b88-a137-e70f998eeada/402020668010211.png?to=crop&type=webp&r=540x405&q=85" group-title="Varios Acestream" tvg-id="beIN Sport Extra ñ", beIN SPORT Extra ñ
+http://192.168.66.2:8088/ace/getstream?id=92a7dcc55392efc6dd5d012c4ff3878891eb6a6e
+
+#EXTINF:-1 group-title="Varios Acestream" tvg-id="" tvg-logo="https://picon.ml/setanta-sports1.png" ,Setanta Sport 1
+http://192.168.66.2:8088/ace/getstream?id=b99278331ad806f1463fcd3bf53befa5530d86da
+
+#EXTINF:-1 group-title="Varios Acestream" tvg-id="" tvg-logo="https://picon.ml/setanta-sports1.png" ,Setanta Sport 1
+http://192.168.66.2:8088/ace/getstream?id=8b70ef2d42e2adac57e90f68847eadfc356c04d2
+
+#EXTINF:-1 group-title="Varios Acestream" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sport 2
+http://192.168.66.2:8088/ace/getstream?id=9b8feebaf07ced9351ad88da77ef617f82626c4b
+
+#EXTINF:-1 group-title="Varios Acestream" tvg-id="" tvg-logo="https://picon.ml/setanta-sports2.png" ,Setanta Sport 2
+http://192.168.66.2:8088/ace/getstream?id=02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
+
+#EXTINF:-1 group-title="Varios Acestream" tvg-id="" tvg-logo="https://image.winudf.com/v2/image1/Y29tLmRpZ2l0dXJrLmxpZ3R2X2ljb25fMTU1NDM0OTkwMl8wNzI/icon.png?fakeurl=1&h=240&type=webp" ,beIN Soports HD [TR]
+http://192.168.66.2:8088/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
+
+#EXTINF:-1 group-title="Varios Acestream" tvg-id="" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a2807.png" ,Canal+ Sport 360
+http://192.168.66.2:8088/ace/getstream?id=e1d74c79ab7b3991b3ed40b199abd0e8eb0ae511
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GmTGpfkp/DTV.png" group-title="Varios Acestream" tvg-id="DirectSports Plus", DirectSports Plus
+http://192.168.66.2:8088/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
+
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV Aces
+http://192.168.66.2:8088/ace/getstream?id=f763ab71f6f646e6c993f37e237be97baf2143ef
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV  01-08 Aces
+http://192.168.66.2:8088/ace/getstream?id=a05861bc05c220c5f0a841da9180d32950292f8d
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV FHD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321445.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV FHD
+http://16692914887558671.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558671.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV HD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321446.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV HD
+http://16692914887558672.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558672.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV SD
+http://goodtv.ot0711.xyz:80/play/phenixiptv-EX/9538kdf9817GRHUr/321449.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV SD
+http://16692914887558673.of3805.xyz:80/play/mi508893/C@tTnVkTRfE5/558673.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV
+http://185.233.16.53:80/play/ff08274/2343800298/441850.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV FHD
+http://638563156749558671.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/558671.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV HD
+http://638563156749558672.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/558672.ts
+
+#EXTINF:-1 tvg-logo="https://www.movilonia.com/wp-content/uploads/2023/02/logo-OneToro.png" group-title="OneToro" tvg-id="OneToro TV", OneToro TV IPTV SD
+http://638563156749558673.of090823.xyz:80/play/9SKPU5RFJ7/kYrP7svCSAtD/558673.ts
+
+
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2023/01/tenis-eurosport-4k.jpg" group-title="Eurosport" tvg-id="Eurosport 4K", Eurosport 4K - Aces
+http://192.168.66.2:8088/ace/getstream?id=c525471499b936decc037ea86e0f8125ebf78c28
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Eurosport" tvg-id="Eurosport 1 HD", Eurosport 1 - 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Eurosport" tvg-id="Eurosport 2", Eurosport 2 - 1080 Aces
+http://192.168.66.2:8088/ace/getstream?id=c373da9e901d414b7384e671112e64d5a2310c29
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Eurosport" tvg-id="Eurosport 1 HD", Eurosport 1 - IPTV
+http://partyplay.live:8080/exch@grogi/grogi456/310854
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es.png" group-title="Eurosport" tvg-id="Eurosport 1 HD", Eurosport 1 - IPTV
+http://SigueSoñandoPericopalotes135@185.188.188.235/live/eurosport/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/es2.png" group-title="Eurosport" tvg-id="Eurosport 2", Eurosport 2 - IPTV
+http://partyplay.live:8080/exch@grogi/grogi456/310855
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="TDT", TVE1
+http://192.168.66.2:8088/ace/getstream?id=fd0a3f8874ba9bb0516b1e2b978827fdd6661842
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="TDT", TVE1
+http://192.168.66.2:8088/ace/getstream?id=3dcea707d4ce52d9e641cc4951fe6ca8b7aad798
+
+#EXTINF:-1 tvg-id="" tvg-name="TVE1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Logo_TVE-1.svg/672px-Logo_TVE-1.svg.png" group-title="TDT", TVE1 HD
+http://192.168.66.2:8088/ace/getstream?id=61a38b6c3b6c3fdffcb2f61053f3437e569eb666
+
+#EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-logo="https://www.unedvalencia.es/wordpress/wp-content/uploads/2021/07/la2.png" group-title="TDT", La 2
+http://192.168.66.2:8088/ace/getstream?id=60106275d34f995e26bb2cc4a21a42f586c6c555
+
+#EXTINF:-1 tvg-id="" tvg-name="La 2" tvg-logo="https://www.unedvalencia.es/wordpress/wp-content/uploads/2021/07/la2.png" group-title="TDT", La 2
+http://192.168.66.2:8088/ace/getstream?id=52d3738871536dce27db50f044d3294a4c52253d
+
+#EXTINF:-1 tvg-logo="https://imagenes.heraldo.es/files/image_990_v3/uploads/imagenes/2022/09/14/24h.jpeg" group-title="TDT" tvg-id="24h", 24h Cat 
+http://192.168.66.2:8088/ace/getstream?id=2191383ed85d20f5f6759785e14a4aff8a3ab8f4
+
+#EXTINF:-1 tvg-logo="https://imagenes.heraldo.es/files/image_990_v3/uploads/imagenes/2022/09/14/24h.jpeg" group-title="TDT" tvg-id="24h", 24h Canarias 
+http://192.168.66.2:8088/ace/getstream?id=12b6039cba09cee2e6b87e69623ed30462e65edc
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mev.png" group-title="TDT" tvg-id="M+ Ellas #V HD", Ellas #V
+http://192.168.66.2:8088/ace/getstream?id=67654e63b5065cdaa6c8e8d41bb5428b42b32830
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c3/Logo_tv3x.png" group-title="TDT" tvg-id="TV3 HD", TV3 CAT
+http://192.168.66.2:8088/ace/getstream?id=8494a9c2e755292fefe4eea78acd8dc29ed1d3ab
+
+#EXTINF:-1 tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fwww.pericos.es%2Fwp-content%2Fuploads%2F2023%2F06%2FEsport3.jpg" group-title="TDT" tvg-id="Esport 3", Esport3
+http://192.168.66.2:8088/ace/getstream?id=915c04130796e3e6246919261b89660377f60ad8
+
+#EXTINF:-1 group-title="TDT" tvg-id="Cuatro HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-cuatro-619.png" ,CUATRO 1080
+http://192.168.66.2:8088/ace/getstream?id=e8eec35f4662be1af96963245bfa88fb7d0242c4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Telecinco-hd.png" group-title="TDT" tvg-id="Telecinco HD", Telecinco 1080
+http://192.168.66.2:8088/ace/getstream?id=bb1982ae8d2d409d4ccd7a9f498042684e3532b5
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/meventos.png" group-title="TDT" tvg-id="Eventos de Movistar", Eventos de Movistar
+http://192.168.66.2:8088/ace/getstream?id=0a94ca1f63e144862248f4f00ea9044f5a5d0971
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ad/GOLTV.png" group-title="TDT" tvg-id="GOL PLAY", Gol TV - 1080
+http://192.168.66.2:8088/ace/getstream?id=d4627f7b6b237a8556819445b3283d866caceca2
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="TDT" tvg-id="Real Madrid TV", Real Madrid TV - 1080
+http://192.168.66.2:8088/ace/getstream?id=0ec3f3786318acd8dca2588f74c3759cda76cd11
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/rm.png" group-title="TDT" tvg-id="Real Madrid TV", Real Madrid TV - 720
+http://192.168.66.2:8088/ace/getstream?id=0827cf7d290967985892965c6e61244a479d6dcd
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT" tvg-id="Barça TV", Barça TV 1080
+http://192.168.66.2:8088/ace/getstream?id=e3362507e7c732b9461bd7bdc74bd054c49b3ba7
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/btv.png" group-title="TDT" tvg-id="Barça TV", Barça TV 720
+http://192.168.66.2:8088/ace/getstream?id=4853a0bd4fd17f85f563267feb6aec3319a3ac1d
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/teledeporte.png" group-title="TDT" tvg-id="Teledeporte", Teledeporte - 1080
+http://192.168.66.2:8088/ace/getstream?id=5a272a468eaf25feb032e2c5d377c6276b2299c7
+
+#EXTINF:-1 tvg-logo="https://fotografias-mega.atresmedia.com/clipping/cmsimages01/2022/07/06/F8E798E8-EDE7-413A-9D2E-AA779E299B2E/mega_27.jpg" group-title="TDT" tvg-id="Mega", Mega - 1080
+http://192.168.66.2:8088/ace/getstream?id=eca5dfd22ce7fc352205749f78ac2c1dff5b5a94
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="M+ #Vamos HD", #Vamos - 1080
+http://192.168.66.2:8088/ace/getstream?id=859bb6295b8d0f224224d3063d9db7cdeca03122
+
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/xL9g00tgdeqwxSPAPhbbKUm52ou8Re6Fg1oV8neboCUUZEtNlKi_2Jfr06oiy3IAZITG1evk=s900-c-k-c0x00ffffff-no-rj" group-title="TDT" tvg-id="M+ #Vamos HD", #Vamos - 720
+http://192.168.66.2:8088/ace/getstream?id=3bba7c95857c2502c7e03ced1a6a9b00eb567fa0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="TDT" tvg-id="Euronews ES", Euronews ES
+http://192.168.66.2:8088/ace/getstream?id=76ee611c0ed9ce07f0820b25809d5290b2f7e728
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/90GY5qpp/tv5-Linares.png" group-title="TDT" tvg-id="TV5 Linares", TV5 Linares
+http://192.168.66.2:8088/ace/getstream?id=22d8edbf5db606c3da68315368f6a981223290b0
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2b/TVG_1985.png" group-title="TDT" tvg-id="Tv Galicia", Tv Galicia
+http://192.168.66.2:8088/ace/getstream?id=aa9e353457d273108ec57dc1a449d66defb66b6a
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/TVG2#/media/Archivo:TvG2.jpg" group-title="TDT" tvg-id="TVG2 Deportes", TVG2 Deportes
+http://192.168.66.2:8088/ace/getstream?id=d6d64a0a2f3f83f94b0ad176af764a0bd9430eee
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f5/Logotipo_de_Telesur_%282011-2014%29.png" group-title="TDT" tvg-id="TeleSur", TeleSur
+http://192.168.66.2:8088/ace/getstream?id=d80713de995db0c853e7e835f1278420d32a8b93
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TDT" tvg-id="I402.16461.schedulesdirect.org", Canal de las Estrellas
+http://192.168.66.2:8088/ace/getstream?id=f06a25f371ab0a70fabdd5d28690716996898814
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Las_Estrellas_logo_%282016%29.png" group-title="TDT" tvg-id="I402.16461.schedulesdirect.org", Canal de las Estrellas IPTV
+http://partyplay.live:8080/exch@grogi/grogi456/42099
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Canal_26_Argentina.png" group-title="TDT" tvg-id="Canal 26", Canal 26
+http://192.168.66.2:8088/ace/getstream?id=955c7754b0f2f5d52725b910379d60e45152e6e4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/Canal_M%C3%A1laga_RTV.jpg" group-title="TDT" tvg-id="Canal Malaga", Canal Malaga
+http://192.168.66.2:8088/ace/getstream?id=6531c754d04ef1b6694f23daf0b8b7feb1387b19
+
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/1853-294x165-FFFFFF.jpg" group-title="TDT" tvg-id="Hits 360 HD", Hits 360 HD
+http://192.168.66.2:8088/ace/getstream?id=b38cf48cc43cb1cc60f4d406d570f856d1783bf8
+
+#EXTINF:-1 tvg-logo="https://www.inlife.tv/sites/default/files/logos/andorra-televisio.png" group-title="TDT" tvg-id="ATV Andorra
+http://192.168.66.2:8088/ace/getstream?id=3cd198f43f2d613190698054e0be4ad636dcce85
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sport Tv" tvg-id="Sport TV1 POR HD", Sport Tv 1 - 1080 [PT]
+http://192.168.66.2:8088/ace/getstream?id=a1bd609a2d64d1ee4b81af32464b36848fe36541
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/sport_tv_pt_1.png" group-title="Sport Tv" tvg-id="Sport TV1 POR HD", Sport Tv 1 - 1080
+http://192.168.66.2:8088/ace/getstream?id=ce235921dac95e1da2dd5e54673c2fecb9e806de
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=ana%2Fsport_tv2_pt.jpg" group-title="Sport Tv" tvg-id="SSport TV2 POR HD", Sport Tv 2 - 1080
+http://192.168.66.2:8088/ace/getstream?id=396d82ca6f5445abcd32e6b609d67e332ee12ace
+
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/portugal/logo/sport_tv3.png" group-title="Sport Tv" tvg-id="Sport TV3 POR HD", Sport Tv 3 - 1080
+http://192.168.66.2:8088/ace/getstream?id=f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
+
+#EXTINF:-1 tvg-logo="https://tvepg.eu/img/portugal/logo/sport_tv4.png" group-title="Sport Tv" tvg-id="Sport TV4 POR HD", Sport Tv 4 IPTV
+http://185.53.88.153:2095/live/BastianSuecia12243/AQNbBTDH6fUf/7508.ts
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="I414.1807.tvguide.co.uk", WRC +
+http://192.168.66.2:8088/ace/getstream?id=4b4e4277ee6b7f3041cf7d1a708862b3330b1b4b
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/WRC.png" group-title="RALLY" tvg-id="I414.1807.tvguide.co.uk", WRC + [PL]
+http://192.168.66.2:8088/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/FS1-Logo-Claim-NEG-RGB-rund.png" group-title="RALLY" tvg-id="I316.82541.schedulesdirect.org", FS1
+http://192.168.66.2:8088/ace/getstream?id=e5dd056bbcbf637c7fa314288356a8024e426f18
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Fox_sports_2.png" group-title="RALLY" tvg-id="I316.82541.schedulesdirect.org", FS2
+http://192.168.66.2:8088/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
+
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/121/810/original/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-and-uppercase-monogram-logo-pvp-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="PPVP" tvg-id="PPVP", PPVP 1
+http://192.168.66.2:8088/ace/getstream?id=600222a4f98df80a2c0df2d60cb5ff3df9620710
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/121/810/original/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-and-uppercase-monogram-logo-pvp-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="PPVP" tvg-id="PPVP", PPVP 2
+http://192.168.66.2:8088/ace/getstream?id=d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/121/810/original/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-and-uppercase-monogram-logo-pvp-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="PPVP" tvg-id="PPVP", PPVP 3
+http://192.168.66.2:8088/ace/getstream?id=162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1 tvg-logo="https://static.vecteezy.com/system/resources/previews/009/121/810/original/pvp-logo-pvp-letter-pvp-letter-logo-design-initials-pvp-logo-linked-with-circle-and-uppercase-monogram-logo-pvp-typography-for-technology-business-and-real-estate-brand-vector.jpg" group-title="PPVP" tvg-id="PPVP", PPVP 4
+http://192.168.66.2:8088/ace/getstream?id=e454681a152a86da504e63694f17f90d0586867d
+
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WPT [IPTV]
+https://amg01970-mypadeldigitals-mypadeltv-samsungspain-k7d0l.amagi.tv/playlist/amg01970-mypadeldigitals-mypadeltv-samsungspain/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wp-content/uploads/2023/02/World-Padel-Tour.jpg" group-title="WORLD PADEL TOUR" tvg-id="I392.76950.schedulesdirect.org", WPT [IPTV2]
+http://laligatech-live-usp.akamaized.net/live/wpt01/wpt01.isml/hdntl=exp=1688976166~acl=%2f*~data=hdntl~hmac=7ca942cc2bceba18a02a4915f9f0a490cbf66d4033d1119d440c14cd969c4213/wpt01-audio_track_0_0_spa=96000-video_track=2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="MUTV" tvg-id="ext", MuTV [Manchester United]
+http://192.168.66.2:8088/ace/getstream?id=30447ef0ecb4410d5499eaac68026bf123a7ffa6
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 1080
+http://192.168.66.2:8088/ace/getstream?id=d00223931b1854163e24c5c22475015d7d45c112
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem1.png" group-title="DEPORTES" tvg-id="M+ Deportes HD", M.Deportes 720
+http://192.168.66.2:8088/ace/getstream?id=77d83a79afcf6c865289cd8cdb42223cd4b6501c
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem2.png" group-title="DEPORTES" tvg-id="M+ Deportes 2 HD", M.Deportes 2 1080
+http://192.168.66.2:8088/ace/getstream?id=e6f06d697f66a8fa606c4d61236c24b0d604d917
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem3.png" group-title="DEPORTES" tvg-id="M+ Deportes 3", M.Deportes 3 1080
+http://192.168.66.2:8088/ace/getstream?id=aee0a595220e0f1c2fee725fd1dbc602d7152a9a
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem4.png" group-title="DEPORTES" tvg-id="M+ Deportes 4", M.Deportes 4 1080
+http://192.168.66.2:8088/ace/getstream?id=42e83c337ece0af9ca7808859f84c7960e9cb6f5
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem5.png" group-title="DEPORTES" tvg-id="M+ Deportes 5", M.Deportes 5 1080
+http://192.168.66.2:8088/ace/getstream?id=b1e5abc48195b7ca9b2ee1b352e790eb9f7292e3
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem6.png" group-title="DEPORTES" tvg-id="M+ Deportes 6", M.Deportes 6 720
+http://192.168.66.2:8088/ace/getstream?id=8587ed8ac36ac477e1d4176d3159a38bd154d4ce
+
+#EXTINF:-1 tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/mdem7.png" group-title="DEPORTES" tvg-id="M+ Deportes 7", M.Deportes 7 720
+http://192.168.66.2:8088/ace/getstream?id=2448f1d084f440eed2fbe847e24f1c02f5659a78
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="DEPORTES" tvg-id="FOX SPORTS", FOX SPORTS
+http://192.168.66.2:8088/ace/getstream?id=d4aa975dd59ae7f4e68ceadee8b77d65e9fc1360
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/stations/a244.png" group-title="DEPORTES" tvg-id="Fight Box HD", ESPN 4
+http://192.168.66.2:8088/ace/getstream?id=078aba97b4781ad171fa4048ea9ab17092ac6bd1
+
+
+#EXTINF:-1 tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/06/wimbledon-2.png" group-title="TENIS" tvg-id="M+ Wimbledon UHD", Wimbledon UHD
+http://192.168.66.2:8088/ace/getstream?id=78aa81aedb1e2b6a9ba178398148940857155f6a
+
+#EXTINF:-1 tvg-logo="https://www.groundedreason.com/wp-content/uploads/2021/06/wimbledon-2.png" group-title="TENIS" tvg-id="M+ Wimbledon UHD", Wimbledon 4K
+http://192.168.66.2:8088/ace/getstream?id=3470a98b59416289f0e6d206b6979a0dc26defa8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/xC3zDsbK/banner-tennis-tv-750.jpg" group-title="TENIS" tvg-id="TennisChannel.us", Tenis Channel
+http://192.168.66.2:8088/ace/getstream?id=9292d3b32432efb56db4014933cbdec0a7cf2e36
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/tgV0RQxM/tench2.png" group-title="TENIS" tvg-id="TennisChannel.us2", Tenis Channel 2
+http://192.168.66.2:8088/ace/getstream?id=51a682f0daa2e2fb61e078e48704cb1e3411a300
+
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762962501269_image-header_pDach_1662550975000" group-title="Alemania" tvg-id="(DE) DAZN 1", (DE) DAZN 1
+http://192.168.66.2:8088/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+
+#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v2/eu/image?id=762965573106_image-header_pDach_1662550976000" group-title="Alemania" tvg-id="(DE) DAZN 2", (DE) DAZN 2
+http://192.168.66.2:8088/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="I413.1805.tvguide.co.uk", BT SPORT 1
+http://192.168.66.2:8088/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-2-uk.svg" group-title="UK" tvg-id="I414.1807.tvguide.co.uk", BT SPORT 2
+http://192.168.66.2:8088/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-3-uk.svg" group-title="UK" tvg-id="BT SPORT 3", BT SPORT 3
+http://192.168.66.2:8088/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bt-sport-4-uk.svg" group-title="UK" tvg-id="BT SPORT 4", BT SPORT 4
+http://192.168.66.2:8088/ace/getstream?id=bc2b90ebc65c837ddecfa387e44dc3717486e609
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/PS_Logo_STACKED_4.png" group-title="UK" tvg-id="Premier Sports 1", Premier Sports 1
+http://192.168.66.2:8088/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+
+#EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-2.png" group-title="UK" tvg-id="Premier Sports 2", Premier Sports 2
+http://192.168.66.2:8088/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1 tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-2.png" group-title="UK" tvg-id="Premier Sports 2", Premier Sports 2
+http://192.168.66.2:8088/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
+
+#EXTINF:-1 tvg-logo="https://ia800808.us.archive.org/17/items/SkySportsPremierLeague_201708/sky%20sports%20premier%20league.png" group-title="UK" tvg-id="Sky Sports Premier League", Sky Sports Premier League
+http://192.168.66.2:8088/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
+
+#EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sky-sports-main-event-logo.png" group-title="UK" tvg-id="I400.52300.schedulesdirect.org", Sky Sports Maint Event
+http://192.168.66.2:8088/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Sky_Sport_Arena_-_Logo_2020.svg/1280px-Sky_Sport_Arena_-_Logo_2020.svg.png" group-title="UK" tvg-id="Sky Sports Arena", Sky Sports Arena
+http://192.168.66.2:8088/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Fox_Sports_Logos_%28Basico%2C_Premium%2C_HD%29.png" group-title="UK" tvg-id="I312.123582.schedulesdirect.org", Fox Sports Premium
+http://192.168.66.2:8088/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="BT SPORT 1 FHD", BT SPORT 1 FHD
+http://192.168.66.2:8088/ace/getstream?id=6adb56e860967c5b1ba08e1bcb1eb2c4245e5842
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ea/BT_Sport_logo_2019.svg" group-title="UK" tvg-id="ext", VIAPLAY EXTRA 🇬🇧 - IPTV
+https://d3j7ofexbkp7q4.cloudfront.net:443/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/../../../manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bl5ti7t9yiazp-ssai-prd/d9684174-b39b-45a5-b47b-6d037fecbfee/3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="I156.32281.schedulesdirect.org", NBA TV USA 1080
+http://192.168.66.2:8088/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1551576769735565312/p29DD_wc_400x400.jpg" group-title="NBA" tvg-id="I156.32281.schedulesdirect.org", NBA TV USA 1
+http://192.168.66.2:8088/ace/getstream?id=39db49bc89dcc3c8797566231f869dca57f1a47e
+
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image24452744424.webp" group-title="Rumania" tvg-id="Digi Sport 1", Digi Sport 1
+http://192.168.66.2:8088/ace/getstream?id=51cee9d0b29dbd9104e9a3971fd2569419eab159
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image39730317658.jpg" group-title="Rumania" tvg-id="Digi Sport 2", Digi Sport 2
+http://192.168.66.2:8088/ace/getstream?id=b7db2c0404f90f99b01a8875713c047cd07595f7
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image41244484205.jpg" group-title="Rumania" tvg-id="Digi Sport 3", Digi Sport 3
+http://192.168.66.2:8088/ace/getstream?id=b9dc6fdeaca5a5f4275db80d68536e023ce4ea06
+
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image59616610408.jpg" group-title="Rumania" tvg-id="Digi Sport 4", Digi Sport 4
+http://37.49.230.48:8080/Miglior/taJA1d0G6K0WWytw/4219
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Logo_Antena_1_%282010%29.svg/1200px-Logo_Antena_1_%282010%29.svg.png" group-title="Rumania" tvg-id="Antena 1", Antena 1
+http://192.168.66.2:8088/ace/getstream?id=257601c048fac7b7b5272f4e97369533127d0544
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/Antena_3_Rumania_2005.png/revision/latest?cb=20200827193717&path-prefix=es" group-title="Rumania" tvg-id="Antena 3", Antena 3
+http://192.168.66.2:8088/ace/getstream?id=784e028c661114e5edc5041f9e4b3e5ecf2e0b2a/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Logo_Pro_TV_%282017%29.svg/1200px-Logo_Pro_TV_%282017%29.svg.png" group-title="Rumania" tvg-id="Pro Tv", Pro Tv
+http://192.168.66.2:8088/ace/getstream?id=6aa9b9e06e1a2ca844003ec5340725ea5be399c6
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/08/Kanal_D_HD_2011.png/revision/latest?cb=20200814051325&path-prefix=es" group-title="Rumania" tvg-id="Kanal D HD", Kanal D HD
+http://192.168.66.2:8088/ace/getstream?id=f15354d90dcc2c4b015aa20f0a473f408c19f548/
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfXybjP0/match-premier-logo-8-A89-A040-BF-seeklogo-com.png" group-title="RUSIA-РОССИЯ" tvg-id="Match Premier", Match Premier
+http://192.168.66.2:8088/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfXybjP0/match-premier-logo-8-A89-A040-BF-seeklogo-com.png" group-title="RUSIA-РОССИЯ" tvg-id="Okko Sport TV", Okko Sport TV
+http://192.168.66.2:8088/ace/getstream?id=a2af650d4c459435dd3c61ceb1779a0e0b5823be
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/NfXybjP0/match-premier-logo-8-A89-A040-BF-seeklogo-com.png" group-title="RUSIA-РОССИЯ" tvg-id="Okko Sport TV", Okko Sport TV HD
+http://192.168.66.2:8088/ace/getstream?id=265605cd67a79717a59dd06f43cc29a65e3a99e1
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 1 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 1 HD (Event Only)
+http://192.168.66.2:8088/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
+#EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 2 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 2 HD (Event Only)
+http://192.168.66.2:8088/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466
+#EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 3 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 3 HD (Event Only)
+http://192.168.66.2:8088/ace/getstream?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
+#EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 4 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 4 HD (Event Only)
+http://192.168.66.2:8088/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6
+#EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 5 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 5 HD (Event Only)
+http://192.168.66.2:8088/ace/getstream?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5
+#EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 6 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 6 HD (Event Only)
+http://192.168.66.2:8088/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
+#EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 7 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 7 HD (Event Only)
+http://www.pandar.plus:25461/02029886660921/2628382643/202835
+#EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 8 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 8 HD (Event Only)
+http://www.pandar.plus:25461/02029886660921/2628382643/202836
+#EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 9 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 9 HD (Event Only)
+http://www.pandar.plus:25461/02029886660921/2628382643/202837
+#EXTINF:-1 tvg-ID="" tvg-name="DE-4K: RTL+ SPORT 10 HD (Event Only)" tvg-logo="" group-title="Alemania",DE-4K: RTL+ SPORT 10 HD (Event Only)
+http://www.pandar.plus:25461/02029886660921/2628382643/202838
+
+
+#EXTINF:-1 tvg-logo="https://d-art.ppstatic.pl/kadry/k/r/1/7c/f8/56e4dcfcb1bdb_o_full.jpg" group-title="Polonia" tvg-id="Polsat Sports HD", Polsat Sport Extra  Multicast 
+http://192.168.66.2:8088/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
+
+#EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="Polonia" tvg-id="Eleven Sports HD", Eleven Sports 1
+http://192.168.66.2:8088/ace/getstream?id=c7696100b1a507ecfe43b4373feabadc02e42d54
+
+#EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="Polonia" tvg-id="Eleven Sports HD", Eleven Sports 1
+http://192.168.66.2:8088/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+
+#EXTINF:-1 tvg-logo="https://net4me.info/wp-content/uploads/2020/07/elevensports1_4k_1-632x221-1.png" group-title="Polonia" tvg-id="Eleven Sports 1 4K", Eleven Sports 1 4K
+http://192.168.66.2:8088/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Canal%2B_Sport_2015.png/640px-Canal%2B_Sport_2015.png" group-title="Polonia" tvg-id="Canal+", Canal+ Sport
+http://192.168.66.2:8088/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/400px-Canal%2B_Sport_2_PL.png" group-title="Polonia" tvg-id="Canal+ 2", Canal+ Sport 2
+http://192.168.66.2:8088/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/d/de/Canal%2B_Sport_3_%282019-.n.v.%29.png/revision/latest?cb=20201129201855" group-title="Polonia" tvg-id="Canal+ 3", Canal+ Sport 3
+http://192.168.66.2:8088/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/9/93/Canal%2B_Sport_4_%282019-.n.v.%29.png/revision/latest/scale-to-width-down/1200?cb=20201130101752" group-title="Polonia" tvg-id="Canal+ 4", Canal+ Sport 4
+http://192.168.66.2:8088/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
+
+#EXTINF:-1 tvg-logo="https://ocdn.eu/ptv2-images/logo-migrated/eleven-sports-2.png" group-title="Polonia" tvg-id="Eleven Sports 2", Eleven Sports 2
+http://192.168.66.2:8088/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
+
+#EXTINF:-1 tvg-logo="https://www.mm-eu.tv/wordpress/wp-content/uploads/2019/10/ELEVEN_Channel_3.jpg" group-title="Polonia" tvg-id="Eleven Sports 3", Eleven Sports 3
+http://192.168.66.2:8088/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fportugal%2Feleven+sports+4+portugal.gif" group-title="Polonia" tvg-id="Eleven Sports 4", Eleven Sports 4
+http://192.168.66.2:8088/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fportugal%2Feleven+sports+4+portugal.gif" group-title="Polonia" tvg-id="Eleven Sports 4", Eleven Sports 4
+http://192.168.66.2:8088/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=katkotati%2flogo_chaine%2fportugal%2feleven+sports+5+portugal.gif" group-title="Polonia" tvg-id="Eleven Sports 5", Eleven Sports 5
+http://192.168.66.2:8088/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 1", Magenta Sport 1
+http://192.168.66.2:8088/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 2", Magenta Sport 2
+http://192.168.66.2:8088/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 3", Magenta Sport 3
+http://192.168.66.2:8088/ace/getstream?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 4", Magenta Sport 4
+http://192.168.66.2:8088/ace/getstream?id=1fb794b1503c5955b75ea0106ee6360b80d78849
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 5", Magenta Sport 5
+http://192.168.66.2:8088/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 6", Magenta Sport 6
+http://192.168.66.2:8088/ace/getstream?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 7", Magenta Sport 7
+http://192.168.66.2:8088/ace/getstream?id=ac839cda9709255c21a98af455731f037e77a9e4
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 8", Magenta Sport 8
+http://192.168.66.2:8088/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 9", Magenta Sport 9
+http://192.168.66.2:8088/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 10", Magenta Sport 10
+http://192.168.66.2:8088/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Magenta_Sport_Logo_2020.svg/640px-Magenta_Sport_Logo_2020.svg.png" group-title="Alemania" tvg-id="Magenta Sport 11", Magenta Sport 11
+http://192.168.66.2:8088/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg/1200px-Sky_Sport_Bundesliga_UHD_DE_Logo_2020.svg.png" group-title="Alemania" tvg-id="Sky Sports Bundesliga 4K", Sky Sports Bundesliga 4K
+http://192.168.66.2:8088/ace/getstream?id=169da1e59ffd3947c09d65eb1a0de0c831bef390
+
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="Alemania" tvg-id="Sky Sports Bundesliga", Sky Sports Bundesliga
+http://192.168.66.2:8088/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
+
+#EXTINF:-1 tvg-logo="https://e3.365dm.com/tvlogos/channels/1303-Logo.png?U2t5IFNwb3J0cyBQcmVtaWVyIExlYWd1ZQ==" group-title="Alemania" tvg-id="Sky Sport UHD [DE]", Sky Sport UHD [DE]
+http://192.168.66.2:8088/ace/getstream?id=96f3385d7bd5420ffad7d54ecae5cab2b9da25c3
+
+#EXTINF:-1 tvg-logo="https://cdn.digitalsport.co/wp-content/uploads/2019/10/cropped-DS-social-logo.png" group-title="Alemania" tvg-id="Sport Digital", Sport Digital [DE]
+http://192.168.66.2:8088/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/O/orf-sport-logo-EA50393ACD-seeklogo.com.png" group-title="Alemania" tvg-id="ORF SPORT +", ORF SPORT + [DE]
+http://192.168.66.2:8088/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
+
+#EXTINF:-1 group-title="Alemania" tvg-id="" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" ,Eurosport 360 HD 1 DE
+http://192.168.66.2:8088/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
+#EXTINF:-1 group-title="Alemania" tvg-id="" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" ,Eurosport 360 HD 2 DE
+http://192.168.66.2:8088/ace/getstream?id=57f95543ac41656d473b1a27123fc413388a728c
+#EXTINF:-1 group-title="Alemania" tvg-id="" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" ,Eurosport 360 HD 3 DE
+http://192.168.66.2:8088/ace/getstream?id=7adbca42657ace1fe228142d351d0896974bbe0c
+#EXTINF:-1 group-title="Alemania" tvg-id="" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" ,Eurosport 360 HD 4 DE
+http://192.168.66.2:8088/ace/getstream?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
+#EXTINF:-1 group-title="Alemania" tvg-id="" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" ,Eurosport 360 HD 5 DE
+http://192.168.66.2:8088/ace/getstream?id=148921c4dda96df445e253d6f26c4d092bf85809
+#EXTINF:-1 group-title="Alemania" tvg-id="" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" ,Eurosport 360 HD 6 DE
+http://192.168.66.2:8088/ace/getstream?id=005ac522315699bd93bbf743329eb2f3c347dc3f
+#EXTINF:-1 group-title="Alemania" tvg-id="" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" ,Eurosport 360 HD 7 DE
+http://192.168.66.2:8088/ace/getstream?id=b18657f64507cc859cd7edef1aef90feb053e791
+#EXTINF:-1 group-title="Alemania" tvg-id="" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" ,Eurosport 360 HD 8 DE
+http://192.168.66.2:8088/ace/getstream?id=8f4f572005ca2557743474087aa622693ba9b5fe
+#EXTINF:-1 group-title="Alemania" tvg-id="" tvg-logo="https://i.postimg.cc/nLdXj4Ds/e360.png" ,Eurosport 360 HD 9 DE
+http://192.168.66.2:8088/ace/getstream?id=7993cecc31917793e2bfa2fe98faa9fe1ab62d47
+
+
+#EXTINF:-1 tvg-logo="https://www.delta.nl/media/1466/ziggo-sport-racing-delta.png?anchor=center&mode=crop&width=300&rnd=132048432721930000" group-title="Belgica" tvg-id="Ziggo Sport Racing", Ziggo Sport Racing
+http://192.168.66.2:8088/ace/getstream?id=77800bb07c1d69135024ee2379c97472eb12dd45
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Ziggo_Sport_Select.png" group-title="Belgica" tvg-id="Ziggo Sport Select", Ziggo Sport Select
+http://192.168.66.2:8088/ace/getstream?id=45eab0695ce13265687ace5e5bcef8d8ee8bc69a
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=logo_sport%2Fziggo_sport_voetball.jpg" group-title="Belgica" tvg-id="Ziggo Sport Voetbal", Ziggo Sport Voetbal
+http://192.168.66.2:8088/ace/getstream?id=95769f95c6af45e8ec46526c3be1104d0a0c7b91
+
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2052.png", group-title="RUSIA-РОССИЯ", Eurosport 1 HD orig
+http://192.168.66.2:8088/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/850.png", group-title="RUSIA-РОССИЯ", Eurosport 2 HD orig
+http://192.168.66.2:8088/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2043.png", group-title="RUSIA-РОССИЯ", Матч! Планета
+http://192.168.66.2:8088/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2003.png", group-title="RUSIA-РОССИЯ", Матч! Арена
+http://192.168.66.2:8088/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2054.png", group-title="RUSIA-РОССИЯ", Матч! Боец
+http://192.168.66.2:8088/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2050.png", group-title="RUSIA-РОССИЯ", Матч! Игра
+http://192.168.66.2:8088/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2250.png", group-title="RUSIA-РОССИЯ", Матч! Премьер
+http://192.168.66.2:8088/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2042.png", group-title="RUSIA-РОССИЯ", Матч! Страна
+http://192.168.66.2:8088/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2051.png", group-title="RUSIA-РОССИЯ", Матч! HD
+http://192.168.66.2:8088/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png", group-title="RUSIA-РОССИЯ", Матч! Футбол 1
+http://192.168.66.2:8088/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2044.png", group-title="RUSIA-РОССИЯ", Матч! Футбол 1
+http://192.168.66.2:8088/ace/getstream?id=97a358fb03be9590e1766d937bc8902fc6b66737
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1042.png", group-title="RUSIA-РОССИЯ", Матч! Футбол 2
+http://192.168.66.2:8088/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2005.png", group-title="RUSIA-РОССИЯ", Матч! Футбол 3
+http://192.168.66.2:8088/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2782.png", group-title="RUSIA-РОССИЯ", Футбол HD
+http://192.168.66.2:8088/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4679.png", group-title="RUSIA-РОССИЯ", Футбольный HD
+http://192.168.66.2:8088/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2364.png", group-title="RUSIA-РОССИЯ", Setanta Sports HD
+http://192.168.66.2:8088/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2364.png", group-title="RUSIA-РОССИЯ", Setanta Sports HD
+http://192.168.66.2:8088/ace/getstream?id=75594806667040420dee6ed57926101d702566e8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2364.png", group-title="RUSIA-РОССИЯ", Setanta Sports HD
+http://192.168.66.2:8088/ace/getstream?id=b99278331ad806f1463fcd3bf53befa5530d86da
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2363.png", group-title="RUSIA-РОССИЯ", Setanta Sports 2 HD
+http://192.168.66.2:8088/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2363.png", group-title="RUSIA-РОССИЯ", Setanta Sports 2
+http://192.168.66.2:8088/ace/getstream?id=02ab7a40891a8cc1aa7e29e0eff279abc4a4188e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2363.png", group-title="RUSIA-РОССИЯ", SETANTA SPORTS 2
+http://192.168.66.2:8088/ace/getstream?id=b92756a28f42f5814b4bf73b9377835d98eb7522
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4629.png", group-title="RUSIA-РОССИЯ", Мир Баскетбола
+http://192.168.66.2:8088/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2055.png", group-title="RUSIA-РОССИЯ", Viasat Sport HD
+http://192.168.66.2:8088/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2529.png", group-title="RUSIA-РОССИЯ", Моторспорт
+http://192.168.66.2:8088/ace/getstream?id=0eb8444f75bfe89d5a92c1497ac34ff4c4441207
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2048.png", group-title="RUSIA-РОССИЯ", KHL HD
+http://192.168.66.2:8088/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4605.png", group-title="RUSIA-РОССИЯ", Хоккейный HD
+http://192.168.66.2:8088/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3792.png", group-title="RUSIA-РОССИЯ", FightBox
+http://192.168.66.2:8088/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2285.png", group-title="RUSIA-РОССИЯ", Бокс ТВ
+http://192.168.66.2:8088/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2530.png", group-title="RUSIA-РОССИЯ", Старт HD
+http://192.168.66.2:8088/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4678.png", group-title="RUSIA-РОССИЯ", Спортивный HD
+http://192.168.66.2:8088/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/365.png", group-title="RUSIA-РОССИЯ", Animal Planet
+http://192.168.66.2:8088/ace/getstream?id=b039263a06fcfd17621dbe04c2b5989b9c0a3f98
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/681.png", group-title="RUSIA-РОССИЯ", Europa Plus TV
+http://192.168.66.2:8088/ace/getstream?id=0d04831269f06676f206444f08a2305d594ba869
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/681.png", group-title="RUSIA-РОССИЯ", Europa Plus TV
+http://192.168.66.2:8088/ace/getstream?id=755483260c00e095f825286bc8b3562966814022
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/521.png", group-title="RUSIA-РОССИЯ", Viasat Explore
+http://192.168.66.2:8088/ace/getstream?id=6ad93e159ed3388c891605d9b4aca55811f658fa
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/521.png", group-title="RUSIA-РОССИЯ", Viasat Explore
+http://192.168.66.2:8088/ace/getstream?id=192ca66e1e39bec710e286780c49bcc432258636
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/935.png", group-title="RUSIA-РОССИЯ", .black HD
+http://192.168.66.2:8088/ace/getstream?id=d67f201bfdc47d376b6195d50a3ac3ee231a92a5
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/311.png", group-title="RUSIA-РОССИЯ", .red HD
+http://192.168.66.2:8088/ace/getstream?id=e5546c985741ec758b39030c59ade2f3a311a06e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/516.png", group-title="RUSIA-РОССИЯ", .sci-fi
+http://192.168.66.2:8088/ace/getstream?id=ed6a12719fbc9c9b38c2ce69c065a84f3a9b42e6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4037.png", group-title="RUSIA-РОССИЯ", 1HD orig
+http://192.168.66.2:8088/ace/getstream?id=29dc5b990bbcf66b7466a7a7a13df3bf7e29c30a
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/323.png", group-title="RUSIA-РОССИЯ", 2x2
+http://192.168.66.2:8088/ace/getstream?id=ae0290d2b26b326c76a6842c1f62b643e29a6801
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1371.png", group-title="RUSIA-РОССИЯ", Amedia 1
+http://192.168.66.2:8088/ace/getstream?id=5b1f4a0fb8abc134de4692179b55e4008f0e5e82
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2492.png", group-title="RUSIA-РОССИЯ", Amedia 2
+http://192.168.66.2:8088/ace/getstream?id=bfb6b4b7809b0852e6c2ce6fdfa60794dcc089ac
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2007.png", group-title="RUSIA-РОССИЯ", Amedia Hit
+http://192.168.66.2:8088/ace/getstream?id=1b74777f3b2121d067457fc554beb5e1c26b6cd8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1372.png", group-title="RUSIA-РОССИЯ", Amedia Premium
+http://192.168.66.2:8088/ace/getstream?id=5988dc4ef60bf2f77939026578ac80771f2938c2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2011.png", group-title="RUSIA-РОССИЯ", Ani
+http://192.168.66.2:8088/ace/getstream?id=9eb31bd34245c4bbe60f0fe6081f854b7d1dde52
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4748.png", group-title="RUSIA-РОССИЯ", BCU Action HD
+http://192.168.66.2:8088/ace/getstream?id=3c679a39456838ea8abc77b288c95df2b7a3f45d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4749.png", group-title="RUSIA-РОССИЯ", BCU Catastrophe HD
+http://192.168.66.2:8088/ace/getstream?id=07d24566226c5851b9c3a3235e3451854d6baeac
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4750.png", group-title="RUSIA-РОССИЯ", BCU Cinema HD
+http://192.168.66.2:8088/ace/getstream?id=ed699504c5010cab9046530306960e998a92f5e6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4751.png", group-title="RUSIA-РОССИЯ", BCU Cinema+ HD
+http://192.168.66.2:8088/ace/getstream?id=4d6232def7e751c47eb44a017021055e8362b54a
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4752.png", group-title="RUSIA-РОССИЯ", BCU Comedy HD
+http://192.168.66.2:8088/ace/getstream?id=5c878afe25deb6a7f1cfe198df39d5a073af4134
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4769.png", group-title="RUSIA-РОССИЯ", BCU Criminal HD
+http://192.168.66.2:8088/ace/getstream?id=ddb42884acd341255390cda62387b5a42d8c2180
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4753.png", group-title="RUSIA-РОССИЯ", BCU Fantastic HD
+http://192.168.66.2:8088/ace/getstream?id=2d04b4c1391b16a4995e7b7fe74833d6c9d850ac
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4754.png", group-title="RUSIA-РОССИЯ", BCU FilMystic HD
+http://192.168.66.2:8088/ace/getstream?id=2814982beb7bb4bd74ad2f8c721ba4bcf7e93a04
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4755.png", group-title="RUSIA-РОССИЯ", BCU History HD
+http://192.168.66.2:8088/ace/getstream?id=21fcd8e73936b64435d07832c2d8382609f48d6d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6185.png", group-title="RUSIA-РОССИЯ", BCU Kids 4K
+http://192.168.66.2:8088/ace/getstream?id=c3aa52aab6bd48c3b79189410fbf716f2e4dd293
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4756.png", group-title="RUSIA-РОССИЯ", BCU Kids HD
+http://192.168.66.2:8088/ace/getstream?id=535b288408b7c671bb1d5c292dd64beadf556ab9
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4757.png", group-title="RUSIA-РОССИЯ", BCU Kids+ HD
+http://192.168.66.2:8088/ace/getstream?id=e2db1c6451aeff66756ae166cf507a0b2743b69a
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4758.png", group-title="RUSIA-РОССИЯ", BCU Kinorating HD
+http://192.168.66.2:8088/ace/getstream?id=57401c50a256f68da4bc9ebe9965e2f12a9d20e2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4759.png", group-title="RUSIA-РОССИЯ", BCU Marvel HD
+http://192.168.66.2:8088/ace/getstream?id=bbb0e5dbb5f0059de7b9ffc0cbcd1f9728449fd7
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4760.png", group-title="RUSIA-РОССИЯ", BCU Premiere HD
+http://192.168.66.2:8088/ace/getstream?id=52b5bbf1d3a9640f8a186e848f021bfc3daf1154
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5561.png", group-title="RUSIA-РОССИЯ", BCU Premiere Ultra 4K
+http://192.168.66.2:8088/ace/getstream?id=30b1dba65edffa2c0c8ade75257508b00d8a61ea
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6131.png", group-title="RUSIA-РОССИЯ", BCU Reality HD
+http://192.168.66.2:8088/ace/getstream?id=22da1ac893c3daf4035261c84e828c8020648187
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4767.png", group-title="RUSIA-РОССИЯ", BCU RUSERIAL HD
+http://192.168.66.2:8088/ace/getstream?id=49552fcef0397a9f48f7520247ee414a085f61e2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4762.png", group-title="RUSIA-РОССИЯ", BCU Russian HD
+http://192.168.66.2:8088/ace/getstream?id=5e38456d774827e7312b7eabdde388532a3dfec9
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4765.png", group-title="RUSIA-РОССИЯ", BCU Stars HD
+http://192.168.66.2:8088/ace/getstream?id=05fe94b726e99b1dd548013bd281980f9f27b617
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6175.png", group-title="RUSIA-РОССИЯ", BCU Survival HD
+http://192.168.66.2:8088/ace/getstream?id=7222fcd5c4efe1f4beee535acac83fc195bc51d3
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4763.png", group-title="RUSIA-РОССИЯ", BCU VHS HD
+http://192.168.66.2:8088/ace/getstream?id=5752b846dab618e12a0a1541ad6573a81ae1265d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4736.png", group-title="RUSIA-РОССИЯ", BCU Кинозал Premiere 1 HD
+http://192.168.66.2:8088/ace/getstream?id=122b81e6c37b49a37c3b1984efaf5626371d5df5
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4737.png", group-title="RUSIA-РОССИЯ", BCU Кинозал Premiere 2 HD
+http://192.168.66.2:8088/ace/getstream?id=d488e696aba7b6a2d3a8977d762bcf4eee1bfd07
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4738.png", group-title="RUSIA-РОССИЯ", BCU Кинозал Premiere 3 HD
+http://192.168.66.2:8088/ace/getstream?id=ffa797e65b8307a13b2805284e28295884c7e7e1
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4747.png", group-title="RUSIA-РОССИЯ", BCU СССР HD
+http://192.168.66.2:8088/ace/getstream?id=59623cb797c031a5aa4922eb219851547cb346b0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4746.png", group-title="RUSIA-РОССИЯ", BCU Multserial HD
+http://192.168.66.2:8088/ace/getstream?id=8bff31504247530c1be06395c11c38ecd1895964
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4761.png", group-title="RUSIA-РОССИЯ", BCU Romantic HD
+http://192.168.66.2:8088/ace/getstream?id=62f68471bab075eb96e5db4559e7994427db111b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4768.png", group-title="RUSIA-РОССИЯ", BCU Сваты HD
+http://192.168.66.2:8088/ace/getstream?id=5cea434c891d27aa66d87d3b23d91ab74c1c72f8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1395.png", group-title="RUSIA-РОССИЯ", Bollywood HD
+http://192.168.66.2:8088/ace/getstream?id=ac8cbc3f2dc210bb0a3e80a7e9eb65afb3ae40f0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/929.png", group-title="RUSIA-РОССИЯ", Boomerang orig
+http://192.168.66.2:8088/ace/getstream?id=7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/151.png", group-title="RUSIA-РОССИЯ", Bridge TV
+http://192.168.66.2:8088/ace/getstream?id=32c2ea9b766da382ee892dae57871b3dd1e8641b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/591.png", group-title="RUSIA-РОССИЯ", BRIDGE TV Русский Хит
+http://192.168.66.2:8088/ace/getstream?id=eb3add8d104fa237e14343f3236a932595023c9a
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2489.png", group-title="RUSIA-РОССИЯ", C-Music HD
+http://192.168.66.2:8088/ace/getstream?id=635159bee85b23dd079e505fe5842b34eb124203
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/601.png", group-title="RUSIA-РОССИЯ", Cartoon Network orig
+http://192.168.66.2:8088/ace/getstream?id=6578fed493fdf327038e74d9d967888d3dbb9c2d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4682.png", group-title="RUSIA-РОССИЯ", CineMan
+http://192.168.66.2:8088/ace/getstream?id=00d0649880b17050d8a9ed559fc824f98fd578be
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4683.png", group-title="RUSIA-РОССИЯ", CineMan Top
+http://192.168.66.2:8088/ace/getstream?id=21f0299cce733ec3a481135553de468440b3630f
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4691.png", group-title="RUSIA-РОССИЯ", CineMan РуКино
+http://192.168.66.2:8088/ace/getstream?id=51a8548ddcff18ba9f89c4c4cb6eb359fc24b30b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2754.png", group-title="RUSIA-РОССИЯ", Cinema
+http://192.168.66.2:8088/ace/getstream?id=3814b39d024f50efefb0a30cccf33bac16842328
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2485.png", group-title="RUSIA-РОССИЯ", DTX
+http://192.168.66.2:8088/ace/getstream?id=b2c8dfc5ec5fdfb098ae4285335ee465f0b63885
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/410.png", group-title="RUSIA-РОССИЯ", Da Vinci Kids
+http://192.168.66.2:8088/ace/getstream?id=1daa76849a31201ea22c3c4cbdd4b4afc1c45f14
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2483.png", group-title="RUSIA-РОССИЯ", Дикая охота HD
+http://192.168.66.2:8088/ace/getstream?id=cd421b221ef7bae31a599542cd9c061fc66b30aa
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2484.png", group-title="RUSIA-РОССИЯ", Дикая рыбалка HD
+http://192.168.66.2:8088/ace/getstream?id=b85a8f5825dc7fca3e8046af445bb776541b8bd0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2283.png", group-title="RUSIA-РОССИЯ", Дикий
+http://192.168.66.2:8088/ace/getstream?id=c60f8614f11e0f11338e25567a92f5fb84eb4832
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/409.png", group-title="RUSIA-РОССИЯ", Discovery Science HD
+http://192.168.66.2:8088/ace/getstream?id=61c8e867268715eae83f9934e9bc08b1bb6a9227
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7283.png", group-title="RUSIA-РОССИЯ", Солнце
+http://192.168.66.2:8088/ace/getstream?id=a257179a41c0f69411ed7fe86260fe7cc5c823f3
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2266.png", group-title="RUSIA-РОССИЯ", Euronews Россия
+http://192.168.66.2:8088/ace/getstream?id=837edb9f5dab770965ddbd1b1f9f1ef55305d10d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2359.png", group-title="RUSIA-РОССИЯ", FAN
+http://192.168.66.2:8088/ace/getstream?id=75860e73e6149fed0f781f08e7f93b19c9dc00d2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1031.png", group-title="RUSIA-РОССИЯ", Fox
+http://192.168.66.2:8088/ace/getstream?id=df94afd23701839b3fdcdf669c73f2e3d656126e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2491.png", group-title="RUSIA-РОССИЯ", Fashion TV Россия HD
+http://192.168.66.2:8088/ace/getstream?id=ac7762efa1c33ece2dd0e97abe1e9149e3ddafc6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2362.png", group-title="RUSIA-РОССИЯ", Fast&funbox
+http://192.168.66.2:8088/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/615.png", group-title="RUSIA-РОССИЯ", Fox Life
+http://192.168.66.2:8088/ace/getstream?id=36bd5c1fdf09e5e92aa68cc642ae2d4db6694526
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/810.png", group-title="RUSIA-РОССИЯ", Gulli orig
+http://192.168.66.2:8088/ace/getstream?id=be2e64fec17ec07a561dbd87cad2ae0fc4b7df5a
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1394.png", group-title="RUSIA-РОССИЯ", History HD
+http://192.168.66.2:8088/ace/getstream?id=b5e4d600404702a7d50e01e64f82ea1d26b68f63
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2356.png", group-title="RUSIA-РОССИЯ", H2 HD
+http://192.168.66.2:8088/ace/getstream?id=88e804faf482b3caa0a680c931bdd1578c4bfbee
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/415.png", group-title="RUSIA-РОССИЯ", HDL HD
+http://192.168.66.2:8088/ace/getstream?id=74a1634a8fe44e5058c865d4de63cde90b14f107
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/934.png", group-title="RUSIA-РОССИЯ", Hollywood HD
+http://192.168.66.2:8088/ace/getstream?id=3cacfef48b11ea2a81282c4b49b3eac4d7cce501
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2271.png", group-title="RUSIA-РОССИЯ", Известия
+http://192.168.66.2:8088/ace/getstream?id=99ebc6d96ccd97aafdb7e2282602f20136d41140
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2271.png", group-title="RUSIA-РОССИЯ", Известия
+http://192.168.66.2:8088/ace/getstream?id=7a9c0520c8f3bf8ba49576662704a63c9dbabee7
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6677.png", group-title="RUSIA-РОССИЯ", Insight TV HD
+http://192.168.66.2:8088/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2326.png", group-title="RUSIA-РОССИЯ", MMA-TV.com
+http://192.168.66.2:8088/ace/getstream?id=a7e4499c869037073c97deb47a50d1e7090b1c04
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2409.png", group-title="RUSIA-РОССИЯ", Russian Music Box
+http://192.168.66.2:8088/ace/getstream?id=a5149234466b95643eec346ffbd24bc71c64e3d6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/102.png", group-title="RUSIA-РОССИЯ", National Geographic HD orig
+http://192.168.66.2:8088/ace/getstream?id=3a08c5a973e162429910f441bf8aa45b24d667e0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/223.png", group-title="RUSIA-РОССИЯ", Nat Geo Wild HD orig
+http://192.168.66.2:8088/ace/getstream?id=5347a5417c376ac10cdf9c1a3a26eadbe76c280a
+#EXTINF:-1 tvg-rec="true" tvg-logo="http://epg.it999.ru/img/920.png", group-title="RUSIA-РОССИЯ", Paramount Comedy HD
+http://192.168.66.2:8088/ace/getstream?id=5680521f0e507f2c6f55f3de8dd79351615116c5
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2277.png", group-title="RUSIA-РОССИЯ", RU TV
+http://192.168.66.2:8088/ace/getstream?id=2753d5bd0ceb849bcb277ba22b99b407b11768c3
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2277.png", group-title="RUSIA-РОССИЯ", RU TV
+http://192.168.66.2:8088/ace/getstream?id=2302f4b9327232b91a434658c24a506c88bc55f0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png", group-title="RUSIA-РОССИЯ", Россия 1 HD
+http://192.168.66.2:8088/ace/getstream?id=480e984594463d1adabf3cd2fd03ba077377d25d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/984.png", group-title="RUSIA-РОССИЯ", Россия 1 HD
+http://192.168.66.2:8088/ace/getstream?id=1f3c6a1c5dff3c17042dfbed833e73c980aa1baf
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2803.png", group-title="RUSIA-РОССИЯ", Russian Extreme Ultra
+http://192.168.66.2:8088/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/125.png", group-title="RUSIA-РОССИЯ", TV1000 Action
+http://192.168.66.2:8088/ace/getstream?id=05a7dd3bf60e16ed1674cb437e1e00084392285e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2274.png", group-title="RUSIA-РОССИЯ", TV1000 World Kino
+http://192.168.66.2:8088/ace/getstream?id=f8d38c09a74612b9fabf0206cbd28bc11d6bc27d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/127.png", group-title="RUSIA-РОССИЯ", TV1000
+http://192.168.66.2:8088/ace/getstream?id=ae0d6d703ef80198263a1a868740cf059eac4e9e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/267.png", group-title="RUSIA-РОССИЯ", TV1000 Русское Кино
+http://192.168.66.2:8088/ace/getstream?id=af4baf7f76a3057eeea815c90747860e9fec488a
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/555.png", group-title="RUSIA-РОССИЯ", Tiji TV
+http://192.168.66.2:8088/ace/getstream?id=4da0f57fb96330c7f6ad5f4bce0ba93038b628c3
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/613.png", group-title="RUSIA-РОССИЯ", Travel Channel HD
+http://192.168.66.2:8088/ace/getstream?id=48566a80593d54be5543583173fd520ce675d5b2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1035.png", group-title="RUSIA-РОССИЯ", travel+adventure
+http://192.168.66.2:8088/ace/getstream?id=6975d82ffdae1186dcc78506011550a81e0c9cb9
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2480.png", group-title="RUSIA-РОССИЯ", Удар HD orig
+http://192.168.66.2:8088/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2743.png", group-title="RUSIA-РОССИЯ", Ultra HD Cinema 4K
+http://192.168.66.2:8088/ace/getstream?id=6c76dccd15ff935fb1442223529d1aecc8f515d8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1011.png", group-title="RUSIA-РОССИЯ", VIP Comedy HD
+http://192.168.66.2:8088/ace/getstream?id=8c7b8be6682d84e033352724243719378c3e1540
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1012.png", group-title="RUSIA-РОССИЯ", VIP Megahit HD
+http://192.168.66.2:8088/ace/getstream?id=d83992b759e6227f7cc9a20e4e4dae1b58e645c8
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1013.png", group-title="RUSIA-РОССИЯ", VIP Premiere HD
+http://192.168.66.2:8088/ace/getstream?id=dc939e7815f47c5db59bd3e9fe4bb61ddecc45a5
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2838.png", group-title="RUSIA-РОССИЯ", VIP Serial HD
+http://192.168.66.2:8088/ace/getstream?id=d13dd140058b7a528959e2b709aca4111b7cc076
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2008.png", group-title="RUSIA-РОССИЯ", Авто 24
+http://192.168.66.2:8088/ace/getstream?id=7e515477cf191b1e4e33c7151c7cf84925f16780
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/153.png", group-title="RUSIA-РОССИЯ", Авто Плюс
+http://192.168.66.2:8088/ace/getstream?id=c3ff9e5243014a19c3cee52159d68fd750eeecb9
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2768.png", group-title="RUSIA-РОССИЯ", Арсенал HD
+http://192.168.66.2:8088/ace/getstream?id=7cf9a5935adc526cab260a6a561af7d6fe34f640
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2832.png", group-title="RUSIA-РОССИЯ", Блокбастер HD
+http://192.168.66.2:8088/ace/getstream?id=6019512392cd7316a5362e275966779bf9011fee
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2027.png", group-title="RUSIA-РОССИЯ", В гостях у сказки
+http://192.168.66.2:8088/ace/getstream?id=77c4a879752e4a24e2e39bfcd58458eee24b58a0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2498.png", group-title="RUSIA-РОССИЯ", В мире животных HD
+http://192.168.66.2:8088/ace/getstream?id=30ed25e99233ae63f7e10787c8806f74f52a437c
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2508.png", group-title="RUSIA-РОССИЯ", Глазами туриста HD
+http://192.168.66.2:8088/ace/getstream?id=4f3037f55f54cf2417a6d6847adc5095537f9e83
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2627.png", group-title="RUSIA-РОССИЯ", Диалоги о рыбалке HD
+http://192.168.66.2:8088/ace/getstream?id=8b0600c72af71a12e844135c93c759ce1eb3dfa0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2399.png", group-title="RUSIA-РОССИЯ", Дождь HD
+http://192.168.66.2:8088/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/16.png", group-title="RUSIA-РОССИЯ", Доктор
+http://192.168.66.2:8088/ace/getstream?id=327cc1410c2e7af8fca0925f7a003ffdba6cdb2a
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/834.png", group-title="RUSIA-РОССИЯ", Дом Кино
+http://192.168.66.2:8088/ace/getstream?id=4403739564a9b19055786e9844ea48147b3f930b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2020.png", group-title="RUSIA-РОССИЯ", Дом Кино Премиум HD
+http://192.168.66.2:8088/ace/getstream?id=c2877f4320f2029a59f2121525280c539fb1b9e9
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/304.png", group-title="RUSIA-РОССИЯ", Домашний HD
+http://192.168.66.2:8088/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2174.png", group-title="RUSIA-РОССИЯ", Дорама HD
+http://192.168.66.2:8088/ace/getstream?id=67cf1b59347125a57a5ea62844a6b77075a3d9dd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2443.png", group-title="RUSIA-РОССИЯ", Драйв
+http://192.168.66.2:8088/ace/getstream?id=2893ea38cf923c7efcfaf3eead798dd73b2cf2d0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2019.png", group-title="RUSIA-РОССИЯ", Душевное кино HD
+http://192.168.66.2:8088/ace/getstream?id=82cc7621069b4095f002b43a669b40c2b5342afc
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/352.png", group-title="RUSIA-РОССИЯ", Еврокино
+http://192.168.66.2:8088/ace/getstream?id=cda16e6d488958942dcd9cd96284c0910dc29cce
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/930.png", group-title="RUSIA-РОССИЯ", Еда Премиум
+http://192.168.66.2:8088/ace/getstream?id=42f32ae94fa97417ddd6f2b6f141bca76f56a299
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/165.png", group-title="RUSIA-РОССИЯ", Жара HD
+http://192.168.66.2:8088/ace/getstream?id=0f777acf2def9b2c0ae254041796fbae5ba60501
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2432.png", group-title="RUSIA-РОССИЯ", Живая Планета
+http://192.168.66.2:8088/ace/getstream?id=b0ecbeeb8ce7bb65cd3ee911b44084976b259549
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2298.png", group-title="RUSIA-РОССИЯ", Загородная Жизнь
+http://192.168.66.2:8088/ace/getstream?id=fccd5e7ff7469f38dea15ac0d396034c81bd0e4d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2449.png", group-title="RUSIA-РОССИЯ", Здоровое ТВ
+http://192.168.66.2:8088/ace/getstream?id=33d0a8be4195259a9d2e341bcd62123cd7a903fd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/798.png", group-title="RUSIA-РОССИЯ", Индийское Кино
+http://192.168.66.2:8088/ace/getstream?id=28ca0f5e5e058a2eda74f7c1595022f2914af123
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2403.png", group-title="RUSIA-РОССИЯ", Иллюзион +
+http://192.168.66.2:8088/ace/getstream?id=cc4b12985ef1c75d786cc5fafa5d0deb960312fd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1037.png", group-title="RUSIA-РОССИЯ", Кино ТВ
+http://192.168.66.2:8088/ace/getstream?id=aeb66589dcdbf45061b76eb52ed29ea8297e8e21
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/462.png", group-title="RUSIA-РОССИЯ", Киносвидание
+http://192.168.66.2:8088/ace/getstream?id=f5302ed56cf6af61378b2527524398558d9cddde
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/6830.png", group-title="RUSIA-РОССИЯ", Киносерия
+http://192.168.66.2:8088/ace/getstream?id=f4fbf1c1f58b77f1343675b0aeb7b1c22feebbbd
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1038.png", group-title="RUSIA-РОССИЯ", KHL Prime HD
+http://192.168.66.2:8088/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2836.png", group-title="RUSIA-РОССИЯ", Камеди HD
+http://192.168.66.2:8088/ace/getstream?id=69f02544ef5a6029b4ac7b34a7af5616437c64e0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2438.png", group-title="RUSIA-РОССИЯ", Капитан Фантастика HD
+http://192.168.66.2:8088/ace/getstream?id=5bfc90fb33d6046da53943364b3d68d0e19e4464
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/740.png", group-title="RUSIA-РОССИЯ", Карусель
+http://192.168.66.2:8088/ace/getstream?id=c008e67929d47855b43f7a9af7305a6c32504132
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2407.png", group-title="RUSIA-РОССИЯ", Киносат
+http://192.168.66.2:8088/ace/getstream?id=b2314014f5b3c51ed75dc5066260b5134fa4d5a6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/4466.png", group-title="RUSIA-РОССИЯ", KinoJam_1
+http://192.168.66.2:8088/ace/getstream?id=6f59144864d644ee3f53fddef7db2c2f69255c2e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2952.png", group-title="RUSIA-РОССИЯ", Кинозал 1
+http://192.168.66.2:8088/ace/getstream?id=6c6849a17243f967d0c6f04323af9dfde161c3f2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/821.png", group-title="RUSIA-РОССИЯ", Кинокомедия
+http://192.168.66.2:8088/ace/getstream?id=dfb83e3ff3c570ba7346641c827d89bd472a18a2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/644.png", group-title="RUSIA-РОССИЯ", Киномикс
+http://192.168.66.2:8088/ace/getstream?id=3dba401ca5f2508ddfa955333e233d40d7f3572e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2834.png", group-title="RUSIA-РОССИЯ", Кинопоказ HD
+http://192.168.66.2:8088/ace/getstream?id=682b445d50584498d63230dd10d05c793779ad9d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/566.png", group-title="RUSIA-РОССИЯ", Кинопремьера HD
+http://192.168.66.2:8088/ace/getstream?id=94ed8b55a5e30f9ce93b018c80fba3c0a29a3ce6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/987.png", group-title="RUSIA-РОССИЯ", Киносемья
+http://192.168.66.2:8088/ace/getstream?id=e177586ae336f410e95e784348e4a1f7a82e0952
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2493.png", group-title="RUSIA-РОССИЯ", Киноужас HD
+http://192.168.66.2:8088/ace/getstream?id=fd386c089ec9cc7d1d75ef5d59cf2199211515e7
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/542.png", group-title="RUSIA-РОССИЯ", Кинохит
+http://192.168.66.2:8088/ace/getstream?id=f1fe45c8d5f58301c74dde7acaf4db13e497b586
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/138.png", group-title="RUSIA-РОССИЯ", Комедийное HD
+http://192.168.66.2:8088/ace/getstream?id=322a734d2e4f99121e09df9f4831a7edf3d55f2c
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1679.png", group-title="RUSIA-РОССИЯ", Конный Мир HD
+http://192.168.66.2:8088/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2456.png", group-title="RUSIA-РОССИЯ", Кто есть кто
+http://192.168.66.2:8088/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/614.png", group-title="RUSIA-РОССИЯ", Кухня ТВ
+http://192.168.66.2:8088/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/477.png", group-title="RUSIA-РОССИЯ", Любимое Кино
+http://192.168.66.2:8088/ace/getstream?id=ed833df0a763fa26f180acac44634eb4c3918d86
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2408.png", group-title="RUSIA-РОССИЯ", Ля-минор ТВ
+http://192.168.66.2:8088/ace/getstream?id=e72eb5bd621666fdcb1cf7689ce9a1f66fe20c22
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/897.png", group-title="RUSIA-РОССИЯ", МУЗ-ТВ HD
+http://192.168.66.2:8088/ace/getstream?id=38cf205218182050f0df6c7d8321e5e651286e91
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2239.png", group-title="RUSIA-РОССИЯ", Малыш
+http://192.168.66.2:8088/ace/getstream?id=42f4491e03e5730330457e7c49c55362bf2cbc7e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5642.png", group-title="RUSIA-РОССИЯ", Мир Вокруг HD
+http://192.168.66.2:8088/ace/getstream?id=d9ae276d2fd84dadc6e3a7ad70381f22cc8e1613
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3357.png", group-title="RUSIA-РОССИЯ", Мосфильм. Золотая коллекция
+http://192.168.66.2:8088/ace/getstream?id=50c13be1307994322057222dbbeefd22622e333d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/675.png", group-title="RUSIA-РОССИЯ", Моя Планета HD
+http://192.168.66.2:8088/ace/getstream?id=bc956bc36a6384474f1b613638c79291e0ee3c14
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1584.png", group-title="RUSIA-РОССИЯ", Мужское Кино
+http://192.168.66.2:8088/ace/getstream?id=26491abeef0cc9d0646bb8de880fe73d5ca285af
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2444.png", group-title="RUSIA-РОССИЯ", Мужской
+http://192.168.66.2:8088/ace/getstream?id=6f333af96362664dd566c585601d7c522c9b09e1
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1332.png", group-title="RUSIA-РОССИЯ", Мульт HD
+http://192.168.66.2:8088/ace/getstream?id=83392085bd6971ff98e8884913a51c3313126f7f
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2757.png", group-title="RUSIA-РОССИЯ", Мультиландия
+http://192.168.66.2:8088/ace/getstream?id=78f1672c711f67c5588ecc96580f7524c0fb87fb
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/284.png", group-title="RUSIA-РОССИЯ", Мультимузыка
+http://192.168.66.2:8088/ace/getstream?id=5cb13f2670c56d4e5d507c2f963136adad34aa19
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/518.png", group-title="RUSIA-РОССИЯ", НСТ
+http://192.168.66.2:8088/ace/getstream?id=038d0b88c99d988b0b91af57ef142f563a90d200
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1754.png", group-title="RUSIA-РОССИЯ", НТВ Сериал
+http://192.168.66.2:8088/ace/getstream?id=4419e27b1f86679b2741e2f0d096922b05c00993
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1755.png", group-title="RUSIA-РОССИЯ", НТВ Стиль
+http://192.168.66.2:8088/ace/getstream?id=c5298eca698d4b1bb7c6d50f0dffc44f3bc930d6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img2/7380.png", group-title="RUSIA-РОССИЯ", НТВ Хит HD
+http://192.168.66.2:8088/ace/getstream?id=f9cad853d220c9d7c3ec88ad65681a611b8ec280
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/723.png", group-title="RUSIA-РОССИЯ", Наука HD
+http://192.168.66.2:8088/ace/getstream?id=07b0f15c3571584ecee786e2b05bec75a6b4485b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2831.png", group-title="RUSIA-РОССИЯ", Наш Кинопоказ HD
+http://192.168.66.2:8088/ace/getstream?id=ea3446c59eb4f6083c98a73e367b262e7e89c6ed
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2746.png", group-title="RUSIA-РОССИЯ", Наша сибирь HD orig
+http://192.168.66.2:8088/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2835.png", group-title="RUSIA-РОССИЯ", Наше Мужское HD
+http://192.168.66.2:8088/ace/getstream?id=646e1bd5cccfef3d0926eee34eb3fd7e01430507
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2018.png", group-title="RUSIA-РОССИЯ", Наше крутое HD
+http://192.168.66.2:8088/ace/getstream?id=4f40b12ad32618adf3262143db8cc80ae686a5f0
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2509.png", group-title="RUSIA-РОССИЯ", Наше любимое HD
+http://192.168.66.2:8088/ace/getstream?id=c19410106243ea2a8f8a6fa7a2d69d9ed735d3c1
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/485.png", group-title="RUSIA-РОССИЯ", Наше новое кино HD
+http://192.168.66.2:8088/ace/getstream?id=ae38625cca3cae6873509ba05b99aa1af5ec0f4e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/783.png", group-title="RUSIA-РОССИЯ", Ностальгия
+http://192.168.66.2:8088/ace/getstream?id=4308d30a3e8a7bc83e1f081f565371120c3fb6b3
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1757.png", group-title="RUSIA-РОССИЯ", О!
+http://192.168.66.2:8088/ace/getstream?id=f629f91eaeee18118080c0211516469495af04f2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2430.png", group-title="RUSIA-РОССИЯ", Оружие
+http://192.168.66.2:8088/ace/getstream?id=ac92a83d7e7903ee7b843e4a490d247ff357d1e9
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1588.png", group-title="RUSIA-РОССИЯ", Остросюжетное HD
+http://192.168.66.2:8088/ace/getstream?id=6f294641e0d31c8c09e11a79bde0e2b2a28fb4f5
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1681.png", group-title="RUSIA-РОССИЯ", Охотник и рыболов HD
+http://192.168.66.2:8088/ace/getstream?id=0fbcd8f0b3a32f74fff28374947e2d0d4bb857ef
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2350.png", group-title="RUSIA-РОССИЯ", Поехали!
+http://192.168.66.2:8088/ace/getstream?id=c5841f89c3ae2e6745948308be283a904bf96adb
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2732.png", group-title="RUSIA-РОССИЯ", Премиальное HD
+http://192.168.66.2:8088/ace/getstream?id=4bf6e4511111ef5f8946c75ff85d3591a809f131
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2311.png", group-title="RUSIA-РОССИЯ", Приключения HD
+http://192.168.66.2:8088/ace/getstream?id=ad69a3fc4c2c2c90f29254a6b1b5b2171c747283
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2829.png", group-title="RUSIA-РОССИЯ", Про Любовь HD
+http://192.168.66.2:8088/ace/getstream?id=300552f346d9fe2dfd405f48fbafe084a95da563
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2765.png", group-title="RUSIA-РОССИЯ", Пятница! HD
+http://192.168.66.2:8088/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/12.png", group-title="RUSIA-РОССИЯ", Родное Кино
+http://192.168.66.2:8088/ace/getstream?id=b46c879a624e1d0aa8eeb18300cda7413657e80a
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2772.png", group-title="RUSIA-РОССИЯ", Романтичное HD
+http://192.168.66.2:8088/ace/getstream?id=19bf6faf7257fb5db419008750d80ab4b693981e
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1620.png", group-title="RUSIA-РОССИЯ", Русская Комедия
+http://192.168.66.2:8088/ace/getstream?id=c33dc2a170db91a6b0c8bb1f9583b008122cdf8c
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/994.png", group-title="RUSIA-РОССИЯ", Русский бестселлер
+http://192.168.66.2:8088/ace/getstream?id=3b35986d4455f25cc8a28d666bb2ca8b638986de
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1570.png", group-title="RUSIA-РОССИЯ", Русский детектив
+http://192.168.66.2:8088/ace/getstream?id=0028b93215ac25fb20fac7938a5697cf835a4a36
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2497.png", group-title="RUSIA-РОССИЯ", Русский экстрим HD orig
+http://192.168.66.2:8088/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/53.png", group-title="RUSIA-РОССИЯ", Русский Иллюзион
+http://192.168.66.2:8088/ace/getstream?id=9f476ff8038d54604d17b15e25e57a041372cde1
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2437.png", group-title="RUSIA-РОССИЯ", Рыжий
+http://192.168.66.2:8088/ace/getstream?id=0ef17cf868ef54b443dd41516803276779b76aac
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2481.png", group-title="RUSIA-РОССИЯ", СТС Kids HD
+http://192.168.66.2:8088/ace/getstream?id=c0d8e40d726705eaa3c8e714e38babffd2dd18cb
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1322.png", group-title="RUSIA-РОССИЯ", СТС Love
+http://192.168.66.2:8088/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/275.png", group-title="RUSIA-РОССИЯ", Совершенно секретно
+http://192.168.66.2:8088/ace/getstream?id=e01cca4c9eed9644507650b6e0bdfcd8ce28acb5
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2857.png", group-title="RUSIA-РОССИЯ", Страшное HD
+http://192.168.66.2:8088/ace/getstream?id=d47c7365f67b9b8169404e1c4d86fd698307fa15
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/5604.png", group-title="RUSIA-РОССИЯ", Суббота HD
+http://192.168.66.2:8088/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/698.png", group-title="RUSIA-РОССИЯ", ТВ3
+http://192.168.66.2:8088/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/309.png", group-title="RUSIA-РОССИЯ", TV XXI
+http://192.168.66.2:8088/ace/getstream?id=6af72b6047bed580ad57c036ce635dd93233abb6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1767.png", group-title="RUSIA-РОССИЯ", ТНТ HD
+http://192.168.66.2:8088/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/3024.png", group-title="RUSIA-РОССИЯ", ТНТ +7
+http://192.168.66.2:8088/ace/getstream?id=e8c4dc3309c32e58d0235919620180e9eea9d291
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/680.png", group-title="RUSIA-РОССИЯ", ТНТ Music HD
+http://192.168.66.2:8088/ace/getstream?id=347126177d806d4578b249807200e71db6470b63
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/1649.png", group-title="RUSIA-РОССИЯ", ТНТ4 HD
+http://192.168.66.2:8088/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/617.png", group-title="RUSIA-РОССИЯ", Точка отрыва
+http://192.168.66.2:8088/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/66.png", group-title="RUSIA-РОССИЯ", Уникум
+http://192.168.66.2:8088/ace/getstream?id=dc5cf63b879b13f10c439d90b82bd91a5ba957ee
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/434.png", group-title="RUSIA-РОССИЯ", Усадьба
+http://192.168.66.2:8088/ace/getstream?id=8753c67ddaedb391cca8e6a043ec85999f6b3199
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2404.png", group-title="RUSIA-РОССИЯ", Феникс плюс Кино
+http://192.168.66.2:8088/ace/getstream?id=505d4c6259acfea0ee5d9b1f26f7badd447f69f6
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2833.png", group-title="RUSIA-РОССИЯ", Хит HD
+http://192.168.66.2:8088/ace/getstream?id=3eb0fde3eb9b432b6a978742e73dccf4ec0c5b5d
+#EXTINF:-1 tvg-logo="http://epg.it999.ru/img/2309.png", group-title="RUSIA-РОССИЯ", Шокирующее HD
+http://192.168.66.2:8088/ace/getstream?id=a4d2d63c562696b5ef7731efb7c2df74d9183700
+
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/win-sports-logo-22E3EAAD99-seeklogo.com.png" group-title="Colombia" tvg-id="Win Sport +", Win Sport +
+http://192.168.66.2:8088/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
+
+#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/5c8001a2b29bd6e02113870b26f1abaf38d428f3bf2ef15d93539b5b7730c1dd.png" group-title="Colombia" tvg-id="Cali TV", Cali TV
+http://192.168.66.2:8088/ace/getstream?id=ae5ed4e0dcde8ebaa1df885958d7578a1548baef
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/79/Sport_colombia.png" group-title="Colombia" tvg-id="Sport Colombia 2", Sport Colombia 2
+http://192.168.66.2:8088/ace/getstream?id=13051d29ab723d55caec5ccf223226f0350ebdf5
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/869/719/png-transparent-united-soccer-league-fresno-fc-espn-roku-others-television-text-trademark-thumbnail.pn" group-title="Colombia" tvg-id="ESPN Colombia", ESPN Colombia
+http://192.168.66.2:8088/ace/getstream?id=63ab9528b16e536be0da44d6f5aceac357292b95
+
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Russian", Russian
+http://192.168.66.2:8088/ace/getstream?id=9eedd5ce9dc29bac4e37e61288ed3304fad65733
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Threesome", Threesome
+http://192.168.66.2:8088/ace/getstream?id=6ccd835d7ce27e8f6e3ad6821787dfea3d8c5fa7
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Hardcore", Hardcore
+http://192.168.66.2:8088/ace/getstream?id=012013c060daa5674c2b37ad2ea9f67251490599
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Blowjop", Blowjop
+http://192.168.66.2:8088/ace/getstream?id=f40bad0c1ed0550dc150126dd6098eb7682060f1
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Latinas", Latinas
+http://192.168.66.2:8088/ace/getstream?id=f66d67cf2cd00d40ad4229a8cd8d2da7dde313b9
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Interracial", Interracial
+http://192.168.66.2:8088/ace/getstream?id=30e824a64538243fd61e3c8bad06416fc6404990
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Big As", Big As
+http://192.168.66.2:8088/ace/getstream?id=2965c6ceb8f6d5fcc0c801c7bcb78639d8119f14
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Pornstars", Pornstars
+http://192.168.66.2:8088/ace/getstream?id=e4f511346682f21390a6bc50e17e1917bafcec4e
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Fetis", Fetis
+http://192.168.66.2:8088/ace/getstream?id=5d4f7bfe713a26035cb9cf906b4f4f091556f69c
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Big Dick", Big Dick
+http://192.168.66.2:8088/ace/getstream?id=3307f69ba127e4fb0e87bc00b5bfa4bf0b3006af
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Teen HD", Teen HD
+http://192.168.66.2:8088/ace/getstream?id=833b9910b0133b59b02b4f97f88275afd9cd7c6a
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Pov", Pov
+http://192.168.66.2:8088/ace/getstream?id=f51dcb8a5e495ed4938cdd73075b7602eb60283f
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Milf", Milf
+http://192.168.66.2:8088/ace/getstream?id=ea647e60286a0a908a7ef73720300c760bda803d
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Lezbiyen", Lezbiyen
+http://192.168.66.2:8088/ace/getstream?id=8be8e3b857f19fa97637626bc91ae247ce7a795a
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Big Tits", Big Tits
+http://192.168.66.2:8088/ace/getstream?id=5a63600a7d3cfd43aa844aa9f928551a8cde0fe8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="Big Tits", Big Tits
+http://192.168.66.2:8088/ace/getstream?id=7bad0cd7e95d909cf1515a9b57228c2c73963d12
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="PeliX", Dani Diaz Stepsis Stop Staring At My Dick [4K]
+http://192.168.66.2:8088/ace/getstream?id=d1977a3f061d3b84ab267fed5c556072cff6b002
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos" tvg-id="PeliX", Big Dicks (+18)
+http://192.168.66.2:8088/ace/getstream?id=24a3ed773b328c1e81a8b5a9d68938aa0b238d36
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/zXKP3f9Y/adults-only-18-web-design-260nw-2249829099.webp" group-title="Adultos Acestream" tvg-id="PeliX", Anal (+18)
+http://192.168.66.2:8088/ace/getstream?id=7cac3131958133ab8d363ebd3d15265ef46cbba9
+
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/1K_F.C_logo.png" group-title="Twitch" tvg-id="ext", KingsLeague 18-11
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/CtAEnBz-k1QQ9zRlK2BcMAPiGRubOpveBhG7OoQqws_deXui0ykDv0vp8ZFTJlFBu_6ggOcKiPOwfsKVv8ftE-7_G9DFwaSjhxbc1TEDXODi0OX4iygPnktII4ln1bdczLZ4kT9BkPGkZBKYuCrOI2SfcCj_CCbnvEp810XbS_6Qia_3QQRb2HFThfCcCsYrqKGMXQzvmEx2Nl3cbwjtVxFy6AVKHi-SKvOdqwcCFqTYVY0tODRyQKeHJLu09Txv9JtAHUeLRmzRaN561Vg7xv21PPWOhrAilcyiJiDQGGTnp45c62_eF6LukfAYLXl79ogzvEZqFKFYEEORhEJtJ1YzvfFzON5zFCbz3TE-iLtsVzYgZwDi7l5ArEV7j1KDfBDkHaqw-JQG7ErmN6N9RTtnmRvVylWS5dvIrSpwkrhorebjcTVquDPMPEEDAdsIJqhjjHXdb21z5H5Mvyte_2EVRUdGjQsO9yPWBB1e7F1K4z7sOTA4Hg22setkybWbwi2wvcy6F0eGkFYxotPTonw4k2EEU3elSI8qUzUnvcm1OEGCgAdWI_1gG3x7614TVjLzF7pYWg9A95w_QFPWbabGNHjYGlO517brSMWMTP9QG7Vs515CC5hPyoYfioTkXTHNj8LTuXTP8djVC8qYDQCZdGGhM5VaO8Q6KgTTtCB-DLArSt86sZhOnce36Cy_02ByOGLgSWp0q5Yh44qvFkV6XtZOGPkaNC1vQKFDba941nOBor41EZM-nGApDXKGa8oW7shQ5cMvsgmAmGE5pAD0SBoMQJ9zkFqqlXxqjNjoIAEqCWV1LXdlc3QtMjCECA.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", ElChiringuitoTV 26-11
+https://video-weaver.fra06.hls.ttvnw.net/v1/playlist/Ct0EYmkfLF6r6b0yA6uGtaxLZ6TRVsQfanaBDw_d5qdTGs3aMAAom5XfOAe5you6x6lYKn6FiRZFaoSaD0MLPNcEc82IGrbod8ElG2kHQBDJIhA2bu1k3dTaBWtkMyXoHEP1J17ZJFd9UtTZvpK1nLvRRVuYDU2MCK9lmdcsSRJlx1ck5oIT82Q5-KZXkHnVib-mrViS_nMraDs08ejbqBqot1-fcyhDzlZ9mDAUEvnVEHTcJ9tLgqiFggccEzFACTy59jXT10Y3yYkOny6fCZlrF8SjJCEz3NtE61_mLJxIRL_Vw4FtCPcYop-Ia7QJVDMAxjuU9FrpHPsg4eNqAXz9qx3r-kzguwC_bv8D32mVso7NXQNFZWcmv2VE4GOr0YwXCjRf3RR9HpqNmRrczhC8ZNMyLOEzmqFcfSDsxyqcrGMgxTXmrzVPczDsudX6FPRXvo28r9P_1wQ0wk8be2DwhMGe6uMVWphu0In8n2hsKyPEkWhkleP2BvmDHaQRmi9koGQNOlt9BqC7xXDG47RVkN7_I5-6An6h19zkxfBiwRwRysdD-r7IGpnN_SGwpXJikDivnM5vod0SGnc1pwMdhSJl6ogb5rW-8DN6E3IbYndqgmxZD7EIiy6cB0c3VGAvTqstbrNAXS2GQsIUD1UhGxdXtRBL5Z1EXryCJ5RzemDW6ede49W_85nyERpff2wGkO74M2qsC0xJNhNeVjlFR92laZf0FMCQXKNoexjfoA_QiFcU9pGx02bhBnbFxB33ybFkoZMe_sYII-ZvZ_u0Iqup6CcK3qTX5QFNW7MaDF8VF_vwKsqVW6KfgyABKgl1cy1lYXN0LTIwigg.m3u8
+
+EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Ibai 06-10
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/twitch-tv-logo-png-1.png" group-title="Twitch" tvg-id="ext", Agorafutbol 28-10
+https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/CtIEac6a5y8kAc9h1z2YDp8YYEJ71vRhck2dYoZG4F2tcmZMvsDXqNSbnh0ytvlJlWNTPtRQ7yZVwO91qNw9W_5pSIBYLVjBRjqABC9-tWpG_fYcrd42jvEJ0ZjBVJSUqw2KEAfl1O73r4PAjA9CuPZhd-Y2GaPiKhrwGw_4tG27m91WgFtvPXLlPqaJif1sGtF_osF1EeVoiY4pkpul9O-Zg0YYys2twgTQz_cK9PVAtRvVnh71Lt37mhXeJmFLw0fRx2oGsP1BsuP3iXmCyhbXvV4v5Ktc2EgOqVU9nvk7Ohqzl_V3dfUAxHnTi_U7oSnw1VoPoZgaHKL6FBSuatVrO5asBnpJIbz3n3yY-MFKq8_Pk6OH1Hq8EHWrm-8xUA1jX4PL2vxXKM1paDw6hgPk86oV62UBrqWnveQeW6vVM7SlCEfx1CM1rCn6pWwHkHJ-xyfSyMUc8DnUS3z7hcPIo_akJjsyskg0pwwAsFMhymnsz0rzchhTpFRBMWjS1CqoupyHFLHPSQbgu8FufVptmBs8TQIMIehwPRMihSd1cSiwnvgeym0q9qrChdPQVd1HLzOML9rRT6QFBrCn-O6rE3pIj4sGxPMBWBF2DEuD3JwhyqTgTKfR8ZTUkpOan8h4U7coCtE_mIotWlSMcvLqkw21nUvBF95ivIpTqyojptA0OsYe32tr67R-aoK9iATnikn1bWAss_NvCu3d1UilRax4BB3kw8X2Wpb_VoHY6YK6Aj8LU4Y6VUWtRtV2KiY5Dj8TTx3ZFHvl7qhCaonfcF_tGgzs2-qO9Eivj8zcWsAgASoJZXUtd2VzdC0xMOUD.m3u8
+
+
+
+#EXTINF:-1 tvg-id="La1.es" tvg-name="TVE1" tvg-logo="https://www.gratistodo.com/wp-content/uploads/2021/12/La-1.png" group-title="Movistar TDT", TVE1
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+
+#EXTINF:-1 tvg-id="La2.es" tvg-name="LA 2 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/LA2.png" group-title="Movistar TDT", LA 2 HD
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1 tvg-id="TV3 HD" tvg-name="TV3 HD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", TV3 HD
+https://directes-tv-cat.ccma.cat/live-origin/tv3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Esports 3" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-esport-3-614.png" group-title="Movistar TDT", Esports 3
+https://directes-tv-es.ccma.cat/live-origin/esport3-hls/master.m3u8
+
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="ANTENA 3 FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ANTENA3HD.png" group-title="Movistar TDT", ANTENA 3 FHD
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:7_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Cuatro HD" tvg-name="CUATRO FHD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CUATROHD.png" group-title="Movistar TDT", CUATRO FHD
+http://607145121490321197.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321197.ts
+
+#EXTINF:-1 tvg-id="Telecinco HD" tvg-name="TELECINCO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", TELECINCO FHD
+http://607145121490321430.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321430.ts
+
+#EXTINF:-1 tvg-id="La Sexta HD" tvg-name="LA SEXTA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SEXTA FHD
+http://607145121490321289.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321289.ts
+
+#EXTINF:-1 tvg-id="LA SIETE HD" tvg-name="LA SIETE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", LA SIETE HD
+http://398538678963165298.ofio.xyz:80/play/Benicarlo/Paco/165298.ts
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-name="TELEDEPORTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Teledeporte.svg/1200px-Teledeporte.svg.png" group-title="Movistar TDT", TELEDEPORTE
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:-1 tvg-id="Canal Sur Andalucía" tvg-name="CANAL SUR Andalucia" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/CANALSUR.png" group-title="Movistar TDT", CANAL SUR Andalucia
+http://607145121490538662.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/538662.ts
+
+#EXTINF:-1 tvg-id="ext" tvg-name="ARAGON TV" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/ARAGON.png" group-title="Movistar TDT", ARAGON TV
+https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-id="ext" tvg-name="BE MAD" tvg-logo="http://212.8.253.112/logo/EUROPE/SPAIN/BEMAD.png" group-title="Movistar TDT", BE MAD
+http://607145121490321126.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/321126.ts
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Murcia" tvg-logo="" group-title="Movistar TDT", Murcia
+http://607145121490336361.of23103.xyz:80/play/KAL9HP3CS3/KMExg58vaPj/336361.ts
+
+#EXTINF:-1 tvg-id="ext" tvg-name="Melilla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Melilla TV
+https://tvmelilla-hls-rm-lw.flumotion.com/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal Extremadura" tvg-name="Canal Extremadura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Movistar%2B_Logo.png" group-title="Movistar TDT", Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8
+
+#EXTINF:0 tvg-id="ClanTVE.es" group-title="Movistar TDT",ES | Clan TVE
+https://rtvelivestream-clnx.rtve.es/rtvesec/clan/clan_main.m3u8
+
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Movistar TDT",ES | Canal 24 Horas
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
+
+#EXTINF:0 tvg-id="Mega" group-title="Movistar TDT",ES | Mega
+http://fireott.biz:2052/802411455218374/802497856238254/96443
+
+#EXTINF:-1 tvg-id="ext" tvg-name="CMM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/CMMedia.svg/125px-CMMedia.svg.png" group-title="Movistar TDT", CMM TV
+https://cdnapi.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_01fn4ycl/format/applehttp/.m3u8
+
+
+#EXTINF:-1,group-title="Peliculas Acestream"
+
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Cazafantasmas_Imperio_helado-183801540-large.jpg",Cazafantasmas Imperio helado (2024)
+http://192.168.66.2:8088/ace/getstream?id=01275f73ae7354316f2904cd92d6dbd791b497fa
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/No_way_up_2024_poster.jpg/220px-No_way_up_2024_poster.jpg",Atrapados en el abismo No Way Up (2024)
+http://192.168.66.2:8088/ace/getstream?id=a528f098e7ac6053f1227890356f796b78e29663
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/rebel_moon_part_two_the_scargiver-347614416-mmed.jpg",Rebel Moon Parte 2 (2024)
+http://192.168.66.2:8088/ace/getstream?id=d029a07aa5277524e384ab1714317933721fd1c2
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Godzilla_y_Kong_El_nuevo_imperio-737095597-large.jpg",Godzilla Vs Kong (2024)
+http://192.168.66.2:8088/ace/getstream?id=90d5ea18435588e21a9a566d85922cb52756e73f
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ferrari-253622060-large.jpg",Ferrari (2023)
+http://192.168.66.2:8088/ace/getstream?id=dc6d33ac4e45dcc7d0c960a99c86f8a7bd77bd62
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Anatomaia_de_una_caaida-928329893-large.jpg",Anatomia de una caida (2023)
+http://192.168.66.2:8088/ace/getstream?id=7875854eda6d1765b8aa15b27c3fe4e34724576e
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Vidas_pasadas-924615368-large.jpg",Vidas pasadas (2023)
+http://192.168.66.2:8088/ace/getstream?id=5f22dff6ad46c8fc843c7b91f24efb25b18fecfc
+#EXTINF:-1 tvg-logo="https://podermigrante.es/storage/2023/12/ocho-apellidos-marroquis-racismo.jpeg",Ocho apellidos marroquís (2023)
+http://192.168.66.2:8088/ace/getstream?id=fadd2db4e1fcec19278fc520dd5f5b45668e84fc
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Mi_otro_Jon-578375141-large.jpg",Mi otro Jon (2023)
+http://192.168.66.2:8088/ace/getstream?id=e4fa680552a60232e71ee006adfaa537db20a128
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/blood-252460606-mmed.jpg",Blood de Brad Anderson (2024)
+http://192.168.66.2:8088/ace/getstream?id=62c2dfa1b1dd48986f34cd752752b3f0c40324b1   
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_color_paurpura-733339310-large.jpg",El color purpura (2023)
+http://192.168.66.2:8088/ace/getstream?id=1eb985b78797d6affdf55919edc8cca1fb46b32e
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Johnny_Z-925391147-large.jpg",Johnny Z (2023)
+http://192.168.66.2:8088/ace/getstream?id=32f825b0f88f832bc2c9706ca61a713520c414ec
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Luces_fuera-136321744-large.jpg",Luces Fuera (2024)
+http://192.168.66.2:8088/ace/getstream?id=38f1a225ac98205b451e6f3533b10616c2fc214c
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Noche_de_paz-154154009-large.jpg",Noche de paz (2023)
+http://192.168.66.2:8088/ace/getstream?id=d6dd4a0b811fcbd22eac72a640012a08ed5a6027
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/7a/The_Marvels_poster.jpg",The Marvels (2023)
+http://192.168.66.2:8088/ace/getstream?id=b617628df78aeed530d684be28d2206176b85501
+#EXTINF:-1 tvg-logo="https://media.pathe.nl/nocropthumb/620x955/gfx_content//api/filmdepot/v1/movie/download/35071/35071_170489_ps_sd-high.jpg",Trols 3 (2023)
+http://192.168.66.2:8088/ace/getstream?id=ef81372243eacf4d4c263da676afcf58ef1a73ed
+#EXTINF:-1 tvg-logo="https://cdnb.20m.es/sites/165/2023/07/trailer-napoleon-2023-joaquin-phoenix.jpg",Napoleón (2023)
+http://192.168.66.2:8088/ace/getstream?id=9a6a0bf17dd15aea190f509599dd92bf4cd68ddd
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Saben_aquell-806417535-mmed.jpg",Saben Aquell (2023)
+http://192.168.66.2:8088/ace/getstream?id=ce16d7a78b8816c6f1d1b9bfd877b1f373c9c529
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/hQtqBmf0AVY/default.jpg",La Manzana de oro (2023)
+http://192.168.66.2:8088/ace/getstream?id=fd8811592c0ef3f383bdeb5e93bc3a42b956469b
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/After_Aquai_acaba_todo-570162347-large.jpg",After aquí acaba todo (2023)
+http://192.168.66.2:8088/ace/getstream?id=288a13ad5e1b208e232069ce36bec01bba654287
+#EXTINF:-1 tvg-logo="https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-exorcist-believer/images/regions/pe/tt_mobile.png",El Exorcista Creyentes (2023)
+http://192.168.66.2:8088/ace/getstream?id=530e07d2ce73aaab2fb5200a2c09f3fe487389da
+#EXTINF:-1 tvg-logo="https://www.youplanetpictures.com/wp-content/uploads/2023/04/AMAZON-1200x1600-4.jpg",Boon El protector (2022)
+http://192.168.66.2:8088/ace/getstream?id=b12cc9ed9ce9cd7cc9f981ce0b1fea127e4d1632
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Campeonex-966482082-large.jpg",Campeonex (2023)
+http://192.168.66.2:8088/ace/getstream?id=11771d7b23eb571056451f0ac720c1fcf77226ff
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/aUltima_noche_en_Milaan-505179490-large.jpg",Última noche en Milán (2023)
+http://192.168.66.2:8088/ace/getstream?id=e3f235c02150fdc9bd615a1061e0d2260b021b91
+#EXTINF:-1 tvg-logo="https://www.compraentradas.com/img/Carteles/laprincesacisne.jpg",La princesa cisne (2023)
+http://192.168.66.2:8088/ace/getstream?id=da9f43121711a40e67e3f9cb0fcd79e87b214875
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/63dvf3hecOjAcpLlEXw7wtThqkY.jpg",Escuadrón de elite 2 (2023)
+http://192.168.66.2:8088/ace/getstream?id=8e9170e428787bee381d13c3fb39ece293da01ae
+#EXTINF:-1 tvg-logo="https://cinecalidad.fi/wp-content/uploads/2023/11/2P2QVoDVgoIG9nVoTliXjKnj8u7-400x600.jpg",Nuevos ricos (2023)
+http://192.168.66.2:8088/ace/getstream?id=e90550be87ffbf9b72f85e84b92d6614a0fb53b8
+#EXTINF:-1 tvg-logo="https://img41.tokyvideo.com/videos/401/401932/previews/previews_0012_custom_1700232760.643.jpg",Menuda nochebuena (2023)
+http://192.168.66.2:8088/ace/getstream?id=a679dd31db84fe7e0badaafec2c0c4b8364729e4
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Rally_Road_Racers-376706598-large.jpg",Rally road Racer (2023)
+http://192.168.66.2:8088/ace/getstream?id=108fc6cd0a49efb180079ab487b4d52a16ebf056
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/The_Creator-470808400-large.jpg",The creator (2023)
+http://192.168.66.2:8088/ace/getstream?id=a8f1d9ea8c1827c679ff6857544b8402ba040548
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Plan_en_familia-158949596-mmed.jpg",Plan en familia (2023)
+http://192.168.66.2:8088/ace/getstream?id=0cca31502631c7da54af3ee937db7c6e52fa0eae
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzBkYTUxY2EtMTc0OC00ZmE0LWIyYjMtNGE3MzUwMjcyZDhhXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg",Chicken run (2023)
+http://192.168.66.2:8088/ace/getstream?id=2b35bbdb8d895a937596b5f657a0cfa8a9f3531b
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_duelo-352434270-large.jpg",El duelo  (2023)
+http://192.168.66.2:8088/ace/getstream?id=628ffc060cb6b43ce5b3972369967da0cd2f0555
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Me_he_hecho_viral-551379306-large.jpg",Me he hecho viral (2023)
+http://192.168.66.2:8088/ace/getstream?id=e7915be32518922e14166fe8b8140dc19c28f6f0
+#EXTINF:-1 tvg-logo="https://www.aceprensa.com/wp-content/uploads/2023/12/dejar-el-mundo-atras.jpg",Dejar el mundo atras(2023)
+http://192.168.66.2:8088/ace/getstream?id=061ddb6456efcc97b13b57fc2f78f4b26d25d57b
+#EXTINF:-1 tvg-logo="https://s3.artes9.com/2023/12/Mi-pequeno-batman.jpg",La Navidad del pequeño batman (2023)
+http://192.168.66.2:8088/ace/getstream?id=7101144032c8cf9469c073ca9a6969e1cfd2bc6d
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/aSalta-542298271-large.jpg",Salta (2023)
+http://192.168.66.2:8088/ace/getstream?id=b93a8b41c9da483ddf49403fabb6f90f36b356c6
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Los_asesinos_de_la_luna-272696214-large.jpg",Los asesinos de la luna (2023)
+http://192.168.66.2:8088/ace/getstream?id=8b1df56b8d66300de36c4ce86be87ebc7ea8bfa8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/www.themoviedb.org/t/p/w185/vvsLsS8xOE9X0UaZy31b2gwNdrJ.jpg",Alta mar (2023)
+http://192.168.66.2:8088/ace/getstream?id=889f7d059468bf5ebf7087225e6f922b5d9fc8c7
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w500/8luiMBqBu4qRRFtj1995rjPIcM5.jpg",Retumbar a través de la oscuridad (2023)
+http://192.168.66.2:8088/ace/getstream?id=a4a5710b40e1f28f7d80ec24c6dd4e75053d7c6e
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Asfixiados-369972136-large.jpg",Asfixiados (2023)
+http://192.168.66.2:8088/ace/getstream?id=2ef0b8096d8f972128152eec0e196af9d9d8198e
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_hombre_del_saco-848302846-large.jpg",El hombre del saco (2023)
+http://192.168.66.2:8088/ace/getstream?id=68c524361d9a415bc1a4dc202203fad0f4f5eabc
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Ajuste_de_cuentas_Muzzle-109482028-large.jpg",Ajuste de cuentas (Muzzle) (2023)
+http://192.168.66.2:8088/ace/getstream?id=64dbfd4791106c4e0d782e32b7606c459bc4a8d1
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/17900/17978/001_m.jpg",La monja 2 (2023)
+http://192.168.66.2:8088/ace/getstream?id=3c7bc52d33ceeb68854de46701b852388b901a6b
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Mansiaon_encantada-135612291-large.jpg",Mansión encantada (2023)
+http://192.168.66.2:8088/ace/getstream?id=33da775ca00e9d492a75288cee326cc58176ce9e
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aPFFXah.png",The Equalizer 3 (2023)
+http://192.168.66.2:8088/ace/getstream?id=96e6f8a44e582fcdc74b6f6febfab3ceb50a83ec
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Asteroid_City-791120197-large.jpg",Asteroid City (2023) 
+http://192.168.66.2:8088/ace/getstream?id=2f702a2b4aff20f7e542ad281f503ddd9f72c38c
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Els_encantats_Los_encantados-309014660-large.jpg",Els encantats - Los encantados (2023) 
+http://192.168.66.2:8088/ace/getstream?id=6bb3e5066eb075d0f9e4aa4c8f87d8bc37c1c222
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/El_hombre_del_saco-848302846-large.jpg",El hombre del saco (2023) 
+http://192.168.66.2:8088/ace/getstream?id=643fc718cbc83c422fe7f7b39071fd323046fa0e
+#EXTINF:-1 tvg-logo="https://www.ecartelera.com/carteles/17800/17885/001_m.jpg",La fortaleza (2023)
+http://192.168.66.2:8088/ace/getstream?id=aa2af0e5e2ce769ff0be27a4cb62371091892208
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Gran_Turismo-703890981-large.jpg",Gran Turismo (2023)
+http://192.168.66.2:8088/ace/getstream?id=2cd8adbb223decd5ef14a0aaf256c4c059072643
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ehGIDAMaYy6Eg0o8ga0oqflDjqW.jpg",Nadie te salvara (2023)
+http://192.168.66.2:8088/ace/getstream?id=35c7f39fa7c8b68984f543ea54d656be62a8700e
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vd8YdaH7dzeIMGTNwQinlSiA1gV.jpg",Spy Kids El armagedon (2023)
+http://192.168.66.2:8088/ace/getstream?id=1cc1e35f27234c203bf0a44da9e7912da7980c63
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/oUmKn7SdPCgQxbKX19ZuC7yMWVW.jpg",Tener tiempo (2023) 
+http://192.168.66.2:8088/ace/getstream?id=bb1f0a719a6e3a4aee483d241bd7fcb697a96818
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cxSKca4dNlk7O7PMiEYT203vlIw.jpg",Leon por un dia (2023)
+http://192.168.66.2:8088/ace/getstream?id=57c96618438d0b53a42ec257701875882f7ff7ba
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/eauJLqzFy53KR86VNXnzz3wsD6w.jpg",Guerra de diamantes (2023)
+http://192.168.66.2:8088/ace/getstream?id=8d1c0e7e4c4ef6f2887e90adbc54fc9088f0b076
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gMemig5evTQDFgYNnypemEnfekL.jpg",Sospechoso X (2023)
+http://192.168.66.2:8088/ace/getstream?id=ce24b0d34adf098d304a04ece24155c4cf887c4a
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/93qgLVz2QFpYiodHOgwJGkRAl8g.jpg",Diario Tamil (2023)
+http://192.168.66.2:8088/ace/getstream?id=9f29c9decbd38c1d9512205c08b494611a9741e4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oUU6blOmIu155vfIgzML3ZSsDrB.jpg",Pursuit (2023)
+http://192.168.66.2:8088/ace/getstream?id=8e42f9e3d34c195aebb14033c369cc3b8367e1a8
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vlpJXIFYF0m0TFdtYXb8YmNMBhV.jpg",El protector (2023)
+http://192.168.66.2:8088/ace/getstream?id=6f488ad8907d3543973c662f03bf085640f47df3
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/scUC3Y6qMe66CaN1Ny0GkiWHjut.jpg",Al servicio del Reich (2023)
+http://192.168.66.2:8088/ace/getstream?id=afd874ee9aa3b5aa83d53e3db30ef707bde76327
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg",Blue Beetle (2023)
+http://192.168.66.2:8088/ace/getstream?id=7c60be8f6c8800ecfcb04f5321eecd1a12a6434b
+#EXTINF:-1,tvg-logo="https://hips.hearstapps.com/hmg-prod/images/la-puerta-magica-poster-649561a5d7d50.jpg",La puerta mágica (2023)
+http://192.168.66.2:8088/ace/getstream?id=32b09b5864c095b98497aaf5b8f3b9f93a200132
+#EXTINF:-1,tvg-logo="https://pics.filmaffinity.com/Ninja_Turtles_Caos_mutante-120425984-large.jpg",Tortugas Ninja caos mutante (2023)
+http://192.168.66.2:8088/ace/getstream?id=7934601042e00bfccaedb8e9c8778217ee5afc76
 #EXTINF:-1,ESPN HD [US] --> SPORTTV
 http://192.168.66.98:8080/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1, ESPN2 [US] --> SPORTTV
