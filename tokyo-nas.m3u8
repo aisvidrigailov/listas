@@ -367,8 +367,6 @@ http://192.168.66.2:8088/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd83
 http://192.168.66.2:8088/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN.4.nl" group-title="FUTBOL INT", ESPN 4 [BE] 687a --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/148.png" tvg-id="ESPN.1.nl" group-title="FUTBOL INT", ESPN [BE] edab --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="FUTBOL INT", ESPN HD [US] f442 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="FUTBOL INT", PREMIER SPORTS 1 3565 --> NEW LOOP
@@ -383,8 +381,6 @@ http://192.168.66.2:8088/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df
 http://192.168.66.2:8088/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/474.png" tvg-id="Ziggo.Sport.2.nl" group-title="FUTBOL INT", ZIGGO SPORT 2 9027 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/419.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 16ed --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", CANAL MOTOR f2d5 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", MOTORS TV HD df98 --> NEW LOOP
@@ -439,6 +435,8 @@ http://192.168.66.2:8088/ace/getstream?id=d4f56cda0a15f47e7820daaac8e37b4d67d9c9
 http://192.168.66.2:8088/ace/getstream?id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESPORT 3 FHD 5d64 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" tvg-id="Motorvision tv" group-title="OTROS", MOTORVISION f404 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NBA TV 072b --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=7acefb808a6c67d95e977b452d53070947bd072b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ONETORO (solo eventos) 7312 --> NEW ERA III
@@ -451,8 +449,6 @@ http://192.168.66.2:8088/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b7
 http://192.168.66.2:8088/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD 30ee --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL ecbf --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD 23ac --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Test 0002 --> NEW ERA VII
