@@ -37,8 +37,6 @@ http://192.168.66.98:8080/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39
 http://192.168.66.98:8080/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES SD 93aa --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES HD c2b3 --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD 298c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD dc21 --> NEW ERA VI
@@ -439,10 +437,6 @@ http://192.168.66.98:8080/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27
 http://192.168.66.98:8080/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", SKY SPORTS CRICKET 3ddd --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD 30ee --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL ecbf --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD 23ac --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Test 0002 --> NEW ERA VII
