@@ -27,8 +27,8 @@ http://192.168.66.98:8080/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e0
 http://192.168.66.98:8080/ace/getstream?id=b5842718859345a596107ab8e6b24d7bfa2d617e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD b1b8 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=be02b9918b8fe7224cfa9af1e37856760f95b1b8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD 196e --> NEW ERA VI
-http://192.168.66.98:8080/ace/getstream?id=726911f8f1e51229b5e38846ac0d2c6db29a196e
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD 2237 --> NEW ERA VI
+http://192.168.66.98:8080/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES 8895 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES 9879 --> ELCANO
@@ -83,8 +83,8 @@ http://192.168.66.98:8080/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6b
 http://192.168.66.98:8080/ace/getstream?id=b71478c824f787a6a696139db0d053de6fdd1d38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF FHD 1031 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF FHD 106f --> NEW ERA VI
-http://192.168.66.98:8080/ace/getstream?id=b3de2a3f2c178b9636c6a716768eee8c56ce106f
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF FHD 6064 --> NEW ERA VI
+http://192.168.66.98:8080/ace/getstream?id=76a69812c66bfc4899e89df498220588a56e6064
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF HD 9afb --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png" tvg-id="M+ Golf 2 HD" group-title="MOVISTAR", MOVISTAR GOLF 2 FHD e7d7 --> NEW ERA
