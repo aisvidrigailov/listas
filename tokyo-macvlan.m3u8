@@ -391,8 +391,8 @@ http://192.168.66.98:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b4073
 http://192.168.66.98:8080/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD 23ac --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Test 0002 --> NEW ERA VII
-http://192.168.66.98:8080/ace/getstream?id=000000000000000000000000000000000000002
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Test 0000 --> NEW ERA VII
+http://192.168.66.98:8080/ace/getstream?id=000000000000000000000000000000000000000
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TNT SPORTS HD 965e --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: S SPORT 1 HD caef --> NEW ERA
