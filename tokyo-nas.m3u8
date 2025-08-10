@@ -419,6 +419,8 @@ http://192.168.66.2:8088/ace/getstream?id=d4f56cda0a15f47e7820daaac8e37b4d67d9c9
 http://192.168.66.2:8088/ace/getstream?id=692d6a47ba99fbfc67fa947e468e859c7f2b9564
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESPORT 3 FHD 5d64 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", FOX SPORT MX 4da9 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=a0464d3642e054f6122e7c309017d1e8d23f4da9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" tvg-id="Motorvision tv" group-title="OTROS", MOTORVISION f404 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NBA TV 8073 --> NEW ERA
@@ -441,8 +443,6 @@ http://192.168.66.2:8088/ace/getstream?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b496
 http://192.168.66.2:8088/ace/getstream?id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: S SPORT 1 HD caef --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=3f23e772f30c5f127609cbef8aa904219b63caef
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC 317 ESPN 2e28 --> NEW ERA
-http://192.168.66.2:8088/ace/getstream?id=f3fdef8de18c33683856c1eb9240f696f43f2e28
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC Fight Pass 89ad --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1,ESPN HD [US] --> SPORTTV
