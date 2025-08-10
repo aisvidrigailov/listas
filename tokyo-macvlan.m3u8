@@ -341,8 +341,6 @@ http://192.168.66.98:8080/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad8
 http://192.168.66.98:8080/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="FUTBOL INT", ESPN2 [US] 8394 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="ESPN.2.nl" group-title="FUTBOL INT", ESPN 2 [BE] 7e63 --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN.4.nl" group-title="FUTBOL INT", ESPN 4 [BE] 687a --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/148.png" tvg-id="ESPN.1.nl" group-title="FUTBOL INT", ESPN [BE] edab --> NEW LOOP
