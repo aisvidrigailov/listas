@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/refs/heads/master/guiatv.xml,https://epgshare01.online/epgshare01/epg_ripper_NL1.xml.gz,https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml" refresh="3600"
 #EXTVLCOPT:network-caching=1000
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/24%20Horas%20HD.png" tvg-id="24 Horas" group-title="MOVISTAR", 24 HORAS HD 6cca --> NEW ERA
-http://192.168.66.2:8088/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306cca
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Arag%C3%B3n%20TV%20Internacional.png?raw=true" tvg-id="Aragón TV" group-title="MOVISTAR", ARAGON TV HD 006b --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina" group-title="MOVISTAR", CANAL COCINA FHD 849b --> NEW ERA
@@ -439,6 +437,10 @@ http://192.168.66.2:8088/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24
 http://192.168.66.2:8088/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1605139019741929472/RWr7BPxn_200x200.jpg" tvg-id="UK | Sky Sport Cricket" group-title="OTROS", SKY SPORTS CRICKET 3ddd --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL FHD 20d0 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD 5be7 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL ecbf --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="OTROS", TENNIS CHANNEL HD 23ac --> NEW LOOP
