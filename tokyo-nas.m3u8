@@ -325,8 +325,6 @@ http://192.168.66.2:8088/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d5
 http://192.168.66.2:8088/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="FUTBOL INT", ELEVEN DAZN 4 db98 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="FUTBOL INT", ELEVEN DAZN 5 808a --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="PT | DAZN 6" group-title="FUTBOL INT", ELEVEN DAZN 6 4a80 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="FUTBOL INT", ESPN2 [US] 8394 --> NEW LOOP
@@ -407,6 +405,8 @@ http://192.168.66.2:8088/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f4
 http://192.168.66.2:8088/ace/getstream?id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", OFF 0006
 http://192.168.66.2:8088/ace/getstream?id=0000000000000000000000000000000000000006
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Pluto TV Auto Motor Sport (720p) 2595 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=ffa09e597804001f634dd1829f031823411a2595
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", REAL MADRID TV HD 891e --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=7a955964c91c66311eef9137a96332352dbb891e
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="OTROS", SKY SPORTS ARENA b79c --> NEW LOOP
