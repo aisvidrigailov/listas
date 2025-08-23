@@ -31,10 +31,6 @@ http://192.168.66.98:8080/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e0
 http://192.168.66.98:8080/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD 2237 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=751b9cb03d188ce70e6aac22c1bfb16a5d0b2237
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES 8895 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=55d4602cb22b0d8a33c10c2c2f42dae64a9e8895
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES 9879 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=3a74d9869b13e763476800740c6625e715a39879
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD 84a4 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES SD 93aa --> ELCANO
@@ -45,8 +41,6 @@ http://192.168.66.98:8080/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c
 http://192.168.66.98:8080/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD c366 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=438991226c3bc6a06e7bfda9bea9f769957dc366
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 7ce7 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=639c561dd57fa3fc91fde715caeb696c5efb7ce7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 FHD 72b0 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR", MOVISTAR DEPORTES 2 SD 6b25 --> ELCANO
@@ -63,26 +57,18 @@ http://192.168.66.98:8080/ace/getstream?id=2fd410c5d89e7a627cd3785685b7915b8e4bd
 http://192.168.66.98:8080/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4" group-title="MOVISTAR", MOVISTAR DEPORTES 4 FHD 2a96 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=b40e1de2dcbd7c665f54877b14c830ed67b32a96
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR", MOVISTAR DEPORTES 5 fbac --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=fcc0fd75bf1dba40b108fcf0d3514e0e549bfbac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR", MOVISTAR DEPORTES 5 FHD d5aa --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="MOVISTAR", MOVISTAR DEPORTES 6 FHD 3c03 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="MOVISTAR", MOVISTAR DEPORTES 6 FHD c28a --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="MOVISTAR", MOVISTAR DEPORTES 6 9046 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=cc5782d37ae6b6e0bab396dd64074982d0879046
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-7-por-movistar-plus-es.png" tvg-id="M+ Deportes 7" group-title="MOVISTAR", MOVISTAR DEPORTES 7 4932 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=070f82d6443a52962d6a2ed9954c979b29404932
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Documentales%20HD.png" tvg-id="M+ Documentales HD" group-title="MOVISTAR", MOVISTAR DOCUMENTALES FHD 7d7d --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=6cda7d2622bcafd6aef486016238936855927d7d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Drama%20HD.png" tvg-id="M+ Drama HD" group-title="MOVISTAR", MOVISTAR DRAMA FHD 0d83 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=edee311dc307e1638eeac880b11bb6f4759b0d83
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" tvg-id="M+ Ellas Vamos HD" group-title="MOVISTAR", MOVISTAR ELLAS FHD 5cdd --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" tvg-id="M+ Ellas Vamos HD" group-title="MOVISTAR", MOVISTAR ELLAS bed5 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=d8c2ed470e847154a88f011137cc206319f6bed5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Estrenos%20HD.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD 4007 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=6341392460596e63edf38b013bd137c015e44007
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF FHD 1031 --> NEW ERA
@@ -107,8 +93,6 @@ http://192.168.66.98:8080/ace/getstream?id=b6ffbbc72a5b6b579faf79ebac229af7a25b9
 http://192.168.66.98:8080/ace/getstream?id=5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD f74a --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=5e24a1b9187fccb91553f7c7da4b36341386f74a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS 582f --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=56ac8e227d526e722624675ccdd91b0cc850582f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD ab78 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png" tvg-id="Movistar Plus+ 2 HD" group-title="MOVISTAR", MOVISTAR PLUS 2 FHD e09c --> NEW ERA
@@ -125,10 +109,6 @@ http://192.168.66.98:8080/ace/getstream?id=2940120bf034db79a7f5849846ccea0255172
 http://192.168.66.98:8080/ace/getstream?id=651d6be899d1fafa107a265a9dc00ff914c1b548
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS FHD 253f --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=1444a976d2cf6e7fdcee833ed36ee5e55632253f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS 30f2 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=d03c13b6723f66155d7a0df3692a3b073fe630f2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS 6adb --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=12ba546d229bc39f01c3c18988a034b215fe6adb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS FHD c40b --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR", MOVISTAR VAMOS SD b785 --> ELCANO
@@ -203,8 +183,6 @@ http://192.168.66.98:8080/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b4
 http://192.168.66.98:8080/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD fccb --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 6e72 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=abdf9058786a48623d0de51a3adb414ae10b6e72
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD 29c5 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 SD 4d5e --> ELCANO
@@ -223,8 +201,6 @@ http://192.168.66.98:8080/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173
 http://192.168.66.98:8080/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 41bf --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=ee4dc45720d3ec283f61189fbfc120c91d5141bf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 c07a --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=35c7f0c966ecde3390f4510bb4caded40018c07a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 d276 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 e784 --> ELCANO
@@ -237,10 +213,6 @@ http://192.168.66.98:8080/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07
 http://192.168.66.98:8080/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD bdc5 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=9adf7ac6531788ec022dbc14b77e1367f6c5bdc5
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 3c9a --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=ca923c9873fd206a41c1e83ff8fc40e3cf323c9a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 8810 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=a929eeec1268d69d1556a2e3ace793b2577d8810
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 b8ab --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 f516 --> NEW LOOP
@@ -297,16 +269,12 @@ http://192.168.66.98:8080/ace/getstream?id=a4f072c9b614323ac1258a175f868a909ea3c
 http://192.168.66.98:8080/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="HYPERMOTION", HYPERMOTION 3 724e --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=778d2f60bb7207addedcca0b9aed98f41529724e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", COPA DEL REY 9d9d --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=b51f2d9a15b6956a44385b6be531bcabeb099d9d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD f909 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f909
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD 705d --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD 414a --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=704e51760a644bc90aa22269bf84139947a0414a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 1580 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=16ffa1713f42aa27317ee039a2bd0cdbc89a1580
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 FHD 4d0e --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 SD e78a --> ELCANO
@@ -385,8 +353,6 @@ http://192.168.66.98:8080/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a72804
 http://192.168.66.98:8080/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD 0333 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="TDT", GOL PLAY FHD 0612 --> NEW ERA
-http://192.168.66.98:8080/ace/getstream?id=9fb99c40a2c45d5c5342b30626eb56140f980612
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/2023/07/13/medium/60e1502d7d6098162828bb002e98bdb4.png" tvg-id="GOL PLAY" group-title="TDT", GOL PLAY FHD 4f93 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=73094658f0a3ed523c0e188de67a7a690c0d4f93
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD 740c --> NEW ERA
