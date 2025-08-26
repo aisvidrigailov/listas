@@ -183,6 +183,8 @@ http://192.168.66.2:8088/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d
 http://192.168.66.2:8088/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922bc7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 SD d0f9 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4 FHD ec29 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=77998f8161373611ff6b348e7eda5b4e97d3ec29
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 9a0e --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 3fa9 --> NEW ERA
