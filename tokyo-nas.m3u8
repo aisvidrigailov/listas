@@ -225,6 +225,8 @@ http://192.168.66.2:8088/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a
 http://192.168.66.2:8088/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 9928 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD 7d88 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=f3cb0253065a38bd41cf450fc35006c45fab7d88
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 41bf --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=ee4dc45720d3ec283f61189fbfc120c91d5141bf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD cf62 --> NEW ERA VI
