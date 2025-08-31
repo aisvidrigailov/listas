@@ -7,8 +7,6 @@ http://192.168.66.2:8088/ace/getstream?id=cc5ed178702605513cd18b4899c4be954d306c
 http://192.168.66.2:8088/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb0798006b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" tvg-id="Canal Cocina" group-title="MOVISTAR", CANAL COCINA FHD 849b --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL HD 73d8 --> NEW ERA
-http://192.168.66.2:8088/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL FHD 2266 --> NEW ERA II
 http://192.168.66.2:8088/ace/getstream?id=c2858a94d2045e5dbb14e99323e90afe4e872266
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport3%20Catalunya.png?raw=true" tvg-id="Esport 3" group-title="MOVISTAR", ESPORT 3 FHD 7425 --> NEW ERA
@@ -393,6 +391,8 @@ http://192.168.66.2:8088/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f43
 http://192.168.66.2:8088/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN LAT DEPORT 8af8 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" tvg-id="Motorvision tv" group-title="OTROS", MOTORVISION f404 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Sport%20NBA.png?raw=true" tvg-id="Sport NBA" group-title="OTROS", NBA TV 8073 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Orange TV 24fa --> NEW LOOP
