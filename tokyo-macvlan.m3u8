@@ -9,8 +9,6 @@ http://192.168.66.98:8080/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb07980
 http://192.168.66.98:8080/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL HD 73d8 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL FHD 2266 --> NEW ERA II
-http://192.168.66.98:8080/ace/getstream?id=c2858a94d2045e5dbb14e99323e90afe4e872266
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport3%20Catalunya.png?raw=true" tvg-id="Esport 3" group-title="MOVISTAR", ESPORT 3 FHD 7425 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JWpf4FcM/clasicos.png" tvg-id="M+ Clásicos HD" group-title="MOVISTAR", MOVISTAR ACCION FHD 59ce --> NEW ERA
@@ -147,6 +145,8 @@ http://192.168.66.98:8080/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef5
 http://192.168.66.98:8080/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 SD 8d36 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD 78dd --> NEW ERA II
+http://192.168.66.98:8080/ace/getstream?id=ec9daba1a6ace75952609f5afc50b75fea4178dd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD f231 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=107c3ce5a5d2527c9f06e4eab87477201791f231
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD 38a0 --> NEW ERA VI
