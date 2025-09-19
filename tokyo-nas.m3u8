@@ -9,8 +9,6 @@ http://192.168.66.2:8088/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb079800
 http://192.168.66.2:8088/ace/getstream?id=96f092e1fa99062f6da14cae230b877ad3ed849b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca%20HD.png" tvg-id="Caza y Pesca HD" group-title="MOVISTAR", CAZA Y PESCA FHD HD 3e9c --> NEW ERA III
 http://192.168.66.2:8088/ace/getstream?id=277a6fb47189db801c5b7b05ad89c690571f3e9c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Discovery.png" tvg-id="Discovery" group-title="MOVISTAR", DISCOVERY CHANNEL HD 73d8 --> NEW ERA
-http://192.168.66.2:8088/ace/getstream?id=670519ffe8db1e20d0c753d4f756c009e71173d8
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport3%20Catalunya.png?raw=true" tvg-id="Esport 3" group-title="MOVISTAR", ESPORT 3 FHD 7425 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport3%20Catalunya.png?raw=true" tvg-id="Esport 3" group-title="MOVISTAR", ESPORT 3 FHD 5d64 --> NEW ERA
@@ -31,8 +29,6 @@ http://192.168.66.2:8088/ace/getstream?id=cf0cb321eed6765c2eadbd9983570f6674ce5d
 http://192.168.66.2:8088/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e071a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD 355d --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD c7e5 --> NEW ERA
-http://192.168.66.2:8088/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD 9359 --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR", MOVISTAR DEPORTES FHD bd0b --> NEW ERA VI
