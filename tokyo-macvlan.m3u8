@@ -77,6 +77,8 @@ http://192.168.66.98:8080/ace/getstream?id=5d35f906b735f25164fa2b9b7a4e6ef91dfed
 http://192.168.66.98:8080/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF FHD 37f2 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR", MOVISTAR GOLF HD 9afb --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Hits.png" tvg-id="M+ Hits HD" group-title="MOVISTAR", MOVISTAR HITS FHD 5065 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=50553edb5e8c54d15e0d43161369b3b4cef95065
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Indie%20HD.png" tvg-id="M+ Indie HD" group-title="MOVISTAR", MOVISTAR INDIE FHD ee80 --> NEW ERA VI
@@ -309,8 +311,6 @@ http://192.168.66.98:8080/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a
 http://192.168.66.98:8080/ace/getstream?id=a96a9a6ab8f4f624d66ece9fa566a5620ddd620d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 3fe0 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 7fa7 --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=186a997787dcdb76f1b17e4dd5c55910d4847fa7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 10bc --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 2cf8 --> NEW LOOP
