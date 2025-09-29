@@ -331,8 +331,6 @@ http://192.168.66.2:8088/ace/getstream?id=690f0f15439c773017ace3b6979c6e518d8654
 http://192.168.66.2:8088/ace/getstream?id=186a997787dcdb76f1b17e4dd5c55910d4847fa7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 10bc --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 2cf8 --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 9bce --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 9bce --> NEW LOOP
@@ -345,6 +343,8 @@ http://192.168.66.2:8088/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c
 http://192.168.66.2:8088/ace/getstream?id=927996b8192c7cc6bf768d52528c8e4198294328
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="FUTBOL INT", BT Sport 2 [UK] a801 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] 9db3 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=22fead867a8657cfb58cd84245e18954ab199db3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] 2033 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 d51b --> NEW LOOP
@@ -439,18 +439,16 @@ http://192.168.66.2:8088/ace/getstream?id=34944c86bad01c3963ef113c28c033858085ad
 http://192.168.66.2:8088/ace/getstream?id=99171f30c83bf7ab5df28b39607c91334cc60e4b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga2 FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top cba8 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top 0b05 --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top c618 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top 0b05 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga SD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top ed1f --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN ARGENTINA cd47 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN LAT DEPORT 8af8 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top e78a --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport2720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top a53f --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", FOX PREMIUM UFC e1e1 --> NEW ERA
