@@ -197,6 +197,8 @@ http://192.168.66.2:8088/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e041
 http://192.168.66.2:8088/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES SD 6c32 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES f370 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD fccb --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD 2a30 --> NEW ERA VI
@@ -345,24 +347,18 @@ http://192.168.66.2:8088/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a8
 http://192.168.66.2:8088/ace/getstream?id=22fead867a8657cfb58cd84245e18954ab199db3
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] 2033 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 d51b --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="PT | DAZN 2" group-title="FUTBOL INT", ELEVEN DAZN 2 7fce --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3" group-title="FUTBOL INT", ELEVEN DAZN 3 df1e --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="FUTBOL INT", ELEVEN DAZN 4 db98 --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="FUTBOL INT", ELEVEN DAZN 5 808a --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="PT | DAZN 6" group-title="FUTBOL INT", ELEVEN DAZN 6 4a80 --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="FUTBOL INT", ESPN2 [US] 8394 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="ESPN.2.nl" group-title="FUTBOL INT", ESPN 2 [BE] 7e63 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN.4.nl" group-title="FUTBOL INT", ESPN 4 [BE] 687a --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/148.png" tvg-id="ESPN.1.nl" group-title="FUTBOL INT", ESPN [BE] edab --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="FUTBOL INT", ESPN HD [US] f442 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="FUTBOL INT", PREMIER SPORTS 1 3565 --> NEW LOOP
@@ -437,6 +433,10 @@ http://192.168.66.2:8088/ace/getstream?id=34944c86bad01c3963ef113c28c033858085ad
 http://192.168.66.2:8088/ace/getstream?id=99171f30c83bf7ab5df28b39607c91334cc60e4b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga2 FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top cba8 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga2 SD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top 8d36 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top c618 --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top 0b05 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga SD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top ed1f --> NEW LOOP
