@@ -53,8 +53,6 @@ http://192.168.66.98:8080/ace/getstream?id=199190e3f28c1de0be34bccf0d3568dc65209
 http://192.168.66.98:8080/ace/getstream?id=5866e83279307bf919068ae7a0d250e4e424e464
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS FHD ab78 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hFYPWbpJ/plus.png" tvg-id="Movistar Plus+ HD" group-title="MOVISTAR", MOVISTAR PLUS f07a
-http://192.168.66.98:8080/ace/getstream?id=96efcc0185c54003ef34c915f6896b92fee9f07a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png" tvg-id="Movistar Plus+ 2 HD" group-title="MOVISTAR", MOVISTAR PLUS 2 FHD e09c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=fbc39d8a9e5d7c9ac6a1438d440104620f54e09c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gL8rx1B7/plus2.png" tvg-id="Movistar Plus+ 2 HD" group-title="MOVISTAR", MOVISTAR PLUS 2 FHD 7003 --> NEW ERA VI
@@ -65,6 +63,8 @@ http://192.168.66.98:8080/ace/getstream?id=cd0188292b6b3876ff66c99bd3d25eab88b41
 http://192.168.66.98:8080/ace/getstream?id=877eceeaf9f3bd9b392359323d03d0ac3bb27312
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Torol%C3%A9%20TV.png?raw=true" tvg-id="Torolé TV" group-title="MOVISTAR", TOROLE TV FHD 3b0c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=56457cde219abe22cdc3f6c2083a37b0324b3b0c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 496a --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD f4b1 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD 2884 --> NEW ERA VI
@@ -85,6 +85,8 @@ http://192.168.66.98:8080/ace/getstream?id=5091ea94b75ba4b50b078b4102a3d0e158ef5
 http://192.168.66.98:8080/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 SD 8d36 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 9e38 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD f31e --> NEW ERA II
 http://192.168.66.98:8080/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f31e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD f231 --> NEW ERA VI
@@ -101,8 +103,8 @@ http://192.168.66.98:8080/ace/getstream?id=4b528d10eaad747ddf52251206177573ee3e9
 http://192.168.66.98:8080/ace/getstream?id=14b6cd8769cd485f2cffdca64be9698d9bfeac58
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 9e38 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=31c19ffb3472c289c5bbbbc174449c8ed0d19e38
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 468b
-http://192.168.66.98:8080/ace/getstream?id=cc9b7f5fe416069a2110da0909b0f915043c468b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 33fe --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 FHD 541d --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=911ad127726234b97658498a8b790fdd7516541d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 FHD 42ec --> ELCANO
@@ -111,14 +113,20 @@ http://192.168.66.98:8080/ace/getstream?id=51b363b1c4d42724e05240ad068ad219df804
 http://192.168.66.98:8080/ace/getstream?id=ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" tvg-id="M+ LaLiga 2 HD" group-title="LA LIGA", M+ LALIGA 2 33fe --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033fe
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M+ LALIGA 3 1846 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M+ LALIGA 3 FHD 1a87 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=7ad14386deef2f45ffe17d30a631dbf79b6a1a87
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M+ LALIGA 3 SD bd39 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=382b14499e3d76e557d449d2e5bbc4e4bd63bd39
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M+ LALIGA 3 1846 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" tvg-id="M+ LaLiga 4" group-title="LA LIGA", M+ LALIGA 4 a6f1 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" tvg-id="M+ LaLiga 4" group-title="LA LIGA", M+ LALIGA 4 a6f1 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES f370 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD 6c6f --> NEW ERA II
 http://192.168.66.98:8080/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD a052 --> NEW ERA VI
@@ -135,6 +143,8 @@ http://192.168.66.98:8080/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b4
 http://192.168.66.98:8080/ace/getstream?id=b028202ff335911db3118bceac027df3e8ef6c32
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES f370 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 ceea --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD 2a30 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD 29c5 --> ELCANO
@@ -143,6 +153,8 @@ http://192.168.66.98:8080/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b802
 http://192.168.66.98:8080/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d5e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 ceea --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 9373 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 FHD 1259 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 FHD 2bc7 --> ELCANO
@@ -151,12 +163,16 @@ http://192.168.66.98:8080/ace/getstream?id=4416843c96b7f7a1bc55c476091a60fff0922
 http://192.168.66.98:8080/ace/getstream?id=cfc371890bfb502737a26de5215e50929c52d0f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 9373 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=90f7941c6bf7ca4b18084a1dca7bc15b9b179373
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4 b661 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4 FHD a74c --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=e9f4493d2d851f4636720f639113e05b4a21a74c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" tvg-id="M+ Liga de Campeones 4" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4 b661 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=6fbab1d8d6bf93c4bc7552714aa3bb54ebf7b661
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" tvg-id="M+ Liga de Campeones 5" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 5 FHD b97d --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 b151 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 3fa9 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 HD 8ec7 --> NEW ERA
@@ -175,12 +191,10 @@ http://192.168.66.98:8080/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b
 http://192.168.66.98:8080/ace/getstream?id=eb6ffec065b26259ad3d1811e0bbb0a5332ed276
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 e784 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 b151
-http://192.168.66.98:8080/ace/getstream?id=d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DAZN 1 BAR" group-title="DAZN", DAZN 1 BAR FHD c187 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc187
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201%20BAR.png" tvg-id="DAZN 1 BAR" group-title="DAZN", DAZN 1 BAR HD e229
-http://192.168.66.98:8080/ace/getstream?id=897e73c9d578848f596585314ecb9ae067c0e229
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 f516 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD 7a35 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD a97d --> NEW ERA
@@ -193,12 +207,10 @@ http://192.168.66.98:8080/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b
 http://192.168.66.98:8080/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 b8ab --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=ae68a0835039fab28fd2314108fabd4fab33b8ab
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 f516
-http://192.168.66.98:8080/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" tvg-id="DAZN 2 BAR" group-title="DAZN", DAZN 2 BAR FHD b57c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=2f9211669499f413dab1a490198afab2a9b4b57c
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" tvg-id="DAZN 2 BAR" group-title="DAZN", DAZN 2 BAR HD 4865
-http://192.168.66.98:8080/ace/getstream?id=12ea555d431dbe51fc8e4ca745aec09fe22a4865
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 8df9 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD 8eb1 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=d641cd0fca0f467b3130754a091e2f4d22e68eb1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 FHD 3b28 --> NEW ERA
@@ -207,8 +219,8 @@ http://192.168.66.98:8080/ace/getstream?id=8a86cd6152154a25ad4b76523160552a40313
 http://192.168.66.98:8080/ace/getstream?id=4e401fdceebffdf1f09aef954844d09f6c62f460
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 8df9 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2vkThM3/dazn3.png" tvg-id="DAZN 3 HD" group-title="DAZN", DAZN 3 8df9
-http://192.168.66.98:8080/ace/getstream?id=d1d9ec2361a6ac8edc0b2841866383768cc28df9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 a3b8 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD c1f0 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1f0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD 0af5 --> NEW ERA
@@ -217,18 +229,18 @@ http://192.168.66.98:8080/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0
 http://192.168.66.98:8080/ace/getstream?id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 a3b8 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 a3b8
-http://192.168.66.98:8080/ace/getstream?id=7e90956539f4e1318a63f3960e4f75c7c7c5a3b8
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS" group-title="DAZN", FOX SPORT MX 4da9 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=a0464d3642e054f6122e7c309017d1e8d23f4da9
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS" group-title="DAZN", FOX SPORT MX 5eda --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=90d101676ec61e02e7f77b489f0981e9dd815eda
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS" group-title="DAZN", FOX SPORT MX HD 0898
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS" group-title="DAZN", FOX SPORT MX HD 0898 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS" group-title="DAZN", FOX SPORT MX HD 03b7
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="FOX SPORTS" group-title="DAZN", FOX SPORT MX HD 03b7 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=cba8d369eac629b577750edb90370cd1c5fb03b7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 841d --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=1a63d886860e2b770590dcd64a4dd472eabb841d
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 0076 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 4K f66d --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD bb29 --> NEW ERA
@@ -241,6 +253,8 @@ http://192.168.66.98:8080/ace/getstream?id=515efd8115482bda8d92aa6df9a882a5e5797
 http://192.168.66.98:8080/ace/getstream?id=82b4f249788f93b8f9ce968803662d7cd4f1b8cc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD 7711 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=d5cf2dfa4fb4165ce58bf9db815088c28fec7711
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 HD 4be2 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD aebd --> NEW ERA II
 http://192.168.66.98:8080/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD bdf7 --> NEW ERA VI
@@ -271,10 +285,6 @@ http://192.168.66.98:8080/ace/getstream?id=d65257bb934b73647374224fd62d836815804
 http://192.168.66.98:8080/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 SD 1727 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 0076
-http://192.168.66.98:8080/ace/getstream?id=b04372b9543d763bd2dbd2a1842d9723fd080076
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 HD 4be2
-http://192.168.66.98:8080/ace/getstream?id=d65257bb934b73647374224fd62d836815804be2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION FHD 7f3a --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION FHD cda4 --> NEW ERA VI
@@ -301,154 +311,126 @@ http://192.168.66.98:8080/ace/getstream?id=ef2abf419586d9876370be127ad592dbb41b1
 http://192.168.66.98:8080/ace/getstream?id=c3da6c4f91d9d10ade00318a869435e19f204d0e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 SD e78a --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD 24e3 --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=547ab7146a86d6119c9332c011669544720124e3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 127f
-http://192.168.66.98:8080/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD f766
-http://192.168.66.98:8080/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD 0a62
-http://192.168.66.98:8080/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD 1ecc --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD 7031 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=2773b39926d15dd3d9495d94c4050604792d7031
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD b8e0 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD 66d8 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD 32c6 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD f8bf --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=37d6f1aabcde81ee6e4873b4db6b7bb8964af8bf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD 1551 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=0585e09bb8ac9720e4c11934f1b184e309291551
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 SD a53f --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD 32c6
-http://192.168.66.98:8080/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD 66d8
-http://192.168.66.98:8080/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b766d8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD b8e0
-http://192.168.66.98:8080/ace/getstream?id=6176281b9c46a5621a0e88524f8dc621f173b8e0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 3fe0 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 FHD 69eb --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=f0951d40eb84162014752c054ea7a1370d2169eb
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 620d --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=a96a9a6ab8f4f624d66ece9fa566a5620ddd620d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 3fe0 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%201.png" tvg-id="FR | beIN SPORTS 1" group-title="FUTBOL INT", BEIN SPORTS 1 3fe0
-http://192.168.66.98:8080/ace/getstream?id=bba1905fcd1c4975aec544047bf8e4cd23ce3fe0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 10bc --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 FHD 5454 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=690f0f15439c773017ace3b6979c6e518d865454
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 10bc --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="FR | beIN SPORTS 2" group-title="FUTBOL INT", BEIN SPORTS 2 10bc
-http://192.168.66.98:8080/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 2cf8 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 2cf8 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 2cf8
-http://192.168.66.98:8080/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 9bce --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 3c5b --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 9bce --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 9bce --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 3c5b --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 9bce
-http://192.168.66.98:8080/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 3c5b
-http://192.168.66.98:8080/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="FUTBOL INT", BT Sport 2 [UK] a801 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="FUTBOL INT", BT Sport 2 [UK] a801 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%202.png" tvg-id="UK | TNT Sports 2" group-title="FUTBOL INT", BT Sport 2 [UK] a801
-http://192.168.66.98:8080/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] 9db3 --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=22fead867a8657cfb58cd84245e18954ab199db3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] 2033 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] 2033 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] 2033
-http://192.168.66.98:8080/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 c652 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 d51b --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 HD 7f00 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 d51b --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 c652
-http://192.168.66.98:8080/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 d51b
-http://192.168.66.98:8080/ace/getstream?id=36cad67fed5a739757a9db844a551aa845a8d51b
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 HD 7f00
-http://192.168.66.98:8080/ace/getstream?id=14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="PT | DAZN 2" group-title="FUTBOL INT", ELEVEN DAZN 2 7fce
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="PT | DAZN 2" group-title="FUTBOL INT", ELEVEN DAZN 2 7fce --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=d08013df6e437a1fdf1e0c34f573fdf6a40c7fce
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="PT | DAZN 2" group-title="FUTBOL INT", ELEVEN DAZN 2 HD 51f9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" tvg-id="PT | DAZN 2" group-title="FUTBOL INT", ELEVEN DAZN 2 HD 51f9 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3" group-title="FUTBOL INT", ELEVEN DAZN 3 df1e --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3" group-title="FUTBOL INT", ELEVEN DAZN 3 df1e --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3" group-title="FUTBOL INT", ELEVEN DAZN 3 df1e
-http://192.168.66.98:8080/ace/getstream?id=dae7d1251f069516cc0a9c8f15f6639d2a17df1e
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3" group-title="FUTBOL INT", ELEVEN DAZN 3 HD f212
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" tvg-id="PT | DAZN 3" group-title="FUTBOL INT", ELEVEN DAZN 3 HD f212 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=b146ee4b6e16c9df58e27bd02ffd6cea840ff212
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="FUTBOL INT", ELEVEN DAZN 4 db98 --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="FUTBOL INT", ELEVEN DAZN 4 db98 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="FUTBOL INT", ELEVEN DAZN 4 db98
-http://192.168.66.98:8080/ace/getstream?id=0f32c0131a2d9444996410801f4e18b04384db98
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="FUTBOL INT", ELEVEN DAZN 4 HD 8e09
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" tvg-id="PT | DAZN 4" group-title="FUTBOL INT", ELEVEN DAZN 4 HD 8e09 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=458a0ddd7d193f6d2750cd14d03a47f47a808e09
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="FUTBOL INT", ELEVEN DAZN 5 808a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%205.png" tvg-id="PT | DAZN 5" group-title="FUTBOL INT", ELEVEN DAZN 5 808a --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=4dbe63b44fc4f439f5b634c0d2aa7e0cccad808a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="PT | DAZN 6" group-title="FUTBOL INT", ELEVEN DAZN 6 4a80 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="PT | DAZN 6" group-title="FUTBOL INT", ELEVEN DAZN 6 4a80 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%206.png" tvg-id="PT | DAZN 6" group-title="FUTBOL INT", ELEVEN DAZN 6 4a80
-http://192.168.66.98:8080/ace/getstream?id=50b6d2b5fd59fefb9f4fd2176994d418f2b94a80
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="FUTBOL INT", ESPN2 [US] 8394 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="FUTBOL INT", ESPN2 [US] 8394 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN%202.png" tvg-id="ESPN 2" group-title="FUTBOL INT", ESPN2 [US] 8394
-http://192.168.66.98:8080/ace/getstream?id=664eb5fe460b96941aed633959a845b185cd8394
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="ESPN.2.nl" group-title="FUTBOL INT", ESPN 2 [BE] 7e63 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="ESPN.2.nl" group-title="FUTBOL INT", ESPN 2 [BE] 7e63 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/468.png" tvg-id="ESPN.2.nl" group-title="FUTBOL INT", ESPN 2 [BE] 7e63
-http://192.168.66.98:8080/ace/getstream?id=3e0ba6867173f345d482d80c771f1a5dc3b37e63
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN.4.nl" group-title="FUTBOL INT", ESPN 4 [BE] 687a --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN.4.nl" group-title="FUTBOL INT", ESPN 4 [BE] 687a --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN.4.nl" group-title="FUTBOL INT", ESPN 4 [BE] 687a
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="ESPN.4.nl" group-title="FUTBOL INT", ESPN 4 [BE] 687a --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=5f9b19c57195cc28ab81e0ec8cad03b55118687a
 #EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/148.png" tvg-id="ESPN.1.nl" group-title="FUTBOL INT", ESPN [BE] edab --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
-#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/148.png" tvg-id="ESPN.1.nl" group-title="FUTBOL INT", ESPN [BE] edab
-http://192.168.66.98:8080/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="FUTBOL INT", ESPN HD [US] f442 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="FUTBOL INT", ESPN HD [US] f442 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/ESPN.png" tvg-id="ESPN" group-title="FUTBOL INT", ESPN HD [US] f442
-http://192.168.66.98:8080/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
+#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="FUTBOL INT", PREMIER SPORTS 1 3565 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="FUTBOL INT", PREMIER SPORTS 1 3565 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier1.png" tvg-id="UK | Premier Sports 1" group-title="FUTBOL INT", PREMIER SPORTS 1 3565
-http://192.168.66.98:8080/ace/getstream?id=75a56863b6fe0407ad4305b4d7ee5643c3923565
+#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="FUTBOL INT", PREMIER SPORTS 2 9537 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
 #EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="FUTBOL INT", PREMIER SPORTS 2 9537 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-logo="https://i.ibb.co/10xGrD4/Premier2.png" tvg-id="UK | Premier Sports 2" group-title="FUTBOL INT", PREMIER SPORTS 2 9537
-http://192.168.66.98:8080/ace/getstream?id=4903ca695edb64bc72ae29eb85a5333ba0139537
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="FUTBOL INT", SKY SPORTS FOOTBALL b26d --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="FUTBOL INT", SKY SPORTS FOOTBALL b26d --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="FUTBOL INT", SKY SPORTS FOOTBALL b26d
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Football_GB_logo.png?1734015024" tvg-id="UK | Sky Sport Football" group-title="FUTBOL INT", SKY SPORTS FOOTBALL b26d --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b26d
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.nl" group-title="FUTBOL INT", ZIGGO SPORT 0058 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.nl" group-title="FUTBOL INT", ZIGGO SPORT 0058
-http://192.168.66.98:8080/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.2.nl" group-title="FUTBOL INT", ZIGGO SPORT 2 9027 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.2.nl" group-title="FUTBOL INT", ZIGGO SPORT 2 9027 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.2.nl" group-title="FUTBOL INT", ZIGGO SPORT 2 9027
-http://192.168.66.98:8080/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 16ed --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 16ed --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 16ed
-http://192.168.66.98:8080/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/A/Automotor-logo-D99B43248F-seeklogo.com.gif" tvg-id="" group-title="MOTOR", AUTOMOTORSPORT HD f54c --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=610993aea3a2bfd509594334b7461ce96900f54c
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/3ee9eef4eb12ec1b3e26049e79a43606.webp" tvg-id="" group-title="MOTOR", CANAL MOTOR f2d5 --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" tvg-id="Motorvision tv" group-title="MOTOR", MOTORVISION f404 --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" tvg-id="Motorvision tv" group-title="MOTOR", MOTORVISION b37f
-http://192.168.66.98:8080/ace/getstream?id=acd7e3ae185a376e6596e60a414bebbf3321b37f
+#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", MOTORS TV HD df98 --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="DE | Rally TV" group-title="MOTOR", RALLY TV b2ea --> NEW ERA III
 http://192.168.66.98:8080/ace/getstream?id=8e96e35afd910d1a056dc7bf25139b8e2849b2ea
-#EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", RETROVISION MOTOR bff3 --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=b8b8c4470d3d27c75302cf49ab6c4b52a660bff3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qFgSG92W/antena3.png" tvg-id="Antena 3 HD" group-title="TDT", ANTENA 3 FHD 40e9 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=f9d2a6d5da8d1f2423a0b6ed0047636a728040e9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD 4ef0 --> NEW ERA
@@ -487,37 +469,29 @@ http://192.168.66.98:8080/ace/getstream?id=4b048bcfaed7daec454e88f0e29b567563004
 http://192.168.66.98:8080/ace/getstream?id=c1ee6e1e0ef5928d8261f855c417de21794f437d
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Logo_Primera_RFEF_2021.png/revision/latest?cb=20230620215900&path-prefix=es" tvg-id="Canal 2 (1RFEF)" group-title="1RFEF", Canal 2 (1RFEF) (SOLO EVENTOS) 74cf --> NEW ERA V
 http://192.168.66.98:8080/ace/getstream?id=8677d339ecddd75165c0015025f598b6215974cf
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/Bundesliga_logo_%282017%29.svg/180px-Bundesliga_logo_%282017%29.svg.png" tvg-id="DE | Sky Sport Bundesliga 1" group-title="BUNDESLIGA", BUNDESLIGA 1 HD 3f3b
-http://192.168.66.98:8080/ace/getstream?id=38d8789a448dd0eaf99e0274b555974e4e8f3f3b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", AMAZON PRIME VIDEO 6 HD [BE] (sport) da5b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", AMAZON PRIME VIDEO 6 HD (BE) Sport_TV_28 da5b --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=26e31f091414fb036917a255b4adaf12b2f3da5b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", arte HD [DE] (regional) ae37
-http://192.168.66.98:8080/ace/getstream?id=101c4c7e056242758b112382c4e314472795ae37
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", BeIN Sport 1 7c27 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=005a2f40458c51226e03d86fb3100ecbfbcd7c27
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN SPORTS HD 1 [TR] (regional) 3a52
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN SPORTS HD 1 (TR) Sport_TV_28 3a52 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=118416583faa3fb4f03800173429b6b844b43a52
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN SPORTS HD 2 [TR] (regional) 1a05
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN SPORTS HD 2 (TR) Sport_TV_28 1a05 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN SPORTS HD 3 [TR] (regional) 4d62
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN SPORTS HD 3 (TR) Sport_TV_28 4d62 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ed81c333815247536edfcdb2755147e8c4144d62
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN SPORTS HD 4 [TR] (regional) cf9d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN SPORTS HD 4 (TR) Sport_TV_28 cf9d --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=7683cd0cbacf55fa8b39c363219ffba1bc47cf9d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN SPORTS HABER [TR] (regional) 95f3
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", beIN SPORTS HABER (TR) Sport_TV_28 95f3 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=47c1b3a68d03bd190fed521d144ad08fa0f195f3
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Canal + [PL] (regional) 808d
-http://192.168.66.98:8080/ace/getstream?id=7a2c53a15cbd5b694759bb107dd099db6f84808d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CANAL+ 1 [PL] (regional) ca4e
-http://192.168.66.98:8080/ace/getstream?id=9def614ad2e9dab30a710ecb6868b4ed3746ca4e
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Canal+ Family HD [PL] (regional) 657d
-http://192.168.66.98:8080/ace/getstream?id=1613812c13e27c7748272e2a156ad88da3e0657d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Canal+ Sport 2 HD [PL] (regional) 01d3
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Canal de Tenis HD (ES) Sport_TV_28 23ac --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Canal+ Sport 2 HD (PL) Sport_TV_28 01d3 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=6390b1ab967a25777ea2dde1d41b7400cc0601d3
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CANAL+ Sport 3 [PL] (regional) 8944
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CANAL+ Sport 3 (PL) Sport_TV_28 8944 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=3e87464ed8c42ed14464461ea08860a3040a8944
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CANAL+ Sport 4 [PL] (regional) 1bd7
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CANAL+ Sport 4 (PL) Sport_TV_28 1bd7 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=04448c3ca0b7518819491e468adbabc8a2551bd7
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Canal+ Sport [PL] (regional) 6ed7
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Canal+ Sport (PL) Sport_TV_28 6ed7 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=cc7b8c39f70aa342248d02c8ab55bafdb4116ed7
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DARK HD dc20 --> NEW ERA III
 http://192.168.66.98:8080/ace/getstream?id=25465ea2deba65c623b7659136abf6fcc9f5dc20
@@ -527,115 +501,105 @@ http://192.168.66.98:8080/ace/getstream?id=e9edbbf56085f03e2b9b76f59389c81be5108
 http://192.168.66.98:8080/ace/getstream?id=0f86119f233fd64fe85cc0b4a9059590d06d242a
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN PVV adb7 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=34944c86bad01c3963ef113c28c033858085adb7
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN_LaLiga_FHD 0e4b --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=99171f30c83bf7ab5df28b39607c91334cc60e4b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga2 FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top cba8 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga2 SD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top 8d36 --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=c976c7b37964322752db562b4ad65515509c8d36
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top c618 --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga FHD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top 0b05 --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", daznliga SD elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top ed1f --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", E! [DE] (regional) 6459
-http://192.168.66.98:8080/ace/getstream?id=70cd3b5f96fb8d415099263226309aab3c616459
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESPN (BE) Sport_TV_28 edab --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=79f10c6c6168e42bfc606f3f7b9e5f3ca79dedab
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN ARGENTINA cd47 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=4bf4431b4815f07c1b3749f5a10f905ba566cd47
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ESSPN LAT DEPORT 8af8 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ab9bf0a75f1135137e65c0bc7639cb7f8ae28af8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 1 [DE] (regional) 200c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 1 (DE) Sport_TV_28 200c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=22df9a5fae8cae52fec925c2bb44b74f96a4200c
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 2 [DE] (regional) 728c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 2 (DE) Sport_TV_28 728c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=57f95543ac41656d473b1a27123fc413388a728c
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 3 [DE] (regional) be0c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 3 (DE) Sport_TV_28 be0c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=7adbca42657ace1fe228142d351d0896974bbe0c
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 4 [DE] (regional) 1f64
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 4 (DE) Sport_TV_28 1f64 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=1b6b6c0ddc0534236b3bae78f41d2bc27cd11f64
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 5 [DE] (regional) 5809
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 5 (DE) Sport_TV_28 5809 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=148921c4dda96df445e253d6f26c4d092bf85809
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 6 [DE] (regional) dc3f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 6 (DE) Sport_TV_28 dc3f --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=005ac522315699bd93bbf743329eb2f3c347dc3f
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 7 [DE] (regional) e791
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 7 (DE) Sport_TV_28 e791 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=b18657f64507cc859cd7edef1aef90feb053e791
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 8 [DE] (regional) b5fe
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport360 HD 8 (DE) Sport_TV_28 b5fe --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=8f4f572005ca2557743474087aa622693ba9b5fe
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top e78a --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=d830c1dc3b74e74f79cbb823804cf2037857e78a
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport2720 elcano.top zeronet http://127.0.0.1:43110/18D6dPcsjLrjg2hhnYqKzNh2W6QtXrDwF/ https://ipfs.io/ipns/elcano.top a53f --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=5c910d614894635153a7d42de98cc2e4a958a53f
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Extreme Sports [PL] (regional) a082
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport 1 HD (DE) Sport_TV_28 f766 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=b8cad4710b1c3b2b84a82c1ece40c08517b8f766
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport 1 HD (RU) Sport_TV_28 0a62 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=1b0bc4d4dcd609d3c092712e721392b199f50a62
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Eurosport (PL) Sport_TV_28 127f --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=314eb626864faf52e01624361bd6906b5406127f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Extreme Sports (PL) Sport_TV_28 a082 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=73ff07648e367efebd94636047b07625f664a082
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Fast&Funbox HD [RU] (sport) 3d18
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Fast&Funbox HD (RU) Sport_TV_28 3d18 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=c811cde690d467a2e45d3c263c4f0960a3933d18
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", FightBox [PL] (regional) 017a
-http://192.168.66.98:8080/ace/getstream?id=d9e5e213121f3ea7fbcb216b48c306cd935b017a
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", FightBox HD [RU] (sport) b640
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", FightBox HD (RU) Sport_TV_28 b640 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=49b734a5a3365674480089264be00ae28fabb640
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Fightklub HD [PL] (regional) 1b29
-http://192.168.66.98:8080/ace/getstream?id=b73da828421018c98905ed05934b77ea35aa1b29
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", FOX PREMIUM UFC e1e1 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ade70f2c51cca519a4d8de1bb181af6e8532e1e1
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Golf Channel [PL] (regional) 6689
-http://192.168.66.98:8080/ace/getstream?id=d4acffe8f08b7728d3b489ab5ca37398a5636689
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", HR HD [DE] (regional) 089b
-http://192.168.66.98:8080/ace/getstream?id=8385abc4f836cc502de197789426ba1d7eba089b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Insight 4K [RU] (regional) 7a68
-http://192.168.66.98:8080/ace/getstream?id=2bc787fab6cfce8b5c7a7c6b85e862066d967a68
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ LIGA DE CAMPEONBES 2 FHD a188 --> NEW ERA II
 http://192.168.66.98:8080/ace/getstream?id=4b18a3b32df5960ed950fa907f8d509b1ad2a188
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ LIGA DE CAMPEONBES 2 FHD ae54 --> NEW ERA II
 http://192.168.66.98:8080/ace/getstream?id=ea03cc51980996ba6f2da49e30eee1de8a66ae54
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M-1 Global [RU] (sport) 1c04
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M-1 Global (RU) Sport_TV_28 1c04 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=a7e4499c869037073c97deb47a50d1e7090b1c04
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 1 HD [DE] (regional) 5072
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 1 HD (DE) Sport_TV_28 5072 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 2 HD [DE] (regional) a9ab
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 2 HD (DE) Sport_TV_28 a9ab --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ab0d54995bdcea2d8f9f588ef631ebbfb3f5a9ab
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 3 HD [DE] (regional) 95b8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 3 HD (DE) Sport_TV_28 95b8 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=d0ca51f6145514ee605c2ef5d5a137e2a08c95b8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 4 HD [DE] (regional) 8849
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 4 HD (DE) Sport_TV_28 8849 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=1fb794b1503c5955b75ea0106ee6360b80d78849
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 5 HD [DE] (regional) 2730
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 5 HD (DE) Sport_TV_28 2730 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=428b92f3c71cd3cbf66ef6193808b39d16a52730
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 6 HD [DE] (regional) 2cd8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 6 HD (DE) Sport_TV_28 2cd8 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=14317c55fadc80ef2b7fb42b3d53e8ccb3b52cd8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 7 HD [DE] (regional) a9e4
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 7 HD (DE) Sport_TV_28 a9e4 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ac839cda9709255c21a98af455731f037e77a9e4
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 8 HD [DE] (regional) b175
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 8 HD (DE) Sport_TV_28 b175 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=11c5823d4196a90b509f03df1fe78e13cfbbb175
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 9 HD [DE] (regional) 37d1
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 9 HD (DE) Sport_TV_28 37d1 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d37d1
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 10 HD [DE] (regional) fb29
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 10 HD (DE) Sport_TV_28 fb29 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 11 HD [DE] (regional) 6cc6
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 11 HD (DE) Sport_TV_28 6cc6 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MIXED TV (solo eventos) 21b3 --> NEW ERA III
 http://192.168.66.98:8080/ace/getstream?id=eb25ebc41fc51710b098f860b33b3229d11921b3
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Motowizja [PL] (regional) f350
-http://192.168.66.98:8080/ace/getstream?id=8ef4e74336a0114d6def70de9d15cc4817d2f350
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR COMIC FHD f9c2 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf9c2
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MOVISTAR FESTIVAL DE SAN SEBASTIAN FHD fee7 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=cf99e99c105162410ec6d1f68cc6f4811560fee7
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MTV 90s [PL] (regional) 77bf
-http://192.168.66.98:8080/ace/getstream?id=6de86153b53f8abcc16f56b479f26e79f7bf77bf
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MTV Live HD [PL] (regional) e782
-http://192.168.66.98:8080/ace/getstream?id=d8dde4a3b7964a19f144c5ac4c516933831ce782
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", n-tv HD [DE] (regional) 36a8
-http://192.168.66.98:8080/ace/getstream?id=b69ee17ee716edaabd5dd32934c71be4d23736a8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", nSport+ [PL] (regional) a540
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", nSport+ (PL) Sport_TV_28 a540 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Orange TV 24fa --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ORF III [DE] (regional) f86a
-http://192.168.66.98:8080/ace/getstream?id=41ac7892b8fde95d5110d83d7324044145c7f86a
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ORF SPORT+ HD [DE] (regional) 6974
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ORF SPORT+ HD (DE) Sport_TV_28 6974 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport [PL] (regional) 80ee
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Pluto TV Auto Motor Sport (720p) 2595 --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=ffa09e597804001f634dd1829f031823411a2595
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport (PL) Sport_TV_28 80ee --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=92b6ba09dae4bbb8a67a405125d08ca8d15380ee
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport Extra [PL] (regional) 122f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport Extra (PL) Sport_TV_28 122f --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ef2cf11fc83f4f15a33c9a514a7afd2bce73122f
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport Fight [PL] (regional) 0b4b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport Fight (PL) Sport_TV_28 0b4b --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=9e7fe279f421b734a8af9e68320955fd16f80b4b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport Premium 1 [PL] (regional) a99f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport Premium 1 (PL) Sport_TV_28 a99f --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=4ce55db7e578ff52a6e526cf610e477464b8a99f
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport Premium 2 [PL] (regional) c95f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport Premium 2 (PL) Sport_TV_28 c95f --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=3147c586346aee00c005d1caa55204d38678c95f
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Primera Federación FHD 0476 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820476
@@ -643,241 +607,129 @@ http://192.168.66.98:8080/ace/getstream?id=a2ed6f2ca3f804481131c41ce64d4286a5820
 http://192.168.66.98:8080/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31d9
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", PRIMERA FEDERACIÓN FHD 3a57 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=b40212c43e96e97542ea00f2129212a054853a57
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 1 [DE] (regional) 23d3
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 1 (DE) Sport_TV_28 23d3 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 2 [DE] (regional) c466
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 2 (DE) Sport_TV_28 c466 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=e360a96fb4bbe1cb8a7862a6514c4c284eeec466
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 3 [DE] (regional) bd5b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 3 (DE) Sport_TV_28 bd5b --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=8b3c5f9ec938c3d3950bc4c989428d266bd4bd5b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 4 [DE] (regional) 30a6
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 4 (DE) Sport_TV_28 30a6 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=784da1ced871f6d3f6bf25f29664bfd39f6130a6
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 5 [DE] (regional) 0fe5
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 5 (DE) Sport_TV_28 0fe5 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=81284e9a279ee23cbc4a7400bd9531f127d20fe5
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 6 [DE] (regional) 3e30
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 6 (DE) Sport_TV_28 3e30 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=c065ab169f75ced1d34fbcab6b84a5fa4ca73e30
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 7 [DE] (regional) 8a3e
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 7 (DE) Sport_TV_28 8a3e --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=eec3f8107e008cec3679f76e078deeefd1348a3e
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 8 [DE] (regional) 516b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 8 (DE) Sport_TV_28 516b --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ce4ae0c3491acd4272340029139ba25642e2516b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 9 [DE] (regional) ec2f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 9 (DE) Sport_TV_28 ec2f --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=a435581e6cba56972e48cf4519d1b2af735eec2f
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 10 [DE] (regional) ab7e
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 10 (DE) Sport_TV_28 ab7e --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=e6cce13cb4005ec3c7d77db47865385927a7ab7e
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Russian Extreme Ultra [RU] (regional) ce6e
-http://192.168.66.98:8080/ace/getstream?id=9214a597a38ed669aba1fe73351a580b1a77ce6e
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SAT1 GOLD [DE] (regional) 7f8b
-http://192.168.66.98:8080/ace/getstream?id=80db6eb9c3c0da5ddf03e2912e502a1ff8927f8b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sat.1 HD [DE] (regional) c024
-http://192.168.66.98:8080/ace/getstream?id=58616a92d5b871848dd6e66321da89062140c024
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Servus TV [DE] (regional) 1115
-http://192.168.66.98:8080/ace/getstream?id=988f4d88d74ec0d2b3584f6c7e067fcbdb501115
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Setanta Live 1 [RU] (sport) e707
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Setanta Live 1 (RU) Sport_TV_28 e707 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Setanta Live 2 [RU] (sport) 880c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Setanta Live 2 (RU) Sport_TV_28 880c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SIXX HD [DE] (regional) a1fb
-http://192.168.66.98:8080/ace/getstream?id=80ccf9375ef9b8a71d77d21e3bfca7a794eca1fb
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Documentaries HD [DE] (regional) 15aa
-http://192.168.66.98:8080/ace/getstream?id=b7f02e90a06047dff0a8470db1327a9c43f715aa
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Sport 1 HD [DE] (regional) c65d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Sport 1 HD (DE) Sport_TV_28 c65d --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=7c12288663069a12aff58f3f62e8ea47ab78c65d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Sport 2 HD [DE] (regional) 9f69
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Sport 2 HD (DE) Sport_TV_28 9f69 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=fc9f1f580da8f641a5991d44b399982a3a069f69
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Sport News [DE] (regional) 16a8
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sky Sport News (DE) Sport_TV_28 16a8 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=07cab7f4a1a4ecc0ed35bea52346f1b79b1016a8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SkySP PL [UK] (sport) 638e
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SkySP PL (UK) Sport_TV_28 638e --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ec5eabe0144ccfffc337e1d6708e2afb81d0638e
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Spiegel Geschichte HD [DE] (regional) add3
-http://192.168.66.98:8080/ace/getstream?id=74612cfcc8fedbb06381deaf79edbcee971cadd3
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SPORT1 [DE] (regional) d5ff
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SPORT1 (DE) Sport_TV_28 d5ff --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=1950633a3723cb52b17c764125decc04445bd5ff
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SPORT1+ [DE] (regional) 4c2b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SPORT1+ (DE) Sport_TV_28 4c2b --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=e61b6538df35e5016635dfa2b3073f5b82ee4c2b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sport Digital [DE] (regional) d4e7
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sport Digital (DE) Sport_TV_28 d4e7 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=5e94200ae8b1d95cb559fb150e5993d92e15d4e7
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sport Klub [PL] (regional) f2ee
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Sport Klub (PL) Sport_TV_28 f2ee --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=35575a31d76f6c5f5e9e6364dacfdeca3b85f2ee
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD 30ee --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD (sport) 30ee
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD (ES) Sport_TV_28 30ee --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=b58dbf92765976b308695f62dea94b00b40730ee
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SyFy FHD cdb3 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=8e1bbcb6a6b8b9bb0e1144454fda35531107cdb3
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Teletoon+ HD [PL] (regional) ca1b
-http://192.168.66.98:8080/ace/getstream?id=7a8cf88f62f612d7741d5bae2d2be94573f1ca1b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Ten TV FHD 4abc --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=19cab799c86251ae8ae5f4b4faace9b78d784abc
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TNT [PL] (regional) 82a4
-http://192.168.66.98:8080/ace/getstream?id=d0842346aad155a78f94dffe7d4ca313c33882a4
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: beIN Sports 4 FHD f01b --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=a912c28fa837e6a3f2aa8bb6c52661bb533cf01b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TR: S SPORT 2 HD c0a4 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=999db87cb68b0a671d61a858da7d79dd97b0c0a4
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Travel Channel [PL] (regional) eea8
-http://192.168.66.98:8080/ace/getstream?id=70a711891dcdf1aaf7a39788a55bc5f82505eea8
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TTV [PL] (regional) 5d27
-http://192.168.66.98:8080/ace/getstream?id=1680930cfa77a0b262ab116702278c05c52a5d27
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TV4 HD [PL] (regional) 8b83
-http://192.168.66.98:8080/ace/getstream?id=35ff81559d433f7ba8dbcee7b8ddb61082e88b83
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TV 6 [PL] (regional) 6af0
-http://192.168.66.98:8080/ace/getstream?id=2cce15d162684894f043da9bb6631ee9081f6af0
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TV Puls 2 [PL] (regional) d759
-http://192.168.66.98:8080/ace/getstream?id=a28e1f7e87ba7ca186f4ecaeab959c698fe1d759
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TV Puls [PL] (regional) 3a87
-http://192.168.66.98:8080/ace/getstream?id=350406cf5abc907f820e55f7dd576317609a3a87
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVN 7 [PL] (regional) 834d
-http://192.168.66.98:8080/ace/getstream?id=6e7d38341a3c8b7bed8ef0792cbae4bedd77834d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVN 24 [PL] (regional) 143d
-http://192.168.66.98:8080/ace/getstream?id=b40887a75fbb511f95a43c33b24e058b3050143d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVN 24 BiS [PL] (regional) c9ab
-http://192.168.66.98:8080/ace/getstream?id=02aa440de4e830af786d76f90c4695015130c9ab
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVN [PL] (regional) 6702
-http://192.168.66.98:8080/ace/getstream?id=87ea602f75b96aebc06bdc96b135e21756706702
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVN Fabula [PL] (regional) 5857
-http://192.168.66.98:8080/ace/getstream?id=584961f4e6fd89e1a07253a1848c867203215857
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVN Style [PL] (regional) 4d0d
-http://192.168.66.98:8080/ace/getstream?id=f0736374096137942d6befa8577390d6c40a4d0d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVN Turbo [PL] (regional) f9cf
-http://192.168.66.98:8080/ace/getstream?id=7231e7cafb290ee9190178678a4cda75603af9cf
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP3 [PL] (regional) 764c
-http://192.168.66.98:8080/ace/getstream?id=38efc26a90d79b2d8c70024ab13631829292764c
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP 1 HD [PL] (regional) 1859
-http://192.168.66.98:8080/ace/getstream?id=d31d828052a432246e59e7d0d640bd55a64f1859
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP 2 [PL] (regional) bb18
-http://192.168.66.98:8080/ace/getstream?id=dad9d9e595bcfd251469ed58d380e53bfb46bb18
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP HD [PL] (regional) caf0
-http://192.168.66.98:8080/ace/getstream?id=0273a9a25ecde79d7bda2dafb897c7ca86afcaf0
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP ABC [PL] (regional) 3b0a
-http://192.168.66.98:8080/ace/getstream?id=fa070b8e13fd3a8a863b2e18dcc85ede6a6c3b0a
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP Historia [PL] (regional) 5f08
-http://192.168.66.98:8080/ace/getstream?id=a392b5865031ec8bbdd6120b3418879b0b035f08
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP Rozrywka [PL] (regional) 43bb
-http://192.168.66.98:8080/ace/getstream?id=89a38a74e88c5f468e05812253d64ac197d643bb
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP Sport HD [PL] (regional) 5867
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP Sport HD (PL) Sport_TV_28 5867 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=d6f0a6377c31f68b1c1c071e0a8f9f105a455867
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP-Info [PL] (regional) adcd
-http://192.168.66.98:8080/ace/getstream?id=54c5166475563784a367313ffd231402eeedadcd
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TVP-Kultura [PL] (regional) 0bab
-http://192.168.66.98:8080/ace/getstream?id=d585b59b042293dd37494daf7cee7eb647ad0bab
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", T€st 4k 1786 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC HD [RU] (sport) cb64
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", UFC HD (RU) Sport_TV_28 cb64 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=d2374e2375a4275738e0dbed2f47d0114ad1cb64
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Universal TV HD [DE] (regional) 2bb6
-http://192.168.66.98:8080/ace/getstream?id=7f8a688bbe9367c1ecbe733116a6aefb1bd22bb6
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Viasat Explorer [PL] (regional) 6ed4
-http://192.168.66.98:8080/ace/getstream?id=de32b979b7d44350a0444f20c70352b4ece06ed4
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", VIASAT SPORT HD [RU] (sport) 7a0b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", VIASAT SPORT HD (RU) Sport_TV_28 7a0b --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", VOX HD [DE] (regional) ceb6
-http://192.168.66.98:8080/ace/getstream?id=85abb9490b27b56d5ceb3c554a47ccb3af60ceb6
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", VOXup [DE] (regional) ccfd
-http://192.168.66.98:8080/ace/getstream?id=edb7eea337e2b6d6aee8838a3936a7451dfaccfd
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Waldwerk [DE] (regional) 4a51
-http://192.168.66.98:8080/ace/getstream?id=0f9a44fbf18f7f50006d8348d6e2f0194f104a51
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Warner TV Serie [DE] (regional) 5555
-http://192.168.66.98:8080/ace/getstream?id=6f8beb8b4f5e4b9166b6208a6b0a2faa12085555
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", WDR HD Aachen [DE] (regional) 1802
-http://192.168.66.98:8080/ace/getstream?id=eba141d913e4a32251b490273c9cfc48d76e1802
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", WELT [DE] (regional) d63e
-http://192.168.66.98:8080/ace/getstream?id=e16d2e6743d96f34350711f10780080a002ed63e
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", WP [PL] (regional) 610a
-http://192.168.66.98:8080/ace/getstream?id=443c632ed7952434279c77fead90b5124ea1610a
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", XTRM FHD 76a0 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=d7d3830018cfd93c7430c19ba703a053680476a0
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ZDF HD [DE] (regional) a316
-http://192.168.66.98:8080/ace/getstream?id=c71fb593810ce837545e8d8b384e50a42c35a316
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ZDF INFO [DE] (regional) d299
-http://192.168.66.98:8080/ace/getstream?id=fcfb2b67793235ff4ff265f541a34a237a01d299
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ZDF NEO [DE] (regional) 6e7f
-http://192.168.66.98:8080/ace/getstream?id=b39c136256356dd88f812114587f0ed3b7846e7f
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Бокс ТВ [RU] (sport) 6c3d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Ziggo Sport (ES) Sport_TV_28 0058 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=fcd7621df513f600652b4813d5d8fd1daed60058
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Бокс ТВ (RU) Sport_TV_28 6c3d --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=1acaf203502983cd2993c6835bf0cbde8d016c3d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Дождь [RU] (regional) 83e4
-http://192.168.66.98:8080/ace/getstream?id=4b91bbf01a5574583e7e4af5b258de3e454d83e4
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Домашний [RU] (regional) 057c
-http://192.168.66.98:8080/ace/getstream?id=66e2f44bd0a7687a61f5cc4f03bcfc20a505057c
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", КИНО 4K [RU] (regional) e379
-http://192.168.66.98:8080/ace/getstream?id=038b448c810cad19a2a9e615d94696a23141e379
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Конный мир HD [RU] (sport) 7017
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Конный мир HD (RU) Sport_TV_28 7017 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=96951e5de62a3e7095a1ed8a191817c8935e7017
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Кто есть кто [RU] (regional) 88c0
-http://192.168.66.98:8080/ace/getstream?id=16201468d380dafc1921287db09289dc83d688c0
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Кухня ТВ [RU] (regional) 0237
-http://192.168.66.98:8080/ace/getstream?id=a90a4172c6e146c87a92e32b5a8ed6af12ba0237
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", КХЛ HD [RU] (sport) ab3b
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", КХЛ HD (RU) Sport_TV_28 ab3b --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=dcda9de85f7d662c5c3c2efd74eca0fb5c6aab3b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", КХЛ ТВ [RU] (sport) 2dc0
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", КХЛ ТВ (RU) Sport_TV_28 2dc0 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=aa6c193b9de1e6b6277e3075299fdeea925e2dc0
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Арена HD [RU] (sport) cab5
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Арена HD (RU) Sport_TV_28 cab5 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=a1d67cb505881b2b5bc58ce2af367e5e6d26cab5
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Боец [RU] (sport) fbfa
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Боец (RU) Sport_TV_28 fbfa --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=822654b2c0db24d1de149cb21fdd44a3b968fbfa
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Игра HD [RU] (sport) 673c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Игра HD (RU) Sport_TV_28 673c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=762e1d11f7d07029f316c6f61b8ef73289c6673c
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", МАТЧ! Планета [RU] (sport) 11af
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", МАТЧ! Планета (RU) Sport_TV_28 11af --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=106c8656fca0ca91a696110467788d202d7111af
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Премьер HD [RU] (sport) ba12
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Премьер HD (RU) Sport_TV_28 ba12 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=4b7c5f21b435d79c823e47572655a9c157a3ba12
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Страна [RU] (sport) 82d1
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Страна (RU) Sport_TV_28 82d1 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ef9c77bd94783448b8edb552109f5f15b2bd82d1
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! ТВ HD [RU] (sport) 8ef2
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! ТВ HD (RU) Sport_TV_28 8ef2 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=a203f6b935a8ad8659c4c76c1d9c13afa6368ef2
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Футбол 1 ( original ) [RU] (sport) f0a9
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Футбол 1 ( original ) (RU) Sport_TV_28 f0a9 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Футбол 2 ( original ) [RU] (sport) 3f04
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Футбол 2 ( original ) (RU) Sport_TV_28 3f04 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ffbf8c687c788d9a1a7c651e24802ee773ff3f04
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Футбол 3 ( original ) [RU] (sport) 540e
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Матч! Футбол 3 ( original ) (RU) Sport_TV_28 540e --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=b6baa046075d82da300fc1b16de96067a8b9540e
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Мир Баскетбола [RU] (sport) f570
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Мир Баскетбола (RU) Sport_TV_28 f570 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=c4acde347445b0a07a9e8695b4254bee2b2df570
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Наша сибирь 4K [RU] (regional) 4ae6
-http://192.168.66.98:8080/ace/getstream?id=4b7237f2e654d6c1e03ece1d2fffc249e0324ae6
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Пятница [RU] (regional) 0fce
-http://192.168.66.98:8080/ace/getstream?id=10d62d03d9fd2a9e84f639ed40a42e6a13940fce
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Русский Экстрим [RU] (sport) e413
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Русский Экстрим (RU) Sport_TV_28 e413 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ed63659df12baa6febbe70f4125b6527aa1ae413
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Спортивный [RU] (sport) 40d3
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Спортивный (RU) Sport_TV_28 40d3 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=8410d89a5767b250cd752381672aeb5fbe2240d3
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Старт [RU] (sport) 39dc
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Старт (RU) Sport_TV_28 39dc --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=4b129146077c1e357e4ab341448b9fb629f939dc
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", СТС [RU] (regional) 63c7
-http://192.168.66.98:8080/ace/getstream?id=5e06a45d6939341fb7427189245380086c1d63c7
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", СТС Love [RU] (regional) 201d
-http://192.168.66.98:8080/ace/getstream?id=d586953ebbdb28493eecd8d8e8527557a231201d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Суббота! [RU] (regional) 0f69
-http://192.168.66.98:8080/ace/getstream?id=14002498165f0a7aaaea284ebb9965f078eb0f69
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ТВ 3 [RU] (regional) 236b
-http://192.168.66.98:8080/ace/getstream?id=3b878b202b26e2b15bf7304e21a7d5283ebf236b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ТНТ4 [RU] (regional) d845
-http://192.168.66.98:8080/ace/getstream?id=da27959a3e9ee97647df5aadd056021099e2d845
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ТНТ (+7) [RU] (regional) d291
-http://192.168.66.98:8080/ace/getstream?id=e8c4dc3309c32e58d0235919620180e9eea9d291
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ТНТ HD [RU] (regional) 094b
-http://192.168.66.98:8080/ace/getstream?id=caa3dad746d80a887e8a259f1c7c2eead749094b
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Точка отрыва [RU] (sport) b0b2
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Точка отрыва (RU) Sport_TV_28 b0b2 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ee5cd7316e917f156bf8d176a11da98fe403b0b2
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Футбол HD [RU] (sport) 56dd
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Футбол HD (RU) Sport_TV_28 56dd --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=fce354f24fe26ca527e2c38b14eb7b0c81f756dd
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Футбольный HD [RU] (sport) 693f
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Футбольный HD (RU) Sport_TV_28 693f --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=92f8939c7bff6bcb7e6da39379bb3d7a6a76693f
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Хоккейный HD [RU] (sport) 3857
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Хоккейный HD (RU) Sport_TV_28 3857 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=99f0646986e9266836dd79047dedecb04e243857
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Esport 3" group-title="DEPORTES", ESPORT 3 FHD 7425 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=ca20f93ea5d9c15744e48a21b52598b9fce87425
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Esport%203.png?raw=true" tvg-id="Esport 3" group-title="DEPORTES", ESPORT 3 FHD 5d64 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=181fcc443b953d54b00a1bf6320ccbb097e85d64
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="DEPORTES", SKY SPORTS ARENA b79c --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="DEPORTES", SKY SPORTS ARENA b79c --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Arena_GB_logo.png?1734015005" tvg-id="UK | Sky Sport Arena" group-title="DEPORTES", SKY SPORTS ARENA b79c
-http://192.168.66.98:8080/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b79c
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Cricket.png" tvg-id="UK | Sky Sport Cricket" group-title="DEPORTES", SKY SPORTS CRICKET 3ddd --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Cricket.png" tvg-id="UK | Sky Sport Cricket" group-title="DEPORTES", SKY SPORTS CRICKET 3ddd --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/Sky%20Sport%20Cricket.png" tvg-id="UK | Sky Sport Cricket" group-title="DEPORTES", SKY SPORTS CRICKET 3ddd
-http://192.168.66.98:8080/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="DEPORTES", SKY SPORTS MAIN EVENT df5e --> NEW LOOP
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="DEPORTES", SKY SPORTS MAIN EVENT df5e --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="DEPORTES", SKY SPORTS MAIN EVENT df5e
+#EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="DEPORTES", SKY SPORTS MAIN EVENT df5e --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="DEPORTES", TELEDEPORTE FHD 0230 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=138b30c93e8a780ac490a4f6d2181c41f3670230
@@ -889,6 +741,8 @@ http://192.168.66.98:8080/ace/getstream?id=ef9dcc4eaac36a0f608b52a31f8ab237859e0
 http://192.168.66.98:8080/ace/getstream?id=332d8fdeb9c51385230b8c9448e047ccc4a6355d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES FHD c7e5 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c7e5
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES HD c2b3 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES FHD 9359 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=5d3f582738467aaf213e408601aca5cc13fa9359
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES FHD bd0b --> NEW ERA VI
@@ -899,10 +753,10 @@ http://192.168.66.98:8080/ace/getstream?id=ebca4a63ce3bfda7b272964a1acc522721818
 http://192.168.66.98:8080/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES HD c2b3 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES HD c2b3
-http://192.168.66.98:8080/ace/getstream?id=acb510858f34c3c6fd5f79395b031abd6885c2b3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 FHD 298c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=edd06f11e1cef292a1d795e15207ef2f580e298c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 HD 52b5 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 FHD 5a61 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=73d38feaa770d788848ec098470e32670fe55a61
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 FHD 72b0 --> ELCANO
@@ -913,6 +767,8 @@ http://192.168.66.98:8080/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26
 http://192.168.66.98:8080/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 FHD 4eee --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 HD 5ed0 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605ed0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 FHD 296f --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=29d786d72d4b53dbc333af3a50f8fb021aa0296f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 FHD b903 --> ELCANO
@@ -925,6 +781,8 @@ http://192.168.66.98:8080/ace/getstream?id=39fefdecfc953dcf6e7c589739bf486c2e605
 http://192.168.66.98:8080/ace/getstream?id=58a4c880ab18486d914751db32a12760e74b75a4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 4 FHD 6a53 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=3f97bafa133b10cfe5c62311e11501326d886a53
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 4 HD 3869 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 4 FHD 5ba5 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=37825883ed185365e3194a79207347f6c7bd5ba5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WDN9NN9/deportes4.png" tvg-id="M+ Deportes 4" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 4 FHD 2a96 --> ELCANO
@@ -935,6 +793,8 @@ http://192.168.66.98:8080/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993
 http://192.168.66.98:8080/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5 FHD edc2 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=2d19e39c92f7d8ce90b271d8aaf6f42e733eedc2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5 HD 7a90 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547a90
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5 FHD c57c --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=6dc4ac4eeae18e9daec433b01db82435cf84c57c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5 FHD d5aa --> ELCANO
@@ -945,6 +805,8 @@ http://192.168.66.98:8080/ace/getstream?id=3230cdca852a10325222e3c546e499e31d547
 http://192.168.66.98:8080/ace/getstream?id=e4124b2143ed75e5ce902bed61be08cc5e5c3c03
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 6 FHD c28a --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=190a81938c2ddc6fe97758271f8c48f4db31c28a
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 6 HD 0f7c --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-6-por-movistar-plus-es.png" tvg-id="M+ Deportes 6" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 6 HD 0f7c --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" tvg-id="M+ Ellas Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR ELLAS FHD 5cdd --> NEW ERA
@@ -955,11 +817,11 @@ http://192.168.66.98:8080/ace/getstream?id=594b59d435527327c9b6965f247995b907bfc
 http://192.168.66.98:8080/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF FHD 5174 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b5174
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF HD 9afb --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF FHD 37f2 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=9ed46050217ee6ed8236a64b72d7992f7b3b37f2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF HD 9afb --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF HD 9afb
 http://192.168.66.98:8080/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BHXHhN2b/M-Golf-2.png" tvg-id="M+ Golf 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF 2 FHD e7d7 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
@@ -975,7 +837,7 @@ http://192.168.66.98:8080/ace/getstream?id=4e99e755aa32c4bc043a4bb1cd1de35f9bd94
 http://192.168.66.98:8080/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c40b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS SD b785 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
-#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Sport%20NBA.png?raw=true" tvg-id="Sport NBA" group-title="NBA", NBA TV ed95
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Sport%20NBA.png?raw=true" tvg-id="Sport NBA" group-title="NBA", NBA TV ed95 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=e72d03fb9694164317260f684470be9ab781ed95
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL FHD 20d0 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20d0
@@ -984,8 +846,6 @@ http://192.168.66.98:8080/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL HD 8050 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL HD 23ac --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL HD 23ac
 http://192.168.66.98:8080/ace/getstream?id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1,ESPN HD [US] --> SPORTTV
 http://192.168.66.98:8080/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
