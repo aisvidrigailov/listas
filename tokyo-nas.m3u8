@@ -197,6 +197,10 @@ http://192.168.66.2:8088/ace/getstream?id=7e27e46c25d4308d16098d9dc67fcd8736e8c1
 http://192.168.66.2:8088/ace/getstream?id=c015d37d1ead8155b1e7b97e743a1fe9850f0af5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4LBVWP/dazn4.png" tvg-id="DAZN 4 HD" group-title="DAZN", DAZN 4 FHD 1693 --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=eb884f77ce8815cf1028c4d85e8b092c27ea1693
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="DAZN", FOX SPORT MX HD 08ac --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=0b48cd93de3c714e36961a93805798307a5608ac
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="DAZN", FOX SPORT MX HD 9090 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=3bdf355aeaac39d20e368ebb2ed72b9f71bf9090
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="DAZN", FOX SPORT MX HD 0898 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=c9c062941fbecb16ce29437f346ea7177d720898
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="DAZN", FOX SPORT MX HD 03b7 --> NEW ERA
