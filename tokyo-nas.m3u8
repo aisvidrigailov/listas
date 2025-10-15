@@ -439,8 +439,6 @@ http://192.168.66.2:8088/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb
 http://192.168.66.2:8088/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", nSport+ (PL) Sport_TV_28 a540 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=5f595b1bbade5e7c915d99f90645f4c30d4ba540
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Orange TV 24fa --> NEW LOOP
-http://192.168.66.2:8088/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ORF SPORT+ HD (DE) Sport_TV_28 6974 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=0dfa37340ca0300a41f7a78bd3a0f024c3296974
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Polsat Sport (PL) Sport_TV_28 80ee --> NEW ERA
