@@ -79,6 +79,8 @@ http://192.168.66.98:8080/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910
 http://192.168.66.98:8080/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 SD ed1f --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 0e4b --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=99171f30c83bf7ab5df28b39607c91334cc60e4b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 496a --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 FHD 59c3 --> NEW ERA VI
@@ -121,10 +123,6 @@ http://192.168.66.98:8080/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1
 http://192.168.66.98:8080/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4K 1786 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=678a1e93fbfbd499c329886bfdda780e73ac1786
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD 4c6a --> NEW ERA
-http://192.168.66.98:8080/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD 9bd0 --> NEW ERA
-http://192.168.66.98:8080/ace/getstream?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD 6c6f --> NEW ERA II
 http://192.168.66.98:8080/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD a052 --> NEW ERA VI
@@ -313,6 +311,8 @@ http://192.168.66.98:8080/ace/getstream?id=690f0f15439c773017ace3b6979c6e518d865
 http://192.168.66.98:8080/ace/getstream?id=edb507e38394d614c9ff55805c9d354ae13210bc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%203.png" tvg-id="FR | beIN SPORTS 3" group-title="FUTBOL INT", BEIN SPORTS 3 2cf8 --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=731bd3336ec0986ff9100efe40dbaf1473a22cf8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/320px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png" tvg-id="beIN SPORTS XTRA ñ" group-title="FUTBOL INT", BEIN SPORTS Ñ 68f9 --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=e8e459656f964f601ad4bcda8b81a43ba41c68f9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 9bce --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=fc5089d8e1519872fdf951779ccbca913acc9bce
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%201.png" tvg-id="UK | TNT Sports 1" group-title="FUTBOL INT", BT Sport 1 [UK] 3c5b --> SPORT TV
@@ -449,6 +449,8 @@ http://192.168.66.98:8080/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d3
 http://192.168.66.98:8080/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 11 HD (DE) 6cc6 --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Orange TV 24fa --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 1 (DE) 23d3 --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=a7319ebd54cb1db9a9db1574929ca8d305a323d3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 2 (DE) c466 --> SPORT TV
@@ -473,6 +475,10 @@ http://192.168.66.98:8080/ace/getstream?id=e6cce13cb4005ec3c7d77db47865385927a7a
 http://192.168.66.98:8080/ace/getstream?id=42fe2ce3ef6b92653a74d85b6e98c2ba0abee707
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Setanta Live 2 (RU) 880c --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b880c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TDP FHD 41b2 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TDP FHD 2155 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", VIASAT SPORT HD (RU) 7a0b --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Бокс ТВ (RU) 6c3d --> SPORT TV
@@ -541,10 +547,6 @@ http://192.168.66.98:8080/ace/getstream?id=d317a003e8047da2c36a2a2bb2289578c9a3b
 http://192.168.66.98:8080/ace/getstream?id=6d95e4b0893e155cc674b84e0763150c445d3ddd
 #EXTINF:-1 tvg-logo="https://tvprofil.com/img/kanali-logo/Sky_Sports_Main_Event_GB_logo.png?1734014539" tvg-id="UK | Sky Sport Main Event" group-title="DEPORTES", SKY SPORTS MAIN EVENT df5e --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=eab7aeef0218ce8b0752e596e4792b69eda4df5e
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="DEPORTES", TELEDEPORTE FHD 41b2 --> NEW ERA
-http://192.168.66.98:8080/ace/getstream?id=2d997da301573c5aba78f969d0d37eb6107941b2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fb9dbDW/tdp.png" tvg-id="Teledeporte" group-title="DEPORTES", TELEDEPORTE FHD 2155 --> NEW ERA
-http://192.168.66.98:8080/ace/getstream?id=7d910d9480e023608d1fe77eaf47c2ed34592155
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/TNT%20Sports%201.png?raw=true" tvg-id="UK | Sky Sport Cricket" group-title="DEPORTES", TNT SPORTS HD 965e --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=5ccaf1da1ab3972502f2b35e581d7ab2f9b4965e
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/TNT%20Sports%201.png?raw=true" tvg-id="UK | Sky Sport Cricket" group-title="DEPORTES", TNT SPORTS HD FHD c592 --> NEW ERA
