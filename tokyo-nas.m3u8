@@ -367,6 +367,12 @@ http://192.168.66.2:8088/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb079800
 http://192.168.66.2:8088/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3yh66tp/cuatro.png" tvg-id="Cuatro HD" group-title="TDT", CUATRO FHD 0333 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=8670df538a11c6ec97b3f634981ddc4409ca0333
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 4K 73d0 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d084f9573d0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD 740c --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD 40ba --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=7597d4feb3195079ffa606cf23a183d626ee40ba
 #EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD" group-title="TDT", TELECINCO FHD f7bf --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=5133d1e8f45095f0b7dabbd78db0ce19a496f7bf
 #EXTINF:-1 tvg-logo="https://i.ibb.co/81wJ3GH/telecinco.png" tvg-id="Telecinco HD" group-title="TDT", TELECINCO FHD 76f5 --> ELCANO
@@ -573,6 +579,10 @@ http://192.168.66.2:8088/ace/getstream?id=c7c81acdd1a03ecc418c94c2f28e2adb0556c4
 http://192.168.66.2:8088/ace/getstream?id=0e5d8c9724fa9163f49096b70484e315251eb785
 #EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/Sport%20NBA.png?raw=true" tvg-id="Sport NBA" group-title="NBA", NBA TV 8073 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=b0f64a40f333ef5cc02c2b6d4a8c3f4b73dd8073
+#EXTINF:-1 tvg-logo="https://tvgidsassets.nl/v354/img/channels/120x120/470.png" tvg-id="" group-title="NFL", ESSPN 2 NFL HD 6d05 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=579218b871ee71aa63694776366f5f03f81c6d05
+#EXTINF:-1 tvg-logo="https://github.com/davidmuma/picons_dobleM/blob/master/icon/FOX%20SPORTS.png?raw=true" tvg-id="" group-title="NFL", FOX NFL FHD a389 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=39abee2162e0504cbd8e7152d0c7d67440c9a389
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 2" group-title="SPORT TV", beIN SPORTS HD 2 (TR) 1a05 --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 3" group-title="SPORT TV", beIN SPORTS HD 3 (TR) 4d62 --> SPORT TV
