@@ -747,6 +747,8 @@ http://192.168.66.2:8088/ace/getstream?id=71698ee415b6ba3f123aac1c8c37cc97376f20
 http://192.168.66.2:8088/ace/getstream?id=3254851ab35da4a1f1a00911aa8f0da9b7ca5be7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL HD 8050 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b8050
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL ecbf --> NEW LOOP
+http://192.168.66.2:8088/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="UFC", UFC Fight Pass 89ad --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="UFC", UFC Fight Pass FHD 091d --> NEW ERA
