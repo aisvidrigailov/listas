@@ -189,6 +189,8 @@ http://192.168.66.98:8080/ace/getstream?id=cb6410a6355a645cfc6f6f5a7c7d71298fcbc
 http://192.168.66.98:8080/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb97d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" tvg-id="M+ Liga de Campeones 6" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 6 FHD 6444 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=976983697790ab8a07b764b08843529d38bc6444
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2013.png" tvg-id="M+ Liga de Campeones 13" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 13 FHD 3556 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=9c246c5e6a153ba2b765e4b84f4d50e0836b3556
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%2018.png" tvg-id="M+ Liga de Campeones 17" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 17 SD e27c --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=a15a132ffe7867a2b61b49617df39a8309cce27c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 9a0e --> NEW ERA
