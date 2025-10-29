@@ -79,8 +79,6 @@ http://192.168.66.98:8080/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910
 http://192.168.66.98:8080/ace/getstream?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 SD ed1f --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 0e4b --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=99171f30c83bf7ab5df28b39607c91334cc60e4b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 496a --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 FHD 59c3 --> NEW ERA VI
@@ -449,6 +447,8 @@ http://192.168.66.98:8080/ace/getstream?id=4bfeb0516c44c4f0e3502e3f1ca1035d39ddf
 http://192.168.66.98:8080/ace/getstream?id=21be4fe2052fc66456b4f233428bb40a681bf863
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", NFL USA SD 5d62 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=5a71a114fdf460fc90f88b959f83625b964a5d62
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Orange TV 24fa --> NEW LOOP
+http://192.168.66.98:8080/ace/getstream?id=abdbfccdfd73bb5b1dcad598d539058040fb24fa
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Pluto TV Auto Motor Sport (720p) 2595 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=ffa09e597804001f634dd1829f031823411a2595
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", RTL+ SPORT EVENT 1 (DE) 23d3 --> SPORT TV
