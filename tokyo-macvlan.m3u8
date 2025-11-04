@@ -199,6 +199,8 @@ http://192.168.66.98:8080/ace/getstream?id=5620c0ce3dcbf14a6375cb2c2d681207f45eb
 http://192.168.66.98:8080/ace/getstream?id=976983697790ab8a07b764b08843529d38bc6444
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" tvg-id="M+ Liga de Campeones 7" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 7 FHD b842 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=83c02982581a536d1321e38a77dc0c520b1cb842
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" tvg-id="M+ Liga de Campeones 8" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 8 FHD 56c9 --> NEW ERA
+http://192.168.66.98:8080/ace/getstream?id=97f8a84212fe6b3d2ab15aadc83c7b5e6af656c9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 9a0e --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=6538b79ce0da657d8455d1da6a5f342398899a0e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 3fa9 --> NEW ERA
@@ -405,8 +407,6 @@ http://192.168.66.98:8080/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c91
 http://192.168.66.98:8080/ace/getstream?id=35e17cc84abc5e393b5acd688536a9681105f2d5
 #EXTINF:-1 tvg-logo="https://www.mxgp.com/sites/default/files/news/image/logo%20Motors%20TV.jpg" tvg-id="" group-title="MOTOR", MOTORS TV HD df98 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=442aeb6643b8836f9d00361c9e48eeb0841ddf98
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision%20TV.png" tvg-id="Motorvision tv" group-title="MOTOR", MOTORVISION f404 --> NEW LOOP
-http://192.168.66.98:8080/ace/getstream?id=9c75e6ed0671eec6670cb2eabcc7d78267c7f404
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="DE | Rally TV" group-title="MOTOR", RALLY TV FHD 41eb --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=651dd1e689a9a7d3b0695191dcf44b4d6e7541eb
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsYoLr1q3_h6Jo21AgDZhyK62VNC6EdYRbAg&s" tvg-id="DE | Rally TV" group-title="MOTOR", RALLY TV b2ea --> NEW ERA III
