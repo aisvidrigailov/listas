@@ -279,6 +279,8 @@ http://192.168.66.2:8088/ace/getstream?id=ea03cc51980996ba6f2da49e30eee1de8a66ae
 http://192.168.66.2:8088/ace/getstream?id=e7d8cae7f693fe46e89bbf74820caac9ffb32a30
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 ceea --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 FHD 484d --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 FHD 1259 --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 2bc7 --> ELCANO
