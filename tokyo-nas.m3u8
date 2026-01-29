@@ -689,6 +689,8 @@ http://192.168.66.2:8088/ace/getstream?id=aa31953b8af44b461102852d5b1247eea95b80
 http://192.168.66.2:8088/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="UFC", UFC Fight Pass 89ad --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=108aebe20efc826e56f3a1cb01117a124a6b89ad
+#EXTINF:-1 tvg-logo="https://ufc-video.s3.amazonaws.com/image/Articles/big-fight-pass-logo.png" tvg-id="" group-title="UFC", UFC Fight Pass FHD 091d --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=96537527b2d5e858b2e6c863a00dec304254091d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", 24H TV SDp c715 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=16598735f228c6dff542125d0e308150b50fc715
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 01 0d75 --> ELCANO
