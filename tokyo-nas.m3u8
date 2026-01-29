@@ -319,8 +319,6 @@ http://192.168.66.2:8088/ace/getstream?id=2a6b1fd8a24b23747db1ea534a514577085236
 http://192.168.66.2:8088/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4K ef29 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=152169ce99e1fd27f2249c18384a121079cdef29
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD a2cc --> NEW ERA
-http://192.168.66.2:8088/ace/getstream?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD 4c6a --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES FHD 9bd0 --> NEW ERA
@@ -341,6 +339,8 @@ http://192.168.66.2:8088/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641b
 http://192.168.66.2:8088/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD fccb --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD c49f --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=4fc6d0331830ad8743abab2fe2473b63bdfbc49f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD 355c --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=498c56bd00f535e440c392de5af992421a31355c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD a188 --> NEW ERA II
@@ -359,6 +359,8 @@ http://192.168.66.2:8088/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e041
 http://192.168.66.2:8088/ace/getstream?id=338b5de78b0b40a6f9ca3cc0cf9be93341b9ceea
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 FHD 484d --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=17b8bc4bf8e29547b0071c742e3d7da3bcbc484d
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 FHD a6d8 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=1dece791d28be6a5af78537ac4864ec01fa0a6d8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 FHD 1259 --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=2b5129adc57d43790634d796fe3468b9fd061259
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" tvg-id="M+ Liga de Campeones 3 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 3 8de8 --> ELCANO
