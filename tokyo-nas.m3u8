@@ -87,12 +87,10 @@ http://192.168.66.2:8088/ace/getstream?id=4bc6f4cb6697c1defc981c0afe1a4c3a62284a
 http://192.168.66.2:8088/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 9247 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=27d11bbeb3026231d52de16b1fac48da7a099247
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 cc73 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 eaa4 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 f6d1 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 cc73 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 9a69 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 0076 --> SPORT TV
@@ -161,10 +159,14 @@ http://192.168.66.2:8088/ace/getstream?id=8dbe2d515e9131fa311353537736f8c94be9b2
 http://192.168.66.2:8088/ace/getstream?id=868a6187d6aeec65ded84bd777814c9f7b7a9027
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 16ed --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION 4be0 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 29e8 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=19f28f60c908f987b1a03da078e63320d7bf29e8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD 74ae --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 ef3b --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=9c75f1d190c518cfe0f236415b8dccc1f676ef3b
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 496a --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 FHD fee3 --> NEW ERA
@@ -279,8 +281,6 @@ http://192.168.66.2:8088/ace/getstream?id=590a1f4546e3a0d5d419b62b8177b44d6ce033
 http://192.168.66.2:8088/ace/getstream?id=8b5f9d967384afab226dd759e6e9dfaee9993869
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5 FHD f916 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=5913205fb6d6d162a50222709aab6129eb7cf916
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5 6a28 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=646a1ed4ece843de1979f7888cbdd4d937506a28
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5 d5aa --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=7b361369a40046ad3011086f9d4ae2982fb4d5aa
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/deportes-5-por-movistar-plus-es.png" tvg-id="M+ Deportes 5" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 5 HD 7a90 --> SPORT TV
@@ -307,10 +307,6 @@ http://192.168.66.2:8088/ace/getstream?id=866a8af8faacf8fc9eb997ab5a68b4dfee4edc
 http://192.168.66.2:8088/ace/getstream?id=ad5ca6e24f87f47a9c3c5bc10c7e8e5af46767fc
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS a9cf --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=476b6f6583517bd75c15c4663bf45fab7c8da9cf
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS 89dd --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=4ee16a7f854219fa2974ef1468e6b2f8574189dd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS 307c --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=0cd11c1f51b84ebe9954496b3ef9b6aeccf7307c
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 2" group-title="SPORT TV", beIN SPORTS HD 2 (TR) 1a05 --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 3" group-title="SPORT TV", beIN SPORTS HD 3 (TR) 4d62 --> SPORT TV
