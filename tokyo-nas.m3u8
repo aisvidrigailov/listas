@@ -447,8 +447,6 @@ http://192.168.66.2:8088/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5
 http://192.168.66.2:8088/ace/getstream?id=23bee556c002d0726c1f0cac98a1901cff0a9239
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 FHDp * d04d --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=21bc11d195f5753c396e390c215952d21541d04d
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp * f23c --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=739792a3225e5eb3056f4faa7b1137c7f161f23c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp * 1e6d --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=ff03650163b9456d59ed5f262aa3ab2e19831e6d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Golf 2 * 7b03 --> ELCANO
