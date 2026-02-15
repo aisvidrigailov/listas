@@ -501,8 +501,6 @@ http://192.168.66.98:8080/ace/getstream?id=02ec118ee4586d96df9115ffc486be9a499d0
 http://192.168.66.98:8080/ace/getstream?id=119087e842ea8857124b9405b10bb6cfffd2900c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Bein Sports TR SDp * d767 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=1e3451ef86d34c96aabece2ac7bcae70ba9ed767
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CALCIO EVENTOS NEW ERA 5615
-http://192.168.66.98:8080/ace/getstream?id=b21f7ffc73b3ad224698c08c790c84581fc65615
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp * 1e6d --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=ff03650163b9456d59ed5f262aa3ab2e19831e6d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp * f23c --> ELCANO
