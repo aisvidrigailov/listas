@@ -33,6 +33,8 @@ http://192.168.66.98:8080/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d3
 http://192.168.66.98:8080/ace/getstream?id=691739972eb3468cf16b25e84dafdeaa40dead6d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 9928 --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 7884 --> ELCANO
+http://192.168.66.98:8080/ace/getstream?id=a116ce3ff95c41c60e987e2b1aa247007f707884
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 8e62 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 b151 --> SPORT TV
@@ -89,10 +91,10 @@ http://192.168.66.98:8080/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c3
 http://192.168.66.98:8080/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 9247 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=27d11bbeb3026231d52de16b1fac48da7a099247
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 eaa4 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 cc73 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 eaa4 --> ELCANO
+http://192.168.66.98:8080/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 be55 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 9a69 --> ELCANO
@@ -181,6 +183,8 @@ http://192.168.66.98:8080/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f
 http://192.168.66.98:8080/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 3007 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 0357 --> ELCANO
+http://192.168.66.98:8080/ace/getstream?id=0febfb5cac3384f487d55c559bbfc877db2d0357
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA bf1e --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 9e38 --> SPORT TV
@@ -269,8 +273,6 @@ http://192.168.66.98:8080/ace/getstream?id=f828a32d8ea03a3cabd3ce3ebecb249ec111c
 http://192.168.66.98:8080/ace/getstream?id=6e031aed136bf97d8667fcd5fc49c73256928281
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 93aa --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=2f3cfd199a49819cbd129689a840dc3d23ab93aa
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 776d --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=c6a824a81b36f6c3529826477caf2ad94b45776d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CV4CLjz/deportes.png" tvg-id="M+ Deportes HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES e18a --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=b35b3eb8e22365bf3469efd6d1f3b82618a6e18a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 FHD 298c --> NEW ERA
