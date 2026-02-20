@@ -83,10 +83,10 @@ http://192.168.66.98:8080/ace/getstream?id=7aa9cc819c6fa781dea6b4de3aa5393258b76
 http://192.168.66.98:8080/ace/getstream?id=ac675c82d6dfd4a201532c18b42e48dacb7c32c6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 FHD aebd --> NEW ERA II
 http://192.168.66.98:8080/ace/getstream?id=b5f3cc5cd66c98bae9d65df43ecee6c02d18aebd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 cc73 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 eaa4 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=d719181097d256073844390b3e094fbcb1bceaa4
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 cc73 --> ELCANO
+http://192.168.66.98:8080/ace/getstream?id=895d08633bb22c2573281655cf3ca44de476cc73
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 9a69 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=bcf9dc38f92e90a71b87bd54b3bac91b76d09a69
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2Ndmtbp/f1.png" tvg-id="DAZN F1 HD" group-title="FORMULA 1", DAZN F1 be55 --> ELCANO
@@ -111,8 +111,6 @@ http://192.168.66.98:8080/ace/getstream?id=efc60cfe5e3a349baa02bcc49f6647c21a9c3
 http://192.168.66.98:8080/ace/getstream?id=d63d8a57cf471394bfa9f619bbd68b01ae27a801
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TNT%20Sports%203.png" tvg-id="UK | TNT Sports 3" group-title="FUTBOL INT", BT Sport 3 [UK] 2033 --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=5f966c123759de46dff29c379266b7a403452033
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 6591 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=246d487d1087fbb9dc74c821b0d87ad306f16591
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 c652 --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=7ac2d74ef6df9d15012992d7e0e635a95f58c652
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" tvg-id="PT | DAZN 1" group-title="FUTBOL INT", ELEVEN DAZN 1 d51b --> SPORT TV
@@ -473,8 +471,6 @@ http://192.168.66.98:8080/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d3
 http://192.168.66.98:8080/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 11 HD (DE) 6cc6 --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Match Football 1 RU FHDp ** cf61 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=d1e36a27a4dc76e4de55210345d7e87a3c73cf61
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MIXED TV 2 (solo eventos) a2f6 --> NEW ERA III
 http://192.168.66.98:8080/ace/getstream?id=aa6faf8d1fca70d1e79ca0a6647ac15fcecea2f6
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", MIXED+ (solo eventos) 9cf7 --> NEW ERA III
