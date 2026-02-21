@@ -159,24 +159,20 @@ http://192.168.66.2:8088/ace/getstream?id=1f75d92098580443857caa95a719103cb83781
 http://192.168.66.2:8088/ace/getstream?id=4636ed75106cb00e9c70cc2029edf0a4df7ad73f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION 4be0 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=87bb542f974b6b9e89d0f2e20ed6dc93426f4be0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 8a55 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=3a21e651c0bffe810cfc8537065cb81f5ed68a55
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 99fb --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=a5b9d834ad92bfb80fe01bf89cc20bd68be199fb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/8K0VrQV/hypermotion2.png" tvg-id="LaLiga TV Hypermotion 2" group-title="HYPERMOTION", HYPERMOTION 2 71f8 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=709075831bf5c41ed0a20dfbd640aab6c28971f8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/826y2Yv/Hypermotion3.png" tvg-id="LaLiga TV Hypermotion 3" group-title="HYPERMOTION", HYPERMOTION 3 2f1f --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=1fdb405a6942da0941266f24cdd1c71b11552f1f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 29e8 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=19f28f60c908f987b1a03da078e63320d7bf29e8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 FHD 74ae --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 d889 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 fb18 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 0b05 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 fb18 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=4955867fad3bc92e5b4c36045699fc277800fb18
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-es.png" tvg-id="DAZN LaLiga HD" group-title="LA LIGA", DAZN LA LIGA 1 496a --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/dazn-laliga-2-es.png" tvg-id="DAZN LaLiga 2 HD" group-title="LA LIGA", DAZN LA LIGA 2 FHD fee3 --> NEW ERA
@@ -189,10 +185,10 @@ http://192.168.66.2:8088/ace/getstream?id=b63fcadc2390455d8a328f6c16b8b0a9adec21
 http://192.168.66.2:8088/ace/getstream?id=af458073c3096293a4dea9f369d4f308e7125bd6
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA FHD f33y --> NEW ERA II
 http://192.168.66.2:8088/ace/getstream?id=d4ff041287a43e3114d411d671c4b4e92e21f33y
-#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 3007 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 9f1a --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 3007 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=f863873de9f7b2996dde19a0657dd89835af3007
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA bf1e --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=c9321006921967d6258df6945f1d598a5c0cbf1e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" tvg-id="M+ LaLiga HD" group-title="LA LIGA", M+ LALIGA 9e38 --> SPORT TV
@@ -449,10 +445,10 @@ http://192.168.66.2:8088/ace/getstream?id=e7ddca738693a902ce34fb80788b220676c158
 http://192.168.66.2:8088/ace/getstream?id=1e3451ef86d34c96aabece2ac7bcae70ba9ed767
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN BALONCESTO FHD f2b7 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=15fe785e2dc9d16a7b0a1c49a9ad5a7ab88ef2b7
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp * f23c --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=739792a3225e5eb3056f4faa7b1137c7f161f23c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp * 1e6d --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=ff03650163b9456d59ed5f262aa3ab2e19831e6d
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp * f23c --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=739792a3225e5eb3056f4faa7b1137c7f161f23c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 FHDp ** c3bc --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp ** 42e3 --> ELCANO
