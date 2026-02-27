@@ -433,6 +433,8 @@ http://192.168.66.2:8088/ace/getstream?id=23bee556c002d0726c1f0cac98a1901cff0a92
 http://192.168.66.2:8088/ace/getstream?id=22b702984a0db43fd371c30e2df150b2336551cd
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CALCIO EVENTOS FHD 7955 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=1e045b7e16a5c2c3e5a8c0c0176efa26b63d7955
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN MOTOGP abac
+http://192.168.66.2:8088/ace/getstream?id=5548659c188e1d4d3b6e756e6c56485eb242abac
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp * e1a5 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp * 558c --> ELCANO
