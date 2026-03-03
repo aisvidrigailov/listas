@@ -497,6 +497,8 @@ http://192.168.66.98:8080/ace/getstream?id=6a54f8fb00406c88f68ac3f3aabc7d084f957
 http://192.168.66.98:8080/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 e8a8 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=02622fa2fab63847d88dc14fd9fa5c2fc35de8a8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 0349 --> ELCANO
+http://192.168.66.98:8080/ace/getstream?id=1fddc49dd11ae7bb16f2b94648a9b4f0efc80349
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 FHD c2ed --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL FHD 20d0 --> NEW ERA
