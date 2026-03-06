@@ -33,6 +33,8 @@ http://192.168.66.2:8088/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31
 http://192.168.66.2:8088/ace/getstream?id=4b9f813f30b4345fe555f9e218d828d76cd6ee88
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m54QH9Gt/copa.png" tvg-id="M+ Copa del Rey" group-title="COPA DEL REY", COPA DEL REY f04a --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=63ad519ec9602ea12f7867cf15914b2537bbf04a
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD ad6d --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=691739972eb3468cf16b25e84dafdeaa40dead6d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 7884 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=a116ce3ff95c41c60e987e2b1aa247007f707884
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 363d --> ELCANO
@@ -379,6 +381,10 @@ http://192.168.66.2:8088/ace/getstream?id=e6cd9205e26b3b6680f607030c702e91127252
 http://192.168.66.2:8088/ace/getstream?id=8f982a0d6e3196c12d0034142b65008321150f7c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rx9hnHz/ellas.png" tvg-id="M+ Ellas Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR ELLAS FHD 5cdd --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=9b84af74b2fa3690c519199326fc2f181b025cdd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF FHD 1031 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=8546cff89e4ee8bf3ad31cf6457c3bc2c4341031
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF FHD 5174 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=9be118a64eb603b5eb62be6cf27631d3891b5174
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vp04N3pT/golf.png" tvg-id="M+ Golf HD" group-title="MOVISTAR DEPORTES", MOVISTAR GOLF HD 9afb --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=872608e734992db636eb79426802cd08f4029afb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS FHD a933 --> NEW ERA
