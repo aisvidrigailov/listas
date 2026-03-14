@@ -313,8 +313,6 @@ http://192.168.66.98:8080/ace/getstream?id=56fd40904b16813476c592e877f3b0168cd42
 http://192.168.66.98:8080/ace/getstream?id=c81fe6504175b77b4345a3e8b740aba1e3bf60dc
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Ziggo_Sport_logo.svg/1200px-Ziggo_Sport_logo.svg.png" tvg-id="Ziggo.Sport.6.nl" group-title="FUTBOL INT", ZIGGO SPORT 6 16ed --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=9231f38e71a85ad24b4c11a5e360992e30c916ed
-#EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION FHD 65fb --> NEW ERA
-http://192.168.66.98:8080/ace/getstream?id=c457b5614df986a6e6a24ffd9547964820ca65fb
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION FHD 8e3f --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=58b1c4b8cb65d648505b035a04e879672fcd8e3f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" tvg-id="LaLiga TV Hypermotion HD" group-title="HYPERMOTION", HYPERMOTION FHD 3047 --> NEW ERA VI
