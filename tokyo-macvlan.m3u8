@@ -127,6 +127,8 @@ http://192.168.66.98:8080/ace/getstream?id=e541a954465df29ccce4d829529d983ffb280
 http://192.168.66.98:8080/ace/getstream?id=37f5d22ee578b0cdbc715b8971175bdc91eebb5d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 FHD 1ecc --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=dc4ccb9e72550bc72be9360aa7d77e337ad11ecc
+#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 a193 --> ELCANO
+http://192.168.66.98:8080/ace/getstream?id=f5908690485ae2facecf3074446ba4315f07a193
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD 1420 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=088aea0c1509c5324f5ec6b9b6ff17ef2c231420
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD b8e0 --> SPORT TV
