@@ -637,10 +637,10 @@ http://192.168.66.2:8088/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd3950
 http://192.168.66.2:8088/ace/getstream?id=18b03739d660f0066364343e226e437bf2555d56
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn motogp FHD ( Solo eventos ) 5406 --> NEW ERA III
 http://192.168.66.2:8088/ace/getstream?id=ef341794651e00b7fcc5b5da8570ea37418c5406
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp * 558c --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp * e1a5 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=20d4b3586bb822c3618cf8fb665a304869c5e1a5
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp * 558c --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=e18b79bce27f6ee8eef9a1fc811bb5f80e4b558c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP SDp * 9137 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=ac33342ccf7d40d46174229085461d95000b9137
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP FHDp ** 5cea --> ELCANO
@@ -649,10 +649,10 @@ http://192.168.66.2:8088/ace/getstream?id=c53bdb3be55d12c5188d25085f1bb16911c15c
 http://192.168.66.2:8088/ace/getstream?id=342ca6975a4884d81f9fec5c4085a47060bd2028
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn MotoGP SDp ** e624 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=129c707eb4854171d178a566f36d90b7f2b5e624
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp * 1e6d --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=ff03650163b9456d59ed5f262aa3ab2e19831e6d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp * f23c --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=739792a3225e5eb3056f4faa7b1137c7f161f23c
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp * 1e6d --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=ff03650163b9456d59ed5f262aa3ab2e19831e6d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 FHDp ** c3bc --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp ** 42e3 --> ELCANO
