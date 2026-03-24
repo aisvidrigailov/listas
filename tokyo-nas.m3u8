@@ -33,10 +33,10 @@ http://192.168.66.2:8088/ace/getstream?id=599a2fda91aa55703e2c5a51562d9dbf5d3d31
 http://192.168.66.2:8088/ace/getstream?id=a116ce3ff95c41c60e987e2b1aa247007f707884
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 363d --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=dddff67edfa7061f643ec5ae0be110169850363d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 e784 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 8e62 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 e784 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 33b0 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=0560234787945a17522e284c4c22bb4df29f33b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 b151 --> SPORT TV
@@ -407,10 +407,10 @@ http://192.168.66.2:8088/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da
 http://192.168.66.2:8088/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 e0ee --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 7c56 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=890901fa742b19d8808cf49f19db2d3016437c56
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 72b0 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 7c56 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=890901fa742b19d8808cf49f19db2d3016437c56
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 HD 52b5 --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 253d --> ELCANO
@@ -597,10 +597,10 @@ http://192.168.66.2:8088/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfec
 http://192.168.66.2:8088/ace/getstream?id=8941762ddb41ff774d02431b7973f759d7c74157
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL HD 6220 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=1b348443efc7f0cf4cdf349ac35bbe5d41be6220
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 01 ** bdb2 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=0995b9b77ac6198dd92141369707fb99da09bdb2
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 01 ** 0d75 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 01 ** bdb2 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=0995b9b77ac6198dd92141369707fb99da09bdb2
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 01 SDp * d5d2 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 02 ** 51cd --> ELCANO
