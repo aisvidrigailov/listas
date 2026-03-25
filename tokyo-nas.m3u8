@@ -513,10 +513,10 @@ http://192.168.66.2:8088/ace/getstream?id=44828a7580cd99fcb36245c327889c47f34b45
 http://192.168.66.2:8088/ace/getstream?id=3e7b1911a1f83fd869b6995650a3057778259ca7
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Tennis%20Channel.png" tvg-id="Tennis Channel" group-title="TENNIS", TENNIS CHANNEL ecbf --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 01 ** 0d75 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 01 ** bdb2 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=0995b9b77ac6198dd92141369707fb99da09bdb2
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 01 ** 0d75 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=53962d7fb865aff73b34a3afb2905cd492f60d75
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 01 SDp * d5d2 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=8faa686a99697b99261346e479ead172b1d9d5d2
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", ACB EVENTO 02 ** 51cd --> ELCANO
