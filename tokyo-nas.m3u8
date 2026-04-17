@@ -539,8 +539,6 @@ http://192.168.66.2:8088/ace/getstream?id=b46a524780cf0ac5e533491fe79389d6198acf
 http://192.168.66.2:8088/ace/getstream?id=a9299052e9a16e5e2924e1fdd00b877c374f9e96
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS 4455 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS 91a8
-http://192.168.66.2:8088/ace/getstream?id=8cdb6d53f66d73bc8cba8ef850ab7895bcfa91a8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 2" group-title="SPORT TV", beIN SPORTS HD 2 (TR) 1a05 --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=48bee10b883f17c7186d60f1e8022dca0ba41a05
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 3" group-title="SPORT TV", beIN SPORTS HD 3 (TR) 4d62 --> SPORT TV
@@ -655,6 +653,8 @@ http://192.168.66.2:8088/ace/getstream?id=8941762ddb41ff774d02431b7973f759d7c741
 http://192.168.66.2:8088/ace/getstream?id=1b348443efc7f0cf4cdf349ac35bbe5d41be6220
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Auto Motor und Sport Channel 33de --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=a211931dace9e4d8975a036b60836fac753e33de
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CALCIO EVENTOS FHD 7955 --> NEW ERA
+http://192.168.66.2:8088/ace/getstream?id=1e045b7e16a5c2c3e5a8c0c0176efa26b63d7955
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Canal+ action 9ec9 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=5268a2b348aa53e325f99054a9da7cf1a2179ec9
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", CANAL+ SPORT d5a4 --> NEW LOOP
@@ -687,8 +687,6 @@ http://192.168.66.2:8088/ace/getstream?id=9bb2a7dc6c6a296609df8cc50e742a78194f75
 http://192.168.66.2:8088/ace/getstream?id=f60535a458b3c114283e2f433379144345beddd6
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Golf FHDp ** 66eb --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M. Disney 19cb
-http://192.168.66.2:8088/ace/getstream?id=b6c237fcb55852211fa654864013500c14c619cb
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 1 HD (DE) 5072 --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 2 HD (DE) a9ab --> SPORT TV
