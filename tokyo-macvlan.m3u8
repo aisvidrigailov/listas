@@ -49,10 +49,10 @@ http://192.168.66.98:8080/ace/getstream?id=1e7f5efc1913efaf7042a9b1a49d1f9adc5bc
 http://192.168.66.98:8080/ace/getstream?id=8b081c8afbd9beafc8c5fbf0115eb36eadb07a35
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 FHD a97d --> NEW ERA
 http://192.168.66.98:8080/ace/getstream?id=fb2dd566824658eeab27aae19a01c09430f1a97d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 2e9c --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=13a16a0630ae87bd97d6ba4165963c201c9a2e9c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 9e74 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=d60b8c154828cb990b7bb1570764b215bd979e74
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 2e9c --> ELCANO
+http://192.168.66.98:8080/ace/getstream?id=13a16a0630ae87bd97d6ba4165963c201c9a2e9c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Kz0GXSX/dazn2.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 f516 --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202%20BAR.png" tvg-id="DAZN 2 HD" group-title="DAZN", DAZN 2 BAR FHD b57c --> NEW ERA
@@ -581,10 +581,10 @@ http://192.168.66.98:8080/ace/getstream?id=1e045b7e16a5c2c3e5a8c0c0176efa26b63d7
 http://192.168.66.98:8080/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN MOTOGP FHD 5d56 --> NEW ERA VI
 http://192.168.66.98:8080/ace/getstream?id=18b03739d660f0066364343e226e437bf2555d56
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp * b0c1 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=6bb383508fd46eda68a47b0e21fb5a069d63b0c1
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp * 82ef --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=9e6ef3ee002ce4d62062bcad7eebff4dcb0b82ef
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp * b0c1 --> ELCANO
+http://192.168.66.98:8080/ace/getstream?id=6bb383508fd46eda68a47b0e21fb5a069d63b0c1
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp ** 3fc3 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=0284cadccea27a42a3072ba373b2dd908bf63fc3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp ** 8674 --> ELCANO
