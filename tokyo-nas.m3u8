@@ -37,8 +37,6 @@ http://192.168.66.2:8088/ace/getstream?id=691739972eb3468cf16b25e84dafdeaa40dead
 http://192.168.66.2:8088/ace/getstream?id=50a8a13c474848d1efbd5586efdb5b6cdd173fa9
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 FHD 9928 --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=4141892f5df7d6474bf0279895ce02b7336c9928
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 e784 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=7ba1f321f4d0791b7ebd42f41a07c1cd1479e784
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 8e62 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=9afc89481b721ce6c326c85e47148676077b8e62
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" tvg-id="DAZN 1 HD" group-title="DAZN", DAZN 1 b151 --> SPORT TV
@@ -543,10 +541,10 @@ http://192.168.66.2:8088/ace/getstream?id=ba4597903f099695e7d6bcc5938f91cb079800
 http://192.168.66.2:8088/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 FHD 740c --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=dad5e0e0825cb3e410008f1c4252387b868e740c
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 cc6c --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 1102 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 cc6c --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 FHD c2ed --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 9dc7 --> ELCANO
@@ -579,10 +577,10 @@ http://192.168.66.2:8088/ace/getstream?id=18b03739d660f0066364343e226e437bf2555d
 http://192.168.66.2:8088/ace/getstream?id=9e6ef3ee002ce4d62062bcad7eebff4dcb0b82ef
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp * b0c1 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=6bb383508fd46eda68a47b0e21fb5a069d63b0c1
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp ** 8674 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=54fbbb487c134a36622ed39f60184049190d8674
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp ** 3fc3 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=0284cadccea27a42a3072ba373b2dd908bf63fc3
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp ** 8674 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=54fbbb487c134a36622ed39f60184049190d8674
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 FHDp ** c3bc --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", FUTBOL FEMENINO FHD ef30 --> NEW ERA
