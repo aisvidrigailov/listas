@@ -321,6 +321,8 @@ http://192.168.66.2:8088/ace/getstream?id=b8eb9c9868d487402569bba2d97a8af113d033
 http://192.168.66.2:8088/ace/getstream?id=c9afaf4965ad627ea6983fec9f63e0c1e857028d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BZF0xG9/liga3.png" tvg-id="M+ LaLiga 3 HD" group-title="LA LIGA", M+ LALIGA 3 1846 --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=571ce113b9d600a145766443d7417eccab2e1846
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" tvg-id="M+ LaLiga 4" group-title="LA LIGA", M+ LALIGA 4 e4ac --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=6373a8409d62a747eb13fa451afd80e76494e4ac
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/spain/laliga-tv-4-por-movistar-plus-es.png" tvg-id="M+ LaLiga 4" group-title="LA LIGA", M+ LALIGA 4 a6f1 --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=22178d72e0f255dedd7e56f9474fea879289a6f1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 4K ef29 --> NEW ERA
@@ -337,12 +339,12 @@ http://192.168.66.2:8088/ace/getstream?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c
 http://192.168.66.2:8088/ace/getstream?id=63e4713e8379f2ebf5e6ed9aa00fbf78ebae7439
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 12db --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=43249349740032bee068b5bbff7b078f642812db
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 406e --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 415f --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=2b51710cee513e8939785fa3e7980f32d4e0415f
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 1bc9 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 406e --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" tvg-id="M+ Liga de Campeones HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES f370 --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=e572a5178ff72eed7d1d751a18b4b3419699f370
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" tvg-id="M+ Liga de Campeones 2 HD" group-title="LIGA DE CAMPEONES", LIGA DE CAMPEONES 2 FHD fccb --> NEW ERA
@@ -465,10 +467,10 @@ http://192.168.66.2:8088/ace/getstream?id=6b15368775693c33c49fab02e7900c1976a5da
 http://192.168.66.2:8088/ace/getstream?id=bfa01c11c5c6b7a616a516de4f2c769a89d26b25
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 e0ee --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=3774d8feab016ca766b35ea8488e7514ca30e0ee
-#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 72b0 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 7c56 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=890901fa742b19d8808cf49f19db2d3016437c56
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 72b0 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q95fBKV/deportes2.png" tvg-id="M+ Deportes 2 HD" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 2 HD 52b5 --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=3afe1af18f8ff78e9946856911b00c67477052b5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 FHD 4eee --> NEW ERA
@@ -537,10 +539,10 @@ http://192.168.66.2:8088/ace/getstream?id=f51674b1dd1ab5a668fa97a0f13a490632f0d7
 http://192.168.66.2:8088/ace/getstream?id=5e310dbffed8c941d20ad819cb8ef43c34b07884
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS f53a --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=837883625d40e1eb5566eefaf74811046491f53a
-#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS cf2c --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=b46a524780cf0ac5e533491fe79389d6198acf2c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS 9e96 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=a9299052e9a16e5e2924e1fdd00b877c374f9e96
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS cf2c --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=b46a524780cf0ac5e533491fe79389d6198acf2c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gWMRpFB/vamos.png" tvg-id="M+ Vamos HD" group-title="MOVISTAR DEPORTES", MOVISTAR VAMOS 4455 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=b7b1c1eeb4be09c63fbc2f319c9760851c274455
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/beIN%20SPORTS%202.png" tvg-id="TR | beIN SPORTS 2" group-title="SPORT TV", beIN SPORTS HD 2 (TR) 1a05 --> SPORT TV
@@ -679,10 +681,10 @@ http://192.168.66.2:8088/ace/getstream?id=b3f2b59e44fe70f45dca643107f88b6fcff806
 http://192.168.66.2:8088/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN MOTOGP FHD 5d56 --> NEW ERA VI
 http://192.168.66.2:8088/ace/getstream?id=18b03739d660f0066364343e226e437bf2555d56
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp * b0c1 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=6bb383508fd46eda68a47b0e21fb5a069d63b0c1
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp * 82ef --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=9e6ef3ee002ce4d62062bcad7eebff4dcb0b82ef
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp * b0c1 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=6bb383508fd46eda68a47b0e21fb5a069d63b0c1
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp ** 8674 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=54fbbb487c134a36622ed39f60184049190d8674
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp ** 3fc3 --> ELCANO
