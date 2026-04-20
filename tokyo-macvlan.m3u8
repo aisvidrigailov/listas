@@ -515,10 +515,10 @@ http://192.168.66.98:8080/ace/getstream?id=18b03739d660f0066364343e226e437bf2555
 http://192.168.66.98:8080/ace/getstream?id=9e6ef3ee002ce4d62062bcad7eebff4dcb0b82ef
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp * b0c1 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=6bb383508fd46eda68a47b0e21fb5a069d63b0c1
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp ** 3fc3 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=0284cadccea27a42a3072ba373b2dd908bf63fc3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp ** 8674 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=54fbbb487c134a36622ed39f60184049190d8674
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Serie A FHDp ** 3fc3 --> ELCANO
+http://192.168.66.98:8080/ace/getstream?id=0284cadccea27a42a3072ba373b2dd908bf63fc3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Disney Junior * 86d1 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=a722bc25dfa16d1112fde83cb79501b9756586d1
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Estrenos 0803 --> NEW ERA III
