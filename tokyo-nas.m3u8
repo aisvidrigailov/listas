@@ -367,6 +367,8 @@ http://192.168.66.2:8088/ace/getstream?id=6317bdcbe852dce829e5c647cce4da04a7dcb7
 http://192.168.66.2:8088/ace/getstream?id=007a97a0aff68eb9a76f7fb9d9643b1532ab0803
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD fbe0 --> NEW ERA III
 http://192.168.66.2:8088/ace/getstream?id=fe6dead974cebbb7626458a763ff0e2150dffbe0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales.png" tvg-id="M+ Estrenos HD" group-title="MOVISTAR", MOVISTAR ESTRENOS FHD 93f1 --> NEW ERA III
+http://192.168.66.2:8088/ace/getstream?id=21a520deae139fb12548554c3b9b8fc1ba8993f1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Hits.png" tvg-id="M+ Hits HD" group-title="MOVISTAR", MOVISTAR HITS FHD 38f4 --> NEW ERA III
 http://192.168.66.2:8088/ace/getstream?id=0bb012ac0e815b413831687a4a9b61777b3338f4
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/refs/heads/master/icon/M%2B%20Originales%20HD.png" tvg-id="M+ Originales HD" group-title="MOVISTAR", MOVISTAR ORIGINALES FHD c1ce --> NEW ERA III
