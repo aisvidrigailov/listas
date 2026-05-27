@@ -83,8 +83,6 @@ http://192.168.66.2:8088/ace/getstream?id=547ab7146a86d6119c9332c011669544720124
 http://192.168.66.2:8088/ace/getstream?id=e541a954465df29ccce4d829529d983ffb2803d4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 16b2 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=7152d5f5fdb2184c88c2bb433d8b8f619cdc16b2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 8a3a --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=c6180a86440004748e2abe34d6f31eed8a218a3a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 a193 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=f5908690485ae2facecf3074446ba4315f07a193
 #EXTINF:-1 tvg-logo="https://i.ibb.co/M6h4Qyd/euro2.png" tvg-id="Eurosport 2" group-title="EUROSPORT", EUROSPORT 2 HD 1420 --> NEW LOOP
@@ -461,8 +459,6 @@ http://192.168.66.2:8088/ace/getstream?id=739792a3225e5eb3056f4faa7b1137c7f161f2
 http://192.168.66.2:8088/ace/getstream?id=8f59ce96e4c902ba2f5193af07546d7ff17fc3bc
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp ** 42e3 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Isle of Man TT ** 9c5b --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=6fab41ee3056c0324a43109367a5a23996719c5b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 1 HD (DE) 5072 --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=501141c649a2b78c4965cbf3257224181cc55072
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 2 HD (DE) a9ab --> SPORT TV
