@@ -477,8 +477,6 @@ http://192.168.66.2:8088/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5c
 http://192.168.66.2:8088/ace/getstream?id=aab0be9632ef2f53e99f2e596a8e6a30ed34a29c
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Esport3 SDp ** 42e3 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Golf 2 FHDp ** 17ef --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=882074140fca664e119a43294afa2fb4a64917ef
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ Golf FHDp ** 66eb --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=8121478d3d3e563ad6b98018bc1c0aeb2f6166eb
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 1 HD (DE) 5072 --> SPORT TV
