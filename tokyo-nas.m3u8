@@ -509,10 +509,12 @@ http://192.168.66.2:8088/ace/getstream?id=e1c2c2a74a3688066526e5ff212e13d2101f44
 http://192.168.66.2:8088/ace/getstream?id=8d66979e705a8b532b9243bbc0862c0f1c734ef0
 #EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/696/957/png-clipart-disney-channel-logo.png" tvg-id="Disney Channel" group-title="TDT", Disney Channel 86cc --> NEW ERA III
 http://192.168.66.2:8088/ace/getstream?id=94f87e54d3ad4660c800d2ec46b14ba29e0186cc
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 cc6c --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 1102 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 cc6c --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 4K 30c3 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=da38a21a9509be8c03b0fdb539cb1485843330c3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 FHD c2ed --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=9934906503661142f97a044ae1509a294057c2ed
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 9dc7 --> ELCANO
@@ -637,8 +639,6 @@ http://192.168.66.2:8088/ace/getstream?id=f6d68cfa8694f814983f2a5757f4e0c4964b88
 http://192.168.66.2:8088/ace/getstream?id=2fab80a8445e31cb98169c0907600e1545ea8557
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", SuperTennis HD 47ca --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=7a57543cb6061648dc44c5d4321bd100bc8a47ca
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", TV5Monde Europe * ebb8 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=59f2d0e15869d73f19d7ac441d5aedffb6c4ebb8
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", VIASAT SPORT HD (RU) 7a0b --> SPORT TV
 http://192.168.66.2:8088/ace/getstream?id=dec96c86080c26ddf667ea90adfb513a40007a0b
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Бокс ТВ (RU) 6c3d --> SPORT TV
