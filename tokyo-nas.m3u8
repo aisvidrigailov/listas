@@ -537,6 +537,14 @@ http://192.168.66.2:8088/ace/getstream?id=108b33a44b6ab295f6301d0a2c433a1ef330d5
 http://192.168.66.2:8088/ace/getstream?id=6fbd92735502bdebbf1ea58f4298e49759c0cf07
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Baloncesto SDp ** 9fa5 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=9dd9cd78f0b08097a0ad290606dbbee999709fa5
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN FIFA 1 5418 --> NEW ERA III
+http://192.168.66.2:8088/ace/getstream?id=b2bf586e7ddc31352f120c9274c1441dea3f5418
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN FIFA 2 128a --> NEW ERA III
+http://192.168.66.2:8088/ace/getstream?id=1b6ff4ead1ce4ae797dcb889dbd1fd5f5536128a
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN FIFA 3 fecf --> NEW ERA III
+http://192.168.66.2:8088/ace/getstream?id=72abfc79fb0732a2bd98af649e9822d00343fecf
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN FIFA 4 52b7 --> NEW ERA III
+http://192.168.66.2:8088/ace/getstream?id=469564b10f5f5aba378c3e71bfd91bcd05f052b7
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN MOTOGP 502d --> NEW ERA
 http://192.168.66.2:8088/ace/getstream?id=11cbb5346d28af0b972e646832f4be23dd39502d
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN MOTOGP FHD 5d56 --> NEW ERA VI
