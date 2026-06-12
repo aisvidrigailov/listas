@@ -473,8 +473,6 @@ http://192.168.66.98:8080/ace/getstream?id=94f87e54d3ad4660c800d2ec46b14ba29e018
 http://192.168.66.98:8080/ace/getstream?id=379192c3ee5a15570e2c685179bc53cb7133cc6c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 1102 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=979d3b873871a5a9a56d3eb481ca77b707e01102
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 4K 30c3 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=da38a21a9509be8c03b0fdb539cb1485843330c3
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Vf2GT70/la1.png" tvg-id="La 1 HD" group-title="TDT", LA 1 4K 0e34 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=23c952c5b375715db822f2783803c6e28fab0e34
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YFzzqWw5/la2.png" tvg-id="La 2" group-title="TDT", LA 2 FHD c2ed --> NEW ERA
