@@ -545,6 +545,8 @@ http://192.168.66.98:8080/ace/getstream?id=86495fe134ff065d5217497babe6be33f81d3
 http://192.168.66.98:8080/ace/getstream?id=6058a4c0f2569bd81c687aa7dfb48b8a9569fb29
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Magenta Sport 11 HD (DE) 6cc6 --> SPORT TV
 http://192.168.66.98:8080/ace/getstream?id=c21316ad4b7f44eaf6fcfb2c245c46de8b746cc6
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Movistar Fanzone a6b5 --> NEW ERA III
+http://192.168.66.98:8080/ace/getstream?id=7aca5ddc8a21542b23fe51064504a2e600b6a6b5
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Movistar+ 8279 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=318c12f5f40d7bd9c0ab0c130bf9b96668098279
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Pluto TV Auto Motor Sport (720p) 2595 --> NEW LOOP
