@@ -573,8 +573,6 @@ http://192.168.66.2:8088/ace/getstream?id=739792a3225e5eb3056f4faa7b1137c7f161f2
 http://192.168.66.2:8088/ace/getstream?id=ed6524f8f73c30cf102fde66f2cb520f4b5842e3
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Film+ HD c311 --> NEW LOOP
 http://192.168.66.2:8088/ace/getstream?id=ec7aeef5723f654ee705a192bdcf4eff2fc7c311
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Football World Cup FHDp ** 9998 --> ELCANO
-http://192.168.66.2:8088/ace/getstream?id=868dda4f1fba69b9a1a1c920d765c09bdf3a9998
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Fox Sport FHDp ** 4ce9 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=91826b587ffc2a94dcb104928fca7a33ae6b4ce9
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", M+ CINE ESPAnOL HD Spain cd1b --> NEW LOOP
