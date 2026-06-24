@@ -457,8 +457,6 @@ http://192.168.66.98:8080/ace/getstream?id=068d51b3279fbb8513847881fd50cc42b93ab
 http://192.168.66.98:8080/ace/getstream?id=bcc8472d683a81f08cf244b89b1cbffa87398441
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Baloncesto 2 SDp * 84ac --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=fc912a111ea5a88e02b858b5014d2358b11c84ac
-#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Baloncesto 3 SDp * afea --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=95125f755562c0ffcb44abd94e338bd65472afea
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Baloncesto 3 FHDp ** fb91 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=13d68ecb392251a81489ce75be90388498ecfb91
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", DAZN Baloncesto FHDp ** cf07 --> ELCANO
