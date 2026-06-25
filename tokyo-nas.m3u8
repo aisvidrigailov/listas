@@ -543,6 +543,8 @@ http://192.168.66.2:8088/ace/getstream?id=18b03739d660f0066364343e226e437bf2555d
 http://192.168.66.2:8088/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn Mundial 1 ** 9b36 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
+#EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Dazn Mundial 2 * 5ac7 --> ELCANO
+http://192.168.66.2:8088/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Direct Sport 1 FHDp ** ad49 --> ELCANO
 http://192.168.66.2:8088/ace/getstream?id=1b25b195b1b84d4b96830410657718e9e275ad49
 #EXTINF:-1 tvg-logo="" tvg-id="" group-title="OTROS", Direct Sport 2 FHDp ** d061 --> ELCANO
