@@ -28,8 +28,6 @@ http://192.168.66.98:8080/ace/getstream?id=12404b00d2787995d639ccf71a80da5d39d15
 http://192.168.66.98:8080/ace/getstream?id=414222dc7b69a626f29eb964450dae44b3bc9b36
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 1 **
 http://192.168.66.98:8080/ace/getstream?id=ccfde4bc75d14c79dd09af72434568a0e732d507
-#EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 2 **
-http://192.168.66.98:8080/ace/getstream?id=dac18df259f44258d81aa8f31cb343bb837f5ac7
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 3 *
 http://192.168.66.98:8080/ace/getstream?id=7cf306fc097deca7005b220b1f6206bd654b5ca5
 #EXTINF:-1 tvg-logo="https://betbrothers.es/wp-content/uploads/2026/02/mundial-en-dazn.jpg" group-title="MUNDIAL",Dazn Mundial 3 **
@@ -48,6 +46,8 @@ http://192.168.66.98:8080/ace/getstream?id=d07816dade862339446b6c2a16d131617a3a9
 http://192.168.66.98:8080/ace/getstream?id=f1e6e441e398910e77eb51ff452dba0a733dd27d
 #EXTINF:-1 group-title="MUNDIAL",TyC Sports 1080p *
 http://192.168.66.98:8080/ace/getstream?id=bff90de77d1aef730fbfb5beb43aa6da27ac1e10
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/431-4310509_nba-league-pass-logo-png-transparent-nba-league.png" group-title="NBA",NBA Summer League 1080p *
+http://192.168.66.98:8080/ace/getstream?id=8932069655410593a63408485ac333edddfe8329
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="TENNIS",Tennis Channel 1080p *
 http://192.168.66.98:8080/ace/getstream?id=43c549e5781f5a923b76f8f29cde122b5be164eb
 #EXTINF:-1 tvg-logo="https://www.sportsvideo.org/wp-content/uploads/2016/01/tennis-channel-logo-e1518530950839.jpg" group-title="TENNIS",Tennis Channel 1080p **
