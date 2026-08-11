@@ -67,8 +67,6 @@ http://192.168.66.98:8080/ace/getstream?id=bae98f69fbf867550b4f73b4eb176dae84d7f
 http://192.168.66.98:8080/ace/getstream?id=714e14e6d6e27660fd25a75b57b0ac5580fe705d
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 350d --> NEW ERA III
 http://192.168.66.98:8080/ace/getstream?id=62a5750be4d2218b1064f83afaac4770fd92350d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 ce1a --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=8522af51ae7189b12effabbb448dcb707195ce1a
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 baf5 --> NEW LOOP
 http://192.168.66.98:8080/ace/getstream?id=b7975e28c67ed7c5831b097944761623bd52baf5
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" tvg-id="Eurosport 1 HD" group-title="EUROSPORT", EUROSPORT 1 HD 24e3 --> NEW LOOP
@@ -301,8 +299,6 @@ http://192.168.66.98:8080/ace/getstream?id=3afe1af18f8ff78e9946856911b00c6747705
 http://192.168.66.98:8080/ace/getstream?id=753d4b1f7c4ef43238b5cf23b05572b550a44eee
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 253d --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=e9ce6e62ff97f1da7f10fd449a3c8e8ee90b253d
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 11f8 --> ELCANO
-http://192.168.66.98:8080/ace/getstream?id=d448a45840bfd60678abb2a45dd6044c9c8d11f8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 6a01 --> ELCANO
 http://192.168.66.98:8080/ace/getstream?id=f4d9011721fad5098febbe4d7c078a582e176a01
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jDg5qWD/deportes3.png" tvg-id="M+ Deportes 3" group-title="MOVISTAR DEPORTES", MOVISTAR DEPORTES 3 d810 --> ELCANO
