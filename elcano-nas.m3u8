@@ -20,8 +20,6 @@ http://192.168.66.2:8088/ace/getstream?id=4005aabe21ba9c6d748845db91e4f48d99f586
 http://192.168.66.2:8088/ace/getstream?id=fc912a111ea5a88e02b858b5014d2358b11c84ac
 #EXTINF:-1 tvg-id="DAZN Baloncesto 3" tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2025/12/dazn-baloncesto-movistar-plus.png" group-title="BALONCESTO",DAZN Baloncesto 3 1080p **
 http://192.168.66.2:8088/ace/getstream?id=13d68ecb392251a81489ce75be90388498ecfb91
-#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2026/04/baloncesto-movistar-plus-canales.jpg" group-title="BALONCESTO",M+ Baloncesto 3 1080p **
-http://192.168.66.2:8088/ace/getstream?id=7b0193004089d4d29821a5cdf17f407d0d192314
 #EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://i.ibb.co/FVzKq1y/dazn1.png" group-title="DAZN",DAZN 1 720p **
 http://192.168.66.2:8088/ace/getstream?id=f9c6a0e04cb062098571c6cbaa6fa4b60cc7e0cb
 #EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://i.ibb.co/r2Yd7xD/euro1.png" group-title="EUROSPORT",Eurosport 1 1080p **
