@@ -1,4 +1,4 @@
-This IPFS gateway is switching to a service worker gateway only. See https://gatewaychanges.ipfs.io#/ipns/k51qzi5uqu5dh5qej4b9wlcr5i6vhc7rcfkekhrxqek5c9lk6gdaiik820fecs/hashes.m3u for more information.
+Unable to retrieve content within timeout period: no providers found for the CID (phase: path resolution)
 #EXTINF:-1,ESPN HD [US] --> SPORTTV
 http://192.168.66.98:8080/ace/getstream?id=4b4907de51ec11087d4bed5876f2a0c68264f442
 #EXTINF:-1, ESPN2 [US] --> SPORTTV
