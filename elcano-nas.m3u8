@@ -31,9 +31,9 @@ http://192.168.66.2:8088/ace/getstream?id=c6180a86440004748e2abe34d6f31eed8a218a
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://i.ibb.co/CBdGc9f/hypermotion1.png" group-title="HYPERMOTION",LaLiga TV Hypermotion 720p **
 http://192.168.66.2:8088/ace/getstream?id=2c54a4def58f41fc0d2163450a63f12955b656aa
 #EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
-http://192.168.66.2:8088/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
 http://192.168.66.2:8088/ace/getstream?id=a64e02a6d914f098cbe1b724ff4f7aef83419a4a
+#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/yfV1Q8n/liga.png" group-title="LA LIGA",M+ LaLiga 1080p **
+http://192.168.66.2:8088/ace/getstream?id=d3b11d6c18ad43df5cd42c1dafb4dd12d8f829e8
 #EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="LA LIGA",M+ LaLiga 2 720p **
 http://192.168.66.2:8088/ace/getstream?id=d16a9b50042cb9d6e648cae3b1472f655c4def61
 #EXTINF:-1 tvg-id="M+ LaLiga 2 HD" tvg-logo="https://i.ibb.co/Tc97zSb/liga2.png" group-title="LA LIGA",M+ LaLiga 2 1080p **
@@ -55,9 +55,9 @@ http://192.168.66.2:8088/ace/getstream?id=38f7b2044e549df2039ff26cefa6f9a60c854d
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 1080p *
 http://192.168.66.2:8088/ace/getstream?id=8156912ae14f6174a19c8a4efcf36a06e847f632
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 1080p **
-http://192.168.66.2:8088/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615
-#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 1080p **
 http://192.168.66.2:8088/ace/getstream?id=74ab4e4ec7e2da001f473ca40893b7307b8029c5
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 2 1080p **
+http://192.168.66.2:8088/ace/getstream?id=bb26037a253866d341778181eff5c8637240d615
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 1080p *
 http://192.168.66.2:8088/ace/getstream?id=320bee0fbdf2a168d47810236985a7c40b4f85c9
 #EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="LIGA DE CAMPEONES",M+ Liga de Campeones 3 1080p **
